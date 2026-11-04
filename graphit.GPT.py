@@ -1,7 +1,8 @@
 """Season-aggregated NBA passing networks, not possession/action-sequence analysis.
 
-Run in PyCharm for GSW, or use --team ALL for all teams. nba_api is a
-community-maintained client; data source: NBA.com (https://www.nba.com/stats).
+Run in PyCharm to process all teams, or use --team GSW for one team. Results
+are saved after every team. nba_api is a community-maintained client;
+data source: NBA.com (https://www.nba.com/stats).
 Dependencies: python -m pip install -r requirements.txt
 """
 
@@ -15,12 +16,13 @@ import hashlib
 from importlib.metadata import version
 import json
 import logging
+import os
 from pathlib import Path
 import random
 import re
 import tempfile
 import time
-from typing import Callable
+from typing import Callable, TextIO
 
 import numpy as np
 import pandas as pd
@@ -31,10 +33,22 @@ from nba_api.stats.static import teams as static_teams
 
 
 SEASON = "2025-26"
-TARGET_TEAM = "GSW"  # Any NBA abbreviation, or "ALL".
+TARGET_TEAM = "ALL"  # Any NBA abbreviation, or "ALL".
+DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parent / "nba_passing_output"
 SOURCE = "NBA.com — https://www.nba.com/stats"
 LOG = logging.getLogger("nba_passing")
 CACHE_VERSION = 1
+PASS_COLUMNS = [
+    "team", "season", "season_type", "passer_id", "passer_name", "receiver_id",
+    "receiver_name", "pass_count", "outgoing_profile_available", "source",
+]
+METRIC_COLUMNS = [
+    "team", "season", "season_type", "status", "player_count", "roster_player_count",
+    "available_profile_count", "missing_profile_count", "missing_player_ids",
+    "player_profiles_complete", "recorded_passes_in_available_profiles",
+    "receiver_entropy", "conditional_receiver_entropy", "observed_only_receiver_entropy",
+    "observed_only_conditional_receiver_entropy", "created_at", "source", "latest_attempt_error",
+]
 
 
 class DataUnavailable(RuntimeError):
@@ -77,6 +91,33 @@ class Config:
 
 def utc_now() -> str:
     return datetime.now(timezone.utc).isoformat()
+
+
+def atomic_write(path: Path, writer: Callable[[TextIO], object]) -> None:
+    """Replace a file only after the complete new content has been flushed."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w", encoding="utf-8", newline="", dir=path.parent,
+            suffix=".tmp", delete=False,
+        ) as handle:
+            temporary = Path(handle.name)
+            writer(handle)
+            handle.flush()
+            os.fsync(handle.fileno())
+        temporary.replace(path)
+    finally:
+        if temporary is not None:
+            temporary.unlink(missing_ok=True)
+
+
+def atomic_csv(frame: pd.DataFrame, path: Path, *, index=False) -> None:
+    atomic_write(path, lambda handle: frame.to_csv(handle, index=index, na_rep="NA"))
+
+
+def atomic_json(value: dict, path: Path) -> None:
+    atomic_write(path, lambda handle: json.dump(value, handle, indent=2, allow_nan=False))
 
 
 class DiskCache:
@@ -240,7 +281,7 @@ class NBAClient:
         NBAStatsHTTP.set_session(self.session)
 
     @staticmethod
-    def _check_status(response, *args, **kwargs):
+    def _check_status(response, *_args, **_kwargs):
         try:
             response.raise_for_status()
         except requests.HTTPError:
@@ -366,7 +407,7 @@ def compute_team_entropies(matrix) -> tuple[float | None, float | None]:
 
     def entropy(probabilities):
         positive = probabilities[probabilities > 0]
-        return float(-np.sum(positive * np.log(positive)))
+        return -float(np.sum(positive * np.log(positive)))
 
     receiver = entropy(matrix.sum(axis=0) / total) / np.log(n)
     outgoing = matrix.sum(axis=1)
@@ -426,14 +467,17 @@ def build_team_data(team: dict, roster: pd.DataFrame, profiles: dict[int, pd.Dat
                     failures: dict[int, str], snapshots: list[dict], config: Config) -> TeamData:
     """Retain roster nodes and all known passes, including to missing players."""
     roster_ids = [int(pid) for pid in roster["PLAYER_ID"]]
-    names = {int(row.PLAYER_ID): str(row.PLAYER_NAME) for row in roster.itertuples()}
+    names = {
+        int(player_id): str(player_name)
+        for player_id, player_name in zip(roster["PLAYER_ID"], roster["PLAYER_NAME"])
+    }
     ids = set(roster_ids)
     for frame in profiles.values():
-        for row in frame.itertuples():
-            receiver = int(row.PASS_TEAMMATE_PLAYER_ID)
-            if receiver not in ids and row.PASS > 0:
+        for row in frame.to_dict(orient="records"):
+            receiver = int(row["PASS_TEAMMATE_PLAYER_ID"])
+            if receiver not in ids and row["PASS"] > 0:
                 ids.add(receiver)
-                names[receiver] = str(getattr(row, "PASS_TO", receiver))
+                names[receiver] = str(row.get("PASS_TO", receiver))
     player_ids = sorted(ids)
     index = {pid: i for i, pid in enumerate(player_ids)}
     matrix = np.full((len(player_ids), len(player_ids)), np.nan)
@@ -446,10 +490,10 @@ def build_team_data(team: dict, roster: pd.DataFrame, profiles: dict[int, pd.Dat
             continue
         missing.pop(pid, None)
         matrix[index[pid], :] = 0.0
-        for row in frame.itertuples():
-            receiver = int(row.PASS_TEAMMATE_PLAYER_ID)
-            if row.PASS > 0:
-                matrix[index[pid], index[receiver]] += int(row.PASS)
+        for row in frame.to_dict(orient="records"):
+            receiver = int(row["PASS_TEAMMATE_PLAYER_ID"])
+            if row["PASS"] > 0:
+                matrix[index[pid], index[receiver]] += int(row["PASS"])
     return TeamData(team["abbreviation"], config.season, config.season_type,
                     player_ids, names, matrix, missing, snapshots, roster_ids)
 
@@ -460,8 +504,8 @@ def run_single_team_pipeline(team: dict, client: NBAClient) -> TeamData:
         raise DataUnavailable(f"No season participants with positive games/minutes for {team['abbreviation']}.")
     profiles, failures, snapshots = {}, {}, [roster_snapshot]
     LOG.info("%s: %s season participants", team["abbreviation"], len(roster))
-    for row in roster.itertuples():
-        pid = int(row.PLAYER_ID)
+    for row in roster.to_dict(orient="records"):
+        pid = int(row["PLAYER_ID"])
         if client.stopped_reason:
             failures[pid] = client.stopped_reason
             continue
@@ -474,7 +518,7 @@ def run_single_team_pipeline(team: dict, client: NBAClient) -> TeamData:
                 profiles[pid] = frame
         except DataUnavailable as exc:
             failures[pid] = str(exc)
-            LOG.warning("%s / %s: %s", team["abbreviation"], row.PLAYER_NAME, exc)
+            LOG.warning("%s / %s: %s", team["abbreviation"], row["PLAYER_NAME"], exc)
     return build_team_data(team, roster, profiles, failures, snapshots, client.config)
 
 
@@ -490,14 +534,42 @@ def short_labels(data: TeamData) -> dict[int, str]:
 def build_graph(data: TeamData):
     import networkx as nx
 
-    graph = nx.DiGraph()
-    graph.add_nodes_from(data.player_ids)  # Include isolated/missing-profile players.
+    graph = nx.DiGraph(
+        team=data.team, season=data.season, season_type=data.season_type, source=SOURCE,
+        player_profiles_complete=not data.missing, missing_profile_count=len(data.missing),
+        edge_weight_description="Recorded passes from source player to target player.",
+        coverage_note=(
+            "Only observed positive edges are included. Absent outgoing edges from a player "
+            "with outgoing_profile_available=false are unknown; use passing_matrix.csv for NA values."
+        ),
+    )
+    labels = short_labels(data)
+    for i, pid in enumerate(data.player_ids):
+        incoming = float(np.nansum(data.matrix[:, i]))
+        outgoing = float(np.nansum(data.matrix[i, :]))
+        # IDs are stable node keys; every player remains, including isolates.
+        graph.add_node(
+            pid, player_id=pid, name=data.names[pid], label=labels[pid],
+            outgoing_profile_available=pid not in data.missing,
+            missing_reason=data.missing.get(pid, ""),
+            known_incoming_passes=incoming, known_outgoing_passes=outgoing,
+            known_passing_involvement=incoming + outgoing,
+        )
     for i, passer in enumerate(data.player_ids):
         for j, receiver in enumerate(data.player_ids):
             weight = data.matrix[i, j]
             if np.isfinite(weight) and weight > 0:
                 graph.add_edge(passer, receiver, weight=float(weight))
     return graph
+
+
+def save_graph_data(data: TeamData, output_dir: Path) -> None:
+    """Save a portable directed graph with player attributes and pass weights."""
+    import networkx as nx
+
+    graph = build_graph(data)
+    xml = "\n".join(nx.generate_graphml(graph, encoding="utf-8"))
+    atomic_write(output_dir / "passing_network.graphml", lambda handle: handle.write(xml))
 
 
 def plot_team_network(data: TeamData, output_file: Path, *, show=False):
@@ -518,11 +590,11 @@ def plot_team_network(data: TeamData, output_file: Path, *, show=False):
     widths = [0.5 + 4 * weight / max(weights) for weight in weights]
     nx.draw_networkx_nodes(
         graph, positions, ax=ax, node_size=sizes,
-        node_color=["lightgray" if pid in data.missing else "gold" for pid in graph.nodes],
-        edgecolors="dimgray", alpha=0.9,
+        node_color=["#D3D3D3" if pid in data.missing else "#FFD700" for pid in graph.nodes],
+        edgecolors="#696969", alpha=0.9,
     )
     nx.draw_networkx_edges(
-        graph, positions, ax=ax, width=widths, edge_color="royalblue", alpha=0.6,
+        graph, positions, ax=ax, width=widths, edge_color="#4169E1", alpha=0.6,
         arrows=True, arrowsize=14, node_size=sizes, connectionstyle="arc3,rad=0.1",
     )
     nx.draw_networkx_labels(graph, positions, labels=short_labels(data), ax=ax, font_size=9)
@@ -543,32 +615,104 @@ def plot_team_network(data: TeamData, output_file: Path, *, show=False):
     return graph
 
 
+def passing_rows(data: TeamData) -> pd.DataFrame:
+    """One row per directed player pair; unknown outgoing counts stay NA."""
+    return pd.DataFrame([
+        {
+            "team": data.team, "season": data.season, "season_type": data.season_type,
+            "passer_id": passer, "passer_name": data.names[passer],
+            "receiver_id": receiver, "receiver_name": data.names[receiver],
+            "pass_count": data.matrix[i, j],
+            "outgoing_profile_available": passer not in data.missing, "source": SOURCE,
+        }
+        for i, passer in enumerate(data.player_ids)
+        for j, receiver in enumerate(data.player_ids) if i != j
+    ], columns=PASS_COLUMNS)
+
+
+def team_metric_row(metrics: dict) -> dict:
+    row = {key: metrics.get(key) for key in METRIC_COLUMNS}
+    missing = metrics["missing_outgoing_profiles"]
+    row.update({
+        "status": "complete" if metrics["player_profiles_complete"] else "partial",
+        "available_profile_count": metrics["player_count"] - len(missing),
+        "missing_profile_count": len(missing),
+        "missing_player_ids": ";".join(str(pid) for pid in sorted(missing, key=int)),
+        "latest_attempt_error": "",
+    })
+    return row
+
+
 def save_team_data(data: TeamData, output_dir: Path) -> dict:
     output_dir.mkdir(parents=True, exist_ok=True)
     metrics = data.metrics()
-    pd.DataFrame(data.matrix, index=data.player_ids, columns=data.player_ids).rename_axis(
+    matrix_frame = pd.DataFrame(data.matrix, index=data.player_ids, columns=data.player_ids).rename_axis(
         "passer_id", axis=0
-    ).rename_axis("receiver_id", axis=1).to_csv(output_dir / "passing_matrix.csv", na_rep="NA")
-    pd.DataFrame([
+    ).rename_axis("receiver_id", axis=1)
+    atomic_csv(matrix_frame, output_dir / "passing_matrix.csv", index=True)
+    atomic_csv(pd.DataFrame([
         {"player_id": pid, "name": data.names[pid], "outgoing_profile_available": pid not in data.missing,
          "missing_reason": data.missing.get(pid, "")}
         for pid in data.player_ids
-    ]).to_csv(output_dir / "players.csv", index=False)
-    (output_dir / "metrics.json").write_text(
-        json.dumps(metrics, indent=2, allow_nan=False), encoding="utf-8"
-    )
+    ]), output_dir / "players.csv")
+    atomic_csv(passing_rows(data), output_dir / "passes.csv")
+    atomic_csv(pd.DataFrame([team_metric_row(metrics)], columns=METRIC_COLUMNS), output_dir / "metrics.csv")
+    save_graph_data(data, output_dir)
+    # Written last: the progress checkpoint discovers saved teams through this file.
+    atomic_json(metrics, output_dir / "metrics.json")
     return metrics
+
+
+def save_run_progress(output: Path, teams: list[dict], summaries: list[dict],
+                      errors: dict[str, str], plot_errors: dict[str, str],
+                      stopped_reason: str | None, started_at: str, config: Config) -> None:
+    """Checkpoint all saved team CSVs before starting the next team.
+
+    Rebuild from team folders rather than blindly appending: repeated runs replace
+    a team's rows without duplicates and retain teams saved by earlier runs.
+    """
+    rows, pass_frames = {}, []
+    for path in sorted(output.glob("*/metrics.json")):
+        metrics = json.loads(path.read_text(encoding="utf-8"))
+        if metrics["season"] != config.season or metrics["season_type"] != config.season_type:
+            continue
+        rows[metrics["team"]] = team_metric_row(metrics)
+        passes_path = path.with_name("passes.csv")
+        if passes_path.exists():
+            pass_frames.append(pd.read_csv(passes_path))
+    for team, error in errors.items():
+        if team in rows:
+            rows[team].update(status="previous_results", latest_attempt_error=error)
+        else:
+            rows[team] = {
+                "team": team, "season": config.season, "season_type": config.season_type,
+                "status": "failed", "created_at": utc_now(), "source": SOURCE,
+                "latest_attempt_error": error,
+            }
+    atomic_csv(pd.DataFrame([rows[team] for team in sorted(rows)], columns=METRIC_COLUMNS),
+               output / "team_metrics.csv")
+    combined_passes = pd.concat(pass_frames, ignore_index=True) if pass_frames else pd.DataFrame(columns=PASS_COLUMNS)
+    atomic_csv(combined_passes, output / "all_team_passes.csv")
+    processed = {item["team"] for item in summaries} | errors.keys()
+    atomic_json({
+        "source": SOURCE, "created_at": started_at, "updated_at": utc_now(),
+        "requested_teams": [team["abbreviation"] for team in teams],
+        "teams": summaries, "errors": errors, "plot_errors": plot_errors,
+        "not_processed": [team["abbreviation"] for team in teams if team["abbreviation"] not in processed],
+        "downloads_stopped": stopped_reason,
+        "csv_files": ["team_metrics.csv", "all_team_passes.csv"],
+    }, output / "run_summary.json")
 
 
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--team", default=TARGET_TEAM, help="Team abbreviation or ALL (default: GSW).")
+    parser.add_argument("--team", default=TARGET_TEAM, help="Team abbreviation or ALL (default: %(default)s).")
     parser.add_argument("--season", default=SEASON)
     parser.add_argument("--season-type", default="Regular Season", choices=["Regular Season", "Playoffs"])
     parser.add_argument("--cache-dir", type=Path, default=Path.home() / "nba_passing_cache")
     parser.add_argument("--refresh", action="store_true", help="Download fresh snapshots instead of using cache.")
     parser.add_argument("--max-cache-age-hours", type=float, default=None)
-    parser.add_argument("--output-dir", type=Path, default=Path("nba_passing_output"))
+    parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
     parser.add_argument("--no-show", action="store_true", help="Save plots without opening a window.")
     args = parser.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
@@ -585,17 +729,18 @@ def main(argv=None) -> int:
         parser.error(f"Unknown NBA team: {args.team}")
     output = args.output_dir.expanduser() / args.season / args.season_type.replace(" ", "_")
     LOG.info("Data source: %s. Analysis uses aggregate tracked passes.", SOURCE)
-    summaries, errors = [], {}
+    summaries, errors, plot_errors = [], {}, {}
+    started_at = utc_now()
     client = NBAClient(config)
     try:
+        save_run_progress(output, teams, summaries, errors, plot_errors, client.stopped_reason, started_at, config)
         for team in teams:
+            data = None
             try:
                 data = run_single_team_pipeline(team, client)
                 directory = output / data.team
                 metrics = save_team_data(data, directory)
                 summaries.append(metrics)
-                plot_team_network(data, directory / "passing_network.png",
-                                  show=not args.no_show and len(teams) == 1)
                 LOG.info("%s: %.0f recorded passes; %s/%s outgoing profiles available.",
                          data.team, metrics["recorded_passes_in_available_profiles"],
                          len(data.player_ids) - len(data.missing), len(data.player_ids))
@@ -606,21 +751,25 @@ def main(argv=None) -> int:
             except DataUnavailable as exc:
                 errors[team["abbreviation"]] = str(exc)
                 LOG.error("%s: %s", team["abbreviation"], exc)
+            # Save progress before plotting or sending any request for the next team.
+            save_run_progress(output, teams, summaries, errors, plot_errors, client.stopped_reason, started_at, config)
+            LOG.info("CSV checkpoint saved after %s: %s", team["abbreviation"], output.resolve())
+            if data is not None:
+                try:
+                    plot_team_network(data, output / data.team / "passing_network.png",
+                                      show=not args.no_show and len(teams) == 1)
+                except (OSError, ValueError, RuntimeError) as exc:
+                    plot_errors[data.team] = str(exc)
+                    LOG.warning("%s plot failed; CSV results are saved: %s", data.team, exc)
             if client.stopped_reason:
                 LOG.error(client.stopped_reason)
                 break
     finally:
         client.close()
-    processed = {item["team"] for item in summaries} | errors.keys()
-    output.mkdir(parents=True, exist_ok=True)
-    manifest = {
-        "source": SOURCE, "created_at": utc_now(), "teams": summaries, "errors": errors,
-        "not_processed": [team["abbreviation"] for team in teams if team["abbreviation"] not in processed],
-        "downloads_stopped": client.stopped_reason,
-    }
-    (output / "run_summary.json").write_text(json.dumps(manifest, indent=2, allow_nan=False), encoding="utf-8")
+        save_run_progress(output, teams, summaries, errors, plot_errors, client.stopped_reason, started_at, config)
     LOG.info("Results saved in %s", output.resolve())
-    return int(bool(errors or client.stopped_reason or any(not item["player_profiles_complete"] for item in summaries)))
+    return int(bool(errors or plot_errors or client.stopped_reason
+                    or any(not item["player_profiles_complete"] for item in summaries)))
 
 
 if __name__ == "__main__":
