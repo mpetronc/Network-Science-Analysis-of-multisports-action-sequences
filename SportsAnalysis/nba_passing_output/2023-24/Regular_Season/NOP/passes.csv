@@ -1,0 +1,133 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,203468,CJ McCollum,757.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1626204,Larry Nance Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1627742,Brandon Ingram,627.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1629627,Zion Williamson,390.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1630230,Naji Marshall,141.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1630346,Matt Ryan,27.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1630529,Herbert Jones,296.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1630530,Trey Murphy III,129.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1630631,Jose Alvarado,178.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1630700,Dyson Daniels,277.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,202685,Jonas Valanciunas,1641722,Jordan Hawkins,99.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,202685,Jonas Valanciunas,572.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1626204,Larry Nance Jr.,227.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1627742,Brandon Ingram,535.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1629627,Zion Williamson,670.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1630230,Naji Marshall,110.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1630346,Matt Ryan,35.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1630529,Herbert Jones,346.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1630530,Trey Murphy III,238.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1630631,Jose Alvarado,64.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1630700,Dyson Daniels,127.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,203468,CJ McCollum,1641722,Jordan Hawkins,62.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,202685,Jonas Valanciunas,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,203468,CJ McCollum,290.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,1627742,Brandon Ingram,245.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,1629627,Zion Williamson,271.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,1630230,Naji Marshall,85.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,1630346,Matt Ryan,17.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,1630529,Herbert Jones,99.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,1630530,Trey Murphy III,130.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,1630631,Jose Alvarado,114.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,1630700,Dyson Daniels,117.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1626204,Larry Nance Jr.,1641722,Jordan Hawkins,83.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,202685,Jonas Valanciunas,391.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,203468,CJ McCollum,439.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,1626204,Larry Nance Jr.,131.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,1629627,Zion Williamson,340.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,1630230,Naji Marshall,180.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,1630346,Matt Ryan,27.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,1630529,Herbert Jones,391.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,1630530,Trey Murphy III,221.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,1630631,Jose Alvarado,150.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,1630700,Dyson Daniels,180.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1627742,Brandon Ingram,1641722,Jordan Hawkins,134.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,202685,Jonas Valanciunas,206.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,203468,CJ McCollum,620.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,1626204,Larry Nance Jr.,135.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,1627742,Brandon Ingram,315.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,1630230,Naji Marshall,149.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,1630346,Matt Ryan,39.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,1630529,Herbert Jones,331.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,1630530,Trey Murphy III,310.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,1630631,Jose Alvarado,213.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,1630700,Dyson Daniels,224.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1629627,Zion Williamson,1641722,Jordan Hawkins,155.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,202685,Jonas Valanciunas,141.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,203468,CJ McCollum,195.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,1626204,Larry Nance Jr.,87.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,1627742,Brandon Ingram,225.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,1629627,Zion Williamson,228.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,1630346,Matt Ryan,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,1630529,Herbert Jones,89.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,1630530,Trey Murphy III,104.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,1630631,Jose Alvarado,242.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,1630700,Dyson Daniels,96.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630230,Naji Marshall,1641722,Jordan Hawkins,98.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,202685,Jonas Valanciunas,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,203468,CJ McCollum,39.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,1626204,Larry Nance Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,1627742,Brandon Ingram,29.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,1629627,Zion Williamson,26.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,1630230,Naji Marshall,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,1630529,Herbert Jones,26.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,1630530,Trey Murphy III,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,1630631,Jose Alvarado,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,1630700,Dyson Daniels,45.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630346,Matt Ryan,1641722,Jordan Hawkins,32.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,202685,Jonas Valanciunas,322.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,203468,CJ McCollum,516.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,1626204,Larry Nance Jr.,103.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,1627742,Brandon Ingram,445.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,1629627,Zion Williamson,371.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,1630230,Naji Marshall,95.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,1630346,Matt Ryan,26.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,1630530,Trey Murphy III,180.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,1630631,Jose Alvarado,113.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,1630700,Dyson Daniels,146.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630529,Herbert Jones,1641722,Jordan Hawkins,81.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,202685,Jonas Valanciunas,139.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,203468,CJ McCollum,296.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,1626204,Larry Nance Jr.,99.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,1627742,Brandon Ingram,206.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,1629627,Zion Williamson,269.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,1630230,Naji Marshall,119.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,1630346,Matt Ryan,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,1630529,Herbert Jones,160.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,1630631,Jose Alvarado,123.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,1630700,Dyson Daniels,91.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630530,Trey Murphy III,1641722,Jordan Hawkins,28.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,202685,Jonas Valanciunas,141.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,203468,CJ McCollum,109.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,1626204,Larry Nance Jr.,128.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,1627742,Brandon Ingram,224.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,1629627,Zion Williamson,232.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,1630230,Naji Marshall,179.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,1630346,Matt Ryan,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,1630529,Herbert Jones,72.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,1630530,Trey Murphy III,99.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,1630700,Dyson Daniels,90.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630631,Jose Alvarado,1641722,Jordan Hawkins,70.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,202685,Jonas Valanciunas,260.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,203468,CJ McCollum,259.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,1626204,Larry Nance Jr.,144.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,1627742,Brandon Ingram,278.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,1629627,Zion Williamson,261.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,1630230,Naji Marshall,98.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,1630346,Matt Ryan,21.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,1630529,Herbert Jones,158.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,1630530,Trey Murphy III,97.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,1630631,Jose Alvarado,121.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1630700,Dyson Daniels,1641722,Jordan Hawkins,133.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,202685,Jonas Valanciunas,80.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,203468,CJ McCollum,87.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,1626204,Larry Nance Jr.,54.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,1627742,Brandon Ingram,107.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,1629627,Zion Williamson,94.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,1630230,Naji Marshall,111.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,1630346,Matt Ryan,27.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,1630529,Herbert Jones,71.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,1630530,Trey Murphy III,30.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,1630631,Jose Alvarado,72.0,True,NBA.com — https://www.nba.com/stats
+NOP,2023-24,Regular Season,1641722,Jordan Hawkins,1630700,Dyson Daniels,135.0,True,NBA.com — https://www.nba.com/stats

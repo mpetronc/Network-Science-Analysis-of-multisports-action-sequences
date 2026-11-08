@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DEN,2020-21,Regular Season,200794,Paul Millsap,201580,JaVale McGee,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,203085,Austin Rivers,21.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,203115,Will Barton,151.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,203210,JaMychal Green,42.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,203932,Aaron Gordon,12.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,203999,Nikola Jokić,271.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,1627750,Jamal Murray,215.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,1627885,Shaquille Harrison,31.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,1628408,PJ Dozier,79.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,1628420,Monte Morris,81.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,1629008,Michael Porter Jr.,65.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,200794,Paul Millsap,1630267,Facundo Campazzo,118.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,200794,Paul Millsap,3.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,203085,Austin Rivers,23.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,203115,Will Barton,10.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,203210,JaMychal Green,8.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,203932,Aaron Gordon,5.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,203999,Nikola Jokić,6.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,1627750,Jamal Murray,4.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,1627885,Shaquille Harrison,28.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,1628408,PJ Dozier,11.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,1628420,Monte Morris,26.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,1629008,Michael Porter Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,201580,JaVale McGee,1630267,Facundo Campazzo,55.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,200794,Paul Millsap,27.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,201580,JaVale McGee,22.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,203115,Will Barton,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,203210,JaMychal Green,34.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,203932,Aaron Gordon,16.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,203999,Nikola Jokić,119.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,1627750,Jamal Murray,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,1627885,Shaquille Harrison,24.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,1628408,PJ Dozier,24.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,1628420,Monte Morris,1.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,1629008,Michael Porter Jr.,48.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203085,Austin Rivers,1630267,Facundo Campazzo,64.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,200794,Paul Millsap,126.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,201580,JaVale McGee,6.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,203085,Austin Rivers,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,203210,JaMychal Green,62.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,203932,Aaron Gordon,44.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,203999,Nikola Jokić,786.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,1627750,Jamal Murray,267.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,1627885,Shaquille Harrison,1.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,1628408,PJ Dozier,61.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,1628420,Monte Morris,133.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,1629008,Michael Porter Jr.,89.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203115,Will Barton,1630267,Facundo Campazzo,124.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,200794,Paul Millsap,29.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,201580,JaVale McGee,6.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,203085,Austin Rivers,50.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,203115,Will Barton,92.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,203932,Aaron Gordon,4.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,203999,Nikola Jokić,102.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,1627750,Jamal Murray,136.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,1627885,Shaquille Harrison,38.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,1628408,PJ Dozier,93.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,1628420,Monte Morris,155.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,1629008,Michael Porter Jr.,60.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203210,JaMychal Green,1630267,Facundo Campazzo,211.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,200794,Paul Millsap,5.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,201580,JaVale McGee,3.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,203085,Austin Rivers,22.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,203115,Will Barton,48.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,203210,JaMychal Green,2.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,203999,Nikola Jokić,203.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,1627750,Jamal Murray,12.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,1627885,Shaquille Harrison,8.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,1628408,PJ Dozier,21.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,1628420,Monte Morris,16.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,1629008,Michael Porter Jr.,89.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203932,Aaron Gordon,1630267,Facundo Campazzo,99.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,200794,Paul Millsap,242.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,201580,JaVale McGee,7.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,203085,Austin Rivers,136.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,203115,Will Barton,734.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,203210,JaMychal Green,136.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,203932,Aaron Gordon,273.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,1627750,Jamal Murray,1330.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,1627885,Shaquille Harrison,64.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,1628408,PJ Dozier,289.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,1628420,Monte Morris,591.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,1629008,Michael Porter Jr.,603.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,203999,Nikola Jokić,1630267,Facundo Campazzo,664.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,200794,Paul Millsap,158.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,201580,JaVale McGee,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,203085,Austin Rivers,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,203115,Will Barton,363.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,203210,JaMychal Green,104.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,203932,Aaron Gordon,35.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,203999,Nikola Jokić,895.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,1627885,Shaquille Harrison,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,1628408,PJ Dozier,102.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,1628420,Monte Morris,164.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,1629008,Michael Porter Jr.,155.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627750,Jamal Murray,1630267,Facundo Campazzo,148.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,200794,Paul Millsap,31.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,201580,JaVale McGee,20.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,203085,Austin Rivers,32.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,203115,Will Barton,2.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,203210,JaMychal Green,28.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,203932,Aaron Gordon,9.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,203999,Nikola Jokić,62.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,1627750,Jamal Murray,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,1628408,PJ Dozier,42.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,1628420,Monte Morris,17.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,1629008,Michael Porter Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1627885,Shaquille Harrison,1630267,Facundo Campazzo,26.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,200794,Paul Millsap,76.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,201580,JaVale McGee,9.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,203085,Austin Rivers,16.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,203115,Will Barton,72.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,203210,JaMychal Green,80.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,203932,Aaron Gordon,25.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,203999,Nikola Jokić,277.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,1627750,Jamal Murray,107.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,1627885,Shaquille Harrison,18.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,1628420,Monte Morris,99.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,1629008,Michael Porter Jr.,57.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628408,PJ Dozier,1630267,Facundo Campazzo,180.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,200794,Paul Millsap,82.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,201580,JaVale McGee,19.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,203085,Austin Rivers,3.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,203115,Will Barton,140.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,203210,JaMychal Green,152.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,203932,Aaron Gordon,17.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,203999,Nikola Jokić,629.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,1627750,Jamal Murray,131.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,1627885,Shaquille Harrison,8.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,1628408,PJ Dozier,67.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,1629008,Michael Porter Jr.,101.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1628420,Monte Morris,1630267,Facundo Campazzo,128.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,200794,Paul Millsap,57.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,201580,JaVale McGee,6.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,203085,Austin Rivers,29.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,203115,Will Barton,152.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,203210,JaMychal Green,29.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,203932,Aaron Gordon,47.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,203999,Nikola Jokić,509.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,1627750,Jamal Murray,189.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,1627885,Shaquille Harrison,16.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,1628408,PJ Dozier,60.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,1628420,Monte Morris,172.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1629008,Michael Porter Jr.,1630267,Facundo Campazzo,221.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,200794,Paul Millsap,126.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,201580,JaVale McGee,33.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,203085,Austin Rivers,67.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,203115,Will Barton,157.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,203210,JaMychal Green,231.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,203932,Aaron Gordon,105.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,203999,Nikola Jokić,679.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,1627750,Jamal Murray,173.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,1627885,Shaquille Harrison,11.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,1628408,PJ Dozier,141.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,1628420,Monte Morris,151.0,True,NBA.com — https://www.nba.com/stats
+DEN,2020-21,Regular Season,1630267,Facundo Campazzo,1629008,Michael Porter Jr.,190.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,343 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+SAC,2025-26,Regular Season,201566,Russell Westbrook,201942,DeMar DeRozan,745.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,203897,Zach LaVine,408.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,203926,Doug McDermott,17.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1627734,Domantas Sabonis,146.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1628370,Malik Monk,213.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1629234,Drew Eubanks,90.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1629610,DaQuan Jeffries,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1629631,De'Andre Hunter,13.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1630165,Killian Hayes,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1630173,Precious Achiuwa,232.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1631099,Keegan Murray,199.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1631116,Patrick Baldwin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1631342,Daeqwon Plowden,45.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1641815,Isaiah Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1642269,Devin Carter,22.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1642363,Nique Clifford,177.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1642875,Maxime Raynaud,468.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201566,Russell Westbrook,1642928,Dylan Cardwell,67.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,201566,Russell Westbrook,411.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,203897,Zach LaVine,189.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,203926,Doug McDermott,20.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1627734,Domantas Sabonis,72.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1628370,Malik Monk,167.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1629234,Drew Eubanks,29.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1629610,DaQuan Jeffries,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1629631,De'Andre Hunter,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1630165,Killian Hayes,31.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1630173,Precious Achiuwa,143.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1631099,Keegan Murray,94.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1631116,Patrick Baldwin Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1631342,Daeqwon Plowden,59.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1641815,Isaiah Stevens,12.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1642269,Devin Carter,81.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1642363,Nique Clifford,184.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1642875,Maxime Raynaud,153.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,201942,DeMar DeRozan,1642928,Dylan Cardwell,37.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,201566,Russell Westbrook,357.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,201942,DeMar DeRozan,179.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,203926,Doug McDermott,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1627734,Domantas Sabonis,98.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1628370,Malik Monk,83.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1629234,Drew Eubanks,33.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1629610,DaQuan Jeffries,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1629631,De'Andre Hunter,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1630173,Precious Achiuwa,37.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1631099,Keegan Murray,30.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1631116,Patrick Baldwin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1631342,Daeqwon Plowden,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1641815,Isaiah Stevens,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1642269,Devin Carter,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1642363,Nique Clifford,28.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1642875,Maxime Raynaud,56.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203897,Zach LaVine,1642928,Dylan Cardwell,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,201566,Russell Westbrook,19.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,201942,DeMar DeRozan,32.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,203897,Zach LaVine,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1627734,Domantas Sabonis,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1628370,Malik Monk,28.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1629234,Drew Eubanks,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1629610,DaQuan Jeffries,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1630165,Killian Hayes,69.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1630173,Precious Achiuwa,32.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1631099,Keegan Murray,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1631116,Patrick Baldwin Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1631342,Daeqwon Plowden,39.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1641815,Isaiah Stevens,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1642269,Devin Carter,39.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1642363,Nique Clifford,54.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1642875,Maxime Raynaud,25.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,203926,Doug McDermott,1642928,Dylan Cardwell,33.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,201566,Russell Westbrook,177.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,201942,DeMar DeRozan,126.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,203897,Zach LaVine,147.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,203926,Doug McDermott,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1628370,Malik Monk,88.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1629610,DaQuan Jeffries,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1629631,De'Andre Hunter,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1630173,Precious Achiuwa,22.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1631099,Keegan Murray,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1631116,Patrick Baldwin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1631342,Daeqwon Plowden,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1641815,Isaiah Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1642269,Devin Carter,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1642363,Nique Clifford,39.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1642875,Maxime Raynaud,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1627734,Domantas Sabonis,1642928,Dylan Cardwell,8.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,201566,Russell Westbrook,201.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,201942,DeMar DeRozan,225.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,203897,Zach LaVine,94.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,203926,Doug McDermott,31.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1627734,Domantas Sabonis,55.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1629234,Drew Eubanks,45.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1629610,DaQuan Jeffries,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1629631,De'Andre Hunter,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1630165,Killian Hayes,55.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1630173,Precious Achiuwa,105.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1631099,Keegan Murray,33.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1631116,Patrick Baldwin Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1631342,Daeqwon Plowden,44.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1641815,Isaiah Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1642269,Devin Carter,66.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1642363,Nique Clifford,134.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1642875,Maxime Raynaud,130.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1628370,Malik Monk,1642928,Dylan Cardwell,48.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,201566,Russell Westbrook,84.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,201942,DeMar DeRozan,53.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,203897,Zach LaVine,28.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,203926,Doug McDermott,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1627734,Domantas Sabonis,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1628370,Malik Monk,82.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1629610,DaQuan Jeffries,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1630165,Killian Hayes,16.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1630173,Precious Achiuwa,8.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1631099,Keegan Murray,14.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1631116,Patrick Baldwin Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1631342,Daeqwon Plowden,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1641815,Isaiah Stevens,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1642269,Devin Carter,19.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1642363,Nique Clifford,34.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1642875,Maxime Raynaud,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629234,Drew Eubanks,1642928,Dylan Cardwell,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,201566,Russell Westbrook,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,201942,DeMar DeRozan,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,203897,Zach LaVine,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,203926,Doug McDermott,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1627734,Domantas Sabonis,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1628370,Malik Monk,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1630165,Killian Hayes,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1630173,Precious Achiuwa,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1631099,Keegan Murray,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1631116,Patrick Baldwin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1631342,Daeqwon Plowden,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1641815,Isaiah Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1642269,Devin Carter,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1642363,Nique Clifford,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1642875,Maxime Raynaud,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629610,DaQuan Jeffries,1642928,Dylan Cardwell,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,201566,Russell Westbrook,14.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,201942,DeMar DeRozan,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,203897,Zach LaVine,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,203926,Doug McDermott,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1627734,Domantas Sabonis,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1628370,Malik Monk,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1629610,DaQuan Jeffries,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1630173,Precious Achiuwa,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1631099,Keegan Murray,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1631116,Patrick Baldwin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1631342,Daeqwon Plowden,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1641815,Isaiah Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1642269,Devin Carter,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1642363,Nique Clifford,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1642875,Maxime Raynaud,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1629631,De'Andre Hunter,1642928,Dylan Cardwell,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,201566,Russell Westbrook,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,201942,DeMar DeRozan,57.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,203897,Zach LaVine,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,203926,Doug McDermott,86.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1627734,Domantas Sabonis,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1628370,Malik Monk,88.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1629234,Drew Eubanks,11.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1629610,DaQuan Jeffries,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1630173,Precious Achiuwa,77.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1631099,Keegan Murray,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1631116,Patrick Baldwin Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1631342,Daeqwon Plowden,76.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1641815,Isaiah Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1642269,Devin Carter,26.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1642363,Nique Clifford,108.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1642875,Maxime Raynaud,66.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630165,Killian Hayes,1642928,Dylan Cardwell,46.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,201566,Russell Westbrook,351.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,201942,DeMar DeRozan,185.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,203897,Zach LaVine,52.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,203926,Doug McDermott,32.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1627734,Domantas Sabonis,12.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1628370,Malik Monk,141.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1629234,Drew Eubanks,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1629610,DaQuan Jeffries,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1630165,Killian Hayes,89.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1631099,Keegan Murray,33.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1631116,Patrick Baldwin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1631342,Daeqwon Plowden,53.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1641815,Isaiah Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1642269,Devin Carter,109.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1642363,Nique Clifford,141.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1642875,Maxime Raynaud,56.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1630173,Precious Achiuwa,1642928,Dylan Cardwell,12.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,201566,Russell Westbrook,252.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,201942,DeMar DeRozan,76.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,203897,Zach LaVine,54.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,203926,Doug McDermott,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1627734,Domantas Sabonis,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1628370,Malik Monk,45.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1629234,Drew Eubanks,15.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1629610,DaQuan Jeffries,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1630173,Precious Achiuwa,28.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1631116,Patrick Baldwin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1631342,Daeqwon Plowden,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1641815,Isaiah Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1642269,Devin Carter,9.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1642363,Nique Clifford,28.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1642875,Maxime Raynaud,48.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631099,Keegan Murray,1642928,Dylan Cardwell,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,201566,Russell Westbrook,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,201942,DeMar DeRozan,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,203897,Zach LaVine,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,203926,Doug McDermott,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1627734,Domantas Sabonis,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1628370,Malik Monk,15.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1629234,Drew Eubanks,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1629610,DaQuan Jeffries,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1630165,Killian Hayes,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1630173,Precious Achiuwa,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1631099,Keegan Murray,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1631342,Daeqwon Plowden,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1641815,Isaiah Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1642269,Devin Carter,19.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1642363,Nique Clifford,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1642875,Maxime Raynaud,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631116,Patrick Baldwin Jr.,1642928,Dylan Cardwell,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,201566,Russell Westbrook,63.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,201942,DeMar DeRozan,55.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,203897,Zach LaVine,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,203926,Doug McDermott,31.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1627734,Domantas Sabonis,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1628370,Malik Monk,58.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1629234,Drew Eubanks,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1629610,DaQuan Jeffries,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1630165,Killian Hayes,108.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1630173,Precious Achiuwa,38.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1631099,Keegan Murray,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1631116,Patrick Baldwin Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1641815,Isaiah Stevens,22.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1642269,Devin Carter,106.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1642363,Nique Clifford,125.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1642875,Maxime Raynaud,49.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1631342,Daeqwon Plowden,1642928,Dylan Cardwell,20.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,201566,Russell Westbrook,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,201942,DeMar DeRozan,17.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,203897,Zach LaVine,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,203926,Doug McDermott,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1627734,Domantas Sabonis,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1628370,Malik Monk,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1629234,Drew Eubanks,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1629610,DaQuan Jeffries,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1630173,Precious Achiuwa,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1631099,Keegan Murray,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1631116,Patrick Baldwin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1631342,Daeqwon Plowden,15.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1642269,Devin Carter,14.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1642363,Nique Clifford,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1642875,Maxime Raynaud,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1641815,Isaiah Stevens,1642928,Dylan Cardwell,9.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,201566,Russell Westbrook,21.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,201942,DeMar DeRozan,110.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,203897,Zach LaVine,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,203926,Doug McDermott,39.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1627734,Domantas Sabonis,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1628370,Malik Monk,97.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1629234,Drew Eubanks,15.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1629610,DaQuan Jeffries,8.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1629631,De'Andre Hunter,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1630165,Killian Hayes,15.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1630173,Precious Achiuwa,121.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1631099,Keegan Murray,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1631116,Patrick Baldwin Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1631342,Daeqwon Plowden,102.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1641815,Isaiah Stevens,11.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1642363,Nique Clifford,195.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1642875,Maxime Raynaud,158.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642269,Devin Carter,1642928,Dylan Cardwell,55.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,201566,Russell Westbrook,282.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,201942,DeMar DeRozan,201.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,203897,Zach LaVine,36.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,203926,Doug McDermott,70.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1627734,Domantas Sabonis,29.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1628370,Malik Monk,190.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1629234,Drew Eubanks,44.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1629610,DaQuan Jeffries,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1629631,De'Andre Hunter,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1630165,Killian Hayes,121.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1630173,Precious Achiuwa,158.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1631099,Keegan Murray,27.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1631116,Patrick Baldwin Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1631342,Daeqwon Plowden,110.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1641815,Isaiah Stevens,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1642269,Devin Carter,209.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1642875,Maxime Raynaud,214.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642363,Nique Clifford,1642928,Dylan Cardwell,75.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,201566,Russell Westbrook,646.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,201942,DeMar DeRozan,339.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,203897,Zach LaVine,75.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,203926,Doug McDermott,18.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1627734,Domantas Sabonis,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1628370,Malik Monk,230.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1629610,DaQuan Jeffries,9.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1629631,De'Andre Hunter,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1630165,Killian Hayes,114.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1630173,Precious Achiuwa,86.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1631099,Keegan Murray,36.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1631116,Patrick Baldwin Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1631342,Daeqwon Plowden,89.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1641815,Isaiah Stevens,8.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1642269,Devin Carter,216.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1642363,Nique Clifford,268.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642875,Maxime Raynaud,1642928,Dylan Cardwell,12.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,201566,Russell Westbrook,83.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,201942,DeMar DeRozan,74.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,203897,Zach LaVine,31.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,203926,Doug McDermott,30.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1627734,Domantas Sabonis,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1628370,Malik Monk,78.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1629610,DaQuan Jeffries,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1629631,De'Andre Hunter,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1630165,Killian Hayes,44.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1630173,Precious Achiuwa,20.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1631099,Keegan Murray,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1631116,Patrick Baldwin Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1631342,Daeqwon Plowden,45.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1641815,Isaiah Stevens,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1642269,Devin Carter,75.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1642363,Nique Clifford,133.0,True,NBA.com — https://www.nba.com/stats
+SAC,2025-26,Regular Season,1642928,Dylan Cardwell,1642875,Maxime Raynaud,16.0,True,NBA.com — https://www.nba.com/stats

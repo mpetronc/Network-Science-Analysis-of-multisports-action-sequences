@@ -1,0 +1,421 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+POR,2021-22,Regular Season,203081,Damian Lillard,203463,Ben McLemore,23.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,203469,Cody Zeller,35.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,203994,Jusuf Nurkić,293.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1626159,Justise Winslow,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1627739,Kris Dunn,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1628372,Dennis Smith Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1629014,Anfernee Simons,160.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1629604,CJ Elleby,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1629617,Reggie Perry,11.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1629642,Nassir Little,107.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1629833,Keljin Blevins,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1630190,Elijah Hughes,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1630314,Brandon Williams,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1630535,Greg Brown III,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1630570,Trendon Watford,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203081,Damian Lillard,1630787,Cameron McGriff,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,203081,Damian Lillard,21.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,203469,Cody Zeller,5.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,203994,Jusuf Nurkić,65.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1626159,Justise Winslow,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1627739,Kris Dunn,102.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1628372,Dennis Smith Jr.,136.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1628404,Josh Hart,30.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1629014,Anfernee Simons,166.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1629234,Drew Eubanks,43.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1629604,CJ Elleby,27.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1629617,Reggie Perry,31.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1629642,Nassir Little,21.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1629712,Didi Louzada,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1629833,Keljin Blevins,19.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1630190,Elijah Hughes,14.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1630314,Brandon Williams,88.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1630535,Greg Brown III,32.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1630553,Keon Johnson,66.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1630570,Trendon Watford,86.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203463,Ben McLemore,1630787,Cameron McGriff,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,203081,Damian Lillard,85.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,203463,Ben McLemore,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1626159,Justise Winslow,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1627739,Kris Dunn,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1628372,Dennis Smith Jr.,73.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1629014,Anfernee Simons,61.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1629604,CJ Elleby,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1629617,Reggie Perry,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1629642,Nassir Little,27.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1629833,Keljin Blevins,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1630190,Elijah Hughes,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1630314,Brandon Williams,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1630535,Greg Brown III,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1630570,Trendon Watford,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203469,Cody Zeller,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,203081,Damian Lillard,537.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,203463,Ben McLemore,78.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1626159,Justise Winslow,47.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1627739,Kris Dunn,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1628372,Dennis Smith Jr.,142.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1628404,Josh Hart,26.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1629014,Anfernee Simons,613.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1629604,CJ Elleby,39.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1629617,Reggie Perry,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1629642,Nassir Little,76.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1629833,Keljin Blevins,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1630190,Elijah Hughes,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1630314,Brandon Williams,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1630535,Greg Brown III,7.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1630570,Trendon Watford,7.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,203994,Jusuf Nurkić,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,203463,Ben McLemore,22.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,203994,Jusuf Nurkić,41.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1627739,Kris Dunn,12.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1628372,Dennis Smith Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1628404,Josh Hart,38.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1629014,Anfernee Simons,115.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1629234,Drew Eubanks,7.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1629604,CJ Elleby,21.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1629617,Reggie Perry,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1629833,Keljin Blevins,2.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1630190,Elijah Hughes,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1630314,Brandon Williams,32.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1630535,Greg Brown III,2.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1630570,Trendon Watford,19.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1626159,Justise Winslow,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,203463,Ben McLemore,120.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1626159,Justise Winslow,11.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1628372,Dennis Smith Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1628404,Josh Hart,37.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1629014,Anfernee Simons,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1629234,Drew Eubanks,71.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1629604,CJ Elleby,71.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1629617,Reggie Perry,25.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1629712,Didi Louzada,22.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1629833,Keljin Blevins,43.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1630190,Elijah Hughes,27.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1630314,Brandon Williams,59.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1630535,Greg Brown III,42.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1630553,Keon Johnson,72.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1630570,Trendon Watford,52.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1627739,Kris Dunn,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,203081,Damian Lillard,23.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,203463,Ben McLemore,156.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,203469,Cody Zeller,44.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,203994,Jusuf Nurkić,118.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1626159,Justise Winslow,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1627739,Kris Dunn,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1629014,Anfernee Simons,101.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1629604,CJ Elleby,69.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1629617,Reggie Perry,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1629642,Nassir Little,93.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1629833,Keljin Blevins,26.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1630190,Elijah Hughes,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1630314,Brandon Williams,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1630535,Greg Brown III,45.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1630570,Trendon Watford,129.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628372,Dennis Smith Jr.,1630787,Cameron McGriff,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,203463,Ben McLemore,44.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,203994,Jusuf Nurkić,29.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1626159,Justise Winslow,25.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1627739,Kris Dunn,23.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1628372,Dennis Smith Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1629014,Anfernee Simons,60.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1629234,Drew Eubanks,47.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1629604,CJ Elleby,37.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1629617,Reggie Perry,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1629833,Keljin Blevins,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1630190,Elijah Hughes,10.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1630314,Brandon Williams,101.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1630535,Greg Brown III,17.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1630553,Keon Johnson,12.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1630570,Trendon Watford,81.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1628404,Josh Hart,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,203081,Damian Lillard,190.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,203463,Ben McLemore,167.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,203469,Cody Zeller,48.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,203994,Jusuf Nurkić,582.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1626159,Justise Winslow,64.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1627739,Kris Dunn,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1628372,Dennis Smith Jr.,56.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1628404,Josh Hart,67.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1629234,Drew Eubanks,30.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1629604,CJ Elleby,72.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1629617,Reggie Perry,5.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1629642,Nassir Little,137.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1629833,Keljin Blevins,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1630190,Elijah Hughes,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1630314,Brandon Williams,14.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1630535,Greg Brown III,20.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1630553,Keon Johnson,10.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1630570,Trendon Watford,69.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629014,Anfernee Simons,1630787,Cameron McGriff,2.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,203463,Ben McLemore,47.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1626159,Justise Winslow,20.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1627739,Kris Dunn,106.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1628372,Dennis Smith Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1628404,Josh Hart,58.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1629014,Anfernee Simons,42.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1629604,CJ Elleby,66.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1629617,Reggie Perry,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1629712,Didi Louzada,9.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1629833,Keljin Blevins,25.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1630190,Elijah Hughes,28.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1630314,Brandon Williams,208.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1630535,Greg Brown III,19.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1630553,Keon Johnson,88.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1630570,Trendon Watford,26.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629234,Drew Eubanks,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,203081,Damian Lillard,2.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,203463,Ben McLemore,49.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,203469,Cody Zeller,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,203994,Jusuf Nurkić,32.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1626159,Justise Winslow,37.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1627739,Kris Dunn,62.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1628372,Dennis Smith Jr.,71.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1628404,Josh Hart,44.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1629014,Anfernee Simons,134.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1629234,Drew Eubanks,51.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1629617,Reggie Perry,20.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1629642,Nassir Little,24.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1629712,Didi Louzada,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1629833,Keljin Blevins,19.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1630190,Elijah Hughes,20.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1630314,Brandon Williams,149.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1630535,Greg Brown III,47.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1630553,Keon Johnson,87.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1630570,Trendon Watford,71.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629604,CJ Elleby,1630787,Cameron McGriff,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,203081,Damian Lillard,18.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,203463,Ben McLemore,30.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1626159,Justise Winslow,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1627739,Kris Dunn,31.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1628372,Dennis Smith Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1629014,Anfernee Simons,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1629604,CJ Elleby,10.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1629712,Didi Louzada,5.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1629833,Keljin Blevins,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1630190,Elijah Hughes,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1630314,Brandon Williams,23.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1630535,Greg Brown III,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1630553,Keon Johnson,40.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1630570,Trendon Watford,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629617,Reggie Perry,1630787,Cameron McGriff,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,203081,Damian Lillard,173.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,203463,Ben McLemore,31.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,203469,Cody Zeller,12.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,203994,Jusuf Nurkić,62.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1626159,Justise Winslow,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1627739,Kris Dunn,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1628372,Dennis Smith Jr.,91.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1629014,Anfernee Simons,235.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1629604,CJ Elleby,13.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1629617,Reggie Perry,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1629833,Keljin Blevins,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1630190,Elijah Hughes,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1630314,Brandon Williams,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1630535,Greg Brown III,2.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1630570,Trendon Watford,11.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629642,Nassir Little,1630787,Cameron McGriff,2.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,203463,Ben McLemore,7.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1626159,Justise Winslow,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1627739,Kris Dunn,26.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1628372,Dennis Smith Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1629014,Anfernee Simons,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1629234,Drew Eubanks,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1629604,CJ Elleby,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1629617,Reggie Perry,5.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1629833,Keljin Blevins,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1630190,Elijah Hughes,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1630314,Brandon Williams,20.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1630535,Greg Brown III,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1630553,Keon Johnson,17.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1630570,Trendon Watford,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629712,Didi Louzada,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,203463,Ben McLemore,17.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1626159,Justise Winslow,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1627739,Kris Dunn,51.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1628372,Dennis Smith Jr.,22.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1628404,Josh Hart,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1629014,Anfernee Simons,9.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1629234,Drew Eubanks,12.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1629604,CJ Elleby,14.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1629617,Reggie Perry,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1629712,Didi Louzada,9.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1630190,Elijah Hughes,15.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1630314,Brandon Williams,41.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1630535,Greg Brown III,7.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1630553,Keon Johnson,41.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1630570,Trendon Watford,29.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1629833,Keljin Blevins,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,203463,Ben McLemore,19.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,203994,Jusuf Nurkić,7.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1626159,Justise Winslow,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1627739,Kris Dunn,30.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1628372,Dennis Smith Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1628404,Josh Hart,30.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1629014,Anfernee Simons,13.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1629234,Drew Eubanks,23.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1629604,CJ Elleby,24.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1629617,Reggie Perry,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1629712,Didi Louzada,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1629833,Keljin Blevins,15.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1630314,Brandon Williams,59.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1630535,Greg Brown III,14.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1630553,Keon Johnson,45.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1630570,Trendon Watford,26.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630190,Elijah Hughes,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,203463,Ben McLemore,100.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1626159,Justise Winslow,24.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1627739,Kris Dunn,41.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1628372,Dennis Smith Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1628404,Josh Hart,115.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1629014,Anfernee Simons,11.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1629234,Drew Eubanks,156.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1629604,CJ Elleby,104.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1629617,Reggie Perry,22.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1629712,Didi Louzada,18.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1629833,Keljin Blevins,28.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1630190,Elijah Hughes,42.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1630535,Greg Brown III,51.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1630553,Keon Johnson,137.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1630570,Trendon Watford,151.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630314,Brandon Williams,1630787,Cameron McGriff,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,203081,Damian Lillard,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,203463,Ben McLemore,67.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,203469,Cody Zeller,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,203994,Jusuf Nurkić,2.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1626159,Justise Winslow,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1627739,Kris Dunn,48.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1628372,Dennis Smith Jr.,41.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1628404,Josh Hart,27.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1629014,Anfernee Simons,24.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1629234,Drew Eubanks,18.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1629604,CJ Elleby,46.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1629617,Reggie Perry,5.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1629642,Nassir Little,5.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1629712,Didi Louzada,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1629833,Keljin Blevins,17.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1630190,Elijah Hughes,15.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1630314,Brandon Williams,88.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1630553,Keon Johnson,67.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1630570,Trendon Watford,22.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630535,Greg Brown III,1630787,Cameron McGriff,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,203463,Ben McLemore,80.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1626159,Justise Winslow,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1627739,Kris Dunn,58.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1628372,Dennis Smith Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1628404,Josh Hart,12.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1629014,Anfernee Simons,26.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1629234,Drew Eubanks,88.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1629604,CJ Elleby,49.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1629617,Reggie Perry,41.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1629642,Nassir Little,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1629712,Didi Louzada,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1629833,Keljin Blevins,20.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1630190,Elijah Hughes,38.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1630314,Brandon Williams,108.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1630535,Greg Brown III,45.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1630570,Trendon Watford,37.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630553,Keon Johnson,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,203081,Damian Lillard,9.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,203463,Ben McLemore,117.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,203469,Cody Zeller,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,203994,Jusuf Nurkić,5.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1626159,Justise Winslow,16.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1627739,Kris Dunn,60.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1628372,Dennis Smith Jr.,214.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1628404,Josh Hart,94.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1629014,Anfernee Simons,137.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1629234,Drew Eubanks,21.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1629604,CJ Elleby,84.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1629617,Reggie Perry,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1629642,Nassir Little,18.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1629833,Keljin Blevins,23.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1630190,Elijah Hughes,26.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1630314,Brandon Williams,181.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1630535,Greg Brown III,36.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1630553,Keon Johnson,66.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630570,Trendon Watford,1630787,Cameron McGriff,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,203081,Damian Lillard,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,203463,Ben McLemore,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1626159,Justise Winslow,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1627739,Kris Dunn,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1628372,Dennis Smith Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1629014,Anfernee Simons,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1629234,Drew Eubanks,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1629604,CJ Elleby,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1629617,Reggie Perry,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1629642,Nassir Little,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1629833,Keljin Blevins,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1630190,Elijah Hughes,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1630314,Brandon Williams,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1630535,Greg Brown III,2.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2021-22,Regular Season,1630787,Cameron McGriff,1630570,Trendon Watford,0.0,True,NBA.com — https://www.nba.com/stats

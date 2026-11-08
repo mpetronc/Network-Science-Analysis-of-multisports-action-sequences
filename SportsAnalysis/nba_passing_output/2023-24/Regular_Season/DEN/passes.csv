@@ -1,0 +1,111 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,202704,Reggie Jackson,106.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,203200,Justin Holiday,19.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,203484,Kentavious Caldwell-Pope,10.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,203932,Aaron Gordon,6.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,203999,Nikola Jokić,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,1627750,Jamal Murray,61.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,1629008,Michael Porter Jr.,30.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,1631124,Julian Strawther,32.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,1631128,Christian Braun,31.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,201599,DeAndre Jordan,1631212,Peyton Watson,38.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,201599,DeAndre Jordan,104.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,203200,Justin Holiday,110.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,203484,Kentavious Caldwell-Pope,190.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,203932,Aaron Gordon,243.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,203999,Nikola Jokić,918.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,1627750,Jamal Murray,137.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,1629008,Michael Porter Jr.,207.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,1631124,Julian Strawther,139.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,1631128,Christian Braun,267.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,202704,Reggie Jackson,1631212,Peyton Watson,254.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,201599,DeAndre Jordan,10.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,202704,Reggie Jackson,130.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,203484,Kentavious Caldwell-Pope,18.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,203932,Aaron Gordon,28.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,203999,Nikola Jokić,113.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,1627750,Jamal Murray,86.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,1629008,Michael Porter Jr.,40.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,1631124,Julian Strawther,20.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,1631128,Christian Braun,57.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203200,Justin Holiday,1631212,Peyton Watson,57.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,201599,DeAndre Jordan,9.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,202704,Reggie Jackson,262.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,203200,Justin Holiday,12.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,203932,Aaron Gordon,197.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,203999,Nikola Jokić,854.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,1627750,Jamal Murray,327.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,1629008,Michael Porter Jr.,164.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,1631124,Julian Strawther,6.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,1631128,Christian Braun,55.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203484,Kentavious Caldwell-Pope,1631212,Peyton Watson,28.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,201599,DeAndre Jordan,7.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,202704,Reggie Jackson,227.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,203200,Justin Holiday,41.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,203484,Kentavious Caldwell-Pope,219.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,203999,Nikola Jokić,683.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,1627750,Jamal Murray,339.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,1629008,Michael Porter Jr.,297.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,1631124,Julian Strawther,28.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,1631128,Christian Braun,90.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203932,Aaron Gordon,1631212,Peyton Watson,33.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,201599,DeAndre Jordan,0.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,202704,Reggie Jackson,903.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,203200,Justin Holiday,117.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,203484,Kentavious Caldwell-Pope,912.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,203932,Aaron Gordon,763.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,1627750,Jamal Murray,1433.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,1629008,Michael Porter Jr.,851.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,1631124,Julian Strawther,63.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,1631128,Christian Braun,333.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,203999,Nikola Jokić,1631212,Peyton Watson,233.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,201599,DeAndre Jordan,40.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,202704,Reggie Jackson,121.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,203200,Justin Holiday,49.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,203484,Kentavious Caldwell-Pope,249.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,203932,Aaron Gordon,331.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,203999,Nikola Jokić,1169.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,1629008,Michael Porter Jr.,272.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,1631124,Julian Strawther,17.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,1631128,Christian Braun,166.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1627750,Jamal Murray,1631212,Peyton Watson,206.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,201599,DeAndre Jordan,21.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,202704,Reggie Jackson,294.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,203200,Justin Holiday,24.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,203484,Kentavious Caldwell-Pope,166.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,203932,Aaron Gordon,259.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,203999,Nikola Jokić,731.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,1627750,Jamal Murray,338.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,1631124,Julian Strawther,12.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,1631128,Christian Braun,90.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1629008,Michael Porter Jr.,1631212,Peyton Watson,51.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,201599,DeAndre Jordan,20.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,202704,Reggie Jackson,132.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,203200,Justin Holiday,18.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,203484,Kentavious Caldwell-Pope,10.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,203932,Aaron Gordon,18.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,203999,Nikola Jokić,54.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,1627750,Jamal Murray,17.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,1629008,Michael Porter Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,1631128,Christian Braun,65.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631124,Julian Strawther,1631212,Peyton Watson,52.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,201599,DeAndre Jordan,29.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,202704,Reggie Jackson,388.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,203200,Justin Holiday,64.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,203484,Kentavious Caldwell-Pope,64.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,203932,Aaron Gordon,84.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,203999,Nikola Jokić,336.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,1627750,Jamal Murray,237.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,1629008,Michael Porter Jr.,91.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,1631124,Julian Strawther,92.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631128,Christian Braun,1631212,Peyton Watson,169.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,201599,DeAndre Jordan,29.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,202704,Reggie Jackson,426.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,203200,Justin Holiday,70.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,203484,Kentavious Caldwell-Pope,37.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,203932,Aaron Gordon,37.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,203999,Nikola Jokić,212.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,1627750,Jamal Murray,285.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,1629008,Michael Porter Jr.,57.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,1631124,Julian Strawther,52.0,True,NBA.com — https://www.nba.com/stats
+DEN,2023-24,Regular Season,1631212,Peyton Watson,1631128,Christian Braun,180.0,True,NBA.com — https://www.nba.com/stats

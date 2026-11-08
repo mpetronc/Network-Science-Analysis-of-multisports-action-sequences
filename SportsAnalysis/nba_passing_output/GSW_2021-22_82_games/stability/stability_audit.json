@@ -1,0 +1,16 @@
+{
+  "games": 82,
+  "possible_consecutive_comparisons": 81,
+  "valid_comparisons": 79,
+  "unavailable_current_game_numbers": [
+    38,
+    39
+  ],
+  "definition": "Base-2 Jensen-Shannon divergence, NOT square-root distance; 0 identical, 1 disjoint",
+  "all_players": "Union of appeared-player IDs; absent players have zero share",
+  "returning_players": "Intersection of appeared-player IDs; renormalize both distributions over that set",
+  "minutes_cutoff": 0,
+  "missing_policy": "Original zero-filled season graph preserved; exclude transitions touching an unavailable game",
+  "inference": "Exploratory unadjusted correlations; adjacent comparisons share games and are not independent; no causal or predictive claim",
+  "classification": "Continuous divergence; no arbitrary stable/unstable threshold"
+}

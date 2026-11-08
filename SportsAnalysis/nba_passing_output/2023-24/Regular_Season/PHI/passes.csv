@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+PHI,2023-24,Regular Season,200768,Kyle Lowry,201587,Nicolas Batum,92.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,202699,Tobias Harris,148.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,203496,Robert Covington,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,203954,Joel Embiid,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1626162,Kelly Oubre Jr.,173.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1626166,Cameron Payne,79.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1627741,Buddy Hield,127.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1627863,Danuel House Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1628964,Mo Bamba,76.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1629001,De'Anthony Melton,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1630178,Tyrese Maxey,300.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1630194,Paul Reed,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1630231,KJ Martin,19.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,200768,Kyle Lowry,1630288,Jeff Dowtin Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,200768,Kyle Lowry,103.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,202699,Tobias Harris,120.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,203496,Robert Covington,7.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,203954,Joel Embiid,161.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1626162,Kelly Oubre Jr.,137.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1626166,Cameron Payne,104.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1627741,Buddy Hield,71.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1627863,Danuel House Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1628964,Mo Bamba,22.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1629001,De'Anthony Melton,80.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1630178,Tyrese Maxey,455.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1630194,Paul Reed,54.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1630231,KJ Martin,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,201587,Nicolas Batum,1630288,Jeff Dowtin Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,200768,Kyle Lowry,166.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,201587,Nicolas Batum,124.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,203496,Robert Covington,23.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,203954,Joel Embiid,244.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1626162,Kelly Oubre Jr.,184.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1626166,Cameron Payne,148.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1627741,Buddy Hield,115.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1627863,Danuel House Jr.,46.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1628964,Mo Bamba,70.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1629001,De'Anthony Melton,220.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1630178,Tyrese Maxey,712.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1630194,Paul Reed,148.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1630231,KJ Martin,19.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,202699,Tobias Harris,1630288,Jeff Dowtin Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,200768,Kyle Lowry,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,201587,Nicolas Batum,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,202699,Tobias Harris,29.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,203954,Joel Embiid,43.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1626162,Kelly Oubre Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1626166,Cameron Payne,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1627741,Buddy Hield,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1627863,Danuel House Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1628964,Mo Bamba,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1629001,De'Anthony Melton,72.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1630178,Tyrese Maxey,126.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1630194,Paul Reed,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1630231,KJ Martin,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203496,Robert Covington,1630288,Jeff Dowtin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,200768,Kyle Lowry,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,201587,Nicolas Batum,113.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,202699,Tobias Harris,233.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,203496,Robert Covington,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1626162,Kelly Oubre Jr.,111.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1626166,Cameron Payne,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1627741,Buddy Hield,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1627863,Danuel House Jr.,47.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1629001,De'Anthony Melton,178.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1630178,Tyrese Maxey,661.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1630194,Paul Reed,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1630231,KJ Martin,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,203954,Joel Embiid,1630288,Jeff Dowtin Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,200768,Kyle Lowry,106.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,201587,Nicolas Batum,71.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,202699,Tobias Harris,138.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,203496,Robert Covington,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,203954,Joel Embiid,128.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,1626166,Cameron Payne,103.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,1627741,Buddy Hield,87.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,1627863,Danuel House Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,1628964,Mo Bamba,51.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,1629001,De'Anthony Melton,61.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,1630178,Tyrese Maxey,443.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,1630194,Paul Reed,115.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,1630231,KJ Martin,46.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626162,Kelly Oubre Jr.,1630288,Jeff Dowtin Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,200768,Kyle Lowry,65.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,201587,Nicolas Batum,73.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,202699,Tobias Harris,163.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,203496,Robert Covington,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,203954,Joel Embiid,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,1626162,Kelly Oubre Jr.,137.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,1627741,Buddy Hield,163.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,1627863,Danuel House Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,1628964,Mo Bamba,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,1629001,De'Anthony Melton,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,1630178,Tyrese Maxey,112.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,1630194,Paul Reed,106.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,1630231,KJ Martin,57.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1626166,Cameron Payne,1630288,Jeff Dowtin Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,200768,Kyle Lowry,139.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,201587,Nicolas Batum,49.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,202699,Tobias Harris,77.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,203496,Robert Covington,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,203954,Joel Embiid,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,1626162,Kelly Oubre Jr.,116.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,1626166,Cameron Payne,190.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,1627863,Danuel House Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,1628964,Mo Bamba,23.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,1629001,De'Anthony Melton,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,1630178,Tyrese Maxey,292.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,1630194,Paul Reed,81.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,1630231,KJ Martin,40.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627741,Buddy Hield,1630288,Jeff Dowtin Jr.,45.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,200768,Kyle Lowry,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,201587,Nicolas Batum,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,202699,Tobias Harris,44.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,203496,Robert Covington,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,203954,Joel Embiid,41.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,1626162,Kelly Oubre Jr.,26.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,1626166,Cameron Payne,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,1627741,Buddy Hield,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,1628964,Mo Bamba,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,1629001,De'Anthony Melton,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,1630178,Tyrese Maxey,123.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,1630194,Paul Reed,23.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,1630231,KJ Martin,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1627863,Danuel House Jr.,1630288,Jeff Dowtin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,200768,Kyle Lowry,125.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,201587,Nicolas Batum,21.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,202699,Tobias Harris,74.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,203496,Robert Covington,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,1626162,Kelly Oubre Jr.,47.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,1626166,Cameron Payne,61.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,1627741,Buddy Hield,30.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,1627863,Danuel House Jr.,29.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,1629001,De'Anthony Melton,21.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,1630178,Tyrese Maxey,184.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,1630194,Paul Reed,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,1630231,KJ Martin,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1628964,Mo Bamba,1630288,Jeff Dowtin Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,200768,Kyle Lowry,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,201587,Nicolas Batum,60.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,202699,Tobias Harris,232.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,203496,Robert Covington,38.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,203954,Joel Embiid,285.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,1626162,Kelly Oubre Jr.,57.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,1626166,Cameron Payne,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,1627741,Buddy Hield,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,1627863,Danuel House Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,1628964,Mo Bamba,20.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,1630178,Tyrese Maxey,456.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,1630194,Paul Reed,59.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,1630231,KJ Martin,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1629001,De'Anthony Melton,1630288,Jeff Dowtin Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,200768,Kyle Lowry,221.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,201587,Nicolas Batum,289.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,202699,Tobias Harris,736.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,203496,Robert Covington,40.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,203954,Joel Embiid,848.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,1626162,Kelly Oubre Jr.,390.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,1626166,Cameron Payne,96.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,1627741,Buddy Hield,230.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,1627863,Danuel House Jr.,67.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,1628964,Mo Bamba,116.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,1629001,De'Anthony Melton,323.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,1630194,Paul Reed,284.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,1630231,KJ Martin,103.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630178,Tyrese Maxey,1630288,Jeff Dowtin Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,200768,Kyle Lowry,56.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,201587,Nicolas Batum,42.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,202699,Tobias Harris,156.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,203496,Robert Covington,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,203954,Joel Embiid,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,1626162,Kelly Oubre Jr.,129.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,1626166,Cameron Payne,149.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,1627741,Buddy Hield,111.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,1627863,Danuel House Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,1628964,Mo Bamba,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,1629001,De'Anthony Melton,69.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,1630178,Tyrese Maxey,521.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,1630231,KJ Martin,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630194,Paul Reed,1630288,Jeff Dowtin Jr.,29.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,200768,Kyle Lowry,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,201587,Nicolas Batum,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,202699,Tobias Harris,29.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,203496,Robert Covington,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,203954,Joel Embiid,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,1626162,Kelly Oubre Jr.,63.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,1626166,Cameron Payne,77.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,1627741,Buddy Hield,57.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,1627863,Danuel House Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,1628964,Mo Bamba,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,1629001,De'Anthony Melton,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,1630178,Tyrese Maxey,111.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,1630194,Paul Reed,29.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630231,KJ Martin,1630288,Jeff Dowtin Jr.,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,200768,Kyle Lowry,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,201587,Nicolas Batum,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,202699,Tobias Harris,20.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,203496,Robert Covington,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,203954,Joel Embiid,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,1626162,Kelly Oubre Jr.,33.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,1626166,Cameron Payne,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,1627741,Buddy Hield,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,1627863,Danuel House Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,1628964,Mo Bamba,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,1629001,De'Anthony Melton,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,1630178,Tyrese Maxey,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,1630194,Paul Reed,32.0,True,NBA.com — https://www.nba.com/stats
+PHI,2023-24,Regular Season,1630288,Jeff Dowtin Jr.,1630231,KJ Martin,18.0,True,NBA.com — https://www.nba.com/stats

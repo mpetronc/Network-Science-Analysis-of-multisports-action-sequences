@@ -1,0 +1,343 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1629611,Terance Mann,233.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1629651,Nic Claxton,316.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1630286,Trevon Scott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1630533,Ziaire Williams,78.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1630534,Ochai Agbaji,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1630549,Day'Ron Sharpe,90.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1630592,Jalen Wilson,15.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1630604,E.J. Liddell,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1630623,Tyson Etienne,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1631169,Josh Minott,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1641730,Noah Clowney,152.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1641869,Malachi Smith,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1642849,Nolan Traore,212.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1642856,Egor Dëmin,381.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1642874,Danny Wolf,36.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1642879,Ben Saraf,83.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1642962,Drake Powell,60.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629008,Michael Porter Jr.,1643052,Chaney Johnson,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1629008,Michael Porter Jr.,251.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1629651,Nic Claxton,412.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1630286,Trevon Scott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1630533,Ziaire Williams,77.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1630534,Ochai Agbaji,33.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1630549,Day'Ron Sharpe,141.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1630592,Jalen Wilson,39.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1630604,E.J. Liddell,5.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1630623,Tyson Etienne,15.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1631169,Josh Minott,15.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1641730,Noah Clowney,196.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1641869,Malachi Smith,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1642849,Nolan Traore,136.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1642856,Egor Dëmin,261.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1642874,Danny Wolf,126.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1642879,Ben Saraf,80.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1642962,Drake Powell,76.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629611,Terance Mann,1643052,Chaney Johnson,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1629008,Michael Porter Jr.,539.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1629611,Terance Mann,314.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1630286,Trevon Scott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1630533,Ziaire Williams,93.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1630534,Ochai Agbaji,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1630549,Day'Ron Sharpe,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1630592,Jalen Wilson,24.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1630604,E.J. Liddell,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1630623,Tyson Etienne,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1631169,Josh Minott,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1641730,Noah Clowney,273.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1641869,Malachi Smith,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1642849,Nolan Traore,305.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1642856,Egor Dëmin,385.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1642874,Danny Wolf,95.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1642879,Ben Saraf,84.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1642962,Drake Powell,133.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1629651,Nic Claxton,1643052,Chaney Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1629008,Michael Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1629611,Terance Mann,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1629651,Nic Claxton,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1630533,Ziaire Williams,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1630534,Ochai Agbaji,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1630549,Day'Ron Sharpe,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1630592,Jalen Wilson,18.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1630604,E.J. Liddell,10.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1630623,Tyson Etienne,33.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1631169,Josh Minott,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1641730,Noah Clowney,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1641869,Malachi Smith,35.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1642849,Nolan Traore,15.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1642856,Egor Dëmin,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1642874,Danny Wolf,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1642879,Ben Saraf,42.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1642962,Drake Powell,20.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630286,Trevon Scott,1643052,Chaney Johnson,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1629008,Michael Porter Jr.,53.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1629611,Terance Mann,75.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1629651,Nic Claxton,76.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1630286,Trevon Scott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1630534,Ochai Agbaji,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1630549,Day'Ron Sharpe,88.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1630592,Jalen Wilson,17.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1630604,E.J. Liddell,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1630623,Tyson Etienne,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1631169,Josh Minott,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1641730,Noah Clowney,33.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1641869,Malachi Smith,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1642849,Nolan Traore,126.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1642856,Egor Dëmin,72.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1642874,Danny Wolf,56.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1642879,Ben Saraf,93.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1642962,Drake Powell,49.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630533,Ziaire Williams,1643052,Chaney Johnson,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1629008,Michael Porter Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1629611,Terance Mann,50.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1629651,Nic Claxton,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1630286,Trevon Scott,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1630533,Ziaire Williams,16.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1630549,Day'Ron Sharpe,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1630592,Jalen Wilson,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1630604,E.J. Liddell,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1630623,Tyson Etienne,21.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1631169,Josh Minott,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1641730,Noah Clowney,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1641869,Malachi Smith,24.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1642849,Nolan Traore,28.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1642856,Egor Dëmin,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1642874,Danny Wolf,23.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1642879,Ben Saraf,75.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1642962,Drake Powell,20.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630534,Ochai Agbaji,1643052,Chaney Johnson,10.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1629008,Michael Porter Jr.,165.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1629611,Terance Mann,103.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1629651,Nic Claxton,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1630286,Trevon Scott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1630533,Ziaire Williams,85.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1630534,Ochai Agbaji,21.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1630592,Jalen Wilson,46.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1630604,E.J. Liddell,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1630623,Tyson Etienne,5.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1631169,Josh Minott,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1641730,Noah Clowney,79.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1641869,Malachi Smith,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1642849,Nolan Traore,221.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1642856,Egor Dëmin,137.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1642874,Danny Wolf,150.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1642879,Ben Saraf,130.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1642962,Drake Powell,100.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630549,Day'Ron Sharpe,1643052,Chaney Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1629008,Michael Porter Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1629611,Terance Mann,41.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1629651,Nic Claxton,29.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1630286,Trevon Scott,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1630533,Ziaire Williams,31.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1630534,Ochai Agbaji,19.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1630549,Day'Ron Sharpe,61.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1630604,E.J. Liddell,19.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1630623,Tyson Etienne,50.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1631169,Josh Minott,19.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1641730,Noah Clowney,15.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1641869,Malachi Smith,32.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1642849,Nolan Traore,100.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1642856,Egor Dëmin,22.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1642874,Danny Wolf,45.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1642879,Ben Saraf,132.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1642962,Drake Powell,75.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630592,Jalen Wilson,1643052,Chaney Johnson,18.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1629008,Michael Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1629611,Terance Mann,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1629651,Nic Claxton,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1630286,Trevon Scott,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1630533,Ziaire Williams,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1630534,Ochai Agbaji,10.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1630549,Day'Ron Sharpe,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1630592,Jalen Wilson,29.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1630623,Tyson Etienne,41.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1631169,Josh Minott,8.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1641730,Noah Clowney,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1641869,Malachi Smith,58.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1642849,Nolan Traore,41.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1642856,Egor Dëmin,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1642874,Danny Wolf,15.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1642879,Ben Saraf,75.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1642962,Drake Powell,26.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630604,E.J. Liddell,1643052,Chaney Johnson,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1629008,Michael Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1629611,Terance Mann,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1629651,Nic Claxton,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1630286,Trevon Scott,28.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1630533,Ziaire Williams,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1630534,Ochai Agbaji,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1630549,Day'Ron Sharpe,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1630592,Jalen Wilson,44.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1630604,E.J. Liddell,43.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1631169,Josh Minott,20.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1641730,Noah Clowney,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1641869,Malachi Smith,56.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1642849,Nolan Traore,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1642856,Egor Dëmin,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1642874,Danny Wolf,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1642879,Ben Saraf,83.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1642962,Drake Powell,25.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1630623,Tyson Etienne,1643052,Chaney Johnson,33.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1629008,Michael Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1629611,Terance Mann,10.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1629651,Nic Claxton,8.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1630286,Trevon Scott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1630533,Ziaire Williams,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1630534,Ochai Agbaji,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1630549,Day'Ron Sharpe,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1630592,Jalen Wilson,31.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1630604,E.J. Liddell,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1630623,Tyson Etienne,19.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1641730,Noah Clowney,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1641869,Malachi Smith,21.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1642849,Nolan Traore,25.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1642856,Egor Dëmin,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1642874,Danny Wolf,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1642879,Ben Saraf,55.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1642962,Drake Powell,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1631169,Josh Minott,1643052,Chaney Johnson,16.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1629008,Michael Porter Jr.,168.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1629611,Terance Mann,205.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1629651,Nic Claxton,182.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1630286,Trevon Scott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1630533,Ziaire Williams,43.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1630534,Ochai Agbaji,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1630549,Day'Ron Sharpe,43.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1630592,Jalen Wilson,17.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1630604,E.J. Liddell,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1630623,Tyson Etienne,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1631169,Josh Minott,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1641869,Malachi Smith,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1642849,Nolan Traore,277.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1642856,Egor Dëmin,342.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1642874,Danny Wolf,48.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1642879,Ben Saraf,60.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1642962,Drake Powell,75.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641730,Noah Clowney,1643052,Chaney Johnson,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1629008,Michael Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1629611,Terance Mann,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1629651,Nic Claxton,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1630286,Trevon Scott,40.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1630533,Ziaire Williams,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1630534,Ochai Agbaji,20.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1630549,Day'Ron Sharpe,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1630592,Jalen Wilson,31.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1630604,E.J. Liddell,47.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1630623,Tyson Etienne,87.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1631169,Josh Minott,26.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1641730,Noah Clowney,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1642849,Nolan Traore,27.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1642856,Egor Dëmin,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1642874,Danny Wolf,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1642879,Ben Saraf,153.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1642962,Drake Powell,21.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1641869,Malachi Smith,1643052,Chaney Johnson,46.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1629008,Michael Porter Jr.,197.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1629611,Terance Mann,105.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1629651,Nic Claxton,418.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1630286,Trevon Scott,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1630533,Ziaire Williams,139.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1630534,Ochai Agbaji,19.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1630549,Day'Ron Sharpe,216.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1630592,Jalen Wilson,88.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1630604,E.J. Liddell,33.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1630623,Tyson Etienne,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1631169,Josh Minott,21.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1641730,Noah Clowney,189.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1641869,Malachi Smith,22.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1642856,Egor Dëmin,136.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1642874,Danny Wolf,211.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1642879,Ben Saraf,37.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1642962,Drake Powell,163.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642849,Nolan Traore,1643052,Chaney Johnson,25.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1629008,Michael Porter Jr.,323.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1629611,Terance Mann,328.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1629651,Nic Claxton,386.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1630286,Trevon Scott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1630533,Ziaire Williams,90.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1630534,Ochai Agbaji,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1630549,Day'Ron Sharpe,136.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1630592,Jalen Wilson,29.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1630604,E.J. Liddell,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1630623,Tyson Etienne,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1631169,Josh Minott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1641730,Noah Clowney,345.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1641869,Malachi Smith,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1642849,Nolan Traore,210.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1642874,Danny Wolf,81.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1642879,Ben Saraf,5.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1642962,Drake Powell,70.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642856,Egor Dëmin,1643052,Chaney Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1629008,Michael Porter Jr.,72.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1629611,Terance Mann,110.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1629651,Nic Claxton,88.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1630286,Trevon Scott,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1630533,Ziaire Williams,96.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1630534,Ochai Agbaji,35.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1630549,Day'Ron Sharpe,125.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1630592,Jalen Wilson,63.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1630604,E.J. Liddell,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1630623,Tyson Etienne,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1631169,Josh Minott,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1641730,Noah Clowney,58.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1641869,Malachi Smith,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1642849,Nolan Traore,248.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1642856,Egor Dëmin,91.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1642879,Ben Saraf,172.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1642962,Drake Powell,110.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642874,Danny Wolf,1643052,Chaney Johnson,8.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1629008,Michael Porter Jr.,78.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1629611,Terance Mann,63.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1629651,Nic Claxton,110.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1630286,Trevon Scott,42.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1630533,Ziaire Williams,71.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1630534,Ochai Agbaji,34.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1630549,Day'Ron Sharpe,124.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1630592,Jalen Wilson,110.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1630604,E.J. Liddell,81.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1630623,Tyson Etienne,85.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1631169,Josh Minott,60.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1641730,Noah Clowney,51.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1641869,Malachi Smith,105.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1642849,Nolan Traore,44.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1642856,Egor Dëmin,5.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1642874,Danny Wolf,190.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1642962,Drake Powell,133.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642879,Ben Saraf,1643052,Chaney Johnson,84.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1629008,Michael Porter Jr.,66.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1629611,Terance Mann,85.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1629651,Nic Claxton,127.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1630286,Trevon Scott,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1630533,Ziaire Williams,58.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1630534,Ochai Agbaji,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1630549,Day'Ron Sharpe,81.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1630592,Jalen Wilson,91.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1630604,E.J. Liddell,27.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1630623,Tyson Etienne,28.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1631169,Josh Minott,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1641730,Noah Clowney,78.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1641869,Malachi Smith,25.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1642849,Nolan Traore,211.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1642856,Egor Dëmin,59.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1642874,Danny Wolf,99.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1642879,Ben Saraf,181.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1642962,Drake Powell,1643052,Chaney Johnson,19.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1629008,Michael Porter Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1629611,Terance Mann,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1629651,Nic Claxton,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1630286,Trevon Scott,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1630533,Ziaire Williams,16.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1630534,Ochai Agbaji,19.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1630549,Day'Ron Sharpe,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1630592,Jalen Wilson,26.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1630604,E.J. Liddell,19.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1630623,Tyson Etienne,59.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1631169,Josh Minott,22.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1641730,Noah Clowney,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1641869,Malachi Smith,49.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1642849,Nolan Traore,29.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1642856,Egor Dëmin,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1642874,Danny Wolf,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1642879,Ben Saraf,81.0,True,NBA.com — https://www.nba.com/stats
+BKN,2025-26,Regular Season,1643052,Chaney Johnson,1642962,Drake Powell,23.0,True,NBA.com — https://www.nba.com/stats

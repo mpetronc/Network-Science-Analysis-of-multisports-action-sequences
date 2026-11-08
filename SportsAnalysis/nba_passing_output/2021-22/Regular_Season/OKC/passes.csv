@@ -1,0 +1,553 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+OKC,2021-22,Regular Season,202324,Derrick Favors,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,203816,Scotty Hopson,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1628778,Paul Watson,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1628983,Shai Gilgeous-Alexander,169.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1629026,Kenrich Williams,44.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1629647,Darius Bazley,57.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1629652,Luguentz Dort,73.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1629660,Ty Jerome,44.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1629676,Isaiah Roby,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630177,Theo Maledon,56.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630197,Aleksej Pokusevski,54.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630249,Vít Krejčí,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630322,Lindy Waters III,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630526,Jeremiah Robinson-Earl,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630544,Tre Mann,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630581,Josh Giddey,218.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630598,Aaron Wiggins,19.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,202324,Derrick Favors,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,203816,Scotty Hopson,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1628778,Paul Watson,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1628983,Shai Gilgeous-Alexander,269.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1629026,Kenrich Williams,52.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1629647,Darius Bazley,26.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1629652,Luguentz Dort,67.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1629660,Ty Jerome,133.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1629676,Isaiah Roby,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630177,Theo Maledon,38.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630197,Aleksej Pokusevski,34.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630249,Vít Krejčí,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630322,Lindy Waters III,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630526,Jeremiah Robinson-Earl,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630544,Tre Mann,49.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630581,Josh Giddey,127.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630598,Aaron Wiggins,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203488,Mike Muscala,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1628778,Paul Watson,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1629026,Kenrich Williams,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1629647,Darius Bazley,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1629652,Luguentz Dort,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1629660,Ty Jerome,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1629676,Isaiah Roby,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630177,Theo Maledon,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630197,Aleksej Pokusevski,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630249,Vít Krejčí,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630322,Lindy Waters III,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630544,Tre Mann,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630581,Josh Giddey,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630598,Aaron Wiggins,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,203816,Scotty Hopson,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,203488,Mike Muscala,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1628983,Shai Gilgeous-Alexander,23.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1629026,Kenrich Williams,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1629647,Darius Bazley,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1629652,Luguentz Dort,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1629660,Ty Jerome,32.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1629676,Isaiah Roby,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630177,Theo Maledon,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630197,Aleksej Pokusevski,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630249,Vít Krejčí,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630322,Lindy Waters III,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630526,Jeremiah Robinson-Earl,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630544,Tre Mann,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630581,Josh Giddey,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630598,Aaron Wiggins,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628778,Paul Watson,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1628778,Paul Watson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1629026,Kenrich Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1629647,Darius Bazley,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1629652,Luguentz Dort,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1629658,Jaylen Hoard,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1629676,Isaiah Roby,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630177,Theo Maledon,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630197,Aleksej Pokusevski,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630249,Vít Krejčí,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630285,Zavier Simpson,26.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630322,Lindy Waters III,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630526,Jeremiah Robinson-Earl,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630544,Tre Mann,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630581,Josh Giddey,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630598,Aaron Wiggins,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630686,Georgios Kalaitzakis,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628982,Melvin Frazier Jr.,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,202324,Derrick Favors,139.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,203488,Mike Muscala,165.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1628778,Paul Watson,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1629026,Kenrich Williams,129.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1629603,Mamadi Diakite,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1629647,Darius Bazley,407.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1629652,Luguentz Dort,348.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1629660,Ty Jerome,71.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1629676,Isaiah Roby,179.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630177,Theo Maledon,59.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630197,Aleksej Pokusevski,154.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630249,Vít Krejčí,36.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630322,Lindy Waters III,41.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630526,Jeremiah Robinson-Earl,310.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630544,Tre Mann,222.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630581,Josh Giddey,442.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630598,Aaron Wiggins,136.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1628983,Shai Gilgeous-Alexander,1630846,Olivier Sarr,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,202324,Derrick Favors,42.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,203488,Mike Muscala,65.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1628778,Paul Watson,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1628983,Shai Gilgeous-Alexander,147.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1629603,Mamadi Diakite,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1629647,Darius Bazley,77.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1629652,Luguentz Dort,97.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1629660,Ty Jerome,173.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1629676,Isaiah Roby,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630177,Theo Maledon,86.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630197,Aleksej Pokusevski,94.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630249,Vít Krejčí,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630322,Lindy Waters III,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630526,Jeremiah Robinson-Earl,47.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630544,Tre Mann,89.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630581,Josh Giddey,160.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630598,Aaron Wiggins,25.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629026,Kenrich Williams,1630846,Olivier Sarr,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1628778,Paul Watson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1628983,Shai Gilgeous-Alexander,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1629026,Kenrich Williams,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1629647,Darius Bazley,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1629652,Luguentz Dort,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1629660,Ty Jerome,61.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1629676,Isaiah Roby,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630177,Theo Maledon,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630197,Aleksej Pokusevski,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630249,Vít Krejčí,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630322,Lindy Waters III,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630544,Tre Mann,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630581,Josh Giddey,95.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630598,Aaron Wiggins,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629603,Mamadi Diakite,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,202324,Derrick Favors,37.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,203488,Mike Muscala,31.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1628778,Paul Watson,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1628983,Shai Gilgeous-Alexander,659.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1629026,Kenrich Williams,70.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1629603,Mamadi Diakite,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1629652,Luguentz Dort,199.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1629660,Ty Jerome,129.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1629676,Isaiah Roby,45.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630177,Theo Maledon,90.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630197,Aleksej Pokusevski,89.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630249,Vít Krejčí,25.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630322,Lindy Waters III,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630526,Jeremiah Robinson-Earl,41.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630544,Tre Mann,226.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630581,Josh Giddey,466.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630598,Aaron Wiggins,58.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629647,Darius Bazley,1630846,Olivier Sarr,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,202324,Derrick Favors,45.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,203488,Mike Muscala,51.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1628778,Paul Watson,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1628983,Shai Gilgeous-Alexander,277.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1629026,Kenrich Williams,43.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1629603,Mamadi Diakite,17.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1629647,Darius Bazley,127.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1629660,Ty Jerome,60.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1629676,Isaiah Roby,29.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630177,Theo Maledon,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630197,Aleksej Pokusevski,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630249,Vít Krejčí,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630322,Lindy Waters III,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630526,Jeremiah Robinson-Earl,89.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630544,Tre Mann,62.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630581,Josh Giddey,271.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630598,Aaron Wiggins,49.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629652,Luguentz Dort,1630846,Olivier Sarr,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1628778,Paul Watson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1628982,Melvin Frazier Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1629026,Kenrich Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1629647,Darius Bazley,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1629652,Luguentz Dort,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1629676,Isaiah Roby,25.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630177,Theo Maledon,32.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630197,Aleksej Pokusevski,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630249,Vít Krejčí,68.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630285,Zavier Simpson,151.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630322,Lindy Waters III,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630526,Jeremiah Robinson-Earl,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630544,Tre Mann,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630581,Josh Giddey,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630598,Aaron Wiggins,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630686,Georgios Kalaitzakis,43.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629658,Jaylen Hoard,1630846,Olivier Sarr,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,202324,Derrick Favors,45.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,203488,Mike Muscala,88.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,203816,Scotty Hopson,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1628778,Paul Watson,19.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1628983,Shai Gilgeous-Alexander,91.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1629026,Kenrich Williams,169.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1629603,Mamadi Diakite,27.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1629647,Darius Bazley,102.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1629652,Luguentz Dort,78.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1629676,Isaiah Roby,62.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630177,Theo Maledon,79.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630197,Aleksej Pokusevski,100.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630249,Vít Krejčí,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630322,Lindy Waters III,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630526,Jeremiah Robinson-Earl,56.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630544,Tre Mann,98.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630581,Josh Giddey,135.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630598,Aaron Wiggins,38.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629660,Ty Jerome,1630846,Olivier Sarr,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,203488,Mike Muscala,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,203816,Scotty Hopson,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1628778,Paul Watson,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1628982,Melvin Frazier Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1628983,Shai Gilgeous-Alexander,274.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1629026,Kenrich Williams,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1629647,Darius Bazley,61.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1629652,Luguentz Dort,44.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1629658,Jaylen Hoard,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1629660,Ty Jerome,70.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630177,Theo Maledon,193.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630197,Aleksej Pokusevski,125.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630249,Vít Krejčí,79.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630285,Zavier Simpson,57.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630322,Lindy Waters III,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630526,Jeremiah Robinson-Earl,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630544,Tre Mann,117.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630581,Josh Giddey,95.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630598,Aaron Wiggins,56.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630686,Georgios Kalaitzakis,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1629676,Isaiah Roby,1630846,Olivier Sarr,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,202324,Derrick Favors,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,203488,Mike Muscala,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,203816,Scotty Hopson,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1628778,Paul Watson,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1628983,Shai Gilgeous-Alexander,90.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1629026,Kenrich Williams,105.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1629603,Mamadi Diakite,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1629647,Darius Bazley,82.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1629652,Luguentz Dort,41.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1629658,Jaylen Hoard,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1629660,Ty Jerome,90.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1629676,Isaiah Roby,154.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630197,Aleksej Pokusevski,223.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630249,Vít Krejčí,151.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630322,Lindy Waters III,81.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630526,Jeremiah Robinson-Earl,34.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630544,Tre Mann,127.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630581,Josh Giddey,85.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630598,Aaron Wiggins,95.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630177,Theo Maledon,1630846,Olivier Sarr,105.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,202324,Derrick Favors,38.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,203488,Mike Muscala,36.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1628778,Paul Watson,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1628983,Shai Gilgeous-Alexander,269.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1629026,Kenrich Williams,95.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1629603,Mamadi Diakite,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1629647,Darius Bazley,81.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1629652,Luguentz Dort,50.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1629658,Jaylen Hoard,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1629660,Ty Jerome,158.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1629676,Isaiah Roby,87.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630177,Theo Maledon,280.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630249,Vít Krejčí,97.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630322,Lindy Waters III,47.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630526,Jeremiah Robinson-Earl,27.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630544,Tre Mann,154.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630581,Josh Giddey,162.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630598,Aaron Wiggins,80.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630197,Aleksej Pokusevski,1630846,Olivier Sarr,58.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,202324,Derrick Favors,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1628778,Paul Watson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1628982,Melvin Frazier Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1628983,Shai Gilgeous-Alexander,51.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1629026,Kenrich Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1629647,Darius Bazley,26.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1629652,Luguentz Dort,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1629658,Jaylen Hoard,63.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1629660,Ty Jerome,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1629676,Isaiah Roby,91.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630177,Theo Maledon,133.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630197,Aleksej Pokusevski,82.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630285,Zavier Simpson,65.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630322,Lindy Waters III,74.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630526,Jeremiah Robinson-Earl,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630544,Tre Mann,45.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630581,Josh Giddey,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630598,Aaron Wiggins,35.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630686,Georgios Kalaitzakis,24.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630249,Vít Krejčí,1630846,Olivier Sarr,71.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1628778,Paul Watson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1628982,Melvin Frazier Jr.,32.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1629026,Kenrich Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1629647,Darius Bazley,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1629652,Luguentz Dort,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1629658,Jaylen Hoard,91.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1629676,Isaiah Roby,53.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630177,Theo Maledon,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630197,Aleksej Pokusevski,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630249,Vít Krejčí,82.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630322,Lindy Waters III,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630526,Jeremiah Robinson-Earl,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630544,Tre Mann,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630581,Josh Giddey,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630598,Aaron Wiggins,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630686,Georgios Kalaitzakis,90.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630285,Zavier Simpson,1630846,Olivier Sarr,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1628778,Paul Watson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1628982,Melvin Frazier Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1628983,Shai Gilgeous-Alexander,25.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1629026,Kenrich Williams,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1629647,Darius Bazley,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1629652,Luguentz Dort,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1629658,Jaylen Hoard,16.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1629676,Isaiah Roby,29.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630177,Theo Maledon,87.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630197,Aleksej Pokusevski,51.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630249,Vít Krejčí,54.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630285,Zavier Simpson,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630526,Jeremiah Robinson-Earl,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630544,Tre Mann,23.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630581,Josh Giddey,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630598,Aaron Wiggins,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630686,Georgios Kalaitzakis,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630322,Lindy Waters III,1630846,Olivier Sarr,46.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,202324,Derrick Favors,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,203488,Mike Muscala,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1628778,Paul Watson,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1628982,Melvin Frazier Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1628983,Shai Gilgeous-Alexander,384.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1629026,Kenrich Williams,36.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1629603,Mamadi Diakite,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1629647,Darius Bazley,76.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1629652,Luguentz Dort,181.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1629658,Jaylen Hoard,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1629660,Ty Jerome,50.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1629676,Isaiah Roby,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630177,Theo Maledon,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630197,Aleksej Pokusevski,38.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630249,Vít Krejčí,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630285,Zavier Simpson,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630322,Lindy Waters III,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630544,Tre Mann,61.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630581,Josh Giddey,331.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630598,Aaron Wiggins,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630686,Georgios Kalaitzakis,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630526,Jeremiah Robinson-Earl,1630846,Olivier Sarr,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,202324,Derrick Favors,32.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,203488,Mike Muscala,37.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1628778,Paul Watson,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1628983,Shai Gilgeous-Alexander,247.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1629026,Kenrich Williams,68.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1629603,Mamadi Diakite,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1629647,Darius Bazley,155.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1629652,Luguentz Dort,70.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1629660,Ty Jerome,84.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1629676,Isaiah Roby,92.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630177,Theo Maledon,106.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630197,Aleksej Pokusevski,131.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630249,Vít Krejčí,44.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630322,Lindy Waters III,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630526,Jeremiah Robinson-Earl,46.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630581,Josh Giddey,193.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630598,Aaron Wiggins,57.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630544,Tre Mann,1630846,Olivier Sarr,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,202324,Derrick Favors,214.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,203488,Mike Muscala,121.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1628778,Paul Watson,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1628983,Shai Gilgeous-Alexander,699.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1629026,Kenrich Williams,214.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1629603,Mamadi Diakite,79.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1629647,Darius Bazley,409.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1629652,Luguentz Dort,394.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1629660,Ty Jerome,169.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1629676,Isaiah Roby,88.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630177,Theo Maledon,86.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630197,Aleksej Pokusevski,123.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630249,Vít Krejčí,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630322,Lindy Waters III,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630526,Jeremiah Robinson-Earl,308.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630544,Tre Mann,258.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630598,Aaron Wiggins,142.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630581,Josh Giddey,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,202324,Derrick Favors,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,203488,Mike Muscala,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1628778,Paul Watson,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1628983,Shai Gilgeous-Alexander,129.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1629026,Kenrich Williams,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1629647,Darius Bazley,41.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1629652,Luguentz Dort,50.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1629658,Jaylen Hoard,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1629660,Ty Jerome,42.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1629676,Isaiah Roby,60.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630177,Theo Maledon,82.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630197,Aleksej Pokusevski,73.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630249,Vít Krejčí,28.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630285,Zavier Simpson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630322,Lindy Waters III,17.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630526,Jeremiah Robinson-Earl,35.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630544,Tre Mann,63.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630581,Josh Giddey,136.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630686,Georgios Kalaitzakis,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630598,Aaron Wiggins,1630846,Olivier Sarr,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1628778,Paul Watson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1628982,Melvin Frazier Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1629026,Kenrich Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1629647,Darius Bazley,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1629652,Luguentz Dort,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1629658,Jaylen Hoard,36.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1629676,Isaiah Roby,24.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630177,Theo Maledon,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630197,Aleksej Pokusevski,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630249,Vít Krejčí,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630285,Zavier Simpson,63.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630322,Lindy Waters III,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630526,Jeremiah Robinson-Earl,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630544,Tre Mann,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630581,Josh Giddey,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630598,Aaron Wiggins,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630686,Georgios Kalaitzakis,1630846,Olivier Sarr,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,202324,Derrick Favors,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,203816,Scotty Hopson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1628778,Paul Watson,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1628982,Melvin Frazier Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1628983,Shai Gilgeous-Alexander,66.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1629026,Kenrich Williams,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1629647,Darius Bazley,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1629652,Luguentz Dort,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1629658,Jaylen Hoard,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1629660,Ty Jerome,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1629676,Isaiah Roby,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630177,Theo Maledon,143.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630197,Aleksej Pokusevski,71.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630249,Vít Krejčí,59.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630285,Zavier Simpson,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630322,Lindy Waters III,45.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630526,Jeremiah Robinson-Earl,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630544,Tre Mann,25.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630581,Josh Giddey,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630598,Aaron Wiggins,21.0,True,NBA.com — https://www.nba.com/stats
+OKC,2021-22,Regular Season,1630846,Olivier Sarr,1630686,Georgios Kalaitzakis,5.0,True,NBA.com — https://www.nba.com/stats

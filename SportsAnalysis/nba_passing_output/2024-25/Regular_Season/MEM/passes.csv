@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1628991,Jaren Jackson Jr.,280.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1629630,Ja Morant,152.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1629634,Brandon Clarke,83.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1629723,John Konchar,48.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1630583,Santi Aldama,176.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1630590,Scotty Pippen Jr.,212.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1630643,Jay Huff,69.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1631246,Vince Williams Jr.,69.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1641713,GG Jackson,36.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1641744,Zach Edey,114.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1642285,Cam Spencer,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628379,Luke Kennard,1642377,Jaylen Wells,122.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1628379,Luke Kennard,204.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1629630,Ja Morant,338.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1629634,Brandon Clarke,89.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1629723,John Konchar,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1630583,Santi Aldama,133.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1630590,Scotty Pippen Jr.,310.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1630643,Jay Huff,29.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1631246,Vince Williams Jr.,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1641713,GG Jackson,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1641744,Zach Edey,110.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1642285,Cam Spencer,33.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1628991,Jaren Jackson Jr.,1642377,Jaylen Wells,148.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1628379,Luke Kennard,125.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1628991,Jaren Jackson Jr.,339.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1629634,Brandon Clarke,125.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1629723,John Konchar,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1630583,Santi Aldama,176.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1630590,Scotty Pippen Jr.,136.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1630643,Jay Huff,44.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1631246,Vince Williams Jr.,70.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1641713,GG Jackson,54.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1641744,Zach Edey,140.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1642285,Cam Spencer,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629630,Ja Morant,1642377,Jaylen Wells,212.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1628379,Luke Kennard,88.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1628991,Jaren Jackson Jr.,95.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1629630,Ja Morant,187.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1629723,John Konchar,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1630583,Santi Aldama,83.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1630590,Scotty Pippen Jr.,199.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1630643,Jay Huff,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1631246,Vince Williams Jr.,20.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1641713,GG Jackson,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1642285,Cam Spencer,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629634,Brandon Clarke,1642377,Jaylen Wells,74.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1628379,Luke Kennard,87.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1628991,Jaren Jackson Jr.,84.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1629630,Ja Morant,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1629634,Brandon Clarke,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1630583,Santi Aldama,37.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1630590,Scotty Pippen Jr.,148.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1630643,Jay Huff,28.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1631246,Vince Williams Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1641713,GG Jackson,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1641744,Zach Edey,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1642285,Cam Spencer,66.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1629723,John Konchar,1642377,Jaylen Wells,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1628379,Luke Kennard,177.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1628991,Jaren Jackson Jr.,184.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1629630,Ja Morant,323.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1629634,Brandon Clarke,81.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1629723,John Konchar,39.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1630590,Scotty Pippen Jr.,407.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1630643,Jay Huff,70.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1631246,Vince Williams Jr.,51.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1641713,GG Jackson,42.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1641744,Zach Edey,59.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1642285,Cam Spencer,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630583,Santi Aldama,1642377,Jaylen Wells,119.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1628379,Luke Kennard,242.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1628991,Jaren Jackson Jr.,449.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1629630,Ja Morant,163.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1629634,Brandon Clarke,166.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1629723,John Konchar,65.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1630583,Santi Aldama,313.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1630643,Jay Huff,131.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1631246,Vince Williams Jr.,43.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1641713,GG Jackson,55.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1641744,Zach Edey,59.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1642285,Cam Spencer,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630590,Scotty Pippen Jr.,1642377,Jaylen Wells,223.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1628379,Luke Kennard,52.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1628991,Jaren Jackson Jr.,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1629630,Ja Morant,40.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1629634,Brandon Clarke,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1629723,John Konchar,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1630583,Santi Aldama,78.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1630590,Scotty Pippen Jr.,118.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1631246,Vince Williams Jr.,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1641713,GG Jackson,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1641744,Zach Edey,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1642285,Cam Spencer,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1630643,Jay Huff,1642377,Jaylen Wells,38.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1628379,Luke Kennard,66.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1628991,Jaren Jackson Jr.,53.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1629630,Ja Morant,130.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1629634,Brandon Clarke,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1629723,John Konchar,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1630583,Santi Aldama,54.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1630590,Scotty Pippen Jr.,53.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1630643,Jay Huff,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1641713,GG Jackson,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1641744,Zach Edey,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1642285,Cam Spencer,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1631246,Vince Williams Jr.,1642377,Jaylen Wells,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1628379,Luke Kennard,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1628991,Jaren Jackson Jr.,21.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1629630,Ja Morant,56.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1629634,Brandon Clarke,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1629723,John Konchar,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1630583,Santi Aldama,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1630590,Scotty Pippen Jr.,62.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1630643,Jay Huff,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1631246,Vince Williams Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1641744,Zach Edey,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1642285,Cam Spencer,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641713,GG Jackson,1642377,Jaylen Wells,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1628379,Luke Kennard,125.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1628991,Jaren Jackson Jr.,120.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1629630,Ja Morant,247.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1629634,Brandon Clarke,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1629723,John Konchar,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1630583,Santi Aldama,56.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1630590,Scotty Pippen Jr.,145.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1630643,Jay Huff,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1631246,Vince Williams Jr.,47.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1641713,GG Jackson,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1642285,Cam Spencer,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1641744,Zach Edey,1642377,Jaylen Wells,80.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1628379,Luke Kennard,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1628991,Jaren Jackson Jr.,40.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1629630,Ja Morant,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1629634,Brandon Clarke,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1629723,John Konchar,30.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1630583,Santi Aldama,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1630590,Scotty Pippen Jr.,49.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1630643,Jay Huff,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1631246,Vince Williams Jr.,20.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1641713,GG Jackson,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1641744,Zach Edey,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642285,Cam Spencer,1642377,Jaylen Wells,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1628379,Luke Kennard,87.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1628991,Jaren Jackson Jr.,158.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1629630,Ja Morant,208.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1629634,Brandon Clarke,49.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1629723,John Konchar,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1630583,Santi Aldama,84.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1630590,Scotty Pippen Jr.,176.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1630643,Jay Huff,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1631246,Vince Williams Jr.,31.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1641713,GG Jackson,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1641744,Zach Edey,69.0,True,NBA.com — https://www.nba.com/stats
+MEM,2024-25,Regular Season,1642377,Jaylen Wells,1642285,Cam Spencer,10.0,True,NBA.com — https://www.nba.com/stats

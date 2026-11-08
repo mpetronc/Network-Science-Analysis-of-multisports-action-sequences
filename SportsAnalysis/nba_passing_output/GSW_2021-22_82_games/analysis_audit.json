@@ -1,0 +1,13 @@
+{
+  "team": "GSW",
+  "season": "2021-22",
+  "expected_games": 82,
+  "processed_games": 82,
+  "wins": 53,
+  "losses": 29,
+  "minimum_player_minutes": 0,
+  "missing_passing_policy": "zero",
+  "games_with_zero_filled_profiles": 1,
+  "zero_total_pass_games": 1,
+  "distinction": "Games are processed; imputed zero profiles do not establish complete observed tracking."
+}

@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+LAC,2022-23,Regular Season,201566,Russell Westbrook,201569,Eric Gordon,114.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,201587,Nicolas Batum,72.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,202322,John Wall,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,202331,Paul George,209.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,202694,Marcus Morris Sr.,75.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,202695,Kawhi Leonard,272.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,203486,Mason Plumlee,74.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,203496,Robert Covington,24.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,1626181,Norman Powell,46.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,1627826,Ivica Zubac,104.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,1629599,Amir Coffey,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,1629611,Terance Mann,47.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201566,Russell Westbrook,1630538,Bones Hyland,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,201566,Russell Westbrook,117.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,201587,Nicolas Batum,41.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,202322,John Wall,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,202331,Paul George,78.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,202694,Marcus Morris Sr.,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,202695,Kawhi Leonard,108.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,203486,Mason Plumlee,39.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,203496,Robert Covington,7.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,1626181,Norman Powell,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,1627826,Ivica Zubac,31.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,1629599,Amir Coffey,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,1629611,Terance Mann,46.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201569,Eric Gordon,1630538,Bones Hyland,12.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,201566,Russell Westbrook,119.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,201569,Eric Gordon,71.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,202322,John Wall,211.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,202331,Paul George,266.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,202694,Marcus Morris Sr.,63.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,202695,Kawhi Leonard,184.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,203486,Mason Plumlee,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,203496,Robert Covington,54.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,1626181,Norman Powell,190.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,1627826,Ivica Zubac,63.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,1629599,Amir Coffey,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,1629611,Terance Mann,236.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,1630527,Brandon Boston,14.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,201587,Nicolas Batum,1630538,Bones Hyland,42.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,201566,Russell Westbrook,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,201587,Nicolas Batum,100.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,202331,Paul George,189.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,202694,Marcus Morris Sr.,173.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,202695,Kawhi Leonard,131.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,203486,Mason Plumlee,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,203496,Robert Covington,44.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,1626181,Norman Powell,234.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,1627826,Ivica Zubac,89.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,1629599,Amir Coffey,54.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,1629611,Terance Mann,112.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,1630527,Brandon Boston,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202322,John Wall,1630538,Bones Hyland,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,201566,Russell Westbrook,166.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,201569,Eric Gordon,69.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,201587,Nicolas Batum,141.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,202322,John Wall,162.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,202694,Marcus Morris Sr.,341.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,202695,Kawhi Leonard,449.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,203486,Mason Plumlee,46.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,203496,Robert Covington,70.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,1626181,Norman Powell,126.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,1627826,Ivica Zubac,223.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,1629599,Amir Coffey,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,1629611,Terance Mann,221.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,1630527,Brandon Boston,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202331,Paul George,1630538,Bones Hyland,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,201566,Russell Westbrook,94.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,201569,Eric Gordon,26.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,201587,Nicolas Batum,61.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,202322,John Wall,182.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,202331,Paul George,368.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,202695,Kawhi Leonard,211.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,203486,Mason Plumlee,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,203496,Robert Covington,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,1626181,Norman Powell,84.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,1627826,Ivica Zubac,94.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,1629599,Amir Coffey,28.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,1629611,Terance Mann,173.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,1630527,Brandon Boston,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202694,Marcus Morris Sr.,1630538,Bones Hyland,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,201566,Russell Westbrook,160.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,201569,Eric Gordon,80.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,201587,Nicolas Batum,150.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,202322,John Wall,84.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,202331,Paul George,314.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,202694,Marcus Morris Sr.,227.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,203486,Mason Plumlee,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,203496,Robert Covington,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,1626181,Norman Powell,132.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,1627826,Ivica Zubac,187.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,1629599,Amir Coffey,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,1629611,Terance Mann,228.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,202695,Kawhi Leonard,1630538,Bones Hyland,41.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,201566,Russell Westbrook,120.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,201569,Eric Gordon,57.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,201587,Nicolas Batum,28.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,202322,John Wall,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,202331,Paul George,80.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,202694,Marcus Morris Sr.,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,202695,Kawhi Leonard,47.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,203496,Robert Covington,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,1626181,Norman Powell,42.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,1627826,Ivica Zubac,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,1629599,Amir Coffey,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,1629611,Terance Mann,81.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203486,Mason Plumlee,1630538,Bones Hyland,79.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,201566,Russell Westbrook,45.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,201569,Eric Gordon,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,201587,Nicolas Batum,54.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,202322,John Wall,126.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,202331,Paul George,99.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,202694,Marcus Morris Sr.,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,202695,Kawhi Leonard,32.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,203486,Mason Plumlee,12.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,1626181,Norman Powell,95.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,1627826,Ivica Zubac,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,1629599,Amir Coffey,61.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,1629611,Terance Mann,142.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,1630527,Brandon Boston,32.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,203496,Robert Covington,1630538,Bones Hyland,78.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,201566,Russell Westbrook,25.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,201569,Eric Gordon,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,201587,Nicolas Batum,100.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,202322,John Wall,129.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,202331,Paul George,115.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,202694,Marcus Morris Sr.,70.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,202695,Kawhi Leonard,117.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,203486,Mason Plumlee,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,203496,Robert Covington,58.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,1627826,Ivica Zubac,75.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,1629599,Amir Coffey,37.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,1629611,Terance Mann,127.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,1630527,Brandon Boston,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1626181,Norman Powell,1630538,Bones Hyland,27.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,201566,Russell Westbrook,273.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,201569,Eric Gordon,68.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,201587,Nicolas Batum,73.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,202322,John Wall,219.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,202331,Paul George,445.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,202694,Marcus Morris Sr.,139.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,202695,Kawhi Leonard,191.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,203486,Mason Plumlee,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,203496,Robert Covington,31.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,1626181,Norman Powell,158.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,1629599,Amir Coffey,18.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,1629611,Terance Mann,284.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,1630527,Brandon Boston,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1627826,Ivica Zubac,1630538,Bones Hyland,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,201566,Russell Westbrook,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,201569,Eric Gordon,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,201587,Nicolas Batum,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,202322,John Wall,48.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,202331,Paul George,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,202694,Marcus Morris Sr.,26.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,202695,Kawhi Leonard,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,203486,Mason Plumlee,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,203496,Robert Covington,40.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,1626181,Norman Powell,42.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,1627826,Ivica Zubac,36.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,1629611,Terance Mann,74.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,1630527,Brandon Boston,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629599,Amir Coffey,1630538,Bones Hyland,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,201566,Russell Westbrook,62.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,201569,Eric Gordon,72.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,201587,Nicolas Batum,183.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,202322,John Wall,172.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,202331,Paul George,288.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,202694,Marcus Morris Sr.,180.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,202695,Kawhi Leonard,275.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,203486,Mason Plumlee,78.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,203496,Robert Covington,82.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,1626181,Norman Powell,215.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,1627826,Ivica Zubac,180.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,1629599,Amir Coffey,90.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,1630527,Brandon Boston,36.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1629611,Terance Mann,1630538,Bones Hyland,90.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,201566,Russell Westbrook,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,201587,Nicolas Batum,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,202322,John Wall,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,202331,Paul George,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,202694,Marcus Morris Sr.,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,202695,Kawhi Leonard,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,203486,Mason Plumlee,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,203496,Robert Covington,30.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,1626181,Norman Powell,5.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,1627826,Ivica Zubac,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,1629599,Amir Coffey,32.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,1629611,Terance Mann,26.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630527,Brandon Boston,1630538,Bones Hyland,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,201566,Russell Westbrook,31.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,201569,Eric Gordon,12.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,201587,Nicolas Batum,26.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,202322,John Wall,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,202331,Paul George,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,202694,Marcus Morris Sr.,5.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,202695,Kawhi Leonard,35.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,203486,Mason Plumlee,52.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,203496,Robert Covington,59.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,1626181,Norman Powell,51.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,1627826,Ivica Zubac,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,1629599,Amir Coffey,14.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,1629611,Terance Mann,76.0,True,NBA.com — https://www.nba.com/stats
+LAC,2022-23,Regular Season,1630538,Bones Hyland,1630527,Brandon Boston,1.0,True,NBA.com — https://www.nba.com/stats

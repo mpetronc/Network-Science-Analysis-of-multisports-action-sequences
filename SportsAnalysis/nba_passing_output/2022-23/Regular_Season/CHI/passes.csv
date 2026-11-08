@@ -1,0 +1,111 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,201976,Patrick Beverley,91.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,202696,Nikola Vučević,748.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,203083,Andre Drummond,79.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,203897,Zach LaVine,456.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,1627884,Derrick Jones Jr.,60.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,1627936,Alex Caruso,178.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,1629632,Coby White,244.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,1629750,Javonte Green,63.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,1630172,Patrick Williams,224.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201942,DeMar DeRozan,1630245,Ayo Dosunmu,281.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,201942,DeMar DeRozan,211.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,202696,Nikola Vučević,274.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,203083,Andre Drummond,5.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,203897,Zach LaVine,268.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,1627884,Derrick Jones Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,1627936,Alex Caruso,113.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,1629632,Coby White,58.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,1629750,Javonte Green,0.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,1630172,Patrick Williams,42.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,201976,Patrick Beverley,1630245,Ayo Dosunmu,4.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,201942,DeMar DeRozan,827.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,201976,Patrick Beverley,267.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,203083,Andre Drummond,2.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,203897,Zach LaVine,877.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,1627884,Derrick Jones Jr.,42.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,1627936,Alex Caruso,447.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,1629632,Coby White,367.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,1629750,Javonte Green,44.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,1630172,Patrick Williams,388.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,202696,Nikola Vučević,1630245,Ayo Dosunmu,571.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,201942,DeMar DeRozan,121.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,201976,Patrick Beverley,11.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,202696,Nikola Vučević,1.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,203897,Zach LaVine,123.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,1627884,Derrick Jones Jr.,21.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,1627936,Alex Caruso,62.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,1629632,Coby White,117.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,1629750,Javonte Green,17.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,1630172,Patrick Williams,36.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203083,Andre Drummond,1630245,Ayo Dosunmu,69.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,201942,DeMar DeRozan,526.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,201976,Patrick Beverley,157.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,202696,Nikola Vučević,740.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,203083,Andre Drummond,78.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,1627884,Derrick Jones Jr.,85.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,1627936,Alex Caruso,277.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,1629632,Coby White,260.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,1629750,Javonte Green,30.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,1630172,Patrick Williams,220.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,203897,Zach LaVine,1630245,Ayo Dosunmu,307.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,201942,DeMar DeRozan,88.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,201976,Patrick Beverley,10.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,202696,Nikola Vučević,20.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,203083,Andre Drummond,16.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,203897,Zach LaVine,104.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,1627936,Alex Caruso,71.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,1629632,Coby White,154.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,1629750,Javonte Green,2.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,1630172,Patrick Williams,28.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627884,Derrick Jones Jr.,1630245,Ayo Dosunmu,120.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,201942,DeMar DeRozan,384.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,201976,Patrick Beverley,148.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,202696,Nikola Vučević,417.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,203083,Andre Drummond,54.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,203897,Zach LaVine,503.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,1627884,Derrick Jones Jr.,52.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,1629632,Coby White,176.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,1629750,Javonte Green,45.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,1630172,Patrick Williams,137.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1627936,Alex Caruso,1630245,Ayo Dosunmu,217.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,201942,DeMar DeRozan,307.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,201976,Patrick Beverley,36.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,202696,Nikola Vučević,298.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,203083,Andre Drummond,110.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,203897,Zach LaVine,354.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,1627884,Derrick Jones Jr.,96.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,1627936,Alex Caruso,123.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,1629750,Javonte Green,30.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,1630172,Patrick Williams,190.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629632,Coby White,1630245,Ayo Dosunmu,291.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,201942,DeMar DeRozan,93.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,201976,Patrick Beverley,3.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,202696,Nikola Vučević,36.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,203083,Andre Drummond,12.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,203897,Zach LaVine,47.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,1627884,Derrick Jones Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,1627936,Alex Caruso,66.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,1629632,Coby White,62.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,1630172,Patrick Williams,7.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1629750,Javonte Green,1630245,Ayo Dosunmu,83.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,201942,DeMar DeRozan,356.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,201976,Patrick Beverley,90.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,202696,Nikola Vučević,294.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,203083,Andre Drummond,23.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,203897,Zach LaVine,372.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,1627884,Derrick Jones Jr.,22.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,1627936,Alex Caruso,173.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,1629632,Coby White,279.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,1629750,Javonte Green,10.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630172,Patrick Williams,1630245,Ayo Dosunmu,495.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,201942,DeMar DeRozan,511.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,201976,Patrick Beverley,12.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,202696,Nikola Vučević,641.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,203083,Andre Drummond,51.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,203897,Zach LaVine,401.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,1627884,Derrick Jones Jr.,89.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,1627936,Alex Caruso,140.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,1629632,Coby White,240.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,1629750,Javonte Green,50.0,True,NBA.com — https://www.nba.com/stats
+CHI,2022-23,Regular Season,1630245,Ayo Dosunmu,1630172,Patrick Williams,320.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MIL,2020-21,Regular Season,200782,P.J. Tucker,201572,Brook Lopez,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,201950,Jrue Holiday,98.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,201952,Jeff Teague,17.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,203114,Khris Middleton,36.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,203507,Giannis Antetokounmpo,30.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,1626171,Bobby Portis Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,1626192,Pat Connaughton,16.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,1627854,Bryn Forbes,20.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,1628382,Justin Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,1628978,Donte DiVincenzo,27.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,1629091,Elijah Bryant,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,200782,P.J. Tucker,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,200782,P.J. Tucker,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,201950,Jrue Holiday,277.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,201952,Jeff Teague,17.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,203114,Khris Middleton,274.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,203507,Giannis Antetokounmpo,277.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,1626171,Bobby Portis Jr.,20.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,1626192,Pat Connaughton,43.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,1627854,Bryn Forbes,33.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,1628382,Justin Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,1628978,Donte DiVincenzo,151.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,1629091,Elijah Bryant,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201572,Brook Lopez,1629603,Mamadi Diakite,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,200782,P.J. Tucker,52.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,201572,Brook Lopez,330.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,201952,Jeff Teague,28.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,203114,Khris Middleton,655.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,203507,Giannis Antetokounmpo,527.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,1626171,Bobby Portis Jr.,193.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,1626192,Pat Connaughton,198.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,1627854,Bryn Forbes,194.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,1628382,Justin Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,1628978,Donte DiVincenzo,289.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,1629091,Elijah Bryant,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201950,Jrue Holiday,1629603,Mamadi Diakite,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,200782,P.J. Tucker,13.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,201572,Brook Lopez,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,201950,Jrue Holiday,27.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,203114,Khris Middleton,61.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,203507,Giannis Antetokounmpo,34.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,1626171,Bobby Portis Jr.,72.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,1626192,Pat Connaughton,53.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,1627854,Bryn Forbes,48.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,1628382,Justin Jackson,7.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,1628978,Donte DiVincenzo,48.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,1629091,Elijah Bryant,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,201952,Jeff Teague,1629603,Mamadi Diakite,9.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,200782,P.J. Tucker,13.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,201572,Brook Lopez,286.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,201950,Jrue Holiday,674.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,201952,Jeff Teague,65.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,203507,Giannis Antetokounmpo,654.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,1626171,Bobby Portis Jr.,167.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,1626192,Pat Connaughton,129.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,1627854,Bryn Forbes,127.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,1628382,Justin Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,1628978,Donte DiVincenzo,450.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,1629091,Elijah Bryant,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203114,Khris Middleton,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,200782,P.J. Tucker,15.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,201572,Brook Lopez,250.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,201950,Jrue Holiday,493.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,201952,Jeff Teague,29.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,203114,Khris Middleton,546.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,1626171,Bobby Portis Jr.,124.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,1626192,Pat Connaughton,173.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,1627854,Bryn Forbes,222.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,1628382,Justin Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,1628978,Donte DiVincenzo,445.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,1629091,Elijah Bryant,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,203507,Giannis Antetokounmpo,1629603,Mamadi Diakite,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,200782,P.J. Tucker,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,201572,Brook Lopez,18.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,201950,Jrue Holiday,308.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,201952,Jeff Teague,117.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,203114,Khris Middleton,286.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,203507,Giannis Antetokounmpo,143.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,1626192,Pat Connaughton,113.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,1627854,Bryn Forbes,100.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,1628382,Justin Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,1628978,Donte DiVincenzo,149.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,1629091,Elijah Bryant,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626171,Bobby Portis Jr.,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,200782,P.J. Tucker,17.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,201572,Brook Lopez,46.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,201950,Jrue Holiday,400.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,201952,Jeff Teague,80.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,203114,Khris Middleton,249.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,203507,Giannis Antetokounmpo,273.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,1626171,Bobby Portis Jr.,75.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,1627854,Bryn Forbes,52.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,1628382,Justin Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,1628978,Donte DiVincenzo,152.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,1629091,Elijah Bryant,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1626192,Pat Connaughton,1629603,Mamadi Diakite,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,200782,P.J. Tucker,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,201572,Brook Lopez,54.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,201950,Jrue Holiday,135.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,201952,Jeff Teague,37.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,203114,Khris Middleton,100.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,203507,Giannis Antetokounmpo,151.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,1626171,Bobby Portis Jr.,63.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,1626192,Pat Connaughton,27.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,1628382,Justin Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,1628978,Donte DiVincenzo,63.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,1629091,Elijah Bryant,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1627854,Bryn Forbes,1629603,Mamadi Diakite,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,200782,P.J. Tucker,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,201950,Jrue Holiday,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,201952,Jeff Teague,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,203114,Khris Middleton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,203507,Giannis Antetokounmpo,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,1626171,Bobby Portis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,1626192,Pat Connaughton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,1627854,Bryn Forbes,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,1628978,Donte DiVincenzo,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,1629091,Elijah Bryant,7.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628382,Justin Jackson,1629603,Mamadi Diakite,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,200782,P.J. Tucker,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,201572,Brook Lopez,148.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,201950,Jrue Holiday,385.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,201952,Jeff Teague,36.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,203114,Khris Middleton,541.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,203507,Giannis Antetokounmpo,569.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,1626171,Bobby Portis Jr.,106.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,1626192,Pat Connaughton,96.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,1627854,Bryn Forbes,113.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,1628382,Justin Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,1629091,Elijah Bryant,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1628978,Donte DiVincenzo,1629603,Mamadi Diakite,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,200782,P.J. Tucker,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,201950,Jrue Holiday,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,201952,Jeff Teague,7.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,203114,Khris Middleton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,203507,Giannis Antetokounmpo,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,1626171,Bobby Portis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,1626192,Pat Connaughton,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,1627854,Bryn Forbes,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,1628382,Justin Jackson,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,1628978,Donte DiVincenzo,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629091,Elijah Bryant,1629603,Mamadi Diakite,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,200782,P.J. Tucker,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,201950,Jrue Holiday,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,201952,Jeff Teague,22.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,203114,Khris Middleton,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,203507,Giannis Antetokounmpo,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,1626171,Bobby Portis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,1626192,Pat Connaughton,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,1627854,Bryn Forbes,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,1628382,Justin Jackson,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,1628978,Donte DiVincenzo,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2020-21,Regular Season,1629603,Mamadi Diakite,1629091,Elijah Bryant,5.0,True,NBA.com — https://www.nba.com/stats

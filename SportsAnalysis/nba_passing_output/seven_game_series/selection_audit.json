@@ -1,0 +1,12 @@
+{
+  "selection": "Two prespecified seven-game matchups; \u226510 minutes in each game; no assumed high/low labels",
+  "teams": [
+    "BOS",
+    "MIA",
+    "DEN",
+    "MIN"
+  ],
+  "entropy_range": 0.04150997681241919,
+  "usage_hhi_range": 0.0394428968465832,
+  "note": "Measured variation is reported, not guaranteed. Case studies are descriptive; seven games do not establish causation."
+}

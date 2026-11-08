@@ -1,0 +1,183 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DAL,2022-23,Regular Season,202681,Kyrie Irving,202689,Kemba Walker,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,202722,Davis Bertans,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,203200,Justin Holiday,29.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,203493,Reggie Bullock Jr.,121.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,203501,Tim Hardaway Jr.,163.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,203939,Dwight Powell,92.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,1626174,Christian Wood,108.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,1628373,Frank Ntilikina,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,1628467,Maxi Kleber,60.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,1629029,Luka Dončić,226.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,1630182,Josh Green,117.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,1630593,McKinley Wright IV,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202681,Kyrie Irving,1630702,Jaden Hardy,51.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,202681,Kyrie Irving,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,202722,Davis Bertans,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,203200,Justin Holiday,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,203493,Reggie Bullock Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,203501,Tim Hardaway Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,203939,Dwight Powell,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,1626174,Christian Wood,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,1628373,Frank Ntilikina,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,1628467,Maxi Kleber,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,1629029,Luka Dončić,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,1630182,Josh Green,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,1630593,McKinley Wright IV,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202689,Kemba Walker,1630702,Jaden Hardy,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,202681,Kyrie Irving,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,202689,Kemba Walker,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,203200,Justin Holiday,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,203493,Reggie Bullock Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,203501,Tim Hardaway Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,203939,Dwight Powell,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,1626174,Christian Wood,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,1628373,Frank Ntilikina,38.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,1628467,Maxi Kleber,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,1629029,Luka Dončić,53.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,1630182,Josh Green,22.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,1630593,McKinley Wright IV,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,202722,Davis Bertans,1630702,Jaden Hardy,32.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,202681,Kyrie Irving,37.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,202689,Kemba Walker,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,202722,Davis Bertans,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,203493,Reggie Bullock Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,203501,Tim Hardaway Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,203939,Dwight Powell,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,1626174,Christian Wood,20.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,1628373,Frank Ntilikina,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,1628467,Maxi Kleber,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,1629029,Luka Dončić,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,1630182,Josh Green,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,1630593,McKinley Wright IV,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203200,Justin Holiday,1630702,Jaden Hardy,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,202681,Kyrie Irving,159.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,202689,Kemba Walker,27.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,202722,Davis Bertans,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,203200,Justin Holiday,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,203501,Tim Hardaway Jr.,175.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,203939,Dwight Powell,93.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,1626174,Christian Wood,139.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,1628373,Frank Ntilikina,53.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,1628467,Maxi Kleber,47.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,1629029,Luka Dončić,507.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,1630182,Josh Green,162.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,1630593,McKinley Wright IV,55.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203493,Reggie Bullock Jr.,1630702,Jaden Hardy,81.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,202681,Kyrie Irving,167.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,202689,Kemba Walker,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,202722,Davis Bertans,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,203200,Justin Holiday,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,203493,Reggie Bullock Jr.,118.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,203939,Dwight Powell,100.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,1626174,Christian Wood,204.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,1628373,Frank Ntilikina,40.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,1628467,Maxi Kleber,70.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,1629029,Luka Dončić,628.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,1630182,Josh Green,177.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,1630593,McKinley Wright IV,35.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203501,Tim Hardaway Jr.,1630702,Jaden Hardy,66.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,202681,Kyrie Irving,128.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,202689,Kemba Walker,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,202722,Davis Bertans,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,203200,Justin Holiday,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,203493,Reggie Bullock Jr.,113.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,203501,Tim Hardaway Jr.,161.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,1626174,Christian Wood,21.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,1628373,Frank Ntilikina,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,1628467,Maxi Kleber,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,1629029,Luka Dončić,532.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,1630182,Josh Green,104.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,1630593,McKinley Wright IV,32.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,203939,Dwight Powell,1630702,Jaden Hardy,45.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,202681,Kyrie Irving,138.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,202689,Kemba Walker,38.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,202722,Davis Bertans,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,203200,Justin Holiday,20.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,203493,Reggie Bullock Jr.,119.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,203501,Tim Hardaway Jr.,195.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,203939,Dwight Powell,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,1628373,Frank Ntilikina,49.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,1628467,Maxi Kleber,43.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,1629029,Luka Dončić,620.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,1630182,Josh Green,126.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,1630593,McKinley Wright IV,66.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1626174,Christian Wood,1630702,Jaden Hardy,124.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,202681,Kyrie Irving,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,202689,Kemba Walker,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,202722,Davis Bertans,34.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,203200,Justin Holiday,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,203493,Reggie Bullock Jr.,35.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,203501,Tim Hardaway Jr.,33.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,203939,Dwight Powell,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,1626174,Christian Wood,66.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,1628467,Maxi Kleber,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,1629029,Luka Dončić,91.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,1630182,Josh Green,19.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,1630593,McKinley Wright IV,30.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628373,Frank Ntilikina,1630702,Jaden Hardy,64.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,202681,Kyrie Irving,73.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,202689,Kemba Walker,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,202722,Davis Bertans,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,203200,Justin Holiday,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,203493,Reggie Bullock Jr.,64.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,203501,Tim Hardaway Jr.,92.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,203939,Dwight Powell,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,1626174,Christian Wood,59.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,1628373,Frank Ntilikina,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,1629029,Luka Dončić,318.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,1630182,Josh Green,102.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,1630593,McKinley Wright IV,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1628467,Maxi Kleber,1630702,Jaden Hardy,53.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,202681,Kyrie Irving,237.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,202689,Kemba Walker,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,202722,Davis Bertans,37.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,203200,Justin Holiday,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,203493,Reggie Bullock Jr.,407.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,203501,Tim Hardaway Jr.,590.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,203939,Dwight Powell,358.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,1626174,Christian Wood,467.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,1628373,Frank Ntilikina,67.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,1628467,Maxi Kleber,207.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,1630182,Josh Green,201.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,1630593,McKinley Wright IV,19.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1629029,Luka Dončić,1630702,Jaden Hardy,65.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,202681,Kyrie Irving,136.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,202689,Kemba Walker,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,202722,Davis Bertans,21.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,203200,Justin Holiday,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,203493,Reggie Bullock Jr.,164.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,203501,Tim Hardaway Jr.,173.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,203939,Dwight Powell,117.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,1626174,Christian Wood,135.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,1628373,Frank Ntilikina,30.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,1628467,Maxi Kleber,88.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,1629029,Luka Dončić,219.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,1630593,McKinley Wright IV,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630182,Josh Green,1630702,Jaden Hardy,100.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,202681,Kyrie Irving,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,202689,Kemba Walker,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,202722,Davis Bertans,21.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,203200,Justin Holiday,21.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,203493,Reggie Bullock Jr.,42.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,203501,Tim Hardaway Jr.,48.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,203939,Dwight Powell,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,1626174,Christian Wood,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,1628373,Frank Ntilikina,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,1628467,Maxi Kleber,21.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,1629029,Luka Dončić,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,1630182,Josh Green,40.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630593,McKinley Wright IV,1630702,Jaden Hardy,62.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,202681,Kyrie Irving,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,202689,Kemba Walker,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,202722,Davis Bertans,27.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,203200,Justin Holiday,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,203493,Reggie Bullock Jr.,36.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,203501,Tim Hardaway Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,203939,Dwight Powell,29.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,1626174,Christian Wood,122.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,1628373,Frank Ntilikina,44.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,1628467,Maxi Kleber,34.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,1629029,Luka Dončić,66.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,1630182,Josh Green,85.0,True,NBA.com — https://www.nba.com/stats
+DAL,2022-23,Regular Season,1630702,Jaden Hardy,1630593,McKinley Wright IV,44.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+LAC,2020-21,Regular Season,200765,Rajon Rondo,201586,Serge Ibaka,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,201587,Nicolas Batum,108.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,201976,Patrick Beverley,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,202326,DeMarcus Cousins,84.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,202331,Paul George,155.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,202335,Patrick Patterson,47.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,202694,Marcus Morris Sr.,74.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,202695,Kawhi Leonard,59.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,202704,Reggie Jackson,68.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,1627812,Yogi Ferrell,5.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,1627826,Ivica Zubac,24.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,1628379,Luke Kennard,58.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,1629611,Terance Mann,47.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,200765,Rajon Rondo,1630206,Jay Scrubb,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,200765,Rajon Rondo,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,201587,Nicolas Batum,114.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,201976,Patrick Beverley,189.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,202326,DeMarcus Cousins,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,202331,Paul George,265.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,202335,Patrick Patterson,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,202694,Marcus Morris Sr.,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,202695,Kawhi Leonard,175.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,202704,Reggie Jackson,192.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,1627812,Yogi Ferrell,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,1627826,Ivica Zubac,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,1628379,Luke Kennard,69.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,1629611,Terance Mann,32.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201586,Serge Ibaka,1630206,Jay Scrubb,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,200765,Rajon Rondo,133.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,201586,Serge Ibaka,128.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,201976,Patrick Beverley,210.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,202326,DeMarcus Cousins,29.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,202331,Paul George,338.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,202335,Patrick Patterson,27.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,202694,Marcus Morris Sr.,72.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,202695,Kawhi Leonard,318.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,202704,Reggie Jackson,302.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,1627812,Yogi Ferrell,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,1627826,Ivica Zubac,30.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,1628379,Luke Kennard,113.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,1629611,Terance Mann,145.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201587,Nicolas Batum,1630206,Jay Scrubb,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,200765,Rajon Rondo,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,201586,Serge Ibaka,145.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,201587,Nicolas Batum,169.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,202326,DeMarcus Cousins,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,202331,Paul George,241.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,202335,Patrick Patterson,7.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,202694,Marcus Morris Sr.,52.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,202695,Kawhi Leonard,279.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,202704,Reggie Jackson,52.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,1627812,Yogi Ferrell,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,1627826,Ivica Zubac,55.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,1628379,Luke Kennard,36.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,1629611,Terance Mann,14.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,201976,Patrick Beverley,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,200765,Rajon Rondo,94.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,201586,Serge Ibaka,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,201587,Nicolas Batum,29.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,201976,Patrick Beverley,12.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,202331,Paul George,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,202335,Patrick Patterson,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,202694,Marcus Morris Sr.,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,202695,Kawhi Leonard,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,202704,Reggie Jackson,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,1627812,Yogi Ferrell,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,1627826,Ivica Zubac,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,1628379,Luke Kennard,34.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,1629611,Terance Mann,23.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202326,DeMarcus Cousins,1630206,Jay Scrubb,5.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,200765,Rajon Rondo,89.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,201586,Serge Ibaka,200.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,201587,Nicolas Batum,241.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,201976,Patrick Beverley,185.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,202326,DeMarcus Cousins,21.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,202335,Patrick Patterson,51.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,202694,Marcus Morris Sr.,235.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,202695,Kawhi Leonard,419.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,202704,Reggie Jackson,332.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,1627812,Yogi Ferrell,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,1627826,Ivica Zubac,242.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,1628379,Luke Kennard,82.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,1629611,Terance Mann,77.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202331,Paul George,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,200765,Rajon Rondo,49.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,201586,Serge Ibaka,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,201587,Nicolas Batum,26.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,201976,Patrick Beverley,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,202326,DeMarcus Cousins,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,202331,Paul George,68.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,202694,Marcus Morris Sr.,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,202695,Kawhi Leonard,27.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,202704,Reggie Jackson,86.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,1627812,Yogi Ferrell,23.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,1627826,Ivica Zubac,7.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,1628379,Luke Kennard,45.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,1629611,Terance Mann,79.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202335,Patrick Patterson,1630206,Jay Scrubb,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,200765,Rajon Rondo,65.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,201586,Serge Ibaka,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,201587,Nicolas Batum,44.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,201976,Patrick Beverley,64.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,202326,DeMarcus Cousins,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,202331,Paul George,243.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,202335,Patrick Patterson,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,202695,Kawhi Leonard,199.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,202704,Reggie Jackson,237.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,1627812,Yogi Ferrell,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,1627826,Ivica Zubac,65.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,1628379,Luke Kennard,64.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,1629611,Terance Mann,95.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202694,Marcus Morris Sr.,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,200765,Rajon Rondo,36.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,201586,Serge Ibaka,122.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,201587,Nicolas Batum,267.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,201976,Patrick Beverley,172.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,202326,DeMarcus Cousins,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,202331,Paul George,322.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,202335,Patrick Patterson,21.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,202694,Marcus Morris Sr.,178.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,202704,Reggie Jackson,265.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,1627812,Yogi Ferrell,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,1627826,Ivica Zubac,136.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,1628379,Luke Kennard,92.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,1629611,Terance Mann,91.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202695,Kawhi Leonard,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,200765,Rajon Rondo,72.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,201586,Serge Ibaka,152.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,201587,Nicolas Batum,220.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,201976,Patrick Beverley,40.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,202326,DeMarcus Cousins,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,202331,Paul George,462.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,202335,Patrick Patterson,58.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,202694,Marcus Morris Sr.,259.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,202695,Kawhi Leonard,385.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,1627812,Yogi Ferrell,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,1627826,Ivica Zubac,227.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,1628379,Luke Kennard,146.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,1629611,Terance Mann,128.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,202704,Reggie Jackson,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,200765,Rajon Rondo,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,201586,Serge Ibaka,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,201587,Nicolas Batum,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,201976,Patrick Beverley,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,202326,DeMarcus Cousins,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,202335,Patrick Patterson,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,202694,Marcus Morris Sr.,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,202695,Kawhi Leonard,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,1627826,Ivica Zubac,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,1628379,Luke Kennard,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,1629611,Terance Mann,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627812,Yogi Ferrell,1630206,Jay Scrubb,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,200765,Rajon Rondo,71.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,201586,Serge Ibaka,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,201587,Nicolas Batum,51.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,201976,Patrick Beverley,116.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,202326,DeMarcus Cousins,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,202331,Paul George,359.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,202335,Patrick Patterson,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,202694,Marcus Morris Sr.,115.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,202695,Kawhi Leonard,186.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,202704,Reggie Jackson,447.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,1627812,Yogi Ferrell,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,1628379,Luke Kennard,113.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,1629611,Terance Mann,166.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1627826,Ivica Zubac,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,200765,Rajon Rondo,64.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,201586,Serge Ibaka,68.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,201587,Nicolas Batum,94.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,201976,Patrick Beverley,38.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,202326,DeMarcus Cousins,33.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,202331,Paul George,100.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,202335,Patrick Patterson,49.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,202694,Marcus Morris Sr.,62.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,202695,Kawhi Leonard,109.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,202704,Reggie Jackson,152.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,1627812,Yogi Ferrell,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,1627826,Ivica Zubac,75.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,1629611,Terance Mann,116.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1628379,Luke Kennard,1630206,Jay Scrubb,5.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,200765,Rajon Rondo,47.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,201586,Serge Ibaka,39.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,201587,Nicolas Batum,107.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,201976,Patrick Beverley,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,202326,DeMarcus Cousins,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,202331,Paul George,94.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,202335,Patrick Patterson,51.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,202694,Marcus Morris Sr.,107.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,202695,Kawhi Leonard,121.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,202704,Reggie Jackson,169.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,1627812,Yogi Ferrell,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,1627826,Ivica Zubac,155.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,1628379,Luke Kennard,125.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1629611,Terance Mann,1630206,Jay Scrubb,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,200765,Rajon Rondo,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,201586,Serge Ibaka,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,201587,Nicolas Batum,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,201976,Patrick Beverley,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,202326,DeMarcus Cousins,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,202335,Patrick Patterson,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,202694,Marcus Morris Sr.,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,202695,Kawhi Leonard,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,1627812,Yogi Ferrell,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,1627826,Ivica Zubac,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,1628379,Luke Kennard,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2020-21,Regular Season,1630206,Jay Scrubb,1629611,Terance Mann,3.0,True,NBA.com — https://www.nba.com/stats

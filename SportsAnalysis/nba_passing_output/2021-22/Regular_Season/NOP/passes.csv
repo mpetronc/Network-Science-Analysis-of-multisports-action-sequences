@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+NOP,2021-22,Regular Season,202066,Garrett Temple,202685,Jonas Valanciunas,120.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,203468,CJ McCollum,21.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,203503,Tony Snell,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1626195,Willy Hernangomez,58.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1626204,Larry Nance Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1627742,Brandon Ingram,88.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1627820,Tyrone Wallace,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1628984,Devonte' Graham,189.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1629637,Jaxson Hayes,46.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1630184,Kira Lewis Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1630230,Naji Marshall,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1630529,Herbert Jones,61.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1630530,Trey Murphy III,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202066,Garrett Temple,1630631,Jose Alvarado,53.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,202066,Garrett Temple,98.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,203468,CJ McCollum,432.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,203503,Tony Snell,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1626195,Willy Hernangomez,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1626204,Larry Nance Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1627742,Brandon Ingram,528.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1627820,Tyrone Wallace,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1628984,Devonte' Graham,1021.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1629637,Jaxson Hayes,38.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1630184,Kira Lewis Jr.,89.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1630230,Naji Marshall,83.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1630529,Herbert Jones,254.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1630530,Trey Murphy III,45.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,202685,Jonas Valanciunas,1630631,Jose Alvarado,148.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,202066,Garrett Temple,18.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,202685,Jonas Valanciunas,312.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,203503,Tony Snell,26.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1626195,Willy Hernangomez,78.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1626204,Larry Nance Jr.,21.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1627742,Brandon Ingram,226.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1627820,Tyrone Wallace,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1628984,Devonte' Graham,145.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1629637,Jaxson Hayes,86.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1630184,Kira Lewis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1630230,Naji Marshall,59.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1630529,Herbert Jones,170.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1630530,Trey Murphy III,20.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203468,CJ McCollum,1630631,Jose Alvarado,69.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,202066,Garrett Temple,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,202685,Jonas Valanciunas,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,203468,CJ McCollum,61.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1626195,Willy Hernangomez,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1626204,Larry Nance Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1627742,Brandon Ingram,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1627820,Tyrone Wallace,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1628984,Devonte' Graham,42.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1629637,Jaxson Hayes,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1630184,Kira Lewis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1630230,Naji Marshall,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1630529,Herbert Jones,16.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1630530,Trey Murphy III,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,203503,Tony Snell,1630631,Jose Alvarado,53.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,202066,Garrett Temple,55.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,202685,Jonas Valanciunas,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,203468,CJ McCollum,149.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,203503,Tony Snell,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1626204,Larry Nance Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1627742,Brandon Ingram,129.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1627820,Tyrone Wallace,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1628984,Devonte' Graham,189.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1629637,Jaxson Hayes,17.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1630184,Kira Lewis Jr.,78.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1630230,Naji Marshall,72.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1630529,Herbert Jones,84.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1630530,Trey Murphy III,28.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626195,Willy Hernangomez,1630631,Jose Alvarado,170.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,202066,Garrett Temple,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,202685,Jonas Valanciunas,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,203468,CJ McCollum,28.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,203503,Tony Snell,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1626195,Willy Hernangomez,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1627742,Brandon Ingram,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1627820,Tyrone Wallace,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1628984,Devonte' Graham,24.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1629637,Jaxson Hayes,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1630184,Kira Lewis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1630230,Naji Marshall,21.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1630529,Herbert Jones,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1630530,Trey Murphy III,20.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1626204,Larry Nance Jr.,1630631,Jose Alvarado,43.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,202066,Garrett Temple,63.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,202685,Jonas Valanciunas,367.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,203468,CJ McCollum,155.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,203503,Tony Snell,19.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1626195,Willy Hernangomez,79.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1626204,Larry Nance Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1627820,Tyrone Wallace,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1628984,Devonte' Graham,442.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1629637,Jaxson Hayes,133.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1630184,Kira Lewis Jr.,53.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1630230,Naji Marshall,21.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1630529,Herbert Jones,254.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1630530,Trey Murphy III,38.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627742,Brandon Ingram,1630631,Jose Alvarado,96.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,202066,Garrett Temple,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,202685,Jonas Valanciunas,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,203468,CJ McCollum,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,203503,Tony Snell,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1626195,Willy Hernangomez,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1626204,Larry Nance Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1627742,Brandon Ingram,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1628984,Devonte' Graham,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1629637,Jaxson Hayes,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1630184,Kira Lewis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1630230,Naji Marshall,12.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1630529,Herbert Jones,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1630530,Trey Murphy III,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1627820,Tyrone Wallace,1630631,Jose Alvarado,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,202066,Garrett Temple,213.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,202685,Jonas Valanciunas,726.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,203468,CJ McCollum,169.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,203503,Tony Snell,31.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1626195,Willy Hernangomez,148.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1626204,Larry Nance Jr.,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1627742,Brandon Ingram,584.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1627820,Tyrone Wallace,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1629637,Jaxson Hayes,166.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1630184,Kira Lewis Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1630230,Naji Marshall,113.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1630529,Herbert Jones,416.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1630530,Trey Murphy III,79.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1628984,Devonte' Graham,1630631,Jose Alvarado,86.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,202066,Garrett Temple,35.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,202685,Jonas Valanciunas,46.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,203468,CJ McCollum,112.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,203503,Tony Snell,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1626195,Willy Hernangomez,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1626204,Larry Nance Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1627742,Brandon Ingram,141.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1627820,Tyrone Wallace,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1628984,Devonte' Graham,189.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1630184,Kira Lewis Jr.,48.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1630230,Naji Marshall,59.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1630529,Herbert Jones,92.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1630530,Trey Murphy III,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1629637,Jaxson Hayes,1630631,Jose Alvarado,125.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,202066,Garrett Temple,35.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,202685,Jonas Valanciunas,80.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,203468,CJ McCollum,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,203503,Tony Snell,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1626195,Willy Hernangomez,51.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1626204,Larry Nance Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1627742,Brandon Ingram,68.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1627820,Tyrone Wallace,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1628984,Devonte' Graham,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1629637,Jaxson Hayes,42.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1630230,Naji Marshall,42.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1630529,Herbert Jones,36.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1630530,Trey Murphy III,43.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630184,Kira Lewis Jr.,1630631,Jose Alvarado,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,202066,Garrett Temple,12.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,202685,Jonas Valanciunas,67.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,203468,CJ McCollum,111.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,203503,Tony Snell,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1626195,Willy Hernangomez,44.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1626204,Larry Nance Jr.,16.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1627742,Brandon Ingram,22.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1627820,Tyrone Wallace,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1628984,Devonte' Graham,132.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1629637,Jaxson Hayes,59.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1630184,Kira Lewis Jr.,47.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1630529,Herbert Jones,34.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1630530,Trey Murphy III,68.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630230,Naji Marshall,1630631,Jose Alvarado,172.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,202066,Garrett Temple,57.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,202685,Jonas Valanciunas,273.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,203468,CJ McCollum,264.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,203503,Tony Snell,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1626195,Willy Hernangomez,91.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1626204,Larry Nance Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1627742,Brandon Ingram,312.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1627820,Tyrone Wallace,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1628984,Devonte' Graham,435.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1629637,Jaxson Hayes,105.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1630184,Kira Lewis Jr.,47.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1630230,Naji Marshall,26.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1630530,Trey Murphy III,39.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630529,Herbert Jones,1630631,Jose Alvarado,86.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,202066,Garrett Temple,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,202685,Jonas Valanciunas,32.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,203468,CJ McCollum,26.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,203503,Tony Snell,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1626195,Willy Hernangomez,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1626204,Larry Nance Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1627742,Brandon Ingram,35.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1627820,Tyrone Wallace,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1628984,Devonte' Graham,73.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1629637,Jaxson Hayes,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1630184,Kira Lewis Jr.,41.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1630230,Naji Marshall,44.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1630529,Herbert Jones,21.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630530,Trey Murphy III,1630631,Jose Alvarado,68.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,202066,Garrett Temple,45.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,202685,Jonas Valanciunas,126.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,203468,CJ McCollum,92.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,203503,Tony Snell,26.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1626195,Willy Hernangomez,188.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1626204,Larry Nance Jr.,40.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1627742,Brandon Ingram,143.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1627820,Tyrone Wallace,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1628984,Devonte' Graham,90.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1629637,Jaxson Hayes,147.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1630184,Kira Lewis Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1630230,Naji Marshall,130.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1630529,Herbert Jones,94.0,True,NBA.com — https://www.nba.com/stats
+NOP,2021-22,Regular Season,1630631,Jose Alvarado,1630530,Trey Murphy III,85.0,True,NBA.com — https://www.nba.com/stats

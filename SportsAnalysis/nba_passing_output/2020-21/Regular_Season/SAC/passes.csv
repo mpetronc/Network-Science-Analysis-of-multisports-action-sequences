@@ -1,0 +1,183 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,203084,Harrison Barnes,29.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,203090,Maurice Harkless,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,203922,Glenn Robinson III,8.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1626153,Delon Wright,11.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1626158,Richaun Holmes,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1627741,Buddy Hield,52.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1627745,Damian Jones,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1628368,De'Aaron Fox,151.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1628963,Marvin Bagley III,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1629002,Chimezie Metu,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1629056,Terence Davis,9.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1629663,Louis King,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,202355,Hassan Whiteside,1630169,Tyrese Haliburton,136.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,202355,Hassan Whiteside,25.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,203090,Maurice Harkless,23.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,203922,Glenn Robinson III,20.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1626153,Delon Wright,54.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1626158,Richaun Holmes,126.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1627741,Buddy Hield,391.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1627745,Damian Jones,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1628368,De'Aaron Fox,1036.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1628963,Marvin Bagley III,76.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1629002,Chimezie Metu,8.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1629056,Terence Davis,29.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1629663,Louis King,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203084,Harrison Barnes,1630169,Tyrese Haliburton,343.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,202355,Hassan Whiteside,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,203084,Harrison Barnes,21.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,203922,Glenn Robinson III,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1626153,Delon Wright,103.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1626158,Richaun Holmes,21.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1627741,Buddy Hield,100.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1627745,Damian Jones,17.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1628368,De'Aaron Fox,74.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1628963,Marvin Bagley III,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1629002,Chimezie Metu,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1629056,Terence Davis,40.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1629663,Louis King,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203090,Maurice Harkless,1630169,Tyrese Haliburton,78.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,202355,Hassan Whiteside,4.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,203084,Harrison Barnes,9.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,203090,Maurice Harkless,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1626153,Delon Wright,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1626158,Richaun Holmes,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1627741,Buddy Hield,36.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1627745,Damian Jones,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1628368,De'Aaron Fox,48.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1628963,Marvin Bagley III,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1629002,Chimezie Metu,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1629056,Terence Davis,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1629663,Louis King,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,203922,Glenn Robinson III,1630169,Tyrese Haliburton,73.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,202355,Hassan Whiteside,9.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,203084,Harrison Barnes,51.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,203090,Maurice Harkless,85.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,203922,Glenn Robinson III,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,1626158,Richaun Holmes,81.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,1627741,Buddy Hield,206.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,1627745,Damian Jones,79.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,1628368,De'Aaron Fox,75.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,1628963,Marvin Bagley III,52.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,1629002,Chimezie Metu,88.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,1629056,Terence Davis,162.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,1629663,Louis King,12.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626153,Delon Wright,1630169,Tyrese Haliburton,92.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,202355,Hassan Whiteside,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,203084,Harrison Barnes,192.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,203090,Maurice Harkless,30.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,203922,Glenn Robinson III,13.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,1626153,Delon Wright,89.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,1627741,Buddy Hield,328.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,1627745,Damian Jones,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,1628368,De'Aaron Fox,705.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,1628963,Marvin Bagley III,60.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,1629002,Chimezie Metu,9.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,1629056,Terence Davis,21.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,1629663,Louis King,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1626158,Richaun Holmes,1630169,Tyrese Haliburton,292.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,202355,Hassan Whiteside,34.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,203084,Harrison Barnes,226.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,203090,Maurice Harkless,60.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,203922,Glenn Robinson III,30.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,1626153,Delon Wright,191.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,1626158,Richaun Holmes,314.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,1627745,Damian Jones,40.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,1628368,De'Aaron Fox,851.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,1628963,Marvin Bagley III,165.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,1629002,Chimezie Metu,56.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,1629056,Terence Davis,59.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,1629663,Louis King,11.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627741,Buddy Hield,1630169,Tyrese Haliburton,364.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,202355,Hassan Whiteside,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,203084,Harrison Barnes,11.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,203090,Maurice Harkless,26.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,203922,Glenn Robinson III,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,1626153,Delon Wright,81.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,1626158,Richaun Holmes,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,1627741,Buddy Hield,49.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,1628368,De'Aaron Fox,14.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,1628963,Marvin Bagley III,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,1629002,Chimezie Metu,7.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,1629056,Terence Davis,28.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,1629663,Louis King,18.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1627745,Damian Jones,1630169,Tyrese Haliburton,25.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,202355,Hassan Whiteside,97.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,203084,Harrison Barnes,681.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,203090,Maurice Harkless,54.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,203922,Glenn Robinson III,44.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,1626153,Delon Wright,72.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,1626158,Richaun Holmes,543.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,1627741,Buddy Hield,819.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,1627745,Damian Jones,11.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,1628963,Marvin Bagley III,267.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,1629002,Chimezie Metu,36.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,1629056,Terence Davis,52.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,1629663,Louis King,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628368,De'Aaron Fox,1630169,Tyrese Haliburton,432.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,202355,Hassan Whiteside,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,203084,Harrison Barnes,60.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,203090,Maurice Harkless,14.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,203922,Glenn Robinson III,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,1626153,Delon Wright,33.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,1626158,Richaun Holmes,29.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,1627741,Buddy Hield,183.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,1627745,Damian Jones,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,1628368,De'Aaron Fox,437.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,1629002,Chimezie Metu,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,1629056,Terence Davis,18.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,1629663,Louis King,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1628963,Marvin Bagley III,1630169,Tyrese Haliburton,136.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,202355,Hassan Whiteside,1.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,203084,Harrison Barnes,18.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,203090,Maurice Harkless,15.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,203922,Glenn Robinson III,11.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,1626153,Delon Wright,120.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,1626158,Richaun Holmes,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,1627741,Buddy Hield,63.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,1627745,Damian Jones,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,1628368,De'Aaron Fox,62.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,1628963,Marvin Bagley III,3.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,1629056,Terence Davis,39.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,1629663,Louis King,6.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629002,Chimezie Metu,1630169,Tyrese Haliburton,118.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,202355,Hassan Whiteside,5.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,203084,Harrison Barnes,14.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,203090,Maurice Harkless,31.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,203922,Glenn Robinson III,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,1626153,Delon Wright,109.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,1626158,Richaun Holmes,22.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,1627741,Buddy Hield,53.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,1627745,Damian Jones,30.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,1628368,De'Aaron Fox,44.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,1628963,Marvin Bagley III,10.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,1629002,Chimezie Metu,40.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,1629663,Louis King,18.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629056,Terence Davis,1630169,Tyrese Haliburton,45.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,202355,Hassan Whiteside,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,203084,Harrison Barnes,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,203090,Maurice Harkless,2.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,203922,Glenn Robinson III,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,1626153,Delon Wright,20.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,1626158,Richaun Holmes,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,1627741,Buddy Hield,15.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,1627745,Damian Jones,8.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,1628368,De'Aaron Fox,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,1629002,Chimezie Metu,8.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,1629056,Terence Davis,17.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1629663,Louis King,1630169,Tyrese Haliburton,0.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,202355,Hassan Whiteside,137.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,203084,Harrison Barnes,299.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,203090,Maurice Harkless,67.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,203922,Glenn Robinson III,61.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,1626153,Delon Wright,81.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,1626158,Richaun Holmes,288.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,1627741,Buddy Hield,388.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,1627745,Damian Jones,21.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,1628368,De'Aaron Fox,434.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,1628963,Marvin Bagley III,118.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,1629002,Chimezie Metu,108.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,1629056,Terence Davis,57.0,True,NBA.com — https://www.nba.com/stats
+SAC,2020-21,Regular Season,1630169,Tyrese Haliburton,1629663,Louis King,0.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1628975,Jevon Carter,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1628976,Wendell Carter Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1629021,Moritz Wagner,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1629048,Goga Bitadze,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1630217,Desmond Bane,80.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1630532,Franz Wagner,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1630591,Jalen Suggs,38.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1631094,Paolo Banchero,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1631288,Jamal Cain,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1641710,Anthony Black,56.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1641724,Jett Howard,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1641783,Tristan da Silva,26.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1642859,Jase Richardson,43.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628371,Jonathan Isaac,1642869,Noah Penda,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1628371,Jonathan Isaac,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1628976,Wendell Carter Jr.,63.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1629021,Moritz Wagner,85.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1629048,Goga Bitadze,72.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1630217,Desmond Bane,184.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1630532,Franz Wagner,20.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1630591,Jalen Suggs,39.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1631094,Paolo Banchero,235.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1631288,Jamal Cain,44.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1641710,Anthony Black,48.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1641724,Jett Howard,39.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1641783,Tristan da Silva,64.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1642859,Jase Richardson,14.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628975,Jevon Carter,1642869,Noah Penda,48.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1628371,Jonathan Isaac,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1628975,Jevon Carter,63.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1629048,Goga Bitadze,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1630217,Desmond Bane,492.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1630532,Franz Wagner,132.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1630591,Jalen Suggs,355.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1631094,Paolo Banchero,424.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1631288,Jamal Cain,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1641710,Anthony Black,314.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1641724,Jett Howard,40.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1641783,Tristan da Silva,175.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1642859,Jase Richardson,36.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1628976,Wendell Carter Jr.,1642869,Noah Penda,23.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1628371,Jonathan Isaac,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1628975,Jevon Carter,77.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1628976,Wendell Carter Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1629048,Goga Bitadze,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1630217,Desmond Bane,111.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1630532,Franz Wagner,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1630591,Jalen Suggs,86.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1631094,Paolo Banchero,39.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1631288,Jamal Cain,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1641710,Anthony Black,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1641724,Jett Howard,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1641783,Tristan da Silva,28.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1642859,Jase Richardson,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629021,Moritz Wagner,1642869,Noah Penda,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1628371,Jonathan Isaac,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1628975,Jevon Carter,55.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1629021,Moritz Wagner,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1630217,Desmond Bane,184.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1630532,Franz Wagner,90.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1630591,Jalen Suggs,122.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1631094,Paolo Banchero,133.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1631288,Jamal Cain,43.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1641710,Anthony Black,134.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1641724,Jett Howard,47.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1641783,Tristan da Silva,87.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1642859,Jase Richardson,50.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1629048,Goga Bitadze,1642869,Noah Penda,35.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1628371,Jonathan Isaac,50.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1628975,Jevon Carter,149.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1628976,Wendell Carter Jr.,384.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1629021,Moritz Wagner,84.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1629048,Goga Bitadze,106.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1630532,Franz Wagner,234.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1630591,Jalen Suggs,525.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1631094,Paolo Banchero,593.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1631288,Jamal Cain,34.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1641710,Anthony Black,421.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1641724,Jett Howard,69.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1641783,Tristan da Silva,188.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1642859,Jase Richardson,75.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630217,Desmond Bane,1642869,Noah Penda,109.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1628371,Jonathan Isaac,15.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1628975,Jevon Carter,15.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1628976,Wendell Carter Jr.,101.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1629021,Moritz Wagner,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1629048,Goga Bitadze,61.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1630217,Desmond Bane,217.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1630591,Jalen Suggs,242.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1631094,Paolo Banchero,105.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1631288,Jamal Cain,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1641710,Anthony Black,167.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1641724,Jett Howard,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1641783,Tristan da Silva,76.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1642859,Jase Richardson,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630532,Franz Wagner,1642869,Noah Penda,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1628371,Jonathan Isaac,27.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1628975,Jevon Carter,33.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1628976,Wendell Carter Jr.,333.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1629021,Moritz Wagner,86.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1629048,Goga Bitadze,81.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1630217,Desmond Bane,589.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1630532,Franz Wagner,269.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1631094,Paolo Banchero,685.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1631288,Jamal Cain,33.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1641710,Anthony Black,213.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1641724,Jett Howard,32.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1641783,Tristan da Silva,227.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1642859,Jase Richardson,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1630591,Jalen Suggs,1642869,Noah Penda,52.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1628371,Jonathan Isaac,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1628975,Jevon Carter,194.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1628976,Wendell Carter Jr.,346.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1629021,Moritz Wagner,36.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1629048,Goga Bitadze,86.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1630217,Desmond Bane,687.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1630532,Franz Wagner,145.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1630591,Jalen Suggs,660.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1631288,Jamal Cain,46.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1641710,Anthony Black,742.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1641724,Jett Howard,66.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1641783,Tristan da Silva,305.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1642859,Jase Richardson,88.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631094,Paolo Banchero,1642869,Noah Penda,77.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1628371,Jonathan Isaac,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1628975,Jevon Carter,66.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1628976,Wendell Carter Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1629021,Moritz Wagner,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1629048,Goga Bitadze,23.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1630217,Desmond Bane,51.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1630532,Franz Wagner,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1630591,Jalen Suggs,36.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1631094,Paolo Banchero,43.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1641710,Anthony Black,23.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1641724,Jett Howard,15.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1641783,Tristan da Silva,21.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1642859,Jase Richardson,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1631288,Jamal Cain,1642869,Noah Penda,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1628371,Jonathan Isaac,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1628975,Jevon Carter,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1628976,Wendell Carter Jr.,313.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1629021,Moritz Wagner,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1629048,Goga Bitadze,116.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1630217,Desmond Bane,421.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1630532,Franz Wagner,184.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1630591,Jalen Suggs,203.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1631094,Paolo Banchero,708.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1631288,Jamal Cain,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1641724,Jett Howard,31.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1641783,Tristan da Silva,139.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1642859,Jase Richardson,58.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641710,Anthony Black,1642869,Noah Penda,55.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1628371,Jonathan Isaac,16.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1628975,Jevon Carter,38.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1628976,Wendell Carter Jr.,28.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1629021,Moritz Wagner,16.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1629048,Goga Bitadze,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1630217,Desmond Bane,53.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1630532,Franz Wagner,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1630591,Jalen Suggs,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1631094,Paolo Banchero,69.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1631288,Jamal Cain,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1641710,Anthony Black,34.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1641783,Tristan da Silva,21.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1642859,Jase Richardson,39.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641724,Jett Howard,1642869,Noah Penda,39.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1628371,Jonathan Isaac,21.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1628975,Jevon Carter,76.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1628976,Wendell Carter Jr.,130.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1629021,Moritz Wagner,26.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1629048,Goga Bitadze,85.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1630217,Desmond Bane,221.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1630532,Franz Wagner,84.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1630591,Jalen Suggs,260.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1631094,Paolo Banchero,290.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1631288,Jamal Cain,20.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1641710,Anthony Black,209.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1641724,Jett Howard,21.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1642859,Jase Richardson,51.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1641783,Tristan da Silva,1642869,Noah Penda,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1628371,Jonathan Isaac,31.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1628975,Jevon Carter,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1628976,Wendell Carter Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1629021,Moritz Wagner,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1629048,Goga Bitadze,51.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1630217,Desmond Bane,90.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1630532,Franz Wagner,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1630591,Jalen Suggs,14.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1631094,Paolo Banchero,82.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1631288,Jamal Cain,27.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1641710,Anthony Black,74.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1641724,Jett Howard,52.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1641783,Tristan da Silva,47.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642859,Jase Richardson,1642869,Noah Penda,86.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1628371,Jonathan Isaac,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1628975,Jevon Carter,95.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1628976,Wendell Carter Jr.,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1629021,Moritz Wagner,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1629048,Goga Bitadze,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1630217,Desmond Bane,152.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1630532,Franz Wagner,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1630591,Jalen Suggs,85.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1631094,Paolo Banchero,82.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1631288,Jamal Cain,26.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1641710,Anthony Black,88.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1641724,Jett Howard,60.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1641783,Tristan da Silva,41.0,True,NBA.com — https://www.nba.com/stats
+ORL,2025-26,Regular Season,1642869,Noah Penda,1642859,Jase Richardson,124.0,True,NBA.com — https://www.nba.com/stats

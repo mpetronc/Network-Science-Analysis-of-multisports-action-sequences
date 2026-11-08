@@ -1,0 +1,241 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MIA,2021-22,Regular Season,200768,Kyle Lowry,200782,P.J. Tucker,339.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,202693,Markieff Morris,65.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,202710,Jimmy Butler III,679.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,203473,Dewayne Dedmon,223.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,203506,Victor Oladipo,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1628389,Bam Adebayo,751.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1628997,Caleb Martin,182.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1629130,Duncan Robinson,472.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1629216,Gabe Vincent,266.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1629622,Max Strus,284.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1629639,Tyler Herro,591.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1629644,KZ Okpala,55.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1630209,Omer Yurtseven,110.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200768,Kyle Lowry,1630585,Marcus Garrett,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,200768,Kyle Lowry,576.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,202693,Markieff Morris,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,202710,Jimmy Butler III,319.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,203473,Dewayne Dedmon,31.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,203506,Victor Oladipo,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1628389,Bam Adebayo,131.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1628997,Caleb Martin,20.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1629130,Duncan Robinson,175.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1629216,Gabe Vincent,192.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1629622,Max Strus,79.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1629639,Tyler Herro,273.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1629644,KZ Okpala,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1630209,Omer Yurtseven,21.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,200782,P.J. Tucker,1630585,Marcus Garrett,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,200768,Kyle Lowry,56.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,200782,P.J. Tucker,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,202710,Jimmy Butler III,27.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,203473,Dewayne Dedmon,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,203506,Victor Oladipo,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1628389,Bam Adebayo,22.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1628997,Caleb Martin,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1629130,Duncan Robinson,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1629216,Gabe Vincent,16.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1629622,Max Strus,17.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1629639,Tyler Herro,72.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1629644,KZ Okpala,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1630209,Omer Yurtseven,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202693,Markieff Morris,1630585,Marcus Garrett,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,200768,Kyle Lowry,390.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,200782,P.J. Tucker,283.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,202693,Markieff Morris,39.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,203473,Dewayne Dedmon,94.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,203506,Victor Oladipo,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1628389,Bam Adebayo,434.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1628997,Caleb Martin,119.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1629130,Duncan Robinson,383.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1629216,Gabe Vincent,227.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1629622,Max Strus,157.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1629639,Tyler Herro,391.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1629644,KZ Okpala,10.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1630209,Omer Yurtseven,45.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,202710,Jimmy Butler III,1630585,Marcus Garrett,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,200768,Kyle Lowry,361.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,200782,P.J. Tucker,29.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,202693,Markieff Morris,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,202710,Jimmy Butler III,141.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,203506,Victor Oladipo,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1628389,Bam Adebayo,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1628997,Caleb Martin,32.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1629130,Duncan Robinson,85.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1629216,Gabe Vincent,237.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1629622,Max Strus,52.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1629639,Tyler Herro,288.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1629644,KZ Okpala,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1630209,Omer Yurtseven,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203473,Dewayne Dedmon,1630585,Marcus Garrett,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,200768,Kyle Lowry,29.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,200782,P.J. Tucker,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,202693,Markieff Morris,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,202710,Jimmy Butler III,10.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,203473,Dewayne Dedmon,10.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1628389,Bam Adebayo,19.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1628539,Mychal Mulder,10.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1628997,Caleb Martin,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1629130,Duncan Robinson,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1629216,Gabe Vincent,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1629622,Max Strus,25.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1629639,Tyler Herro,53.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1629644,KZ Okpala,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1630209,Omer Yurtseven,18.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,203506,Victor Oladipo,1630585,Marcus Garrett,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,200768,Kyle Lowry,685.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,200782,P.J. Tucker,129.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,202693,Markieff Morris,21.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,202710,Jimmy Butler III,426.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,203473,Dewayne Dedmon,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,203506,Victor Oladipo,19.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,1628997,Caleb Martin,69.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,1629130,Duncan Robinson,383.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,1629216,Gabe Vincent,283.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,1629622,Max Strus,166.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,1629639,Tyler Herro,318.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,1629644,KZ Okpala,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,1630209,Omer Yurtseven,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628389,Bam Adebayo,1630585,Marcus Garrett,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,200768,Kyle Lowry,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,200782,P.J. Tucker,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,202693,Markieff Morris,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,202710,Jimmy Butler III,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,203473,Dewayne Dedmon,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,203506,Victor Oladipo,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,1628389,Bam Adebayo,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,1628997,Caleb Martin,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,1629130,Duncan Robinson,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,1629216,Gabe Vincent,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,1629622,Max Strus,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,1629639,Tyler Herro,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,1629644,KZ Okpala,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,1630209,Omer Yurtseven,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628539,Mychal Mulder,1630585,Marcus Garrett,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,200768,Kyle Lowry,191.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,200782,P.J. Tucker,31.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,202693,Markieff Morris,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,202710,Jimmy Butler III,92.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,203473,Dewayne Dedmon,30.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,203506,Victor Oladipo,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,1628389,Bam Adebayo,61.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,1629130,Duncan Robinson,29.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,1629216,Gabe Vincent,179.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,1629622,Max Strus,86.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,1629639,Tyler Herro,231.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,1629644,KZ Okpala,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,1630209,Omer Yurtseven,37.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1628997,Caleb Martin,1630585,Marcus Garrett,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,200768,Kyle Lowry,399.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,200782,P.J. Tucker,180.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,202693,Markieff Morris,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,202710,Jimmy Butler III,310.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,203473,Dewayne Dedmon,66.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,203506,Victor Oladipo,22.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,1628389,Bam Adebayo,271.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,1628539,Mychal Mulder,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,1628997,Caleb Martin,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,1629216,Gabe Vincent,194.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,1629622,Max Strus,33.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,1629639,Tyler Herro,221.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,1629644,KZ Okpala,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,1630209,Omer Yurtseven,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629130,Duncan Robinson,1630585,Marcus Garrett,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,200768,Kyle Lowry,280.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,200782,P.J. Tucker,135.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,202693,Markieff Morris,29.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,202710,Jimmy Butler III,313.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,203473,Dewayne Dedmon,112.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,203506,Victor Oladipo,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,1628389,Bam Adebayo,304.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,1628539,Mychal Mulder,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,1628997,Caleb Martin,152.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,1629130,Duncan Robinson,183.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,1629622,Max Strus,265.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,1629639,Tyler Herro,384.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,1629644,KZ Okpala,41.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,1630209,Omer Yurtseven,105.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629216,Gabe Vincent,1630585,Marcus Garrett,16.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,200768,Kyle Lowry,305.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,200782,P.J. Tucker,75.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,202693,Markieff Morris,20.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,202710,Jimmy Butler III,161.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,203473,Dewayne Dedmon,57.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,203506,Victor Oladipo,30.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,1628389,Bam Adebayo,109.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,1628997,Caleb Martin,98.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,1629130,Duncan Robinson,30.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,1629216,Gabe Vincent,363.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,1629639,Tyler Herro,249.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,1629644,KZ Okpala,25.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,1630209,Omer Yurtseven,41.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629622,Max Strus,1630585,Marcus Garrett,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,200768,Kyle Lowry,514.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,200782,P.J. Tucker,168.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,202693,Markieff Morris,66.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,202710,Jimmy Butler III,484.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,203473,Dewayne Dedmon,153.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,203506,Victor Oladipo,50.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,1628389,Bam Adebayo,305.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,1628997,Caleb Martin,172.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,1629130,Duncan Robinson,203.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,1629216,Gabe Vincent,304.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,1629622,Max Strus,199.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,1629644,KZ Okpala,31.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,1630209,Omer Yurtseven,67.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629639,Tyler Herro,1630585,Marcus Garrett,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,200768,Kyle Lowry,55.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,200782,P.J. Tucker,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,202693,Markieff Morris,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,202710,Jimmy Butler III,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,203473,Dewayne Dedmon,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,203506,Victor Oladipo,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,1628389,Bam Adebayo,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,1628997,Caleb Martin,13.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,1629130,Duncan Robinson,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,1629216,Gabe Vincent,54.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,1629622,Max Strus,24.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,1629639,Tyler Herro,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,1630209,Omer Yurtseven,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1629644,KZ Okpala,1630585,Marcus Garrett,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,200768,Kyle Lowry,176.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,200782,P.J. Tucker,22.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,202693,Markieff Morris,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,202710,Jimmy Butler III,70.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,203473,Dewayne Dedmon,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,203506,Victor Oladipo,20.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,1628389,Bam Adebayo,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,1628539,Mychal Mulder,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,1628997,Caleb Martin,32.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,1629130,Duncan Robinson,43.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,1629216,Gabe Vincent,141.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,1629622,Max Strus,68.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,1629639,Tyler Herro,117.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,1629644,KZ Okpala,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630209,Omer Yurtseven,1630585,Marcus Garrett,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,200768,Kyle Lowry,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,200782,P.J. Tucker,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,202693,Markieff Morris,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,202710,Jimmy Butler III,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,203473,Dewayne Dedmon,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,203506,Victor Oladipo,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,1628389,Bam Adebayo,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,1628997,Caleb Martin,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,1629130,Duncan Robinson,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,1629216,Gabe Vincent,39.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,1629622,Max Strus,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,1629639,Tyler Herro,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,1629644,KZ Okpala,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2021-22,Regular Season,1630585,Marcus Garrett,1630209,Omer Yurtseven,10.0,True,NBA.com — https://www.nba.com/stats

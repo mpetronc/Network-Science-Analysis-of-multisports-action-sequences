@@ -1,0 +1,111 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+LAC,2024-25,Regular Season,201587,Nicolas Batum,201935,James Harden,366.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201587,Nicolas Batum,202695,Kawhi Leonard,75.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201587,Nicolas Batum,203992,Bogdan Bogdanović,85.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201587,Nicolas Batum,1626181,Norman Powell,99.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201587,Nicolas Batum,1627732,Ben Simmons,50.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201587,Nicolas Batum,1627739,Kris Dunn,165.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201587,Nicolas Batum,1627826,Ivica Zubac,111.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201587,Nicolas Batum,1627884,Derrick Jones Jr.,47.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201587,Nicolas Batum,1629599,Amir Coffey,101.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201587,Nicolas Batum,1641757,Jordan Miller,32.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,201587,Nicolas Batum,206.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,202695,Kawhi Leonard,442.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,203992,Bogdan Bogdanović,203.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,1626181,Norman Powell,634.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,1627732,Ben Simmons,66.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,1627739,Kris Dunn,709.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,1627826,Ivica Zubac,908.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,1627884,Derrick Jones Jr.,537.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,1629599,Amir Coffey,244.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,201935,James Harden,1641757,Jordan Miller,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,201587,Nicolas Batum,48.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,201935,James Harden,315.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,203992,Bogdan Bogdanović,80.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,1626181,Norman Powell,85.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,1627732,Ben Simmons,33.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,1627739,Kris Dunn,144.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,1627826,Ivica Zubac,181.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,1627884,Derrick Jones Jr.,67.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,1629599,Amir Coffey,49.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,202695,Kawhi Leonard,1641757,Jordan Miller,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,201587,Nicolas Batum,63.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,201935,James Harden,231.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,202695,Kawhi Leonard,116.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,1626181,Norman Powell,39.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,1627732,Ben Simmons,124.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,1627739,Kris Dunn,76.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,1627826,Ivica Zubac,109.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,1627884,Derrick Jones Jr.,69.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,1629599,Amir Coffey,53.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,203992,Bogdan Bogdanović,1641757,Jordan Miller,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,201587,Nicolas Batum,46.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,201935,James Harden,380.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,202695,Kawhi Leonard,85.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,203992,Bogdan Bogdanović,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,1627732,Ben Simmons,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,1627739,Kris Dunn,172.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,1627826,Ivica Zubac,250.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,1627884,Derrick Jones Jr.,96.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,1629599,Amir Coffey,72.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1626181,Norman Powell,1641757,Jordan Miller,7.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,201587,Nicolas Batum,38.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,201935,James Harden,83.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,202695,Kawhi Leonard,50.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,203992,Bogdan Bogdanović,166.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,1626181,Norman Powell,35.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,1627739,Kris Dunn,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,1627826,Ivica Zubac,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,1627884,Derrick Jones Jr.,56.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,1629599,Amir Coffey,40.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627732,Ben Simmons,1641757,Jordan Miller,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,201587,Nicolas Batum,112.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,201935,James Harden,967.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,202695,Kawhi Leonard,204.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,203992,Bogdan Bogdanović,77.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,1626181,Norman Powell,313.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,1627732,Ben Simmons,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,1627826,Ivica Zubac,398.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,1627884,Derrick Jones Jr.,167.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,1629599,Amir Coffey,173.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627739,Kris Dunn,1641757,Jordan Miller,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,201587,Nicolas Batum,77.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,201935,James Harden,1418.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,202695,Kawhi Leonard,183.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,203992,Bogdan Bogdanović,110.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,1626181,Norman Powell,369.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,1627732,Ben Simmons,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,1627739,Kris Dunn,424.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,1627884,Derrick Jones Jr.,287.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,1629599,Amir Coffey,119.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627826,Ivica Zubac,1641757,Jordan Miller,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,201587,Nicolas Batum,21.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,201935,James Harden,634.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,202695,Kawhi Leonard,82.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,203992,Bogdan Bogdanović,73.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,1626181,Norman Powell,146.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,1627732,Ben Simmons,39.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,1627739,Kris Dunn,187.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,1627826,Ivica Zubac,208.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,1629599,Amir Coffey,92.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1627884,Derrick Jones Jr.,1641757,Jordan Miller,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,201587,Nicolas Batum,65.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,201935,James Harden,290.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,202695,Kawhi Leonard,40.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,203992,Bogdan Bogdanović,60.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,1626181,Norman Powell,56.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,1627732,Ben Simmons,26.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,1627739,Kris Dunn,145.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,1627826,Ivica Zubac,111.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,1627884,Derrick Jones Jr.,84.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1629599,Amir Coffey,1641757,Jordan Miller,29.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,201587,Nicolas Batum,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,201935,James Harden,27.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,202695,Kawhi Leonard,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,203992,Bogdan Bogdanović,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,1626181,Norman Powell,7.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,1627732,Ben Simmons,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,1627739,Kris Dunn,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,1627826,Ivica Zubac,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,1627884,Derrick Jones Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2024-25,Regular Season,1641757,Jordan Miller,1629599,Amir Coffey,33.0,True,NBA.com — https://www.nba.com/stats

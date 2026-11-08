@@ -1,0 +1,273 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MIA,2022-23,Regular Season,2617,Udonis Haslem,200768,Kyle Lowry,17.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,201567,Kevin Love,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,202710,Jimmy Butler III,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,203506,Victor Oladipo,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1628389,Bam Adebayo,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1628997,Caleb Martin,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1629130,Duncan Robinson,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1629216,Gabe Vincent,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1629312,Haywood Highsmith,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1629622,Max Strus,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1629639,Tyler Herro,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1631107,Nikola Jović,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1631115,Orlando Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,2617,Udonis Haslem,1631288,Jamal Cain,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,2617,Udonis Haslem,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,201567,Kevin Love,43.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,202710,Jimmy Butler III,550.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,203469,Cody Zeller,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,203506,Victor Oladipo,96.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1628389,Bam Adebayo,643.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1628997,Caleb Martin,354.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1629130,Duncan Robinson,69.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1629216,Gabe Vincent,119.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1629312,Haywood Highsmith,89.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1629622,Max Strus,394.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1629639,Tyler Herro,540.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1631107,Nikola Jović,64.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1631115,Orlando Robinson,41.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,200768,Kyle Lowry,1631288,Jamal Cain,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,2617,Udonis Haslem,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,200768,Kyle Lowry,42.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,202710,Jimmy Butler III,183.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,203469,Cody Zeller,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,203506,Victor Oladipo,24.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1628389,Bam Adebayo,70.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1628997,Caleb Martin,20.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1629130,Duncan Robinson,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1629216,Gabe Vincent,133.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1629312,Haywood Highsmith,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1629622,Max Strus,17.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1629639,Tyler Herro,129.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1631107,Nikola Jović,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1631115,Orlando Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,201567,Kevin Love,1631288,Jamal Cain,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,2617,Udonis Haslem,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,200768,Kyle Lowry,342.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,201567,Kevin Love,134.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,203469,Cody Zeller,39.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,203506,Victor Oladipo,154.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1628389,Bam Adebayo,411.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1628997,Caleb Martin,266.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1629130,Duncan Robinson,82.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1629216,Gabe Vincent,356.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1629312,Haywood Highsmith,56.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1629622,Max Strus,301.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1629639,Tyler Herro,421.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1631107,Nikola Jović,19.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1631115,Orlando Robinson,42.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1631123,Jamaree Bouyea,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,202710,Jimmy Butler III,1631288,Jamal Cain,10.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,2617,Udonis Haslem,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,200768,Kyle Lowry,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,201567,Kevin Love,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,202710,Jimmy Butler III,50.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,203506,Victor Oladipo,53.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1628389,Bam Adebayo,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1628997,Caleb Martin,28.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1629130,Duncan Robinson,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1629216,Gabe Vincent,42.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1629312,Haywood Highsmith,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1629622,Max Strus,22.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1629639,Tyler Herro,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1631107,Nikola Jović,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1631115,Orlando Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203469,Cody Zeller,1631288,Jamal Cain,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,2617,Udonis Haslem,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,200768,Kyle Lowry,88.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,201567,Kevin Love,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,202710,Jimmy Butler III,181.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,203469,Cody Zeller,50.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1628389,Bam Adebayo,228.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1628997,Caleb Martin,109.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1629130,Duncan Robinson,77.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1629216,Gabe Vincent,135.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1629312,Haywood Highsmith,44.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1629622,Max Strus,205.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1629639,Tyler Herro,238.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1631107,Nikola Jović,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1631115,Orlando Robinson,43.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,203506,Victor Oladipo,1631288,Jamal Cain,27.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,2617,Udonis Haslem,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,200768,Kyle Lowry,630.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,201567,Kevin Love,44.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,202710,Jimmy Butler III,396.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,203506,Victor Oladipo,218.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1628997,Caleb Martin,179.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1629130,Duncan Robinson,108.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1629216,Gabe Vincent,349.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1629312,Haywood Highsmith,37.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1629622,Max Strus,371.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1629639,Tyler Herro,685.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1631107,Nikola Jović,17.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1631115,Orlando Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1631123,Jamaree Bouyea,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628389,Bam Adebayo,1631288,Jamal Cain,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,2617,Udonis Haslem,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,200768,Kyle Lowry,398.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,201567,Kevin Love,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,202710,Jimmy Butler III,270.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,203469,Cody Zeller,20.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,203506,Victor Oladipo,153.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1628389,Bam Adebayo,247.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1629130,Duncan Robinson,59.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1629216,Gabe Vincent,203.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1629312,Haywood Highsmith,41.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1629622,Max Strus,178.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1629639,Tyler Herro,318.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1631107,Nikola Jović,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1631115,Orlando Robinson,15.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1631123,Jamaree Bouyea,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1628997,Caleb Martin,1631288,Jamal Cain,16.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,2617,Udonis Haslem,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,200768,Kyle Lowry,62.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,201567,Kevin Love,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,202710,Jimmy Butler III,50.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,203469,Cody Zeller,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,203506,Victor Oladipo,87.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1628389,Bam Adebayo,71.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1628997,Caleb Martin,61.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1629216,Gabe Vincent,117.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1629312,Haywood Highsmith,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1629622,Max Strus,33.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1629639,Tyler Herro,68.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1631107,Nikola Jović,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1631115,Orlando Robinson,16.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1631123,Jamaree Bouyea,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629130,Duncan Robinson,1631288,Jamal Cain,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,2617,Udonis Haslem,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,200768,Kyle Lowry,117.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,201567,Kevin Love,97.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,202710,Jimmy Butler III,447.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,203469,Cody Zeller,28.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,203506,Victor Oladipo,131.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1628389,Bam Adebayo,454.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1628997,Caleb Martin,131.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1629130,Duncan Robinson,78.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1629312,Haywood Highsmith,66.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1629622,Max Strus,245.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1629639,Tyler Herro,243.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1631107,Nikola Jović,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1631115,Orlando Robinson,24.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1631123,Jamaree Bouyea,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629216,Gabe Vincent,1631288,Jamal Cain,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,2617,Udonis Haslem,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,200768,Kyle Lowry,110.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,201567,Kevin Love,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,202710,Jimmy Butler III,60.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,203469,Cody Zeller,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,203506,Victor Oladipo,88.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1628389,Bam Adebayo,55.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1628997,Caleb Martin,49.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1629130,Duncan Robinson,31.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1629216,Gabe Vincent,124.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1629622,Max Strus,97.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1629639,Tyler Herro,115.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1631107,Nikola Jović,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1631115,Orlando Robinson,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1631123,Jamaree Bouyea,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629312,Haywood Highsmith,1631288,Jamal Cain,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,2617,Udonis Haslem,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,200768,Kyle Lowry,409.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,201567,Kevin Love,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,202710,Jimmy Butler III,282.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,203469,Cody Zeller,17.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,203506,Victor Oladipo,287.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1628389,Bam Adebayo,363.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1628997,Caleb Martin,207.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1629130,Duncan Robinson,44.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1629216,Gabe Vincent,395.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1629312,Haywood Highsmith,91.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1629639,Tyler Herro,327.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1631107,Nikola Jović,28.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1631115,Orlando Robinson,32.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1631123,Jamaree Bouyea,21.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629622,Max Strus,1631288,Jamal Cain,15.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,2617,Udonis Haslem,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,200768,Kyle Lowry,487.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,201567,Kevin Love,96.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,202710,Jimmy Butler III,424.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,203469,Cody Zeller,26.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,203506,Victor Oladipo,214.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1628389,Bam Adebayo,574.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1628997,Caleb Martin,294.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1629130,Duncan Robinson,77.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1629216,Gabe Vincent,239.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1629312,Haywood Highsmith,89.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1629622,Max Strus,266.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1631107,Nikola Jović,19.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1631115,Orlando Robinson,26.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1631123,Jamaree Bouyea,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1629639,Tyler Herro,1631288,Jamal Cain,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,2617,Udonis Haslem,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,200768,Kyle Lowry,87.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,202710,Jimmy Butler III,18.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,203506,Victor Oladipo,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1628389,Bam Adebayo,13.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1628997,Caleb Martin,35.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1629130,Duncan Robinson,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1629216,Gabe Vincent,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1629312,Haywood Highsmith,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1629622,Max Strus,35.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1629639,Tyler Herro,27.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1631115,Orlando Robinson,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631107,Nikola Jović,1631288,Jamal Cain,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,2617,Udonis Haslem,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,200768,Kyle Lowry,50.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,202710,Jimmy Butler III,78.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,203506,Victor Oladipo,74.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1628389,Bam Adebayo,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1628997,Caleb Martin,21.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1629130,Duncan Robinson,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1629216,Gabe Vincent,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1629312,Haywood Highsmith,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1629622,Max Strus,43.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1629639,Tyler Herro,61.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1631107,Nikola Jović,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1631123,Jamaree Bouyea,10.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631115,Orlando Robinson,1631288,Jamal Cain,10.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,2617,Udonis Haslem,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,200768,Kyle Lowry,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,202710,Jimmy Butler III,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,203469,Cody Zeller,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,203506,Victor Oladipo,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1628389,Bam Adebayo,21.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1628997,Caleb Martin,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1629130,Duncan Robinson,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1629216,Gabe Vincent,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1629312,Haywood Highsmith,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1629622,Max Strus,19.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1629639,Tyler Herro,13.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1631107,Nikola Jović,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1631115,Orlando Robinson,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631123,Jamaree Bouyea,1631288,Jamal Cain,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,2617,Udonis Haslem,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,200768,Kyle Lowry,18.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,202710,Jimmy Butler III,13.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,203469,Cody Zeller,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,203506,Victor Oladipo,43.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1628389,Bam Adebayo,1.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1628997,Caleb Martin,18.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1629130,Duncan Robinson,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1629216,Gabe Vincent,12.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1629312,Haywood Highsmith,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1629622,Max Strus,16.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1629639,Tyler Herro,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1631107,Nikola Jović,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1631115,Orlando Robinson,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2022-23,Regular Season,1631288,Jamal Cain,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats

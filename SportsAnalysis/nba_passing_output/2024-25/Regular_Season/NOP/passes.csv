@@ -1,0 +1,381 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+NOP,2024-25,Regular Season,203468,CJ McCollum,203482,Kelly Olynyk,69.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,203901,Elfrid Payton,42.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1627749,Dejounte Murray,372.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1628464,Daniel Theis,62.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1628964,Mo Bamba,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1628971,Bruce Brown,78.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1629627,Zion Williamson,222.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1630526,Jeremiah Robinson-Earl,55.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1630527,Brandon Boston,62.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1630529,Herbert Jones,93.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1630530,Trey Murphy III,410.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1630631,Jose Alvarado,129.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1631232,Keion Brooks Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1631255,Karlo Matković,54.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1631288,Jamal Cain,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1631311,Lester Quinones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1641722,Jordan Hawkins,111.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1641810,Antonio Reeves,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203468,CJ McCollum,1642274,Yves Missi,199.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,203468,CJ McCollum,93.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,203901,Elfrid Payton,29.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1627749,Dejounte Murray,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1628464,Daniel Theis,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1628971,Bruce Brown,119.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1629627,Zion Williamson,67.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1630526,Jeremiah Robinson-Earl,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1630529,Herbert Jones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1630530,Trey Murphy III,57.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1630631,Jose Alvarado,193.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1631232,Keion Brooks Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1631255,Karlo Matković,22.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1631288,Jamal Cain,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1631311,Lester Quinones,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1641722,Jordan Hawkins,46.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1641810,Antonio Reeves,33.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203482,Kelly Olynyk,1642274,Yves Missi,61.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,203468,CJ McCollum,46.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,203482,Kelly Olynyk,22.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1627749,Dejounte Murray,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1628464,Daniel Theis,17.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1628971,Bruce Brown,22.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1629627,Zion Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1630526,Jeremiah Robinson-Earl,113.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1630527,Brandon Boston,40.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1630529,Herbert Jones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1630530,Trey Murphy III,54.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1630631,Jose Alvarado,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1631232,Keion Brooks Jr.,58.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1631255,Karlo Matković,106.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1631288,Jamal Cain,55.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1631311,Lester Quinones,61.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1641722,Jordan Hawkins,38.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1641810,Antonio Reeves,107.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,203901,Elfrid Payton,1642274,Yves Missi,45.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,203468,CJ McCollum,484.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,203901,Elfrid Payton,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1628464,Daniel Theis,110.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1628971,Bruce Brown,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1629627,Zion Williamson,76.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1630526,Jeremiah Robinson-Earl,46.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1630527,Brandon Boston,106.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1630529,Herbert Jones,162.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1630530,Trey Murphy III,334.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1630631,Jose Alvarado,16.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1631232,Keion Brooks Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1631255,Karlo Matković,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1631288,Jamal Cain,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1631311,Lester Quinones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1641722,Jordan Hawkins,90.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1641810,Antonio Reeves,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1627749,Dejounte Murray,1642274,Yves Missi,199.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,203468,CJ McCollum,115.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,203901,Elfrid Payton,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1627749,Dejounte Murray,114.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1628971,Bruce Brown,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1629627,Zion Williamson,35.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1630526,Jeremiah Robinson-Earl,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1630527,Brandon Boston,77.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1630529,Herbert Jones,27.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1630530,Trey Murphy III,80.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1630631,Jose Alvarado,91.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1631232,Keion Brooks Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1631255,Karlo Matković,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1631288,Jamal Cain,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1631311,Lester Quinones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1641722,Jordan Hawkins,79.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1641810,Antonio Reeves,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628464,Daniel Theis,1642274,Yves Missi,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,203468,CJ McCollum,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,203901,Elfrid Payton,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1627749,Dejounte Murray,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1628464,Daniel Theis,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1628971,Bruce Brown,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1629627,Zion Williamson,12.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1630526,Jeremiah Robinson-Earl,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1630529,Herbert Jones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1630530,Trey Murphy III,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1630631,Jose Alvarado,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1631232,Keion Brooks Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1631255,Karlo Matković,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1631288,Jamal Cain,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1631311,Lester Quinones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1641722,Jordan Hawkins,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1641810,Antonio Reeves,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628964,Mo Bamba,1642274,Yves Missi,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,203468,CJ McCollum,124.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,203482,Kelly Olynyk,94.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,203901,Elfrid Payton,18.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1627749,Dejounte Murray,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1628464,Daniel Theis,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1628964,Mo Bamba,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1629627,Zion Williamson,45.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1630526,Jeremiah Robinson-Earl,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1630529,Herbert Jones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1630530,Trey Murphy III,70.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1630631,Jose Alvarado,130.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1631232,Keion Brooks Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1631255,Karlo Matković,53.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1631288,Jamal Cain,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1631311,Lester Quinones,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1641722,Jordan Hawkins,64.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1641810,Antonio Reeves,36.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1628971,Bruce Brown,1642274,Yves Missi,66.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,203468,CJ McCollum,212.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,203482,Kelly Olynyk,48.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,203901,Elfrid Payton,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1627749,Dejounte Murray,63.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1628464,Daniel Theis,27.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1628964,Mo Bamba,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1628971,Bruce Brown,29.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1630526,Jeremiah Robinson-Earl,33.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1630527,Brandon Boston,36.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1630529,Herbert Jones,19.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1630530,Trey Murphy III,193.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1630631,Jose Alvarado,225.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1631232,Keion Brooks Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1631255,Karlo Matković,39.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1631288,Jamal Cain,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1631311,Lester Quinones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1641722,Jordan Hawkins,132.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1641810,Antonio Reeves,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1629627,Zion Williamson,1642274,Yves Missi,90.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,203468,CJ McCollum,103.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,203482,Kelly Olynyk,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,203901,Elfrid Payton,174.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1627749,Dejounte Murray,82.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1628464,Daniel Theis,27.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1628964,Mo Bamba,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1628971,Bruce Brown,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1629627,Zion Williamson,54.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1630527,Brandon Boston,162.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1630529,Herbert Jones,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1630530,Trey Murphy III,56.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1630631,Jose Alvarado,208.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1631232,Keion Brooks Jr.,30.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1631255,Karlo Matković,35.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1631288,Jamal Cain,35.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1631311,Lester Quinones,45.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1641722,Jordan Hawkins,90.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1641810,Antonio Reeves,49.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630526,Jeremiah Robinson-Earl,1642274,Yves Missi,35.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,203468,CJ McCollum,107.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,203901,Elfrid Payton,45.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1627749,Dejounte Murray,119.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1628464,Daniel Theis,46.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1628971,Bruce Brown,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1629627,Zion Williamson,45.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1630526,Jeremiah Robinson-Earl,84.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1630529,Herbert Jones,34.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1630530,Trey Murphy III,114.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1630631,Jose Alvarado,125.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1631232,Keion Brooks Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1631255,Karlo Matković,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1631288,Jamal Cain,26.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1631311,Lester Quinones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1641722,Jordan Hawkins,60.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1641810,Antonio Reeves,48.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630527,Brandon Boston,1642274,Yves Missi,91.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,203468,CJ McCollum,156.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,203901,Elfrid Payton,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1627749,Dejounte Murray,207.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1628464,Daniel Theis,22.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1628971,Bruce Brown,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1629627,Zion Williamson,18.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1630526,Jeremiah Robinson-Earl,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1630527,Brandon Boston,48.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1630530,Trey Murphy III,67.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1630631,Jose Alvarado,19.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1631232,Keion Brooks Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1631255,Karlo Matković,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1631288,Jamal Cain,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1631311,Lester Quinones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1641722,Jordan Hawkins,18.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1641810,Antonio Reeves,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630529,Herbert Jones,1642274,Yves Missi,59.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,203468,CJ McCollum,372.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,203482,Kelly Olynyk,50.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,203901,Elfrid Payton,40.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1627749,Dejounte Murray,347.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1628464,Daniel Theis,44.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1628964,Mo Bamba,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1628971,Bruce Brown,79.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1629627,Zion Williamson,156.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1630526,Jeremiah Robinson-Earl,42.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1630527,Brandon Boston,101.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1630529,Herbert Jones,54.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1630631,Jose Alvarado,218.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1631232,Keion Brooks Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1631255,Karlo Matković,55.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1631288,Jamal Cain,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1631311,Lester Quinones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1641722,Jordan Hawkins,97.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1641810,Antonio Reeves,16.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630530,Trey Murphy III,1642274,Yves Missi,154.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,203468,CJ McCollum,179.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,203482,Kelly Olynyk,146.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,203901,Elfrid Payton,19.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1627749,Dejounte Murray,17.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1628464,Daniel Theis,86.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1628964,Mo Bamba,12.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1628971,Bruce Brown,92.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1629627,Zion Williamson,297.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1630526,Jeremiah Robinson-Earl,98.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1630527,Brandon Boston,98.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1630529,Herbert Jones,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1630530,Trey Murphy III,258.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1631232,Keion Brooks Jr.,42.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1631255,Karlo Matković,113.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1631288,Jamal Cain,30.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1631311,Lester Quinones,21.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1641722,Jordan Hawkins,259.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1641810,Antonio Reeves,66.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1630631,Jose Alvarado,1642274,Yves Missi,196.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,203468,CJ McCollum,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,203482,Kelly Olynyk,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,203901,Elfrid Payton,77.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1627749,Dejounte Murray,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1628464,Daniel Theis,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1628971,Bruce Brown,17.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1629627,Zion Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1630526,Jeremiah Robinson-Earl,20.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1630529,Herbert Jones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1630530,Trey Murphy III,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1630631,Jose Alvarado,84.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1631255,Karlo Matković,17.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1631288,Jamal Cain,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1631311,Lester Quinones,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1641722,Jordan Hawkins,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1641810,Antonio Reeves,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631232,Keion Brooks Jr.,1642274,Yves Missi,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,203468,CJ McCollum,74.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,203482,Kelly Olynyk,37.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,203901,Elfrid Payton,86.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1627749,Dejounte Murray,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1628464,Daniel Theis,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1628964,Mo Bamba,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1628971,Bruce Brown,57.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1629627,Zion Williamson,59.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1630526,Jeremiah Robinson-Earl,38.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1630527,Brandon Boston,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1630529,Herbert Jones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1630530,Trey Murphy III,87.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1630631,Jose Alvarado,103.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1631232,Keion Brooks Jr.,20.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1631288,Jamal Cain,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1631311,Lester Quinones,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1641722,Jordan Hawkins,79.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1641810,Antonio Reeves,44.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631255,Karlo Matković,1642274,Yves Missi,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,203468,CJ McCollum,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,203482,Kelly Olynyk,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,203901,Elfrid Payton,44.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1627749,Dejounte Murray,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1628464,Daniel Theis,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1628971,Bruce Brown,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1629627,Zion Williamson,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1630526,Jeremiah Robinson-Earl,33.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1630527,Brandon Boston,38.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1630529,Herbert Jones,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1630530,Trey Murphy III,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1630631,Jose Alvarado,46.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1631232,Keion Brooks Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1631255,Karlo Matković,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1631311,Lester Quinones,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1641722,Jordan Hawkins,18.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1641810,Antonio Reeves,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631288,Jamal Cain,1642274,Yves Missi,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,203468,CJ McCollum,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,203482,Kelly Olynyk,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,203901,Elfrid Payton,40.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1627749,Dejounte Murray,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1628464,Daniel Theis,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1628971,Bruce Brown,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1629627,Zion Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1630526,Jeremiah Robinson-Earl,18.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1630529,Herbert Jones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1630530,Trey Murphy III,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1630631,Jose Alvarado,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1631232,Keion Brooks Jr.,20.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1631255,Karlo Matković,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1631288,Jamal Cain,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1641722,Jordan Hawkins,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1641810,Antonio Reeves,29.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1631311,Lester Quinones,1642274,Yves Missi,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,203468,CJ McCollum,130.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,203482,Kelly Olynyk,35.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,203901,Elfrid Payton,26.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1627749,Dejounte Murray,86.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1628464,Daniel Theis,32.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1628964,Mo Bamba,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1628971,Bruce Brown,58.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1629627,Zion Williamson,139.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1630526,Jeremiah Robinson-Earl,53.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1630527,Brandon Boston,65.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1630529,Herbert Jones,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1630530,Trey Murphy III,109.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1630631,Jose Alvarado,241.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1631232,Keion Brooks Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1631255,Karlo Matković,50.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1631288,Jamal Cain,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1631311,Lester Quinones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1641810,Antonio Reeves,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641722,Jordan Hawkins,1642274,Yves Missi,48.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,203468,CJ McCollum,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,203482,Kelly Olynyk,20.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,203901,Elfrid Payton,71.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1627749,Dejounte Murray,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1628464,Daniel Theis,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1628964,Mo Bamba,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1628971,Bruce Brown,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1629627,Zion Williamson,17.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1630526,Jeremiah Robinson-Earl,32.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1630527,Brandon Boston,34.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1630529,Herbert Jones,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1630530,Trey Murphy III,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1630631,Jose Alvarado,65.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1631232,Keion Brooks Jr.,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1631255,Karlo Matković,30.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1631288,Jamal Cain,24.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1631311,Lester Quinones,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1641722,Jordan Hawkins,23.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1641810,Antonio Reeves,1642274,Yves Missi,28.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,203468,CJ McCollum,295.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,203482,Kelly Olynyk,62.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,203901,Elfrid Payton,47.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1627749,Dejounte Murray,285.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1628464,Daniel Theis,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1628971,Bruce Brown,77.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1629627,Zion Williamson,117.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1630526,Jeremiah Robinson-Earl,34.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1630527,Brandon Boston,89.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1630529,Herbert Jones,75.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1630530,Trey Murphy III,202.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1630631,Jose Alvarado,198.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1631232,Keion Brooks Jr.,20.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1631255,Karlo Matković,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1631288,Jamal Cain,19.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1631311,Lester Quinones,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1641722,Jordan Hawkins,87.0,True,NBA.com — https://www.nba.com/stats
+NOP,2024-25,Regular Season,1642274,Yves Missi,1641810,Antonio Reeves,34.0,True,NBA.com — https://www.nba.com/stats

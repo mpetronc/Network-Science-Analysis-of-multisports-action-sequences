@@ -1,0 +1,241 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DET,2022-23,Regular Season,202692,Alec Burks,202709,Cory Joseph,207.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,202711,Bojan Bogdanovic,104.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,203585,Rodney McGruder,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1628963,Marvin Bagley III,52.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1628977,Hamidou Diallo,85.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1630164,James Wiseman,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1630165,Killian Hayes,140.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1630181,R.J. Hampton,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1630191,Isaiah Stewart,45.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1630587,Isaiah Livers,40.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1630647,Eugene Omoruyi,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1631093,Jaden Ivey,174.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1631105,Jalen Duren,51.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202692,Alec Burks,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,202692,Alec Burks,279.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,202711,Bojan Bogdanovic,127.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,203585,Rodney McGruder,88.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1628963,Marvin Bagley III,144.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1628977,Hamidou Diallo,151.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1630164,James Wiseman,45.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1630165,Killian Hayes,225.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1630181,R.J. Hampton,103.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1630191,Isaiah Stewart,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1630587,Isaiah Livers,99.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1630595,Cade Cunningham,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1630647,Eugene Omoruyi,79.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1631093,Jaden Ivey,176.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1631105,Jalen Duren,102.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202709,Cory Joseph,1631197,Jared Rhoden,39.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,202692,Alec Burks,71.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,202709,Cory Joseph,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,203585,Rodney McGruder,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1628963,Marvin Bagley III,77.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1628977,Hamidou Diallo,37.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1630164,James Wiseman,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1630165,Killian Hayes,344.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1630181,R.J. Hampton,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1630191,Isaiah Stewart,154.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1630587,Isaiah Livers,36.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1630595,Cade Cunningham,153.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1630647,Eugene Omoruyi,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1631093,Jaden Ivey,316.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1631105,Jalen Duren,104.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,202711,Bojan Bogdanovic,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,202692,Alec Burks,20.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,202709,Cory Joseph,90.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,202711,Bojan Bogdanovic,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1628963,Marvin Bagley III,26.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1628977,Hamidou Diallo,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1630164,James Wiseman,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1630165,Killian Hayes,96.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1630181,R.J. Hampton,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1630191,Isaiah Stewart,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1630587,Isaiah Livers,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1630647,Eugene Omoruyi,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1631093,Jaden Ivey,59.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1631105,Jalen Duren,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,203585,Rodney McGruder,1631197,Jared Rhoden,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,202692,Alec Burks,64.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,202709,Cory Joseph,157.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,202711,Bojan Bogdanovic,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,203585,Rodney McGruder,25.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1628977,Hamidou Diallo,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1630164,James Wiseman,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1630165,Killian Hayes,250.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1630181,R.J. Hampton,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1630191,Isaiah Stewart,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1630587,Isaiah Livers,38.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1630647,Eugene Omoruyi,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1631093,Jaden Ivey,203.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1631105,Jalen Duren,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628963,Marvin Bagley III,1631197,Jared Rhoden,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,202692,Alec Burks,103.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,202709,Cory Joseph,229.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,202711,Bojan Bogdanovic,43.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,203585,Rodney McGruder,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1628963,Marvin Bagley III,20.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1630164,James Wiseman,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1630165,Killian Hayes,221.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1630181,R.J. Hampton,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1630191,Isaiah Stewart,29.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1630587,Isaiah Livers,40.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1630595,Cade Cunningham,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1630647,Eugene Omoruyi,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1631093,Jaden Ivey,164.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1631105,Jalen Duren,37.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1628977,Hamidou Diallo,1631197,Jared Rhoden,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,202692,Alec Burks,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,202709,Cory Joseph,94.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,202711,Bojan Bogdanovic,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,203585,Rodney McGruder,26.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1628963,Marvin Bagley III,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1628977,Hamidou Diallo,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1630165,Killian Hayes,230.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1630181,R.J. Hampton,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1630587,Isaiah Livers,25.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1630647,Eugene Omoruyi,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1631093,Jaden Ivey,195.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1631105,Jalen Duren,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630164,James Wiseman,1631197,Jared Rhoden,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,202692,Alec Burks,174.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,202709,Cory Joseph,190.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,202711,Bojan Bogdanovic,615.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,203585,Rodney McGruder,88.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1628963,Marvin Bagley III,203.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1628977,Hamidou Diallo,173.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1630164,James Wiseman,111.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1630181,R.J. Hampton,63.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1630191,Isaiah Stewart,294.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1630587,Isaiah Livers,236.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1630595,Cade Cunningham,44.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1630647,Eugene Omoruyi,99.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1631093,Jaden Ivey,569.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1631105,Jalen Duren,193.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630165,Killian Hayes,1631197,Jared Rhoden,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,202692,Alec Burks,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,202709,Cory Joseph,115.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,202711,Bojan Bogdanovic,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,203585,Rodney McGruder,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1628963,Marvin Bagley III,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1628977,Hamidou Diallo,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1630164,James Wiseman,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1630165,Killian Hayes,52.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1630191,Isaiah Stewart,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1630587,Isaiah Livers,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1630647,Eugene Omoruyi,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1631093,Jaden Ivey,47.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1631105,Jalen Duren,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630181,R.J. Hampton,1631197,Jared Rhoden,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,202692,Alec Burks,56.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,202709,Cory Joseph,53.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,202711,Bojan Bogdanovic,137.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,203585,Rodney McGruder,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1628963,Marvin Bagley III,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1628977,Hamidou Diallo,41.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1630164,James Wiseman,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1630165,Killian Hayes,354.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1630181,R.J. Hampton,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1630587,Isaiah Livers,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1630595,Cade Cunningham,174.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1630647,Eugene Omoruyi,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1631093,Jaden Ivey,334.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1631105,Jalen Duren,35.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630191,Isaiah Stewart,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,202692,Alec Burks,43.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,202709,Cory Joseph,100.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,202711,Bojan Bogdanovic,40.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,203585,Rodney McGruder,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1628963,Marvin Bagley III,37.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1628977,Hamidou Diallo,46.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1630164,James Wiseman,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1630165,Killian Hayes,286.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1630181,R.J. Hampton,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1630191,Isaiah Stewart,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1630595,Cade Cunningham,36.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1630647,Eugene Omoruyi,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1631093,Jaden Ivey,191.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1631105,Jalen Duren,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630587,Isaiah Livers,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,202692,Alec Burks,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,202709,Cory Joseph,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,202711,Bojan Bogdanovic,172.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,203585,Rodney McGruder,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1628977,Hamidou Diallo,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1630164,James Wiseman,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1630165,Killian Hayes,32.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1630181,R.J. Hampton,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1630191,Isaiah Stewart,89.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1630587,Isaiah Livers,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1630647,Eugene Omoruyi,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1631093,Jaden Ivey,113.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1631105,Jalen Duren,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630595,Cade Cunningham,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,202692,Alec Burks,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,202709,Cory Joseph,73.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,202711,Bojan Bogdanovic,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,203585,Rodney McGruder,20.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1628963,Marvin Bagley III,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1628977,Hamidou Diallo,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1630164,James Wiseman,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1630165,Killian Hayes,93.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1630181,R.J. Hampton,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1630587,Isaiah Livers,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1631093,Jaden Ivey,48.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1631105,Jalen Duren,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1630647,Eugene Omoruyi,1631197,Jared Rhoden,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,202692,Alec Burks,175.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,202709,Cory Joseph,122.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,202711,Bojan Bogdanovic,366.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,203585,Rodney McGruder,50.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1628963,Marvin Bagley III,151.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1628977,Hamidou Diallo,103.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1630164,James Wiseman,114.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1630165,Killian Hayes,512.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1630181,R.J. Hampton,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1630191,Isaiah Stewart,200.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1630587,Isaiah Livers,134.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1630595,Cade Cunningham,137.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1630647,Eugene Omoruyi,44.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1631105,Jalen Duren,254.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631093,Jaden Ivey,1631197,Jared Rhoden,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,202692,Alec Burks,96.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,202709,Cory Joseph,268.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,202711,Bojan Bogdanovic,163.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,203585,Rodney McGruder,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1628963,Marvin Bagley III,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1628977,Hamidou Diallo,56.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1630164,James Wiseman,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1630165,Killian Hayes,478.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1630181,R.J. Hampton,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1630191,Isaiah Stewart,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1630587,Isaiah Livers,30.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1630595,Cade Cunningham,55.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1630647,Eugene Omoruyi,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1631093,Jaden Ivey,462.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631105,Jalen Duren,1631197,Jared Rhoden,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,202692,Alec Burks,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,202709,Cory Joseph,68.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,202711,Bojan Bogdanovic,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,203585,Rodney McGruder,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1628963,Marvin Bagley III,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1628977,Hamidou Diallo,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1630164,James Wiseman,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1630165,Killian Hayes,41.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1630181,R.J. Hampton,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1630587,Isaiah Livers,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1630647,Eugene Omoruyi,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1631093,Jaden Ivey,36.0,True,NBA.com — https://www.nba.com/stats
+DET,2022-23,Regular Season,1631197,Jared Rhoden,1631105,Jalen Duren,1.0,True,NBA.com — https://www.nba.com/stats

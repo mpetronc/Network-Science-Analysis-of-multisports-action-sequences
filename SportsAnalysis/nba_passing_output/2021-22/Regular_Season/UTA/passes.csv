@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+UTA,2021-22,Regular Season,200752,Rudy Gay,201144,Mike Conley,400.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,202355,Hassan Whiteside,19.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,202711,Bojan Bogdanovic,35.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,203497,Rudy Gobert,46.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,203903,Jordan Clarkson,200.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,1626220,Royce O'Neale,34.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,1627823,Juancho Hernangomez,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,1627863,Danuel House Jr.,22.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,1628378,Donovan Mitchell,166.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,1628962,Udoka Azubuike,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,1629672,Eric Paschall,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,200752,Rudy Gay,1630235,Trent Forrest,127.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,200752,Rudy Gay,237.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,202355,Hassan Whiteside,49.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,202711,Bojan Bogdanovic,444.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,203497,Rudy Gobert,430.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,203903,Jordan Clarkson,429.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,1626220,Royce O'Neale,628.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,1627823,Juancho Hernangomez,51.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,1627863,Danuel House Jr.,78.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,1628378,Donovan Mitchell,595.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,1628962,Udoka Azubuike,22.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,1629672,Eric Paschall,131.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,201144,Mike Conley,1630235,Trent Forrest,49.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,200752,Rudy Gay,13.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,201144,Mike Conley,42.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,202711,Bojan Bogdanovic,41.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,203497,Rudy Gobert,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,203903,Jordan Clarkson,92.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,1626220,Royce O'Neale,57.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,1627823,Juancho Hernangomez,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,1627863,Danuel House Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,1628378,Donovan Mitchell,170.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,1628962,Udoka Azubuike,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,1629672,Eric Paschall,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202355,Hassan Whiteside,1630235,Trent Forrest,46.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,200752,Rudy Gay,21.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,201144,Mike Conley,374.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,202355,Hassan Whiteside,51.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,203497,Rudy Gobert,73.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,203903,Jordan Clarkson,85.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,1626220,Royce O'Neale,199.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,1627823,Juancho Hernangomez,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,1627863,Danuel House Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,1628378,Donovan Mitchell,543.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,1628962,Udoka Azubuike,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,1629672,Eric Paschall,8.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,202711,Bojan Bogdanovic,1630235,Trent Forrest,87.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,200752,Rudy Gay,39.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,201144,Mike Conley,386.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,202355,Hassan Whiteside,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,202711,Bojan Bogdanovic,95.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,203903,Jordan Clarkson,169.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,1626220,Royce O'Neale,107.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,1627823,Juancho Hernangomez,14.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,1627863,Danuel House Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,1628378,Donovan Mitchell,291.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,1628962,Udoka Azubuike,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,1629672,Eric Paschall,20.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203497,Rudy Gobert,1630235,Trent Forrest,33.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,200752,Rudy Gay,153.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,201144,Mike Conley,311.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,202355,Hassan Whiteside,76.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,202711,Bojan Bogdanovic,100.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,203497,Rudy Gobert,112.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,1626220,Royce O'Neale,125.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,1627823,Juancho Hernangomez,23.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,1627863,Danuel House Jr.,49.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,1628378,Donovan Mitchell,330.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,1628962,Udoka Azubuike,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,1629672,Eric Paschall,73.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,203903,Jordan Clarkson,1630235,Trent Forrest,137.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,200752,Rudy Gay,40.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,201144,Mike Conley,1163.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,202355,Hassan Whiteside,43.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,202711,Bojan Bogdanovic,340.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,203497,Rudy Gobert,77.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,203903,Jordan Clarkson,253.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,1627823,Juancho Hernangomez,17.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,1627863,Danuel House Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,1628378,Donovan Mitchell,1407.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,1628962,Udoka Azubuike,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,1629672,Eric Paschall,20.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1626220,Royce O'Neale,1630235,Trent Forrest,228.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,200752,Rudy Gay,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,201144,Mike Conley,88.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,202355,Hassan Whiteside,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,202711,Bojan Bogdanovic,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,203497,Rudy Gobert,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,203903,Jordan Clarkson,24.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,1626220,Royce O'Neale,20.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,1627863,Danuel House Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,1628378,Donovan Mitchell,53.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,1628962,Udoka Azubuike,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,1629672,Eric Paschall,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627823,Juancho Hernangomez,1630235,Trent Forrest,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,200752,Rudy Gay,28.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,201144,Mike Conley,111.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,202355,Hassan Whiteside,8.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,202711,Bojan Bogdanovic,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,203497,Rudy Gobert,18.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,203903,Jordan Clarkson,68.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,1626220,Royce O'Neale,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,1627823,Juancho Hernangomez,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,1628378,Donovan Mitchell,52.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,1628962,Udoka Azubuike,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,1629672,Eric Paschall,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1627863,Danuel House Jr.,1630235,Trent Forrest,46.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,200752,Rudy Gay,84.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,201144,Mike Conley,432.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,202355,Hassan Whiteside,102.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,202711,Bojan Bogdanovic,655.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,203497,Rudy Gobert,156.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,203903,Jordan Clarkson,381.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,1626220,Royce O'Neale,601.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,1627823,Juancho Hernangomez,31.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,1627863,Danuel House Jr.,31.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,1628962,Udoka Azubuike,8.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,1629672,Eric Paschall,36.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628378,Donovan Mitchell,1630235,Trent Forrest,81.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,200752,Rudy Gay,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,201144,Mike Conley,16.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,202355,Hassan Whiteside,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,202711,Bojan Bogdanovic,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,203497,Rudy Gobert,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,203903,Jordan Clarkson,8.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,1626220,Royce O'Neale,14.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,1627823,Juancho Hernangomez,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,1627863,Danuel House Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,1628378,Donovan Mitchell,12.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,1629672,Eric Paschall,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1628962,Udoka Azubuike,1630235,Trent Forrest,19.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,200752,Rudy Gay,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,201144,Mike Conley,226.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,202355,Hassan Whiteside,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,202711,Bojan Bogdanovic,13.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,203497,Rudy Gobert,20.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,203903,Jordan Clarkson,93.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,1626220,Royce O'Neale,14.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,1627823,Juancho Hernangomez,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,1627863,Danuel House Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,1628378,Donovan Mitchell,52.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,1628962,Udoka Azubuike,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1629672,Eric Paschall,1630235,Trent Forrest,115.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,200752,Rudy Gay,82.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,201144,Mike Conley,78.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,202355,Hassan Whiteside,36.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,202711,Bojan Bogdanovic,103.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,203497,Rudy Gobert,35.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,203903,Jordan Clarkson,260.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,1626220,Royce O'Neale,109.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,1627823,Juancho Hernangomez,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,1627863,Danuel House Jr.,46.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,1628378,Donovan Mitchell,155.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,1628962,Udoka Azubuike,11.0,True,NBA.com — https://www.nba.com/stats
+UTA,2021-22,Regular Season,1630235,Trent Forrest,1629672,Eric Paschall,87.0,True,NBA.com — https://www.nba.com/stats

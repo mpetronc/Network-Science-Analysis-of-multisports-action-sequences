@@ -1,0 +1,463 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+PHI,2024-25,Regular Season,200768,Kyle Lowry,201569,Eric Gordon,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,202331,Paul George,151.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,202704,Reggie Jackson,70.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,203083,Andre Drummond,55.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,203954,Joel Embiid,45.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1626162,Kelly Oubre Jr.,118.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1627824,Guerschon Yabusele,81.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1629022,Lonnie Walker IV,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1629656,Quentin Grimes,25.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1630178,Tyrese Maxey,178.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1630215,Jared Butler,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1630288,Jeff Dowtin Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1630542,Marcus Bagley,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1641720,Jalen Hood-Schifino,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1641737,Adem Bona,25.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1641741,Ricky Council IV,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1642024,Alex Reese,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1642272,Jared McCain,50.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,200768,Kyle Lowry,1642348,Justin Edwards,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,200768,Kyle Lowry,33.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,202331,Paul George,43.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,202704,Reggie Jackson,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,203083,Andre Drummond,23.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,203954,Joel Embiid,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1626162,Kelly Oubre Jr.,62.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1627824,Guerschon Yabusele,85.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1629022,Lonnie Walker IV,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1629656,Quentin Grimes,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1630178,Tyrese Maxey,214.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1630215,Jared Butler,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1630288,Jeff Dowtin Jr.,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1630542,Marcus Bagley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1641720,Jalen Hood-Schifino,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1641737,Adem Bona,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1641741,Ricky Council IV,42.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1642024,Alex Reese,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1642272,Jared McCain,24.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,201569,Eric Gordon,1642348,Justin Edwards,23.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,200768,Kyle Lowry,109.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,201569,Eric Gordon,50.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,202704,Reggie Jackson,30.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,203083,Andre Drummond,74.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,203954,Joel Embiid,166.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1626162,Kelly Oubre Jr.,173.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1627824,Guerschon Yabusele,221.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1629022,Lonnie Walker IV,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1629656,Quentin Grimes,83.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1630178,Tyrese Maxey,568.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1630215,Jared Butler,22.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1630288,Jeff Dowtin Jr.,44.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1630542,Marcus Bagley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1641720,Jalen Hood-Schifino,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1641737,Adem Bona,24.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1641741,Ricky Council IV,29.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1642024,Alex Reese,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1642272,Jared McCain,58.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202331,Paul George,1642348,Justin Edwards,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,200768,Kyle Lowry,52.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,201569,Eric Gordon,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,202331,Paul George,38.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,203083,Andre Drummond,20.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,203954,Joel Embiid,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1626162,Kelly Oubre Jr.,60.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1627824,Guerschon Yabusele,81.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1629022,Lonnie Walker IV,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1629656,Quentin Grimes,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1630178,Tyrese Maxey,84.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1630215,Jared Butler,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1630288,Jeff Dowtin Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1630542,Marcus Bagley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1641720,Jalen Hood-Schifino,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1641737,Adem Bona,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1641741,Ricky Council IV,41.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1642024,Alex Reese,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1642272,Jared McCain,58.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,202704,Reggie Jackson,1642348,Justin Edwards,22.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,200768,Kyle Lowry,56.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,201569,Eric Gordon,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,202331,Paul George,101.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,202704,Reggie Jackson,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1626162,Kelly Oubre Jr.,103.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1627824,Guerschon Yabusele,26.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1629022,Lonnie Walker IV,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1629656,Quentin Grimes,59.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1630178,Tyrese Maxey,183.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1630215,Jared Butler,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1630288,Jeff Dowtin Jr.,30.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1630542,Marcus Bagley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1641720,Jalen Hood-Schifino,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1641737,Adem Bona,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1641741,Ricky Council IV,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1642024,Alex Reese,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1642272,Jared McCain,49.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203083,Andre Drummond,1642348,Justin Edwards,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,200768,Kyle Lowry,41.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,201569,Eric Gordon,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,202331,Paul George,133.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,202704,Reggie Jackson,20.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,203083,Andre Drummond,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1626162,Kelly Oubre Jr.,74.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1627824,Guerschon Yabusele,37.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1629022,Lonnie Walker IV,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1629656,Quentin Grimes,30.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1630178,Tyrese Maxey,218.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1630215,Jared Butler,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1630288,Jeff Dowtin Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1630542,Marcus Bagley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1641720,Jalen Hood-Schifino,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1641737,Adem Bona,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1641741,Ricky Council IV,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1642024,Alex Reese,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1642272,Jared McCain,44.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,203954,Joel Embiid,1642348,Justin Edwards,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,200768,Kyle Lowry,104.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,201569,Eric Gordon,82.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,202331,Paul George,212.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,202704,Reggie Jackson,78.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,203083,Andre Drummond,76.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,203954,Joel Embiid,77.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1627824,Guerschon Yabusele,188.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1629022,Lonnie Walker IV,19.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1629656,Quentin Grimes,72.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1630178,Tyrese Maxey,704.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1630215,Jared Butler,37.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1630288,Jeff Dowtin Jr.,49.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1630542,Marcus Bagley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1641720,Jalen Hood-Schifino,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1641737,Adem Bona,39.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1641741,Ricky Council IV,68.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1642024,Alex Reese,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1642272,Jared McCain,77.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1626162,Kelly Oubre Jr.,1642348,Justin Edwards,77.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,200768,Kyle Lowry,88.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,201569,Eric Gordon,77.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,202331,Paul George,202.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,202704,Reggie Jackson,93.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,203083,Andre Drummond,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,203954,Joel Embiid,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1626162,Kelly Oubre Jr.,214.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1629022,Lonnie Walker IV,41.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1629052,Oshae Brissett,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1629656,Quentin Grimes,166.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1630178,Tyrese Maxey,565.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1630215,Jared Butler,117.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1630288,Jeff Dowtin Jr.,105.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1630542,Marcus Bagley,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1641720,Jalen Hood-Schifino,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1641737,Adem Bona,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1641741,Ricky Council IV,94.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1642024,Alex Reese,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1642272,Jared McCain,96.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1627824,Guerschon Yabusele,1642348,Justin Edwards,103.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,200768,Kyle Lowry,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,202331,Paul George,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,203083,Andre Drummond,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,203954,Joel Embiid,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1626162,Kelly Oubre Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1627824,Guerschon Yabusele,38.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1629052,Oshae Brissett,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1629656,Quentin Grimes,95.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1630178,Tyrese Maxey,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1630215,Jared Butler,100.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1630288,Jeff Dowtin Jr.,28.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1630542,Marcus Bagley,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1630600,Isaiah Mobley,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1641720,Jalen Hood-Schifino,47.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1641737,Adem Bona,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1641741,Ricky Council IV,60.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1642024,Alex Reese,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1642272,Jared McCain,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629022,Lonnie Walker IV,1642348,Justin Edwards,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,200768,Kyle Lowry,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,203083,Andre Drummond,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1626162,Kelly Oubre Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1627824,Guerschon Yabusele,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1629022,Lonnie Walker IV,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1629656,Quentin Grimes,21.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1630178,Tyrese Maxey,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1630215,Jared Butler,60.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1630288,Jeff Dowtin Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1630542,Marcus Bagley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1641720,Jalen Hood-Schifino,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1641737,Adem Bona,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1641741,Ricky Council IV,20.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1642024,Alex Reese,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1642272,Jared McCain,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629052,Oshae Brissett,1642348,Justin Edwards,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,200768,Kyle Lowry,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,201569,Eric Gordon,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,202331,Paul George,73.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,203083,Andre Drummond,50.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,203954,Joel Embiid,41.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1626162,Kelly Oubre Jr.,79.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1627824,Guerschon Yabusele,146.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1629022,Lonnie Walker IV,108.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1629052,Oshae Brissett,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1630178,Tyrese Maxey,90.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1630215,Jared Butler,165.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1630288,Jeff Dowtin Jr.,77.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1630542,Marcus Bagley,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1641720,Jalen Hood-Schifino,46.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1641737,Adem Bona,43.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1641741,Ricky Council IV,76.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1642024,Alex Reese,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1642272,Jared McCain,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1629656,Quentin Grimes,1642348,Justin Edwards,108.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,200768,Kyle Lowry,126.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,201569,Eric Gordon,177.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,202331,Paul George,487.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,202704,Reggie Jackson,52.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,203083,Andre Drummond,101.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,203954,Joel Embiid,336.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1626162,Kelly Oubre Jr.,528.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1627824,Guerschon Yabusele,387.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1629022,Lonnie Walker IV,7.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1629656,Quentin Grimes,94.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1630215,Jared Butler,7.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1630288,Jeff Dowtin Jr.,24.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1630542,Marcus Bagley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1641720,Jalen Hood-Schifino,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1641737,Adem Bona,47.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1641741,Ricky Council IV,154.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1642024,Alex Reese,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1642272,Jared McCain,120.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630178,Tyrese Maxey,1642348,Justin Edwards,151.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,200768,Kyle Lowry,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,202331,Paul George,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,203083,Andre Drummond,22.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,203954,Joel Embiid,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1626162,Kelly Oubre Jr.,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1627824,Guerschon Yabusele,98.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1629022,Lonnie Walker IV,103.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1629052,Oshae Brissett,28.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1629656,Quentin Grimes,203.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1630178,Tyrese Maxey,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1630288,Jeff Dowtin Jr.,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1630542,Marcus Bagley,39.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1641720,Jalen Hood-Schifino,28.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1641737,Adem Bona,78.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1641741,Ricky Council IV,103.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1642024,Alex Reese,24.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1642272,Jared McCain,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630215,Jared Butler,1642348,Justin Edwards,142.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,200768,Kyle Lowry,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,201569,Eric Gordon,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,202331,Paul George,37.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,202704,Reggie Jackson,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,203083,Andre Drummond,28.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,203954,Joel Embiid,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1626162,Kelly Oubre Jr.,48.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1627824,Guerschon Yabusele,102.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1629022,Lonnie Walker IV,31.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1629052,Oshae Brissett,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1629656,Quentin Grimes,93.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1630178,Tyrese Maxey,32.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1630215,Jared Butler,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1630542,Marcus Bagley,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1641720,Jalen Hood-Schifino,37.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1641737,Adem Bona,74.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1641741,Ricky Council IV,126.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1642024,Alex Reese,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1642272,Jared McCain,24.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630288,Jeff Dowtin Jr.,1642348,Justin Edwards,81.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,200768,Kyle Lowry,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,203083,Andre Drummond,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1626162,Kelly Oubre Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1627824,Guerschon Yabusele,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1629022,Lonnie Walker IV,39.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1629656,Quentin Grimes,26.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1630178,Tyrese Maxey,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1630215,Jared Butler,58.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1630288,Jeff Dowtin Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1630600,Isaiah Mobley,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1641720,Jalen Hood-Schifino,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1641737,Adem Bona,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1641741,Ricky Council IV,19.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1642024,Alex Reese,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1642272,Jared McCain,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630542,Marcus Bagley,1642348,Justin Edwards,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,200768,Kyle Lowry,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,203083,Andre Drummond,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1626162,Kelly Oubre Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1627824,Guerschon Yabusele,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1629022,Lonnie Walker IV,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1629656,Quentin Grimes,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1630178,Tyrese Maxey,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1630215,Jared Butler,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1630288,Jeff Dowtin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1630542,Marcus Bagley,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1641720,Jalen Hood-Schifino,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1641737,Adem Bona,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1641741,Ricky Council IV,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1642024,Alex Reese,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1642272,Jared McCain,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1630600,Isaiah Mobley,1642348,Justin Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,200768,Kyle Lowry,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,203083,Andre Drummond,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1626162,Kelly Oubre Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1627824,Guerschon Yabusele,33.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1629022,Lonnie Walker IV,61.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1629052,Oshae Brissett,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1629656,Quentin Grimes,67.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1630178,Tyrese Maxey,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1630215,Jared Butler,32.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1630288,Jeff Dowtin Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1630542,Marcus Bagley,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1630600,Isaiah Mobley,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1641737,Adem Bona,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1641741,Ricky Council IV,58.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1642024,Alex Reese,23.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1642272,Jared McCain,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641720,Jalen Hood-Schifino,1642348,Justin Edwards,38.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,200768,Kyle Lowry,20.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,201569,Eric Gordon,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,202331,Paul George,25.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,202704,Reggie Jackson,40.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,203083,Andre Drummond,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1626162,Kelly Oubre Jr.,43.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1627824,Guerschon Yabusele,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1629022,Lonnie Walker IV,62.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1629052,Oshae Brissett,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1629656,Quentin Grimes,82.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1630178,Tyrese Maxey,103.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1630215,Jared Butler,107.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1630288,Jeff Dowtin Jr.,74.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1630542,Marcus Bagley,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1641720,Jalen Hood-Schifino,28.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1641741,Ricky Council IV,77.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1642024,Alex Reese,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1642272,Jared McCain,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641737,Adem Bona,1642348,Justin Edwards,47.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,200768,Kyle Lowry,22.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,201569,Eric Gordon,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,202331,Paul George,25.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,202704,Reggie Jackson,44.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,203083,Andre Drummond,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,203954,Joel Embiid,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1626162,Kelly Oubre Jr.,73.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1627824,Guerschon Yabusele,86.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1629022,Lonnie Walker IV,47.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1629052,Oshae Brissett,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1629656,Quentin Grimes,65.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1630178,Tyrese Maxey,160.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1630215,Jared Butler,109.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1630288,Jeff Dowtin Jr.,135.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1630542,Marcus Bagley,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1641720,Jalen Hood-Schifino,59.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1641737,Adem Bona,48.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1642024,Alex Reese,23.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1642272,Jared McCain,50.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1641741,Ricky Council IV,1642348,Justin Edwards,75.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,200768,Kyle Lowry,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,202704,Reggie Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,203083,Andre Drummond,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1626162,Kelly Oubre Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1627824,Guerschon Yabusele,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1629022,Lonnie Walker IV,19.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1629052,Oshae Brissett,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1629656,Quentin Grimes,40.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1630178,Tyrese Maxey,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1630215,Jared Butler,63.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1630288,Jeff Dowtin Jr.,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1630542,Marcus Bagley,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1641720,Jalen Hood-Schifino,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1641737,Adem Bona,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1641741,Ricky Council IV,24.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1642272,Jared McCain,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642024,Alex Reese,1642348,Justin Edwards,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,200768,Kyle Lowry,41.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,201569,Eric Gordon,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,202331,Paul George,51.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,202704,Reggie Jackson,46.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,203083,Andre Drummond,37.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,203954,Joel Embiid,52.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1626162,Kelly Oubre Jr.,73.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1627824,Guerschon Yabusele,93.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1629022,Lonnie Walker IV,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1629052,Oshae Brissett,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1629656,Quentin Grimes,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1630178,Tyrese Maxey,114.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1630215,Jared Butler,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1630288,Jeff Dowtin Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1630542,Marcus Bagley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1641720,Jalen Hood-Schifino,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1641737,Adem Bona,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1641741,Ricky Council IV,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1642024,Alex Reese,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642272,Jared McCain,1642348,Justin Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,200768,Kyle Lowry,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,201569,Eric Gordon,21.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,202331,Paul George,38.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,202704,Reggie Jackson,19.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,203083,Andre Drummond,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,203954,Joel Embiid,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1626162,Kelly Oubre Jr.,73.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1627824,Guerschon Yabusele,114.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1629022,Lonnie Walker IV,38.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1629052,Oshae Brissett,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1629656,Quentin Grimes,157.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1630178,Tyrese Maxey,170.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1630215,Jared Butler,136.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1630288,Jeff Dowtin Jr.,79.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1630542,Marcus Bagley,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1630600,Isaiah Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1641720,Jalen Hood-Schifino,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1641737,Adem Bona,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1641741,Ricky Council IV,72.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1642024,Alex Reese,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2024-25,Regular Season,1642348,Justin Edwards,1642272,Jared McCain,1.0,True,NBA.com — https://www.nba.com/stats

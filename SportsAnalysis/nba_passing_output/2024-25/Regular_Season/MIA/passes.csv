@@ -1,0 +1,241 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MIA,2024-25,Regular Season,201567,Kevin Love,202692,Alec Burks,19.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,203937,Kyle Anderson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,203952,Andrew Wiggins,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1626179,Terry Rozier,73.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1626196,Josh Richardson,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1628389,Bam Adebayo,35.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1629130,Duncan Robinson,19.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1629312,Haywood Highsmith,35.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1629639,Tyler Herro,102.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1630558,Davion Mitchell,25.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1630696,Dru Smith,13.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1631107,Nikola Jović,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1631170,Jaime Jaquez Jr.,20.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1641796,Pelle Larsson,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,201567,Kevin Love,1642276,Kel'el Ware,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,201567,Kevin Love,17.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,203937,Kyle Anderson,24.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,203952,Andrew Wiggins,47.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1626179,Terry Rozier,104.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1626196,Josh Richardson,10.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1628389,Bam Adebayo,176.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1629130,Duncan Robinson,50.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1629312,Haywood Highsmith,27.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1629639,Tyler Herro,154.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1630558,Davion Mitchell,110.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1630696,Dru Smith,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1631107,Nikola Jović,83.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1631170,Jaime Jaquez Jr.,62.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1641796,Pelle Larsson,46.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,202692,Alec Burks,1642276,Kel'el Ware,60.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,202692,Alec Burks,19.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,203952,Andrew Wiggins,22.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1626179,Terry Rozier,75.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1626196,Josh Richardson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1628389,Bam Adebayo,79.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1629130,Duncan Robinson,83.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1629312,Haywood Highsmith,41.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1629639,Tyler Herro,86.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1630558,Davion Mitchell,132.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1630696,Dru Smith,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1631107,Nikola Jović,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1631170,Jaime Jaquez Jr.,46.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1641796,Pelle Larsson,34.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203937,Kyle Anderson,1642276,Kel'el Ware,29.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,202692,Alec Burks,27.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,203937,Kyle Anderson,18.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1626179,Terry Rozier,20.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1626196,Josh Richardson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1628389,Bam Adebayo,96.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1629130,Duncan Robinson,29.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1629312,Haywood Highsmith,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1629639,Tyler Herro,112.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1630558,Davion Mitchell,87.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1630696,Dru Smith,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1631107,Nikola Jović,15.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1631170,Jaime Jaquez Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1641796,Pelle Larsson,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,203952,Andrew Wiggins,1642276,Kel'el Ware,46.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,201567,Kevin Love,56.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,202692,Alec Burks,60.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,203937,Kyle Anderson,64.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,203952,Andrew Wiggins,23.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1626196,Josh Richardson,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1628389,Bam Adebayo,444.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1629130,Duncan Robinson,198.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1629312,Haywood Highsmith,122.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1629639,Tyler Herro,383.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1630558,Davion Mitchell,31.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1630696,Dru Smith,39.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1631107,Nikola Jović,236.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1631170,Jaime Jaquez Jr.,260.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1641796,Pelle Larsson,75.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626179,Terry Rozier,1642276,Kel'el Ware,84.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,201567,Kevin Love,2.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,202692,Alec Burks,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,203937,Kyle Anderson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,203952,Andrew Wiggins,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1626179,Terry Rozier,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1628389,Bam Adebayo,45.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1629130,Duncan Robinson,23.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1629312,Haywood Highsmith,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1629639,Tyler Herro,31.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1630558,Davion Mitchell,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1630696,Dru Smith,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1631107,Nikola Jović,17.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1631170,Jaime Jaquez Jr.,33.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1641796,Pelle Larsson,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1626196,Josh Richardson,1642276,Kel'el Ware,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,201567,Kevin Love,26.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,202692,Alec Burks,165.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,203937,Kyle Anderson,44.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,203952,Andrew Wiggins,127.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1626179,Terry Rozier,429.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1626196,Josh Richardson,32.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1629130,Duncan Robinson,519.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1629312,Haywood Highsmith,144.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1629639,Tyler Herro,1028.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1630558,Davion Mitchell,219.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1630696,Dru Smith,40.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1631107,Nikola Jović,176.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1631170,Jaime Jaquez Jr.,188.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1641796,Pelle Larsson,81.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1628389,Bam Adebayo,1642276,Kel'el Ware,64.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,201567,Kevin Love,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,202692,Alec Burks,52.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,203937,Kyle Anderson,62.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,203952,Andrew Wiggins,33.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1626179,Terry Rozier,158.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1626196,Josh Richardson,15.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1628389,Bam Adebayo,385.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1629312,Haywood Highsmith,139.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1629639,Tyler Herro,283.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1630558,Davion Mitchell,84.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1630696,Dru Smith,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1631107,Nikola Jović,127.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1631170,Jaime Jaquez Jr.,113.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1641796,Pelle Larsson,45.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629130,Duncan Robinson,1642276,Kel'el Ware,76.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,201567,Kevin Love,33.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,202692,Alec Burks,56.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,203937,Kyle Anderson,45.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,203952,Andrew Wiggins,25.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1626179,Terry Rozier,178.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1626196,Josh Richardson,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1628389,Bam Adebayo,226.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1629130,Duncan Robinson,127.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1629639,Tyler Herro,370.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1630558,Davion Mitchell,173.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1630696,Dru Smith,21.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1631107,Nikola Jović,48.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1631170,Jaime Jaquez Jr.,100.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1641796,Pelle Larsson,43.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629312,Haywood Highsmith,1642276,Kel'el Ware,41.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,201567,Kevin Love,77.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,202692,Alec Burks,134.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,203937,Kyle Anderson,72.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,203952,Andrew Wiggins,134.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1626179,Terry Rozier,370.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1626196,Josh Richardson,29.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1628389,Bam Adebayo,885.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1629130,Duncan Robinson,323.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1629312,Haywood Highsmith,286.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1630558,Davion Mitchell,262.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1630696,Dru Smith,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1631107,Nikola Jović,256.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1631170,Jaime Jaquez Jr.,245.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1641796,Pelle Larsson,98.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1629639,Tyler Herro,1642276,Kel'el Ware,218.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,201567,Kevin Love,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,202692,Alec Burks,82.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,203937,Kyle Anderson,141.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,203952,Andrew Wiggins,125.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1626179,Terry Rozier,30.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1626196,Josh Richardson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1628389,Bam Adebayo,295.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1629130,Duncan Robinson,99.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1629312,Haywood Highsmith,131.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1629639,Tyler Herro,340.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1630696,Dru Smith,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1631107,Nikola Jović,28.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1631170,Jaime Jaquez Jr.,56.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1641796,Pelle Larsson,52.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630558,Davion Mitchell,1642276,Kel'el Ware,115.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,201567,Kevin Love,13.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,202692,Alec Burks,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,203937,Kyle Anderson,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,203952,Andrew Wiggins,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1626179,Terry Rozier,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1626196,Josh Richardson,5.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1628389,Bam Adebayo,57.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1629130,Duncan Robinson,17.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1629312,Haywood Highsmith,21.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1629639,Tyler Herro,57.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1630558,Davion Mitchell,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1631107,Nikola Jović,16.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1631170,Jaime Jaquez Jr.,38.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1641796,Pelle Larsson,13.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1630696,Dru Smith,1642276,Kel'el Ware,3.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,201567,Kevin Love,4.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,202692,Alec Burks,80.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,203937,Kyle Anderson,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,203952,Andrew Wiggins,17.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1626179,Terry Rozier,252.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1626196,Josh Richardson,27.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1628389,Bam Adebayo,223.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1629130,Duncan Robinson,98.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1629312,Haywood Highsmith,42.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1629639,Tyler Herro,328.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1630558,Davion Mitchell,29.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1630696,Dru Smith,24.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1631170,Jaime Jaquez Jr.,129.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1641796,Pelle Larsson,25.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631107,Nikola Jović,1642276,Kel'el Ware,94.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,201567,Kevin Love,14.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,202692,Alec Burks,48.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,203937,Kyle Anderson,31.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,203952,Andrew Wiggins,9.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1626179,Terry Rozier,332.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1626196,Josh Richardson,26.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1628389,Bam Adebayo,217.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1629130,Duncan Robinson,150.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1629312,Haywood Highsmith,82.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1629639,Tyler Herro,315.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1630558,Davion Mitchell,68.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1630696,Dru Smith,32.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1631107,Nikola Jović,141.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1641796,Pelle Larsson,48.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1631170,Jaime Jaquez Jr.,1642276,Kel'el Ware,86.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,201567,Kevin Love,11.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,202692,Alec Burks,55.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,203937,Kyle Anderson,32.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,203952,Andrew Wiggins,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1626179,Terry Rozier,83.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1626196,Josh Richardson,7.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1628389,Bam Adebayo,96.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1629130,Duncan Robinson,37.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1629312,Haywood Highsmith,32.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1629639,Tyler Herro,107.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1630558,Davion Mitchell,67.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1630696,Dru Smith,13.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1631107,Nikola Jović,33.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1631170,Jaime Jaquez Jr.,51.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1641796,Pelle Larsson,1642276,Kel'el Ware,55.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,202692,Alec Burks,87.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,203937,Kyle Anderson,28.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,203952,Andrew Wiggins,56.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1626179,Terry Rozier,120.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1626196,Josh Richardson,6.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1628389,Bam Adebayo,105.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1629130,Duncan Robinson,108.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1629312,Haywood Highsmith,42.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1629639,Tyler Herro,393.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1630558,Davion Mitchell,218.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1630696,Dru Smith,8.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1631107,Nikola Jović,91.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1631170,Jaime Jaquez Jr.,102.0,True,NBA.com — https://www.nba.com/stats
+MIA,2024-25,Regular Season,1642276,Kel'el Ware,1641796,Pelle Larsson,59.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,381 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+ORL,2020-21,Regular Season,203082,Terrence Ross,203487,Michael Carter-Williams,71.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,203490,Otto Porter Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,203516,James Ennis III,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,203914,Gary Harris,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1626184,Chasson Randle,49.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1628365,Markelle Fultz,16.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1628407,Dwayne Bacon,58.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1628412,Frank Mason III,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1628964,Mo Bamba,43.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1628976,Wendell Carter Jr.,35.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1629606,Robert Franks,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1629643,Chuma Okeke,40.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1629648,Jordan Bone,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1629649,Ignas Brazdeikis,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1629743,Donta Hall,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1630175,Cole Anthony,76.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203082,Terrence Ross,1630181,R.J. Hampton,28.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,203082,Terrence Ross,123.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,203490,Otto Porter Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,203516,James Ennis III,52.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,203914,Gary Harris,20.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1626184,Chasson Randle,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1628365,Markelle Fultz,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1628407,Dwayne Bacon,99.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1628964,Mo Bamba,51.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1628976,Wendell Carter Jr.,70.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1629643,Chuma Okeke,113.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1629649,Ignas Brazdeikis,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1629743,Donta Hall,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1630175,Cole Anthony,16.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203487,Michael Carter-Williams,1630181,R.J. Hampton,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,203082,Terrence Ross,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,203487,Michael Carter-Williams,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,203516,James Ennis III,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,203914,Gary Harris,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1626184,Chasson Randle,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1628407,Dwayne Bacon,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1628964,Mo Bamba,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1628976,Wendell Carter Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1629643,Chuma Okeke,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1629649,Ignas Brazdeikis,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1629743,Donta Hall,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1630175,Cole Anthony,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203490,Otto Porter Jr.,1630181,R.J. Hampton,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,203082,Terrence Ross,37.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,203487,Michael Carter-Williams,84.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,203490,Otto Porter Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,203914,Gary Harris,14.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1626184,Chasson Randle,48.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1628407,Dwayne Bacon,60.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1628412,Frank Mason III,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1628964,Mo Bamba,27.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1628976,Wendell Carter Jr.,40.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1629021,Moritz Wagner,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1629643,Chuma Okeke,45.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1629648,Jordan Bone,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1629649,Ignas Brazdeikis,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1629743,Donta Hall,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1630175,Cole Anthony,141.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203516,James Ennis III,1630181,R.J. Hampton,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,203082,Terrence Ross,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,203487,Michael Carter-Williams,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,203516,James Ennis III,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1626184,Chasson Randle,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1628407,Dwayne Bacon,42.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1628964,Mo Bamba,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1628976,Wendell Carter Jr.,83.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1629021,Moritz Wagner,28.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1629606,Robert Franks,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1629643,Chuma Okeke,37.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1629649,Ignas Brazdeikis,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1629743,Donta Hall,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1630175,Cole Anthony,99.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,203914,Gary Harris,1630181,R.J. Hampton,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,203082,Terrence Ross,136.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,203487,Michael Carter-Williams,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,203490,Otto Porter Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,203516,James Ennis III,36.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,203914,Gary Harris,33.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1628407,Dwayne Bacon,141.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1628414,Sindarius Thornwell,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1628964,Mo Bamba,120.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1628976,Wendell Carter Jr.,40.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1629021,Moritz Wagner,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1629606,Robert Franks,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1629643,Chuma Okeke,125.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1629649,Ignas Brazdeikis,60.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1629743,Donta Hall,27.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1630175,Cole Anthony,14.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1626184,Chasson Randle,1630181,R.J. Hampton,170.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,203082,Terrence Ross,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,203487,Michael Carter-Williams,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,203516,James Ennis III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,203914,Gary Harris,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1626184,Chasson Randle,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1628407,Dwayne Bacon,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1628964,Mo Bamba,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1629643,Chuma Okeke,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1629649,Ignas Brazdeikis,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1629743,Donta Hall,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1630175,Cole Anthony,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628365,Markelle Fultz,1630181,R.J. Hampton,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,203082,Terrence Ross,79.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,203487,Michael Carter-Williams,70.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,203490,Otto Porter Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,203516,James Ennis III,40.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,203914,Gary Harris,41.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1626184,Chasson Randle,91.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1628365,Markelle Fultz,20.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1628412,Frank Mason III,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1628964,Mo Bamba,63.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1628976,Wendell Carter Jr.,57.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1629021,Moritz Wagner,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1629606,Robert Franks,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1629643,Chuma Okeke,113.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1629648,Jordan Bone,23.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1629649,Ignas Brazdeikis,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1629743,Donta Hall,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1630175,Cole Anthony,159.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628407,Dwayne Bacon,1630181,R.J. Hampton,45.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,203082,Terrence Ross,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,203516,James Ennis III,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,203914,Gary Harris,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1626184,Chasson Randle,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1628407,Dwayne Bacon,14.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1628964,Mo Bamba,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1629643,Chuma Okeke,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1629649,Ignas Brazdeikis,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1629743,Donta Hall,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1630175,Cole Anthony,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628412,Frank Mason III,1630181,R.J. Hampton,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,203082,Terrence Ross,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,203516,James Ennis III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,203914,Gary Harris,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1626184,Chasson Randle,23.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1628407,Dwayne Bacon,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1628964,Mo Bamba,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1628976,Wendell Carter Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1629021,Moritz Wagner,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1629649,Ignas Brazdeikis,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1629743,Donta Hall,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1630175,Cole Anthony,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628414,Sindarius Thornwell,1630181,R.J. Hampton,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,203082,Terrence Ross,35.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,203487,Michael Carter-Williams,49.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,203490,Otto Porter Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,203516,James Ennis III,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,203914,Gary Harris,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1626184,Chasson Randle,122.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1628407,Dwayne Bacon,95.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1628412,Frank Mason III,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1628414,Sindarius Thornwell,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1629021,Moritz Wagner,14.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1629606,Robert Franks,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1629643,Chuma Okeke,42.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1629648,Jordan Bone,15.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1629649,Ignas Brazdeikis,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1629743,Donta Hall,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1630175,Cole Anthony,149.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628964,Mo Bamba,1630181,R.J. Hampton,75.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,203082,Terrence Ross,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,203487,Michael Carter-Williams,84.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,203490,Otto Porter Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,203516,James Ennis III,43.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,203914,Gary Harris,84.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1626184,Chasson Randle,88.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1628407,Dwayne Bacon,80.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1628414,Sindarius Thornwell,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1629021,Moritz Wagner,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1629606,Robert Franks,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1629643,Chuma Okeke,74.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1629649,Ignas Brazdeikis,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1629743,Donta Hall,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1630175,Cole Anthony,216.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1628976,Wendell Carter Jr.,1630181,R.J. Hampton,69.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,203082,Terrence Ross,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,203516,James Ennis III,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,203914,Gary Harris,34.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1626184,Chasson Randle,72.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1628407,Dwayne Bacon,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1628414,Sindarius Thornwell,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1628964,Mo Bamba,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1628976,Wendell Carter Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1629649,Ignas Brazdeikis,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1629743,Donta Hall,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1630175,Cole Anthony,169.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629021,Moritz Wagner,1630181,R.J. Hampton,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,203082,Terrence Ross,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,203487,Michael Carter-Williams,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,203516,James Ennis III,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,203914,Gary Harris,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1626184,Chasson Randle,54.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1628407,Dwayne Bacon,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1628964,Mo Bamba,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1628976,Wendell Carter Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1629643,Chuma Okeke,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1629649,Ignas Brazdeikis,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1629743,Donta Hall,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1630175,Cole Anthony,42.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629606,Robert Franks,1630181,R.J. Hampton,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,203082,Terrence Ross,95.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,203487,Michael Carter-Williams,189.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,203490,Otto Porter Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,203516,James Ennis III,76.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,203914,Gary Harris,47.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1626184,Chasson Randle,217.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1628365,Markelle Fultz,35.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1628407,Dwayne Bacon,131.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1628412,Frank Mason III,44.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1628964,Mo Bamba,26.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1628976,Wendell Carter Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1629648,Jordan Bone,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1629649,Ignas Brazdeikis,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1629743,Donta Hall,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1630175,Cole Anthony,198.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629643,Chuma Okeke,1630181,R.J. Hampton,52.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,203082,Terrence Ross,38.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,203516,James Ennis III,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,203914,Gary Harris,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1626184,Chasson Randle,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1628407,Dwayne Bacon,33.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1628414,Sindarius Thornwell,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1628964,Mo Bamba,15.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1629643,Chuma Okeke,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1629649,Ignas Brazdeikis,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1629743,Donta Hall,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1630175,Cole Anthony,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629648,Jordan Bone,1630181,R.J. Hampton,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,203082,Terrence Ross,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,203516,James Ennis III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,203914,Gary Harris,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1626184,Chasson Randle,113.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1628407,Dwayne Bacon,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1628414,Sindarius Thornwell,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1628964,Mo Bamba,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1628976,Wendell Carter Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1629021,Moritz Wagner,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1629606,Robert Franks,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1629743,Donta Hall,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1630175,Cole Anthony,71.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629649,Ignas Brazdeikis,1630181,R.J. Hampton,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,203082,Terrence Ross,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,203487,Michael Carter-Williams,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,203516,James Ennis III,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,203914,Gary Harris,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1626184,Chasson Randle,69.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1628407,Dwayne Bacon,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1628414,Sindarius Thornwell,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1628964,Mo Bamba,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1629021,Moritz Wagner,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1629606,Robert Franks,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1629643,Chuma Okeke,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1629649,Ignas Brazdeikis,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1630175,Cole Anthony,38.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1629743,Donta Hall,1630181,R.J. Hampton,27.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,203082,Terrence Ross,180.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,203487,Michael Carter-Williams,36.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,203516,James Ennis III,78.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,203914,Gary Harris,198.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1626184,Chasson Randle,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1628365,Markelle Fultz,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1628407,Dwayne Bacon,168.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1628412,Frank Mason III,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1628414,Sindarius Thornwell,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1628964,Mo Bamba,113.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1628976,Wendell Carter Jr.,140.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1629021,Moritz Wagner,83.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1629606,Robert Franks,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1629643,Chuma Okeke,121.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1629648,Jordan Bone,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1629649,Ignas Brazdeikis,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1629743,Donta Hall,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630175,Cole Anthony,1630181,R.J. Hampton,71.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,203082,Terrence Ross,38.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,203487,Michael Carter-Williams,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,203490,Otto Porter Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,203516,James Ennis III,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,203914,Gary Harris,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1626184,Chasson Randle,107.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1628407,Dwayne Bacon,49.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1628412,Frank Mason III,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1628414,Sindarius Thornwell,26.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1628964,Mo Bamba,83.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1628976,Wendell Carter Jr.,67.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1629021,Moritz Wagner,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1629606,Robert Franks,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1629643,Chuma Okeke,43.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1629648,Jordan Bone,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1629649,Ignas Brazdeikis,36.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1629743,Donta Hall,27.0,True,NBA.com — https://www.nba.com/stats
+ORL,2020-21,Regular Season,1630181,R.J. Hampton,1630175,Cole Anthony,84.0,True,NBA.com — https://www.nba.com/stats

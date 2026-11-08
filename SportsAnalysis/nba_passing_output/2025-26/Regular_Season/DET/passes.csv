@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DET,2025-26,Regular Season,202699,Tobias Harris,1627747,Caris LeVert,94.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1628989,Kevin Huerter,22.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1629130,Duncan Robinson,175.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1629750,Javonte Green,34.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1630191,Isaiah Stewart,32.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1630194,Paul Reed,29.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1630595,Cade Cunningham,594.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1631105,Jalen Duren,164.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1631204,Marcus Sasser,45.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1641709,Ausar Thompson,232.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1641842,Ronald Holland II,55.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,202699,Tobias Harris,1642450,Daniss Jenkins,311.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,202699,Tobias Harris,86.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1628989,Kevin Huerter,66.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1629130,Duncan Robinson,71.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1629750,Javonte Green,132.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1630191,Isaiah Stewart,127.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1630194,Paul Reed,90.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1630595,Cade Cunningham,237.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1631105,Jalen Duren,99.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1631204,Marcus Sasser,60.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1641709,Ausar Thompson,69.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1641842,Ronald Holland II,146.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1627747,Caris LeVert,1642450,Daniss Jenkins,198.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,202699,Tobias Harris,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1627747,Caris LeVert,86.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1629130,Duncan Robinson,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1629750,Javonte Green,32.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1630191,Isaiah Stewart,30.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1630194,Paul Reed,49.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1630595,Cade Cunningham,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1631105,Jalen Duren,46.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1631204,Marcus Sasser,39.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1641709,Ausar Thompson,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1641842,Ronald Holland II,52.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1628989,Kevin Huerter,1642450,Daniss Jenkins,121.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,202699,Tobias Harris,145.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1627747,Caris LeVert,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1628989,Kevin Huerter,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1629750,Javonte Green,52.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1630191,Isaiah Stewart,68.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1630194,Paul Reed,66.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1630595,Cade Cunningham,534.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1631105,Jalen Duren,214.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1631204,Marcus Sasser,30.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1641709,Ausar Thompson,224.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1641842,Ronald Holland II,66.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629130,Duncan Robinson,1642450,Daniss Jenkins,209.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,202699,Tobias Harris,34.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1627747,Caris LeVert,151.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1628989,Kevin Huerter,35.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1629130,Duncan Robinson,49.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1630191,Isaiah Stewart,56.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1630194,Paul Reed,45.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1630595,Cade Cunningham,359.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1631105,Jalen Duren,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1631204,Marcus Sasser,73.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1641709,Ausar Thompson,98.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1641842,Ronald Holland II,107.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1629750,Javonte Green,1642450,Daniss Jenkins,281.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,202699,Tobias Harris,46.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1627747,Caris LeVert,73.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1628989,Kevin Huerter,24.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1629130,Duncan Robinson,58.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1629750,Javonte Green,66.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1630194,Paul Reed,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1630595,Cade Cunningham,308.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1631105,Jalen Duren,35.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1631204,Marcus Sasser,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1641709,Ausar Thompson,67.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1641842,Ronald Holland II,94.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630191,Isaiah Stewart,1642450,Daniss Jenkins,103.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,202699,Tobias Harris,35.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1627747,Caris LeVert,88.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1628989,Kevin Huerter,59.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1629130,Duncan Robinson,73.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1629750,Javonte Green,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1630191,Isaiah Stewart,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1630595,Cade Cunningham,159.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1631105,Jalen Duren,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1631204,Marcus Sasser,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1641709,Ausar Thompson,71.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1641842,Ronald Holland II,89.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630194,Paul Reed,1642450,Daniss Jenkins,234.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,202699,Tobias Harris,578.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1627747,Caris LeVert,247.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1628989,Kevin Huerter,41.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1629130,Duncan Robinson,643.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1629750,Javonte Green,241.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1630191,Isaiah Stewart,262.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1630194,Paul Reed,84.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1631105,Jalen Duren,471.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1631204,Marcus Sasser,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1641709,Ausar Thompson,600.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1641842,Ronald Holland II,262.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1630595,Cade Cunningham,1642450,Daniss Jenkins,160.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,202699,Tobias Harris,163.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1627747,Caris LeVert,102.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1628989,Kevin Huerter,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1629130,Duncan Robinson,203.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1629750,Javonte Green,50.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1630191,Isaiah Stewart,37.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1630194,Paul Reed,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1630595,Cade Cunningham,934.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1631204,Marcus Sasser,58.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1641709,Ausar Thompson,296.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1641842,Ronald Holland II,60.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631105,Jalen Duren,1642450,Daniss Jenkins,335.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,202699,Tobias Harris,40.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1627747,Caris LeVert,50.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1628989,Kevin Huerter,44.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1629130,Duncan Robinson,40.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1629750,Javonte Green,48.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1630191,Isaiah Stewart,22.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1630194,Paul Reed,55.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1630595,Cade Cunningham,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1631105,Jalen Duren,39.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1641709,Ausar Thompson,26.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1641842,Ronald Holland II,69.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1631204,Marcus Sasser,1642450,Daniss Jenkins,54.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,202699,Tobias Harris,255.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1627747,Caris LeVert,78.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1628989,Kevin Huerter,24.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1629130,Duncan Robinson,243.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1629750,Javonte Green,74.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1630191,Isaiah Stewart,83.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1630194,Paul Reed,71.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1630595,Cade Cunningham,607.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1631105,Jalen Duren,282.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1631204,Marcus Sasser,25.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1641842,Ronald Holland II,79.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641709,Ausar Thompson,1642450,Daniss Jenkins,213.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,202699,Tobias Harris,37.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1627747,Caris LeVert,209.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1628989,Kevin Huerter,37.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1629130,Duncan Robinson,56.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1629750,Javonte Green,87.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1630191,Isaiah Stewart,77.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1630194,Paul Reed,81.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1630595,Cade Cunningham,383.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1631105,Jalen Duren,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1631204,Marcus Sasser,119.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1641709,Ausar Thompson,89.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1641842,Ronald Holland II,1642450,Daniss Jenkins,363.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,202699,Tobias Harris,287.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1627747,Caris LeVert,212.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1628989,Kevin Huerter,143.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1629130,Duncan Robinson,237.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1629750,Javonte Green,176.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1630191,Isaiah Stewart,100.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1630194,Paul Reed,158.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1630595,Cade Cunningham,174.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1631105,Jalen Duren,215.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1631204,Marcus Sasser,75.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1641709,Ausar Thompson,159.0,True,NBA.com — https://www.nba.com/stats
+DET,2025-26,Regular Season,1642450,Daniss Jenkins,1641842,Ronald Holland II,242.0,True,NBA.com — https://www.nba.com/stats

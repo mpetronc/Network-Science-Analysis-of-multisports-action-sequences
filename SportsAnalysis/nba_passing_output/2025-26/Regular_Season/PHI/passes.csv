@@ -1,0 +1,241 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+PHI,2025-26,Regular Season,201569,Eric Gordon,202331,Paul George,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,203083,Andre Drummond,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,203954,Joel Embiid,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1626162,Kelly Oubre Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1626166,Cameron Payne,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1629656,Quentin Grimes,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1630178,Tyrese Maxey,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1630570,Trendon Watford,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1630699,MarJon Beauchamp,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1631133,Jabari Walker,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1631207,Dalen Terry,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1631230,Dominick Barlow,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1641737,Adem Bona,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1642348,Justin Edwards,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,201569,Eric Gordon,1642845,VJ Edgecombe,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,201569,Eric Gordon,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,203083,Andre Drummond,65.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,203954,Joel Embiid,222.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1626162,Kelly Oubre Jr.,44.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1626166,Cameron Payne,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1629656,Quentin Grimes,129.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1630178,Tyrese Maxey,516.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1630570,Trendon Watford,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1630699,MarJon Beauchamp,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1631133,Jabari Walker,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1631207,Dalen Terry,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1631230,Dominick Barlow,65.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1641737,Adem Bona,42.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1642348,Justin Edwards,20.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,202331,Paul George,1642845,VJ Edgecombe,365.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,201569,Eric Gordon,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,202331,Paul George,62.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,203954,Joel Embiid,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1626162,Kelly Oubre Jr.,60.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1626166,Cameron Payne,43.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1629656,Quentin Grimes,124.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1630178,Tyrese Maxey,311.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1630570,Trendon Watford,64.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1630699,MarJon Beauchamp,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1631133,Jabari Walker,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1631207,Dalen Terry,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1631230,Dominick Barlow,30.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1641737,Adem Bona,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1642348,Justin Edwards,55.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203083,Andre Drummond,1642845,VJ Edgecombe,200.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,201569,Eric Gordon,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,202331,Paul George,178.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,203083,Andre Drummond,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1626162,Kelly Oubre Jr.,102.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1626166,Cameron Payne,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1629656,Quentin Grimes,131.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1630178,Tyrese Maxey,681.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1630570,Trendon Watford,40.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1630699,MarJon Beauchamp,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1631133,Jabari Walker,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1631207,Dalen Terry,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1631230,Dominick Barlow,64.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1641737,Adem Bona,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1642348,Justin Edwards,22.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,203954,Joel Embiid,1642845,VJ Edgecombe,348.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,201569,Eric Gordon,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,202331,Paul George,55.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,203083,Andre Drummond,39.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,203954,Joel Embiid,109.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1626166,Cameron Payne,24.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1629656,Quentin Grimes,197.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1630178,Tyrese Maxey,606.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1630570,Trendon Watford,71.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1630699,MarJon Beauchamp,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1631133,Jabari Walker,31.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1631207,Dalen Terry,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1631230,Dominick Barlow,65.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1641737,Adem Bona,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1642348,Justin Edwards,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626162,Kelly Oubre Jr.,1642845,VJ Edgecombe,296.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,202331,Paul George,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,203083,Andre Drummond,36.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,203954,Joel Embiid,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1626162,Kelly Oubre Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1629656,Quentin Grimes,115.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1630178,Tyrese Maxey,38.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1630570,Trendon Watford,146.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1630699,MarJon Beauchamp,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1631133,Jabari Walker,29.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1631207,Dalen Terry,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1631230,Dominick Barlow,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1641737,Adem Bona,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1642348,Justin Edwards,38.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1626166,Cameron Payne,1642845,VJ Edgecombe,82.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,201569,Eric Gordon,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,202331,Paul George,125.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,203083,Andre Drummond,102.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,203954,Joel Embiid,154.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1626162,Kelly Oubre Jr.,159.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1626166,Cameron Payne,77.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1630178,Tyrese Maxey,600.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1630570,Trendon Watford,182.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1630699,MarJon Beauchamp,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1631133,Jabari Walker,79.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1631207,Dalen Terry,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1631230,Dominick Barlow,129.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1641737,Adem Bona,80.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1642348,Justin Edwards,153.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1629656,Quentin Grimes,1642845,VJ Edgecombe,419.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,201569,Eric Gordon,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,202331,Paul George,413.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,203083,Andre Drummond,163.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,203954,Joel Embiid,829.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1626162,Kelly Oubre Jr.,459.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1626166,Cameron Payne,30.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1629656,Quentin Grimes,602.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1630570,Trendon Watford,276.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1630699,MarJon Beauchamp,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1631133,Jabari Walker,98.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1631207,Dalen Terry,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1631230,Dominick Barlow,300.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1641737,Adem Bona,107.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1642348,Justin Edwards,178.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630178,Tyrese Maxey,1642845,VJ Edgecombe,933.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,201569,Eric Gordon,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,202331,Paul George,25.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,203083,Andre Drummond,69.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,203954,Joel Embiid,90.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1626162,Kelly Oubre Jr.,93.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1626166,Cameron Payne,140.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1629656,Quentin Grimes,238.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1630178,Tyrese Maxey,369.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1630699,MarJon Beauchamp,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1631133,Jabari Walker,28.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1631207,Dalen Terry,35.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1631230,Dominick Barlow,51.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1641737,Adem Bona,51.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1642348,Justin Edwards,78.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630570,Trendon Watford,1642845,VJ Edgecombe,243.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,203083,Andre Drummond,7.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1626162,Kelly Oubre Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1626166,Cameron Payne,32.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1629656,Quentin Grimes,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1630178,Tyrese Maxey,9.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1630570,Trendon Watford,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1631133,Jabari Walker,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1631207,Dalen Terry,23.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1631230,Dominick Barlow,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1641737,Adem Bona,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1642348,Justin Edwards,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1630699,MarJon Beauchamp,1642845,VJ Edgecombe,34.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,201569,Eric Gordon,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,202331,Paul George,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,203083,Andre Drummond,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,203954,Joel Embiid,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1626162,Kelly Oubre Jr.,28.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1626166,Cameron Payne,37.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1629656,Quentin Grimes,86.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1630178,Tyrese Maxey,174.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1630570,Trendon Watford,25.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1630699,MarJon Beauchamp,8.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1631207,Dalen Terry,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1631230,Dominick Barlow,5.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1641737,Adem Bona,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1642348,Justin Edwards,31.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631133,Jabari Walker,1642845,VJ Edgecombe,89.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,203083,Andre Drummond,15.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,203954,Joel Embiid,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1626162,Kelly Oubre Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1626166,Cameron Payne,33.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1629656,Quentin Grimes,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1630178,Tyrese Maxey,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1630570,Trendon Watford,33.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1630699,MarJon Beauchamp,23.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1631133,Jabari Walker,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1631230,Dominick Barlow,7.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1641737,Adem Bona,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1642348,Justin Edwards,21.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631207,Dalen Terry,1642845,VJ Edgecombe,14.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,201569,Eric Gordon,2.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,202331,Paul George,86.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,203083,Andre Drummond,21.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,203954,Joel Embiid,55.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1626162,Kelly Oubre Jr.,74.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1626166,Cameron Payne,32.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1629656,Quentin Grimes,173.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1630178,Tyrese Maxey,437.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1630570,Trendon Watford,40.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1630699,MarJon Beauchamp,12.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1631133,Jabari Walker,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1631207,Dalen Terry,11.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1641737,Adem Bona,17.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1642348,Justin Edwards,80.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1631230,Dominick Barlow,1642845,VJ Edgecombe,328.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,202331,Paul George,41.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,203083,Andre Drummond,0.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,203954,Joel Embiid,1.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1626162,Kelly Oubre Jr.,52.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1626166,Cameron Payne,60.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1629656,Quentin Grimes,100.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1630178,Tyrese Maxey,236.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1630570,Trendon Watford,50.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1630699,MarJon Beauchamp,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1631133,Jabari Walker,6.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1631207,Dalen Terry,3.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1631230,Dominick Barlow,18.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1642348,Justin Edwards,45.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1641737,Adem Bona,1642845,VJ Edgecombe,220.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,201569,Eric Gordon,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,202331,Paul George,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,203083,Andre Drummond,28.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,203954,Joel Embiid,7.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1626162,Kelly Oubre Jr.,27.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1626166,Cameron Payne,37.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1629656,Quentin Grimes,166.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1630178,Tyrese Maxey,202.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1630570,Trendon Watford,81.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1630699,MarJon Beauchamp,16.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1631133,Jabari Walker,19.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1631207,Dalen Terry,21.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1631230,Dominick Barlow,55.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1641737,Adem Bona,19.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642348,Justin Edwards,1642845,VJ Edgecombe,215.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,201569,Eric Gordon,10.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,202331,Paul George,408.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,203083,Andre Drummond,156.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,203954,Joel Embiid,416.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1626162,Kelly Oubre Jr.,301.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1626166,Cameron Payne,76.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1629656,Quentin Grimes,504.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1630178,Tyrese Maxey,1047.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1630570,Trendon Watford,186.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1630699,MarJon Beauchamp,31.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1631133,Jabari Walker,68.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1631207,Dalen Terry,13.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1631230,Dominick Barlow,250.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1641737,Adem Bona,122.0,True,NBA.com — https://www.nba.com/stats
+PHI,2025-26,Regular Season,1642845,VJ Edgecombe,1642348,Justin Edwards,173.0,True,NBA.com — https://www.nba.com/stats

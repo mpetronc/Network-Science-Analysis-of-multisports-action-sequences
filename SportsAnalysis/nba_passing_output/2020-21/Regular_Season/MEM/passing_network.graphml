@@ -1,0 +1,795 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d17" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d16" for="node" attr.name="known_total_activity" attr.type="double" />
+  <key id="d15" for="node" attr.name="known_outgoing_activity" attr.type="double" />
+  <key id="d14" for="node" attr.name="known_incoming_activity" attr.type="double" />
+  <key id="d13" for="node" attr.name="field_goal_attempts" attr.type="long" />
+  <key id="d12" for="node" attr.name="missing_reason" attr.type="string" />
+  <key id="d11" for="node" attr.name="outgoing_profile_available" attr.type="boolean" />
+  <key id="d10" for="node" attr.name="label" attr.type="string" />
+  <key id="d9" for="node" attr.name="name" attr.type="string" />
+  <key id="d8" for="node" attr.name="player_id" attr.type="long" />
+  <key id="d7" for="graph" attr.name="coverage_note" attr.type="string" />
+  <key id="d6" for="graph" attr.name="edge_weight_description" attr.type="string" />
+  <key id="d5" for="graph" attr.name="missing_profile_count" attr.type="long" />
+  <key id="d4" for="graph" attr.name="player_profiles_complete" attr.type="boolean" />
+  <key id="d3" for="graph" attr.name="source" attr.type="string" />
+  <key id="d2" for="graph" attr.name="season_type" attr.type="string" />
+  <key id="d1" for="graph" attr.name="season" attr.type="string" />
+  <key id="d0" for="graph" attr.name="team" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="202685">
+      <data key="d8">202685</data>
+      <data key="d9">Jonas Valanciunas</data>
+      <data key="d10">J. Valanciunas</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">743</data>
+      <data key="d14">1818.0</data>
+      <data key="d15">2428.0</data>
+      <data key="d16">4246.0</data>
+    </node>
+    <node id="203937">
+      <data key="d8">203937</data>
+      <data key="d9">Kyle Anderson</data>
+      <data key="d10">K. Anderson</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">658</data>
+      <data key="d14">1956.0</data>
+      <data key="d15">2155.0</data>
+      <data key="d16">4111.0</data>
+    </node>
+    <node id="204025">
+      <data key="d8">204025</data>
+      <data key="d9">Tim Frazier</data>
+      <data key="d10">T. Frazier</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">20</data>
+      <data key="d14">103.0</data>
+      <data key="d15">99.0</data>
+      <data key="d16">202.0</data>
+    </node>
+    <node id="1626145">
+      <data key="d8">1626145</data>
+      <data key="d9">Tyus Jones</data>
+      <data key="d10">T. Jones</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">413</data>
+      <data key="d14">2268.0</data>
+      <data key="d15">2125.0</data>
+      <data key="d16">4393.0</data>
+    </node>
+    <node id="1626159">
+      <data key="d8">1626159</data>
+      <data key="d9">Justise Winslow</data>
+      <data key="d10">J. Winslow</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">210</data>
+      <data key="d14">560.0</data>
+      <data key="d15">584.0</data>
+      <data key="d16">1144.0</data>
+    </node>
+    <node id="1628415">
+      <data key="d8">1628415</data>
+      <data key="d9">Dillon Brooks</data>
+      <data key="d10">D. Brooks</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">1031</data>
+      <data key="d14">2137.0</data>
+      <data key="d15">1480.0</data>
+      <data key="d16">3617.0</data>
+    </node>
+    <node id="1628960">
+      <data key="d8">1628960</data>
+      <data key="d9">Grayson Allen</data>
+      <data key="d10">G. Allen</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">414</data>
+      <data key="d14">1153.0</data>
+      <data key="d15">1116.0</data>
+      <data key="d16">2269.0</data>
+    </node>
+    <node id="1628991">
+      <data key="d8">1628991</data>
+      <data key="d9">Jaren Jackson Jr.</data>
+      <data key="d10">J. Jr.</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">125</data>
+      <data key="d14">249.0</data>
+      <data key="d15">246.0</data>
+      <data key="d16">495.0</data>
+    </node>
+    <node id="1629001">
+      <data key="d8">1629001</data>
+      <data key="d9">De'Anthony Melton</data>
+      <data key="d10">D. Melton</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">393</data>
+      <data key="d14">1166.0</data>
+      <data key="d15">1154.0</data>
+      <data key="d16">2320.0</data>
+    </node>
+    <node id="1629630">
+      <data key="d8">1629630</data>
+      <data key="d9">Ja Morant</data>
+      <data key="d10">J. Morant</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">957</data>
+      <data key="d14">3926.0</data>
+      <data key="d15">3087.0</data>
+      <data key="d16">7013.0</data>
+    </node>
+    <node id="1629634">
+      <data key="d8">1629634</data>
+      <data key="d9">Brandon Clarke</data>
+      <data key="d10">B. Clarke</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">495</data>
+      <data key="d14">1095.0</data>
+      <data key="d15">1204.0</data>
+      <data key="d16">2299.0</data>
+    </node>
+    <node id="1629681">
+      <data key="d8">1629681</data>
+      <data key="d9">Killian Tillie</data>
+      <data key="d10">K. Tillie</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">57</data>
+      <data key="d14">117.0</data>
+      <data key="d15">125.0</data>
+      <data key="d16">242.0</data>
+    </node>
+    <node id="1629723">
+      <data key="d8">1629723</data>
+      <data key="d9">John Konchar</data>
+      <data key="d10">J. Konchar</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">138</data>
+      <data key="d14">399.0</data>
+      <data key="d15">568.0</data>
+      <data key="d16">967.0</data>
+    </node>
+    <node id="1630214">
+      <data key="d8">1630214</data>
+      <data key="d9">Xavier Tillman</data>
+      <data key="d10">X. Tillman</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">299</data>
+      <data key="d14">964.0</data>
+      <data key="d15">1403.0</data>
+      <data key="d16">2367.0</data>
+    </node>
+    <node id="1630217">
+      <data key="d8">1630217</data>
+      <data key="d9">Desmond Bane</data>
+      <data key="d10">D. Bane</data>
+      <data key="d11">True</data>
+      <data key="d12" />
+      <data key="d13">499</data>
+      <data key="d14">1335.0</data>
+      <data key="d15">1472.0</data>
+      <data key="d16">2807.0</data>
+    </node>
+    <edge source="202685" target="203937">
+      <data key="d17">290.0</data>
+    </edge>
+    <edge source="202685" target="204025">
+      <data key="d17">17.0</data>
+    </edge>
+    <edge source="202685" target="1626145">
+      <data key="d17">309.0</data>
+    </edge>
+    <edge source="202685" target="1626159">
+      <data key="d17">57.0</data>
+    </edge>
+    <edge source="202685" target="1628415">
+      <data key="d17">402.0</data>
+    </edge>
+    <edge source="202685" target="1628960">
+      <data key="d17">148.0</data>
+    </edge>
+    <edge source="202685" target="1628991">
+      <data key="d17">5.0</data>
+    </edge>
+    <edge source="202685" target="1629001">
+      <data key="d17">103.0</data>
+    </edge>
+    <edge source="202685" target="1629630">
+      <data key="d17">880.0</data>
+    </edge>
+    <edge source="202685" target="1629634">
+      <data key="d17">52.0</data>
+    </edge>
+    <edge source="202685" target="1629681">
+      <data key="d17">2.0</data>
+    </edge>
+    <edge source="202685" target="1629723">
+      <data key="d17">16.0</data>
+    </edge>
+    <edge source="202685" target="1630214">
+      <data key="d17">13.0</data>
+    </edge>
+    <edge source="202685" target="1630217">
+      <data key="d17">134.0</data>
+    </edge>
+    <edge source="203937" target="202685">
+      <data key="d17">318.0</data>
+    </edge>
+    <edge source="203937" target="204025">
+      <data key="d17">5.0</data>
+    </edge>
+    <edge source="203937" target="1626145">
+      <data key="d17">198.0</data>
+    </edge>
+    <edge source="203937" target="1626159">
+      <data key="d17">21.0</data>
+    </edge>
+    <edge source="203937" target="1628415">
+      <data key="d17">295.0</data>
+    </edge>
+    <edge source="203937" target="1628960">
+      <data key="d17">216.0</data>
+    </edge>
+    <edge source="203937" target="1628991">
+      <data key="d17">20.0</data>
+    </edge>
+    <edge source="203937" target="1629001">
+      <data key="d17">77.0</data>
+    </edge>
+    <edge source="203937" target="1629630">
+      <data key="d17">719.0</data>
+    </edge>
+    <edge source="203937" target="1629634">
+      <data key="d17">76.0</data>
+    </edge>
+    <edge source="203937" target="1629723">
+      <data key="d17">28.0</data>
+    </edge>
+    <edge source="203937" target="1630214">
+      <data key="d17">62.0</data>
+    </edge>
+    <edge source="203937" target="1630217">
+      <data key="d17">120.0</data>
+    </edge>
+    <edge source="204025" target="202685">
+      <data key="d17">11.0</data>
+    </edge>
+    <edge source="204025" target="203937">
+      <data key="d17">7.0</data>
+    </edge>
+    <edge source="204025" target="1626159">
+      <data key="d17">13.0</data>
+    </edge>
+    <edge source="204025" target="1628415">
+      <data key="d17">9.0</data>
+    </edge>
+    <edge source="204025" target="1628960">
+      <data key="d17">13.0</data>
+    </edge>
+    <edge source="204025" target="1629001">
+      <data key="d17">11.0</data>
+    </edge>
+    <edge source="204025" target="1629634">
+      <data key="d17">10.0</data>
+    </edge>
+    <edge source="204025" target="1629681">
+      <data key="d17">7.0</data>
+    </edge>
+    <edge source="204025" target="1629723">
+      <data key="d17">11.0</data>
+    </edge>
+    <edge source="204025" target="1630214">
+      <data key="d17">3.0</data>
+    </edge>
+    <edge source="204025" target="1630217">
+      <data key="d17">4.0</data>
+    </edge>
+    <edge source="1626145" target="202685">
+      <data key="d17">218.0</data>
+    </edge>
+    <edge source="1626145" target="203937">
+      <data key="d17">234.0</data>
+    </edge>
+    <edge source="1626145" target="1626159">
+      <data key="d17">108.0</data>
+    </edge>
+    <edge source="1626145" target="1628415">
+      <data key="d17">217.0</data>
+    </edge>
+    <edge source="1626145" target="1628960">
+      <data key="d17">122.0</data>
+    </edge>
+    <edge source="1626145" target="1628991">
+      <data key="d17">38.0</data>
+    </edge>
+    <edge source="1626145" target="1629001">
+      <data key="d17">228.0</data>
+    </edge>
+    <edge source="1626145" target="1629630">
+      <data key="d17">52.0</data>
+    </edge>
+    <edge source="1626145" target="1629634">
+      <data key="d17">273.0</data>
+    </edge>
+    <edge source="1626145" target="1629681">
+      <data key="d17">51.0</data>
+    </edge>
+    <edge source="1626145" target="1629723">
+      <data key="d17">129.0</data>
+    </edge>
+    <edge source="1626145" target="1630214">
+      <data key="d17">221.0</data>
+    </edge>
+    <edge source="1626145" target="1630217">
+      <data key="d17">234.0</data>
+    </edge>
+    <edge source="1626159" target="202685">
+      <data key="d17">51.0</data>
+    </edge>
+    <edge source="1626159" target="203937">
+      <data key="d17">22.0</data>
+    </edge>
+    <edge source="1626159" target="204025">
+      <data key="d17">13.0</data>
+    </edge>
+    <edge source="1626159" target="1626145">
+      <data key="d17">123.0</data>
+    </edge>
+    <edge source="1626159" target="1628415">
+      <data key="d17">16.0</data>
+    </edge>
+    <edge source="1626159" target="1628960">
+      <data key="d17">12.0</data>
+    </edge>
+    <edge source="1626159" target="1628991">
+      <data key="d17">13.0</data>
+    </edge>
+    <edge source="1626159" target="1629001">
+      <data key="d17">70.0</data>
+    </edge>
+    <edge source="1626159" target="1629630">
+      <data key="d17">117.0</data>
+    </edge>
+    <edge source="1626159" target="1629634">
+      <data key="d17">54.0</data>
+    </edge>
+    <edge source="1626159" target="1629681">
+      <data key="d17">7.0</data>
+    </edge>
+    <edge source="1626159" target="1629723">
+      <data key="d17">7.0</data>
+    </edge>
+    <edge source="1626159" target="1630214">
+      <data key="d17">38.0</data>
+    </edge>
+    <edge source="1626159" target="1630217">
+      <data key="d17">41.0</data>
+    </edge>
+    <edge source="1628415" target="202685">
+      <data key="d17">296.0</data>
+    </edge>
+    <edge source="1628415" target="203937">
+      <data key="d17">219.0</data>
+    </edge>
+    <edge source="1628415" target="204025">
+      <data key="d17">13.0</data>
+    </edge>
+    <edge source="1628415" target="1626145">
+      <data key="d17">145.0</data>
+    </edge>
+    <edge source="1628415" target="1626159">
+      <data key="d17">8.0</data>
+    </edge>
+    <edge source="1628415" target="1628960">
+      <data key="d17">82.0</data>
+    </edge>
+    <edge source="1628415" target="1628991">
+      <data key="d17">25.0</data>
+    </edge>
+    <edge source="1628415" target="1629001">
+      <data key="d17">53.0</data>
+    </edge>
+    <edge source="1628415" target="1629630">
+      <data key="d17">386.0</data>
+    </edge>
+    <edge source="1628415" target="1629634">
+      <data key="d17">81.0</data>
+    </edge>
+    <edge source="1628415" target="1629681">
+      <data key="d17">1.0</data>
+    </edge>
+    <edge source="1628415" target="1629723">
+      <data key="d17">16.0</data>
+    </edge>
+    <edge source="1628415" target="1630214">
+      <data key="d17">80.0</data>
+    </edge>
+    <edge source="1628415" target="1630217">
+      <data key="d17">75.0</data>
+    </edge>
+    <edge source="1628960" target="202685">
+      <data key="d17">145.0</data>
+    </edge>
+    <edge source="1628960" target="203937">
+      <data key="d17">172.0</data>
+    </edge>
+    <edge source="1628960" target="204025">
+      <data key="d17">7.0</data>
+    </edge>
+    <edge source="1628960" target="1626145">
+      <data key="d17">111.0</data>
+    </edge>
+    <edge source="1628960" target="1626159">
+      <data key="d17">12.0</data>
+    </edge>
+    <edge source="1628960" target="1628415">
+      <data key="d17">108.0</data>
+    </edge>
+    <edge source="1628960" target="1628991">
+      <data key="d17">6.0</data>
+    </edge>
+    <edge source="1628960" target="1629001">
+      <data key="d17">28.0</data>
+    </edge>
+    <edge source="1628960" target="1629630">
+      <data key="d17">383.0</data>
+    </edge>
+    <edge source="1628960" target="1629634">
+      <data key="d17">32.0</data>
+    </edge>
+    <edge source="1628960" target="1629681">
+      <data key="d17">4.0</data>
+    </edge>
+    <edge source="1628960" target="1629723">
+      <data key="d17">10.0</data>
+    </edge>
+    <edge source="1628960" target="1630214">
+      <data key="d17">53.0</data>
+    </edge>
+    <edge source="1628960" target="1630217">
+      <data key="d17">45.0</data>
+    </edge>
+    <edge source="1628991" target="202685">
+      <data key="d17">8.0</data>
+    </edge>
+    <edge source="1628991" target="203937">
+      <data key="d17">11.0</data>
+    </edge>
+    <edge source="1628991" target="1626145">
+      <data key="d17">31.0</data>
+    </edge>
+    <edge source="1628991" target="1626159">
+      <data key="d17">10.0</data>
+    </edge>
+    <edge source="1628991" target="1628415">
+      <data key="d17">34.0</data>
+    </edge>
+    <edge source="1628991" target="1628960">
+      <data key="d17">1.0</data>
+    </edge>
+    <edge source="1628991" target="1629001">
+      <data key="d17">31.0</data>
+    </edge>
+    <edge source="1628991" target="1629630">
+      <data key="d17">98.0</data>
+    </edge>
+    <edge source="1628991" target="1629634">
+      <data key="d17">6.0</data>
+    </edge>
+    <edge source="1628991" target="1629723">
+      <data key="d17">3.0</data>
+    </edge>
+    <edge source="1628991" target="1630214">
+      <data key="d17">2.0</data>
+    </edge>
+    <edge source="1628991" target="1630217">
+      <data key="d17">11.0</data>
+    </edge>
+    <edge source="1629001" target="202685">
+      <data key="d17">85.0</data>
+    </edge>
+    <edge source="1629001" target="203937">
+      <data key="d17">65.0</data>
+    </edge>
+    <edge source="1629001" target="204025">
+      <data key="d17">13.0</data>
+    </edge>
+    <edge source="1629001" target="1626145">
+      <data key="d17">244.0</data>
+    </edge>
+    <edge source="1629001" target="1626159">
+      <data key="d17">61.0</data>
+    </edge>
+    <edge source="1629001" target="1628415">
+      <data key="d17">67.0</data>
+    </edge>
+    <edge source="1629001" target="1628960">
+      <data key="d17">28.0</data>
+    </edge>
+    <edge source="1629001" target="1628991">
+      <data key="d17">28.0</data>
+    </edge>
+    <edge source="1629001" target="1629630">
+      <data key="d17">237.0</data>
+    </edge>
+    <edge source="1629001" target="1629634">
+      <data key="d17">115.0</data>
+    </edge>
+    <edge source="1629001" target="1629681">
+      <data key="d17">6.0</data>
+    </edge>
+    <edge source="1629001" target="1629723">
+      <data key="d17">19.0</data>
+    </edge>
+    <edge source="1629001" target="1630214">
+      <data key="d17">90.0</data>
+    </edge>
+    <edge source="1629001" target="1630217">
+      <data key="d17">96.0</data>
+    </edge>
+    <edge source="1629630" target="202685">
+      <data key="d17">519.0</data>
+    </edge>
+    <edge source="1629630" target="203937">
+      <data key="d17">595.0</data>
+    </edge>
+    <edge source="1629630" target="1626145">
+      <data key="d17">34.0</data>
+    </edge>
+    <edge source="1629630" target="1626159">
+      <data key="d17">79.0</data>
+    </edge>
+    <edge source="1629630" target="1628415">
+      <data key="d17">572.0</data>
+    </edge>
+    <edge source="1629630" target="1628960">
+      <data key="d17">342.0</data>
+    </edge>
+    <edge source="1629630" target="1628991">
+      <data key="d17">88.0</data>
+    </edge>
+    <edge source="1629630" target="1629001">
+      <data key="d17">151.0</data>
+    </edge>
+    <edge source="1629630" target="1629634">
+      <data key="d17">226.0</data>
+    </edge>
+    <edge source="1629630" target="1629681">
+      <data key="d17">4.0</data>
+    </edge>
+    <edge source="1629630" target="1629723">
+      <data key="d17">37.0</data>
+    </edge>
+    <edge source="1629630" target="1630214">
+      <data key="d17">205.0</data>
+    </edge>
+    <edge source="1629630" target="1630217">
+      <data key="d17">235.0</data>
+    </edge>
+    <edge source="1629634" target="202685">
+      <data key="d17">33.0</data>
+    </edge>
+    <edge source="1629634" target="203937">
+      <data key="d17">79.0</data>
+    </edge>
+    <edge source="1629634" target="204025">
+      <data key="d17">8.0</data>
+    </edge>
+    <edge source="1629634" target="1626145">
+      <data key="d17">225.0</data>
+    </edge>
+    <edge source="1629634" target="1626159">
+      <data key="d17">56.0</data>
+    </edge>
+    <edge source="1629634" target="1628415">
+      <data key="d17">137.0</data>
+    </edge>
+    <edge source="1629634" target="1628960">
+      <data key="d17">54.0</data>
+    </edge>
+    <edge source="1629634" target="1628991">
+      <data key="d17">10.0</data>
+    </edge>
+    <edge source="1629634" target="1629001">
+      <data key="d17">136.0</data>
+    </edge>
+    <edge source="1629634" target="1629630">
+      <data key="d17">304.0</data>
+    </edge>
+    <edge source="1629634" target="1629723">
+      <data key="d17">19.0</data>
+    </edge>
+    <edge source="1629634" target="1630214">
+      <data key="d17">43.0</data>
+    </edge>
+    <edge source="1629634" target="1630217">
+      <data key="d17">100.0</data>
+    </edge>
+    <edge source="1629681" target="202685">
+      <data key="d17">2.0</data>
+    </edge>
+    <edge source="1629681" target="204025">
+      <data key="d17">7.0</data>
+    </edge>
+    <edge source="1629681" target="1626145">
+      <data key="d17">50.0</data>
+    </edge>
+    <edge source="1629681" target="1626159">
+      <data key="d17">6.0</data>
+    </edge>
+    <edge source="1629681" target="1628415">
+      <data key="d17">2.0</data>
+    </edge>
+    <edge source="1629681" target="1628960">
+      <data key="d17">1.0</data>
+    </edge>
+    <edge source="1629681" target="1628991">
+      <data key="d17">1.0</data>
+    </edge>
+    <edge source="1629681" target="1629001">
+      <data key="d17">7.0</data>
+    </edge>
+    <edge source="1629681" target="1629630">
+      <data key="d17">4.0</data>
+    </edge>
+    <edge source="1629681" target="1629634">
+      <data key="d17">1.0</data>
+    </edge>
+    <edge source="1629681" target="1629723">
+      <data key="d17">19.0</data>
+    </edge>
+    <edge source="1629681" target="1630214">
+      <data key="d17">6.0</data>
+    </edge>
+    <edge source="1629681" target="1630217">
+      <data key="d17">19.0</data>
+    </edge>
+    <edge source="1629723" target="202685">
+      <data key="d17">27.0</data>
+    </edge>
+    <edge source="1629723" target="203937">
+      <data key="d17">40.0</data>
+    </edge>
+    <edge source="1629723" target="204025">
+      <data key="d17">14.0</data>
+    </edge>
+    <edge source="1629723" target="1626145">
+      <data key="d17">202.0</data>
+    </edge>
+    <edge source="1629723" target="1626159">
+      <data key="d17">8.0</data>
+    </edge>
+    <edge source="1629723" target="1628415">
+      <data key="d17">27.0</data>
+    </edge>
+    <edge source="1629723" target="1628960">
+      <data key="d17">12.0</data>
+    </edge>
+    <edge source="1629723" target="1628991">
+      <data key="d17">4.0</data>
+    </edge>
+    <edge source="1629723" target="1629001">
+      <data key="d17">30.0</data>
+    </edge>
+    <edge source="1629723" target="1629630">
+      <data key="d17">56.0</data>
+    </edge>
+    <edge source="1629723" target="1629634">
+      <data key="d17">20.0</data>
+    </edge>
+    <edge source="1629723" target="1629681">
+      <data key="d17">12.0</data>
+    </edge>
+    <edge source="1629723" target="1630214">
+      <data key="d17">36.0</data>
+    </edge>
+    <edge source="1629723" target="1630217">
+      <data key="d17">80.0</data>
+    </edge>
+    <edge source="1630214" target="202685">
+      <data key="d17">4.0</data>
+    </edge>
+    <edge source="1630214" target="203937">
+      <data key="d17">99.0</data>
+    </edge>
+    <edge source="1630214" target="204025">
+      <data key="d17">2.0</data>
+    </edge>
+    <edge source="1630214" target="1626145">
+      <data key="d17">325.0</data>
+    </edge>
+    <edge source="1630214" target="1626159">
+      <data key="d17">64.0</data>
+    </edge>
+    <edge source="1630214" target="1628415">
+      <data key="d17">132.0</data>
+    </edge>
+    <edge source="1630214" target="1628960">
+      <data key="d17">76.0</data>
+    </edge>
+    <edge source="1630214" target="1628991">
+      <data key="d17">2.0</data>
+    </edge>
+    <edge source="1630214" target="1629001">
+      <data key="d17">122.0</data>
+    </edge>
+    <edge source="1630214" target="1629630">
+      <data key="d17">336.0</data>
+    </edge>
+    <edge source="1630214" target="1629634">
+      <data key="d17">63.0</data>
+    </edge>
+    <edge source="1630214" target="1629681">
+      <data key="d17">12.0</data>
+    </edge>
+    <edge source="1630214" target="1629723">
+      <data key="d17">25.0</data>
+    </edge>
+    <edge source="1630214" target="1630217">
+      <data key="d17">141.0</data>
+    </edge>
+    <edge source="1630217" target="202685">
+      <data key="d17">101.0</data>
+    </edge>
+    <edge source="1630217" target="203937">
+      <data key="d17">123.0</data>
+    </edge>
+    <edge source="1630217" target="204025">
+      <data key="d17">4.0</data>
+    </edge>
+    <edge source="1630217" target="1626145">
+      <data key="d17">271.0</data>
+    </edge>
+    <edge source="1630217" target="1626159">
+      <data key="d17">57.0</data>
+    </edge>
+    <edge source="1630217" target="1628415">
+      <data key="d17">119.0</data>
+    </edge>
+    <edge source="1630217" target="1628960">
+      <data key="d17">46.0</data>
+    </edge>
+    <edge source="1630217" target="1628991">
+      <data key="d17">9.0</data>
+    </edge>
+    <edge source="1630217" target="1629001">
+      <data key="d17">119.0</data>
+    </edge>
+    <edge source="1630217" target="1629630">
+      <data key="d17">354.0</data>
+    </edge>
+    <edge source="1630217" target="1629634">
+      <data key="d17">86.0</data>
+    </edge>
+    <edge source="1630217" target="1629681">
+      <data key="d17">11.0</data>
+    </edge>
+    <edge source="1630217" target="1629723">
+      <data key="d17">60.0</data>
+    </edge>
+    <edge source="1630217" target="1630214">
+      <data key="d17">112.0</data>
+    </edge>
+    <data key="d0">MEM</data>
+    <data key="d1">2020-21</data>
+    <data key="d2">Regular Season</data>
+    <data key="d3">NBA.com &#8212; https://www.nba.com/stats</data>
+    <data key="d4">True</data>
+    <data key="d5">0</data>
+    <data key="d6">Tracked passes between players only.</data>
+    <data key="d7">Unknown outgoing passing profiles remain incomplete.</data>
+  </graph>
+</graphml>

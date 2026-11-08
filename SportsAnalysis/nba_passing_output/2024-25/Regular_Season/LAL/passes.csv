@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+LAL,2024-25,Regular Season,2544,LeBron James,202693,Markieff Morris,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,203458,Alex Len,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1627827,Dorian Finney-Smith,181.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1629003,Shake Milton,43.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1629020,Jarred Vanderbilt,60.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1629029,Luka Dončić,280.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1629060,Rui Hachimura,434.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1629216,Gabe Vincent,289.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1629629,Cam Reddish,56.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1629637,Jaxson Hayes,183.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1630559,Austin Reaves,1114.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1630692,Jordan Goodwin,52.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1641998,Trey Jemison III,11.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,2544,LeBron James,1642261,Dalton Knecht,249.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,2544,LeBron James,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,203458,Alex Len,8.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1627827,Dorian Finney-Smith,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1629003,Shake Milton,29.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1629020,Jarred Vanderbilt,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1629029,Luka Dončić,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1629060,Rui Hachimura,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1629216,Gabe Vincent,8.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1629629,Cam Reddish,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1629637,Jaxson Hayes,3.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1630559,Austin Reaves,16.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1630692,Jordan Goodwin,8.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1641998,Trey Jemison III,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,202693,Markieff Morris,1642261,Dalton Knecht,17.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,2544,LeBron James,9.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,202693,Markieff Morris,5.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1627827,Dorian Finney-Smith,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1629003,Shake Milton,16.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1629020,Jarred Vanderbilt,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1629029,Luka Dončić,20.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1629060,Rui Hachimura,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1629216,Gabe Vincent,10.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1629629,Cam Reddish,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1629637,Jaxson Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1630559,Austin Reaves,21.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1630692,Jordan Goodwin,17.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1641998,Trey Jemison III,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,203458,Alex Len,1642261,Dalton Knecht,23.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,2544,LeBron James,233.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,202693,Markieff Morris,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,203458,Alex Len,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1629003,Shake Milton,30.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1629020,Jarred Vanderbilt,13.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1629029,Luka Dončić,240.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1629060,Rui Hachimura,40.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1629216,Gabe Vincent,108.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1629629,Cam Reddish,4.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1629637,Jaxson Hayes,28.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1630559,Austin Reaves,334.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1630692,Jordan Goodwin,28.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1641998,Trey Jemison III,5.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1627827,Dorian Finney-Smith,1642261,Dalton Knecht,23.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,2544,LeBron James,56.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,202693,Markieff Morris,31.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,203458,Alex Len,11.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1627827,Dorian Finney-Smith,12.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1629020,Jarred Vanderbilt,10.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1629029,Luka Dončić,12.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1629060,Rui Hachimura,11.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1629216,Gabe Vincent,10.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1629629,Cam Reddish,14.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1629637,Jaxson Hayes,8.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1630559,Austin Reaves,28.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1630692,Jordan Goodwin,44.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1641998,Trey Jemison III,25.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629003,Shake Milton,1642261,Dalton Knecht,66.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,2544,LeBron James,96.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,202693,Markieff Morris,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,203458,Alex Len,3.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1627827,Dorian Finney-Smith,31.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1629003,Shake Milton,20.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1629029,Luka Dončić,104.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1629060,Rui Hachimura,10.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1629216,Gabe Vincent,66.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1629629,Cam Reddish,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1629637,Jaxson Hayes,6.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1630559,Austin Reaves,165.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1630692,Jordan Goodwin,45.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1641998,Trey Jemison III,10.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629020,Jarred Vanderbilt,1642261,Dalton Knecht,28.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,2544,LeBron James,327.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,202693,Markieff Morris,4.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,203458,Alex Len,12.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1627827,Dorian Finney-Smith,193.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1629003,Shake Milton,9.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1629020,Jarred Vanderbilt,59.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1629060,Rui Hachimura,83.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1629216,Gabe Vincent,135.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1629629,Cam Reddish,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1629637,Jaxson Hayes,126.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1630559,Austin Reaves,305.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1630692,Jordan Goodwin,67.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1641998,Trey Jemison III,21.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629029,Luka Dončić,1642261,Dalton Knecht,55.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,2544,LeBron James,376.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,202693,Markieff Morris,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,203458,Alex Len,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1627827,Dorian Finney-Smith,35.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1629003,Shake Milton,13.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1629020,Jarred Vanderbilt,4.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1629029,Luka Dončić,86.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1629216,Gabe Vincent,126.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1629629,Cam Reddish,20.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1629637,Jaxson Hayes,20.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1630559,Austin Reaves,400.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1630692,Jordan Goodwin,18.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1641998,Trey Jemison III,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629060,Rui Hachimura,1642261,Dalton Knecht,52.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,2544,LeBron James,304.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,202693,Markieff Morris,6.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,203458,Alex Len,6.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1627827,Dorian Finney-Smith,75.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1629003,Shake Milton,7.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1629020,Jarred Vanderbilt,24.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1629029,Luka Dončić,212.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1629060,Rui Hachimura,80.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1629629,Cam Reddish,13.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1629637,Jaxson Hayes,65.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1630559,Austin Reaves,241.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1630692,Jordan Goodwin,44.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1641998,Trey Jemison III,8.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629216,Gabe Vincent,1642261,Dalton Knecht,107.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,2544,LeBron James,71.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,202693,Markieff Morris,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,203458,Alex Len,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1627827,Dorian Finney-Smith,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1629003,Shake Milton,15.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1629020,Jarred Vanderbilt,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1629029,Luka Dončić,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1629060,Rui Hachimura,9.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1629216,Gabe Vincent,19.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1629637,Jaxson Hayes,10.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1630559,Austin Reaves,73.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1630692,Jordan Goodwin,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1641998,Trey Jemison III,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629629,Cam Reddish,1642261,Dalton Knecht,17.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,2544,LeBron James,308.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,202693,Markieff Morris,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,203458,Alex Len,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1627827,Dorian Finney-Smith,52.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1629003,Shake Milton,14.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1629020,Jarred Vanderbilt,9.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1629029,Luka Dončić,168.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1629060,Rui Hachimura,26.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1629216,Gabe Vincent,91.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1629629,Cam Reddish,7.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1630559,Austin Reaves,265.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1630692,Jordan Goodwin,23.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1641998,Trey Jemison III,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1629637,Jaxson Hayes,1642261,Dalton Knecht,40.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,2544,LeBron James,1177.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,202693,Markieff Morris,15.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,203458,Alex Len,14.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1627827,Dorian Finney-Smith,251.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1629003,Shake Milton,36.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1629020,Jarred Vanderbilt,98.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1629029,Luka Dončić,399.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1629060,Rui Hachimura,323.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1629216,Gabe Vincent,209.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1629629,Cam Reddish,59.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1629637,Jaxson Hayes,144.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1630692,Jordan Goodwin,78.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1641998,Trey Jemison III,11.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630559,Austin Reaves,1642261,Dalton Knecht,257.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,2544,LeBron James,86.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,202693,Markieff Morris,28.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,203458,Alex Len,6.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1627827,Dorian Finney-Smith,26.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1629003,Shake Milton,41.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1629020,Jarred Vanderbilt,20.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1629029,Luka Dončić,93.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1629060,Rui Hachimura,12.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1629216,Gabe Vincent,73.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1629629,Cam Reddish,5.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1629637,Jaxson Hayes,24.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1630559,Austin Reaves,142.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1641998,Trey Jemison III,20.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1630692,Jordan Goodwin,1642261,Dalton Knecht,55.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,2544,LeBron James,25.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,202693,Markieff Morris,2.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,203458,Alex Len,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1627827,Dorian Finney-Smith,9.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1629003,Shake Milton,33.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1629020,Jarred Vanderbilt,11.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1629029,Luka Dončić,29.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1629060,Rui Hachimura,3.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1629216,Gabe Vincent,15.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1629629,Cam Reddish,3.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1629637,Jaxson Hayes,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1630559,Austin Reaves,22.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1630692,Jordan Goodwin,26.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1641998,Trey Jemison III,1642261,Dalton Knecht,22.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,2544,LeBron James,271.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,202693,Markieff Morris,9.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,203458,Alex Len,12.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1627827,Dorian Finney-Smith,23.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1629003,Shake Milton,67.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1629020,Jarred Vanderbilt,22.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1629029,Luka Dončić,68.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1629060,Rui Hachimura,62.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1629216,Gabe Vincent,126.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1629629,Cam Reddish,15.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1629637,Jaxson Hayes,25.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1630559,Austin Reaves,286.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1630692,Jordan Goodwin,40.0,True,NBA.com — https://www.nba.com/stats
+LAL,2024-25,Regular Season,1642261,Dalton Knecht,1641998,Trey Jemison III,17.0,True,NBA.com — https://www.nba.com/stats

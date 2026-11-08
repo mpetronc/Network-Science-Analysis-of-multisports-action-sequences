@@ -1,0 +1,183 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MEM,2021-22,Regular Season,203500,Steven Adams,203937,Kyle Anderson,123.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1626145,Tyus Jones,327.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1628415,Dillon Brooks,182.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1628991,Jaren Jackson Jr.,159.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1629001,De'Anthony Melton,239.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1629630,Ja Morant,675.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1629634,Brandon Clarke,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1629681,Killian Tillie,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1629723,John Konchar,40.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1630214,Xavier Tillman,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1630217,Desmond Bane,445.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1630533,Ziaire Williams,87.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203500,Steven Adams,1630583,Santi Aldama,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,203500,Steven Adams,90.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1626145,Tyus Jones,265.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1628415,Dillon Brooks,89.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1628991,Jaren Jackson Jr.,79.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1629001,De'Anthony Melton,264.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1629630,Ja Morant,406.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1629634,Brandon Clarke,55.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1629681,Killian Tillie,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1629723,John Konchar,73.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1630214,Xavier Tillman,49.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1630217,Desmond Bane,224.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1630533,Ziaire Williams,101.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,203937,Kyle Anderson,1630583,Santi Aldama,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,203500,Steven Adams,206.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,203937,Kyle Anderson,244.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1628415,Dillon Brooks,227.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1628991,Jaren Jackson Jr.,431.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1629001,De'Anthony Melton,281.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1629630,Ja Morant,143.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1629634,Brandon Clarke,255.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1629681,Killian Tillie,37.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1629723,John Konchar,138.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1630214,Xavier Tillman,80.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1630217,Desmond Bane,458.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1630533,Ziaire Williams,108.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1626145,Tyus Jones,1630583,Santi Aldama,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,203500,Steven Adams,134.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,203937,Kyle Anderson,60.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1626145,Tyus Jones,154.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1628991,Jaren Jackson Jr.,103.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1629001,De'Anthony Melton,62.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1629630,Ja Morant,53.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1629634,Brandon Clarke,37.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1629681,Killian Tillie,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1629723,John Konchar,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1630214,Xavier Tillman,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1630217,Desmond Bane,84.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1630533,Ziaire Williams,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628415,Dillon Brooks,1630583,Santi Aldama,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,203500,Steven Adams,81.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,203937,Kyle Anderson,30.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1626145,Tyus Jones,289.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1628415,Dillon Brooks,95.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1629001,De'Anthony Melton,112.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1629630,Ja Morant,393.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1629634,Brandon Clarke,47.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1629681,Killian Tillie,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1629723,John Konchar,51.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1630214,Xavier Tillman,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1630217,Desmond Bane,321.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1630533,Ziaire Williams,45.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1628991,Jaren Jackson Jr.,1630583,Santi Aldama,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,203500,Steven Adams,190.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,203937,Kyle Anderson,210.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1626145,Tyus Jones,363.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1628415,Dillon Brooks,99.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1628991,Jaren Jackson Jr.,120.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1629630,Ja Morant,530.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1629634,Brandon Clarke,106.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1629681,Killian Tillie,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1629723,John Konchar,87.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1630214,Xavier Tillman,82.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1630217,Desmond Bane,231.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1630533,Ziaire Williams,87.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629001,De'Anthony Melton,1630583,Santi Aldama,31.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,203500,Steven Adams,339.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,203937,Kyle Anderson,285.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1626145,Tyus Jones,99.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1628415,Dillon Brooks,101.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1628991,Jaren Jackson Jr.,348.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1629001,De'Anthony Melton,349.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1629634,Brandon Clarke,150.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1629681,Killian Tillie,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1629723,John Konchar,85.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1630214,Xavier Tillman,60.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1630217,Desmond Bane,650.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1630533,Ziaire Williams,187.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629630,Ja Morant,1630583,Santi Aldama,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,203500,Steven Adams,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,203937,Kyle Anderson,60.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1626145,Tyus Jones,238.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1628415,Dillon Brooks,52.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1628991,Jaren Jackson Jr.,64.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1629001,De'Anthony Melton,126.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1629630,Ja Morant,198.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1629681,Killian Tillie,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1629723,John Konchar,62.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1630214,Xavier Tillman,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1630217,Desmond Bane,180.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1630533,Ziaire Williams,45.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629634,Brandon Clarke,1630583,Santi Aldama,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,203500,Steven Adams,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,203937,Kyle Anderson,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1626145,Tyus Jones,44.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1628415,Dillon Brooks,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1628991,Jaren Jackson Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1629001,De'Anthony Melton,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1629630,Ja Morant,49.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1629634,Brandon Clarke,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1629723,John Konchar,45.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1630214,Xavier Tillman,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1630217,Desmond Bane,51.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1630533,Ziaire Williams,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629681,Killian Tillie,1630583,Santi Aldama,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,203500,Steven Adams,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,203937,Kyle Anderson,68.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1626145,Tyus Jones,251.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1628415,Dillon Brooks,46.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1628991,Jaren Jackson Jr.,118.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1629001,De'Anthony Melton,141.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1629630,Ja Morant,199.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1629634,Brandon Clarke,89.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1629681,Killian Tillie,56.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1630214,Xavier Tillman,135.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1630217,Desmond Bane,220.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1630533,Ziaire Williams,81.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1629723,John Konchar,1630583,Santi Aldama,74.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,203500,Steven Adams,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,203937,Kyle Anderson,64.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1626145,Tyus Jones,116.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1628415,Dillon Brooks,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1628991,Jaren Jackson Jr.,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1629001,De'Anthony Melton,122.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1629630,Ja Morant,79.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1629634,Brandon Clarke,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1629681,Killian Tillie,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1629723,John Konchar,140.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1630217,Desmond Bane,114.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1630533,Ziaire Williams,43.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630214,Xavier Tillman,1630583,Santi Aldama,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,203500,Steven Adams,335.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,203937,Kyle Anderson,153.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1626145,Tyus Jones,534.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1628415,Dillon Brooks,128.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1628991,Jaren Jackson Jr.,400.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1629001,De'Anthony Melton,210.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1629630,Ja Morant,768.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1629634,Brandon Clarke,153.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1629681,Killian Tillie,48.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1629723,John Konchar,140.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1630214,Xavier Tillman,81.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1630533,Ziaire Williams,95.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630217,Desmond Bane,1630583,Santi Aldama,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,203500,Steven Adams,73.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,203937,Kyle Anderson,50.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1626145,Tyus Jones,83.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1628415,Dillon Brooks,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1628991,Jaren Jackson Jr.,52.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1629001,De'Anthony Melton,66.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1629630,Ja Morant,177.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1629634,Brandon Clarke,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1629681,Killian Tillie,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1629723,John Konchar,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1630214,Xavier Tillman,30.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1630217,Desmond Bane,82.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630533,Ziaire Williams,1630583,Santi Aldama,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,203500,Steven Adams,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,203937,Kyle Anderson,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1626145,Tyus Jones,20.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1628415,Dillon Brooks,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1628991,Jaren Jackson Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1629001,De'Anthony Melton,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1629630,Ja Morant,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1629634,Brandon Clarke,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1629681,Killian Tillie,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1629723,John Konchar,55.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1630214,Xavier Tillman,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1630217,Desmond Bane,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2021-22,Regular Season,1630583,Santi Aldama,1630533,Ziaire Williams,9.0,True,NBA.com — https://www.nba.com/stats

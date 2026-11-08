@@ -1,0 +1,183 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+POR,2025-26,Regular Season,201950,Jrue Holiday,203924,Jerami Grant,332.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1629057,Robert Williams III,96.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1629680,Matisse Thybulle,65.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1630166,Deni Avdija,520.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1630249,Vít Krejčí,67.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1630703,Scoot Henderson,215.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1631101,Shaedon Sharpe,199.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1631104,Blake Wesley,43.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1631126,Caleb Love,54.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1631200,Kris Murray,98.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1631321,Sidy Cissoko,101.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1641739,Toumani Camara,454.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,201950,Jrue Holiday,1642270,Donovan Clingan,309.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,201950,Jrue Holiday,273.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1629057,Robert Williams III,62.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1629680,Matisse Thybulle,16.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1630166,Deni Avdija,313.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1630249,Vít Krejčí,22.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1630703,Scoot Henderson,104.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1631101,Shaedon Sharpe,136.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1631104,Blake Wesley,56.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1631126,Caleb Love,103.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1631200,Kris Murray,56.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1631321,Sidy Cissoko,90.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1641739,Toumani Camara,149.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,203924,Jerami Grant,1642270,Donovan Clingan,130.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,201950,Jrue Holiday,162.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,203924,Jerami Grant,109.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1629680,Matisse Thybulle,17.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1630166,Deni Avdija,202.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1630249,Vít Krejčí,15.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1630703,Scoot Henderson,118.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1631101,Shaedon Sharpe,96.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1631104,Blake Wesley,33.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1631126,Caleb Love,97.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1631200,Kris Murray,23.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1631321,Sidy Cissoko,47.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1641739,Toumani Camara,116.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629057,Robert Williams III,1642270,Donovan Clingan,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,201950,Jrue Holiday,92.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,203924,Jerami Grant,14.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1629057,Robert Williams III,14.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1630166,Deni Avdija,83.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1630249,Vít Krejčí,10.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1630703,Scoot Henderson,94.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1631101,Shaedon Sharpe,13.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1631104,Blake Wesley,33.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1631126,Caleb Love,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1631200,Kris Murray,15.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1631321,Sidy Cissoko,18.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1641739,Toumani Camara,26.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1629680,Matisse Thybulle,1642270,Donovan Clingan,20.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,201950,Jrue Holiday,522.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,203924,Jerami Grant,343.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1629057,Robert Williams III,125.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1629680,Matisse Thybulle,73.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1630249,Vít Krejčí,24.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1630703,Scoot Henderson,183.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1631101,Shaedon Sharpe,470.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1631104,Blake Wesley,48.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1631126,Caleb Love,228.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1631200,Kris Murray,139.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1631321,Sidy Cissoko,227.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1641739,Toumani Camara,832.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630166,Deni Avdija,1642270,Donovan Clingan,460.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,201950,Jrue Holiday,78.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,203924,Jerami Grant,35.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1629057,Robert Williams III,11.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1629680,Matisse Thybulle,12.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1630166,Deni Avdija,24.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1630703,Scoot Henderson,92.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1631101,Shaedon Sharpe,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1631104,Blake Wesley,36.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1631126,Caleb Love,7.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1631200,Kris Murray,3.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1631321,Sidy Cissoko,11.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1641739,Toumani Camara,44.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630249,Vít Krejčí,1642270,Donovan Clingan,21.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,201950,Jrue Holiday,169.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,203924,Jerami Grant,122.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1629057,Robert Williams III,95.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1629680,Matisse Thybulle,87.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1630166,Deni Avdija,166.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1630249,Vít Krejčí,79.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1631101,Shaedon Sharpe,7.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1631104,Blake Wesley,35.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1631126,Caleb Love,7.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1631200,Kris Murray,45.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1631321,Sidy Cissoko,47.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1641739,Toumani Camara,157.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1630703,Scoot Henderson,1642270,Donovan Clingan,108.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,201950,Jrue Holiday,171.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,203924,Jerami Grant,154.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1629057,Robert Williams III,38.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1629680,Matisse Thybulle,8.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1630166,Deni Avdija,383.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1630249,Vít Krejčí,1.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1630703,Scoot Henderson,9.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1631104,Blake Wesley,33.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1631126,Caleb Love,160.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1631200,Kris Murray,46.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1631321,Sidy Cissoko,111.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1641739,Toumani Camara,244.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631101,Shaedon Sharpe,1642270,Donovan Clingan,98.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,201950,Jrue Holiday,53.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,203924,Jerami Grant,52.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1629057,Robert Williams III,25.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1629680,Matisse Thybulle,19.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1630166,Deni Avdija,54.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1630249,Vít Krejčí,41.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1630703,Scoot Henderson,29.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1631101,Shaedon Sharpe,48.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1631126,Caleb Love,24.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1631200,Kris Murray,31.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1631321,Sidy Cissoko,31.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1641739,Toumani Camara,37.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631104,Blake Wesley,1642270,Donovan Clingan,43.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,201950,Jrue Holiday,55.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,203924,Jerami Grant,114.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1629057,Robert Williams III,58.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1629680,Matisse Thybulle,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1630166,Deni Avdija,252.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1630249,Vít Krejčí,12.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1630703,Scoot Henderson,4.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1631101,Shaedon Sharpe,201.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1631104,Blake Wesley,20.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1631200,Kris Murray,40.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1631321,Sidy Cissoko,83.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1641739,Toumani Camara,114.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631126,Caleb Love,1642270,Donovan Clingan,84.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,201950,Jrue Holiday,99.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,203924,Jerami Grant,86.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1629057,Robert Williams III,31.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1629680,Matisse Thybulle,13.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1630166,Deni Avdija,145.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1630249,Vít Krejčí,6.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1630703,Scoot Henderson,47.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1631101,Shaedon Sharpe,75.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1631104,Blake Wesley,37.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1631126,Caleb Love,46.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1631321,Sidy Cissoko,50.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1641739,Toumani Camara,76.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631200,Kris Murray,1642270,Donovan Clingan,33.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,201950,Jrue Holiday,122.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,203924,Jerami Grant,104.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1629057,Robert Williams III,43.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1629680,Matisse Thybulle,16.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1630166,Deni Avdija,236.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1630249,Vít Krejčí,19.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1630703,Scoot Henderson,67.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1631101,Shaedon Sharpe,116.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1631104,Blake Wesley,49.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1631126,Caleb Love,127.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1631200,Kris Murray,43.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1641739,Toumani Camara,135.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1631321,Sidy Cissoko,1642270,Donovan Clingan,85.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,201950,Jrue Holiday,617.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,203924,Jerami Grant,267.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1629057,Robert Williams III,70.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1629680,Matisse Thybulle,23.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1630166,Deni Avdija,986.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1630249,Vít Krejčí,40.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1630703,Scoot Henderson,223.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1631101,Shaedon Sharpe,382.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1631104,Blake Wesley,47.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1631126,Caleb Love,245.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1631200,Kris Murray,63.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1631321,Sidy Cissoko,133.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1641739,Toumani Camara,1642270,Donovan Clingan,215.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,201950,Jrue Holiday,440.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,203924,Jerami Grant,171.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1629057,Robert Williams III,0.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1629680,Matisse Thybulle,19.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1630166,Deni Avdija,674.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1630249,Vít Krejčí,32.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1630703,Scoot Henderson,149.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1631101,Shaedon Sharpe,223.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1631104,Blake Wesley,47.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1631126,Caleb Love,133.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1631200,Kris Murray,33.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1631321,Sidy Cissoko,76.0,True,NBA.com — https://www.nba.com/stats
+POR,2025-26,Regular Season,1642270,Donovan Clingan,1641739,Toumani Camara,317.0,True,NBA.com — https://www.nba.com/stats

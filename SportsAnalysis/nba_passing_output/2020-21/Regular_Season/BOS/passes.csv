@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+BOS,2020-21,Regular Season,202684,Tristan Thompson,203095,Evan Fournier,26.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,203935,Marcus Smart,207.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,203953,Jabari Parker,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,1627759,Jaylen Brown,197.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,1628369,Jayson Tatum,241.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,1628400,Semi Ojeleye,21.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,1628436,Luke Kornet,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,1629057,Robert Williams III,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,1629641,Romeo Langford,9.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,1629684,Grant Williams,25.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,1630174,Aaron Nesmith,11.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,202684,Tristan Thompson,1630202,Payton Pritchard,105.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,202684,Tristan Thompson,25.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,203935,Marcus Smart,72.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,203953,Jabari Parker,3.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,1627759,Jaylen Brown,23.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,1628369,Jayson Tatum,72.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,1628400,Semi Ojeleye,4.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,1628436,Luke Kornet,23.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,1629057,Robert Williams III,18.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,1629641,Romeo Langford,5.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,1629684,Grant Williams,23.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,1630174,Aaron Nesmith,8.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203095,Evan Fournier,1630202,Payton Pritchard,56.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,202684,Tristan Thompson,170.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,203095,Evan Fournier,81.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,203953,Jabari Parker,7.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,1627759,Jaylen Brown,461.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,1628369,Jayson Tatum,579.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,1628400,Semi Ojeleye,55.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,1628436,Luke Kornet,39.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,1629057,Robert Williams III,140.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,1629641,Romeo Langford,21.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,1629684,Grant Williams,84.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,1630174,Aaron Nesmith,23.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203935,Marcus Smart,1630202,Payton Pritchard,95.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,202684,Tristan Thompson,1.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,203095,Evan Fournier,2.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,203935,Marcus Smart,13.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,1627759,Jaylen Brown,2.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,1628369,Jayson Tatum,13.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,1628400,Semi Ojeleye,3.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,1628436,Luke Kornet,2.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,1629057,Robert Williams III,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,1629641,Romeo Langford,10.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,1629684,Grant Williams,22.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,1630174,Aaron Nesmith,4.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,203953,Jabari Parker,1630202,Payton Pritchard,29.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,202684,Tristan Thompson,143.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,203095,Evan Fournier,16.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,203935,Marcus Smart,366.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,203953,Jabari Parker,2.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,1628369,Jayson Tatum,252.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,1628400,Semi Ojeleye,51.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,1628436,Luke Kornet,15.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,1629057,Robert Williams III,108.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,1629641,Romeo Langford,7.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,1629684,Grant Williams,59.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,1630174,Aaron Nesmith,19.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1627759,Jaylen Brown,1630202,Payton Pritchard,160.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,202684,Tristan Thompson,236.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,203095,Evan Fournier,68.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,203935,Marcus Smart,432.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,203953,Jabari Parker,20.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,1627759,Jaylen Brown,376.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,1628400,Semi Ojeleye,123.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,1628436,Luke Kornet,30.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,1629057,Robert Williams III,206.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,1629641,Romeo Langford,12.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,1629684,Grant Williams,157.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,1630174,Aaron Nesmith,70.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628369,Jayson Tatum,1630202,Payton Pritchard,329.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,202684,Tristan Thompson,22.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,203095,Evan Fournier,4.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,203935,Marcus Smart,106.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,203953,Jabari Parker,1.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,1627759,Jaylen Brown,70.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,1628369,Jayson Tatum,129.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,1628436,Luke Kornet,4.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,1629057,Robert Williams III,22.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,1629641,Romeo Langford,4.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,1629684,Grant Williams,7.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,1630174,Aaron Nesmith,11.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628400,Semi Ojeleye,1630202,Payton Pritchard,181.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,202684,Tristan Thompson,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,203095,Evan Fournier,37.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,203935,Marcus Smart,43.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,203953,Jabari Parker,3.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,1627759,Jaylen Brown,20.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,1628369,Jayson Tatum,36.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,1628400,Semi Ojeleye,6.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,1629057,Robert Williams III,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,1629641,Romeo Langford,9.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,1629684,Grant Williams,18.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,1630174,Aaron Nesmith,8.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1628436,Luke Kornet,1630202,Payton Pritchard,76.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,202684,Tristan Thompson,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,203095,Evan Fournier,28.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,203935,Marcus Smart,133.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,203953,Jabari Parker,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,1627759,Jaylen Brown,149.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,1628369,Jayson Tatum,235.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,1628400,Semi Ojeleye,26.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,1628436,Luke Kornet,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,1629641,Romeo Langford,6.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,1629684,Grant Williams,46.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,1630174,Aaron Nesmith,19.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629057,Robert Williams III,1630202,Payton Pritchard,114.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,202684,Tristan Thompson,14.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,203095,Evan Fournier,8.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,203935,Marcus Smart,24.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,203953,Jabari Parker,13.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,1627759,Jaylen Brown,10.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,1628369,Jayson Tatum,15.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,1628400,Semi Ojeleye,2.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,1628436,Luke Kornet,14.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,1629057,Robert Williams III,4.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,1629684,Grant Williams,10.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,1630174,Aaron Nesmith,6.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629641,Romeo Langford,1630202,Payton Pritchard,29.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,202684,Tristan Thompson,34.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,203095,Evan Fournier,20.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,203935,Marcus Smart,176.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,203953,Jabari Parker,8.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,1627759,Jaylen Brown,103.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,1628369,Jayson Tatum,193.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,1628400,Semi Ojeleye,12.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,1628436,Luke Kornet,12.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,1629057,Robert Williams III,27.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,1629641,Romeo Langford,16.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,1630174,Aaron Nesmith,16.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1629684,Grant Williams,1630202,Payton Pritchard,257.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,202684,Tristan Thompson,15.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,203095,Evan Fournier,9.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,203935,Marcus Smart,66.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,203953,Jabari Parker,7.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,1627759,Jaylen Brown,25.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,1628369,Jayson Tatum,69.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,1628400,Semi Ojeleye,9.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,1628436,Luke Kornet,9.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,1629057,Robert Williams III,14.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,1629641,Romeo Langford,6.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,1629684,Grant Williams,25.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630174,Aaron Nesmith,1630202,Payton Pritchard,103.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,202684,Tristan Thompson,64.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,203095,Evan Fournier,60.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,203935,Marcus Smart,149.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,203953,Jabari Parker,17.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,1627759,Jaylen Brown,242.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,1628369,Jayson Tatum,368.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,1628400,Semi Ojeleye,92.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,1628436,Luke Kornet,73.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,1629057,Robert Williams III,150.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,1629641,Romeo Langford,27.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,1629684,Grant Williams,146.0,True,NBA.com — https://www.nba.com/stats
+BOS,2020-21,Regular Season,1630202,Payton Pritchard,1630174,Aaron Nesmith,73.0,True,NBA.com — https://www.nba.com/stats

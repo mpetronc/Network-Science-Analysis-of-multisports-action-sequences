@@ -1,0 +1,183 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+ORL,2023-24,Regular Season,203914,Gary Harris,204060,Joe Ingles,44.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1628365,Markelle Fultz,23.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1628371,Jonathan Isaac,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1628976,Wendell Carter Jr.,65.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1629021,Moritz Wagner,47.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1629048,Goga Bitadze,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1630175,Cole Anthony,126.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1630243,Trevelin Queen,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1630532,Franz Wagner,115.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1630591,Jalen Suggs,77.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1631094,Paolo Banchero,168.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1631216,Caleb Houstan,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,203914,Gary Harris,1641710,Anthony Black,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,203914,Gary Harris,69.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1628365,Markelle Fultz,139.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1628371,Jonathan Isaac,84.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1628976,Wendell Carter Jr.,56.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1629021,Moritz Wagner,318.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1629048,Goga Bitadze,43.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1630175,Cole Anthony,397.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1630243,Trevelin Queen,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1630532,Franz Wagner,131.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1630591,Jalen Suggs,70.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1631094,Paolo Banchero,294.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1631216,Caleb Houstan,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,204060,Joe Ingles,1641710,Anthony Black,65.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,203914,Gary Harris,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,204060,Joe Ingles,100.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1628371,Jonathan Isaac,51.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1628976,Wendell Carter Jr.,161.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1629021,Moritz Wagner,109.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1629048,Goga Bitadze,23.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1630175,Cole Anthony,114.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1630243,Trevelin Queen,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1630532,Franz Wagner,152.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1630591,Jalen Suggs,115.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1631094,Paolo Banchero,369.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1631216,Caleb Houstan,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628365,Markelle Fultz,1641710,Anthony Black,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,203914,Gary Harris,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,204060,Joe Ingles,102.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1628365,Markelle Fultz,76.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1628976,Wendell Carter Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1629021,Moritz Wagner,40.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1629048,Goga Bitadze,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1630175,Cole Anthony,350.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1630243,Trevelin Queen,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1630532,Franz Wagner,92.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1630591,Jalen Suggs,51.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1631094,Paolo Banchero,96.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1631216,Caleb Houstan,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628371,Jonathan Isaac,1641710,Anthony Black,39.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,203914,Gary Harris,84.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,204060,Joe Ingles,56.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1628365,Markelle Fultz,154.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1628371,Jonathan Isaac,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1629021,Moritz Wagner,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1629048,Goga Bitadze,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1630175,Cole Anthony,101.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1630243,Trevelin Queen,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1630532,Franz Wagner,291.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1630591,Jalen Suggs,284.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1631094,Paolo Banchero,399.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1631216,Caleb Houstan,21.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1628976,Wendell Carter Jr.,1641710,Anthony Black,68.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,203914,Gary Harris,63.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,204060,Joe Ingles,261.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1628365,Markelle Fultz,72.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1628371,Jonathan Isaac,55.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1628976,Wendell Carter Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1629048,Goga Bitadze,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1630175,Cole Anthony,457.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1630243,Trevelin Queen,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1630532,Franz Wagner,213.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1630591,Jalen Suggs,65.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1631094,Paolo Banchero,160.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1631216,Caleb Houstan,39.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629021,Moritz Wagner,1641710,Anthony Black,84.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,203914,Gary Harris,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,204060,Joe Ingles,28.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1628365,Markelle Fultz,32.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1628371,Jonathan Isaac,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1629021,Moritz Wagner,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1630175,Cole Anthony,71.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1630243,Trevelin Queen,16.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1630532,Franz Wagner,156.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1630591,Jalen Suggs,225.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1631094,Paolo Banchero,297.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1631216,Caleb Houstan,31.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1629048,Goga Bitadze,1641710,Anthony Black,118.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,203914,Gary Harris,123.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,204060,Joe Ingles,349.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1628365,Markelle Fultz,134.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1628371,Jonathan Isaac,149.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1628976,Wendell Carter Jr.,78.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1629021,Moritz Wagner,470.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1629048,Goga Bitadze,56.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1630243,Trevelin Queen,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1630532,Franz Wagner,463.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1630591,Jalen Suggs,87.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1631094,Paolo Banchero,498.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1631216,Caleb Houstan,47.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630175,Cole Anthony,1641710,Anthony Black,106.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,203914,Gary Harris,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,204060,Joe Ingles,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1628365,Markelle Fultz,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1628371,Jonathan Isaac,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1628976,Wendell Carter Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1629021,Moritz Wagner,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1629048,Goga Bitadze,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1630175,Cole Anthony,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1630532,Franz Wagner,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1630591,Jalen Suggs,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1631094,Paolo Banchero,20.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1631216,Caleb Houstan,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630243,Trevelin Queen,1641710,Anthony Black,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,203914,Gary Harris,105.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,204060,Joe Ingles,96.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1628365,Markelle Fultz,129.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1628371,Jonathan Isaac,72.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1628976,Wendell Carter Jr.,235.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1629021,Moritz Wagner,205.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1629048,Goga Bitadze,106.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1630175,Cole Anthony,338.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1630243,Trevelin Queen,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1630591,Jalen Suggs,384.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1631094,Paolo Banchero,755.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1631216,Caleb Houstan,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630532,Franz Wagner,1641710,Anthony Black,169.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,203914,Gary Harris,103.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,204060,Joe Ingles,60.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1628365,Markelle Fultz,157.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1628371,Jonathan Isaac,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1628976,Wendell Carter Jr.,234.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1629021,Moritz Wagner,54.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1629048,Goga Bitadze,139.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1630175,Cole Anthony,100.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1630243,Trevelin Queen,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1630532,Franz Wagner,455.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1631094,Paolo Banchero,864.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1631216,Caleb Houstan,45.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1630591,Jalen Suggs,1641710,Anthony Black,136.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,203914,Gary Harris,210.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,204060,Joe Ingles,193.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1628365,Markelle Fultz,290.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1628371,Jonathan Isaac,51.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1628976,Wendell Carter Jr.,335.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1629021,Moritz Wagner,167.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1629048,Goga Bitadze,183.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1630175,Cole Anthony,466.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1630243,Trevelin Queen,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1630532,Franz Wagner,779.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1630591,Jalen Suggs,853.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1631216,Caleb Houstan,101.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631094,Paolo Banchero,1641710,Anthony Black,285.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,203914,Gary Harris,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,204060,Joe Ingles,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1628365,Markelle Fultz,21.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1628371,Jonathan Isaac,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1628976,Wendell Carter Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1629021,Moritz Wagner,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1629048,Goga Bitadze,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1630175,Cole Anthony,68.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1630243,Trevelin Queen,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1630532,Franz Wagner,37.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1630591,Jalen Suggs,45.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1631094,Paolo Banchero,72.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1631216,Caleb Houstan,1641710,Anthony Black,55.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,203914,Gary Harris,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,204060,Joe Ingles,84.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1628365,Markelle Fultz,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1628371,Jonathan Isaac,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1628976,Wendell Carter Jr.,54.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1629021,Moritz Wagner,90.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1629048,Goga Bitadze,172.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1630175,Cole Anthony,139.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1630243,Trevelin Queen,14.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1630532,Franz Wagner,187.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1630591,Jalen Suggs,136.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1631094,Paolo Banchero,362.0,True,NBA.com — https://www.nba.com/stats
+ORL,2023-24,Regular Season,1641710,Anthony Black,1631216,Caleb Houstan,47.0,True,NBA.com — https://www.nba.com/stats

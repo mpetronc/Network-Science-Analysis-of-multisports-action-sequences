@@ -1,0 +1,241 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+OKC,2020-21,Regular Season,203121,Darius Miller,203488,Mike Muscala,19.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1628396,Tony Bradley,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1628983,Shai Gilgeous-Alexander,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1629004,Svi Mykhailiuk,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1629026,Kenrich Williams,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1629647,Darius Bazley,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1629652,Luguentz Dort,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1629658,Jaylen Hoard,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1629660,Ty Jerome,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1629676,Isaiah Roby,19.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1629718,Charlie Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1630177,Theo Maledon,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1630197,Aleksej Pokusevski,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1630221,Josh Hall,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203121,Darius Miller,1630466,Gabriel Deck,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,203121,Darius Miller,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1628396,Tony Bradley,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1628983,Shai Gilgeous-Alexander,143.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1629004,Svi Mykhailiuk,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1629026,Kenrich Williams,82.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1629647,Darius Bazley,24.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1629652,Luguentz Dort,42.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1629660,Ty Jerome,23.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1629676,Isaiah Roby,35.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1629718,Charlie Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1630177,Theo Maledon,208.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1630197,Aleksej Pokusevski,43.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1630221,Josh Hall,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,203488,Mike Muscala,1630466,Gabriel Deck,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,203121,Darius Miller,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1629004,Svi Mykhailiuk,59.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1629026,Kenrich Williams,54.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1629647,Darius Bazley,27.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1629652,Luguentz Dort,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1629658,Jaylen Hoard,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1629660,Ty Jerome,120.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1629676,Isaiah Roby,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1629718,Charlie Brown Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1630177,Theo Maledon,76.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1630197,Aleksej Pokusevski,32.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1630221,Josh Hall,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628396,Tony Bradley,1630466,Gabriel Deck,19.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,203121,Darius Miller,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,203488,Mike Muscala,99.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1628396,Tony Bradley,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1629004,Svi Mykhailiuk,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1629026,Kenrich Williams,60.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1629647,Darius Bazley,282.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1629652,Luguentz Dort,250.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1629658,Jaylen Hoard,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1629660,Ty Jerome,47.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1629676,Isaiah Roby,176.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1629718,Charlie Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1630177,Theo Maledon,179.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1630197,Aleksej Pokusevski,68.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1630221,Josh Hall,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1628983,Shai Gilgeous-Alexander,1630466,Gabriel Deck,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,203121,Darius Miller,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1628396,Tony Bradley,46.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1628983,Shai Gilgeous-Alexander,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1629026,Kenrich Williams,93.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1629647,Darius Bazley,42.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1629652,Luguentz Dort,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1629658,Jaylen Hoard,44.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1629660,Ty Jerome,127.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1629676,Isaiah Roby,43.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1629718,Charlie Brown Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1630177,Theo Maledon,123.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1630197,Aleksej Pokusevski,57.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1630221,Josh Hall,19.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629004,Svi Mykhailiuk,1630466,Gabriel Deck,42.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,203121,Darius Miller,23.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,203488,Mike Muscala,114.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1628396,Tony Bradley,58.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1628983,Shai Gilgeous-Alexander,74.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1629004,Svi Mykhailiuk,111.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1629647,Darius Bazley,100.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1629652,Luguentz Dort,84.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1629658,Jaylen Hoard,27.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1629660,Ty Jerome,151.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1629676,Isaiah Roby,121.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1629718,Charlie Brown Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1630177,Theo Maledon,240.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1630197,Aleksej Pokusevski,93.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1630221,Josh Hall,31.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629026,Kenrich Williams,1630466,Gabriel Deck,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,203121,Darius Miller,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,203488,Mike Muscala,30.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1628396,Tony Bradley,16.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1628983,Shai Gilgeous-Alexander,490.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1629004,Svi Mykhailiuk,43.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1629026,Kenrich Williams,93.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1629652,Luguentz Dort,205.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1629658,Jaylen Hoard,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1629660,Ty Jerome,91.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1629676,Isaiah Roby,105.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1629718,Charlie Brown Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1630177,Theo Maledon,459.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1630197,Aleksej Pokusevski,56.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1630221,Josh Hall,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629647,Darius Bazley,1630466,Gabriel Deck,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,203121,Darius Miller,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,203488,Mike Muscala,40.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1628396,Tony Bradley,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1628983,Shai Gilgeous-Alexander,198.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1629004,Svi Mykhailiuk,17.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1629026,Kenrich Williams,57.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1629647,Darius Bazley,163.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1629658,Jaylen Hoard,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1629660,Ty Jerome,30.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1629676,Isaiah Roby,132.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1629718,Charlie Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1630177,Theo Maledon,210.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1630197,Aleksej Pokusevski,48.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1630221,Josh Hall,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629652,Luguentz Dort,1630466,Gabriel Deck,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,203121,Darius Miller,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1628396,Tony Bradley,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1629004,Svi Mykhailiuk,73.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1629026,Kenrich Williams,33.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1629647,Darius Bazley,16.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1629652,Luguentz Dort,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1629660,Ty Jerome,58.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1629676,Isaiah Roby,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1629718,Charlie Brown Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1630177,Theo Maledon,37.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1630197,Aleksej Pokusevski,17.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1630221,Josh Hall,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629658,Jaylen Hoard,1630466,Gabriel Deck,19.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,203121,Darius Miller,16.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,203488,Mike Muscala,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1628396,Tony Bradley,80.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1628983,Shai Gilgeous-Alexander,64.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1629004,Svi Mykhailiuk,128.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1629026,Kenrich Williams,179.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1629647,Darius Bazley,67.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1629652,Luguentz Dort,41.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1629658,Jaylen Hoard,35.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1629676,Isaiah Roby,127.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1629718,Charlie Brown Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1630177,Theo Maledon,136.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1630197,Aleksej Pokusevski,97.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1630221,Josh Hall,33.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629660,Ty Jerome,1630466,Gabriel Deck,27.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,203121,Darius Miller,17.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,203488,Mike Muscala,24.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1628396,Tony Bradley,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1628983,Shai Gilgeous-Alexander,294.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1629004,Svi Mykhailiuk,59.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1629026,Kenrich Williams,92.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1629647,Darius Bazley,119.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1629652,Luguentz Dort,163.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1629658,Jaylen Hoard,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1629660,Ty Jerome,123.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1629718,Charlie Brown Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1630177,Theo Maledon,369.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1630197,Aleksej Pokusevski,96.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1630221,Josh Hall,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629676,Isaiah Roby,1630466,Gabriel Deck,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,203121,Darius Miller,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1628396,Tony Bradley,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1629004,Svi Mykhailiuk,19.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1629026,Kenrich Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1629647,Darius Bazley,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1629652,Luguentz Dort,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1629658,Jaylen Hoard,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1629660,Ty Jerome,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1629676,Isaiah Roby,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1630177,Theo Maledon,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1630197,Aleksej Pokusevski,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1630221,Josh Hall,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1629718,Charlie Brown Jr.,1630466,Gabriel Deck,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,203121,Darius Miller,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,203488,Mike Muscala,157.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1628396,Tony Bradley,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1628983,Shai Gilgeous-Alexander,252.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1629004,Svi Mykhailiuk,128.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1629026,Kenrich Williams,250.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1629647,Darius Bazley,414.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1629652,Luguentz Dort,302.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1629658,Jaylen Hoard,34.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1629660,Ty Jerome,141.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1629676,Isaiah Roby,300.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1629718,Charlie Brown Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1630197,Aleksej Pokusevski,358.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1630221,Josh Hall,34.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630177,Theo Maledon,1630466,Gabriel Deck,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,203121,Darius Miller,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,203488,Mike Muscala,34.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1628396,Tony Bradley,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1628983,Shai Gilgeous-Alexander,121.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1629004,Svi Mykhailiuk,46.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1629026,Kenrich Williams,96.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1629647,Darius Bazley,66.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1629652,Luguentz Dort,77.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1629658,Jaylen Hoard,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1629660,Ty Jerome,93.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1629676,Isaiah Roby,92.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1629718,Charlie Brown Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1630177,Theo Maledon,406.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1630221,Josh Hall,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630197,Aleksej Pokusevski,1630466,Gabriel Deck,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,203121,Darius Miller,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1628396,Tony Bradley,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1629004,Svi Mykhailiuk,23.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1629026,Kenrich Williams,34.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1629647,Darius Bazley,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1629652,Luguentz Dort,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1629658,Jaylen Hoard,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1629660,Ty Jerome,41.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1629676,Isaiah Roby,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1629718,Charlie Brown Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1630177,Theo Maledon,32.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1630197,Aleksej Pokusevski,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630221,Josh Hall,1630466,Gabriel Deck,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,203121,Darius Miller,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,203488,Mike Muscala,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1628396,Tony Bradley,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1629004,Svi Mykhailiuk,41.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1629026,Kenrich Williams,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1629647,Darius Bazley,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1629652,Luguentz Dort,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1629658,Jaylen Hoard,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1629660,Ty Jerome,27.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1629676,Isaiah Roby,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1629718,Charlie Brown Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1630177,Theo Maledon,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1630197,Aleksej Pokusevski,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2020-21,Regular Season,1630466,Gabriel Deck,1630221,Josh Hall,12.0,True,NBA.com — https://www.nba.com/stats

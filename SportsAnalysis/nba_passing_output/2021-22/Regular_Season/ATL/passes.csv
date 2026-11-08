@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+ATL,2021-22,Regular Season,101150,Lou Williams,201568,Danilo Gallinari,178.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,203524,Solomon Hill,5.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,203991,Clint Capela,41.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,203992,Bogdan Bogdanović,116.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1626153,Delon Wright,158.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1627789,Timothe Luwawu-Cabarrot,17.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1628381,John Collins,33.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1628411,Wes Iwundu,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1628419,Cameron Oliver,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1628989,Kevin Huerter,56.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1629027,Trae Young,53.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1629631,De'Andre Hunter,23.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1630168,Onyeka Okongwu,91.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,101150,Lou Williams,1630602,Chaundee Brown Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,101150,Lou Williams,173.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,203524,Solomon Hill,9.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,203991,Clint Capela,54.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,203992,Bogdan Bogdanović,150.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1626153,Delon Wright,395.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1627789,Timothe Luwawu-Cabarrot,36.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1628381,John Collins,57.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1628411,Wes Iwundu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1628989,Kevin Huerter,201.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1629027,Trae Young,542.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1629631,De'Andre Hunter,53.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1630168,Onyeka Okongwu,67.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,201568,Danilo Gallinari,1630602,Chaundee Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,101150,Lou Williams,7.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,201568,Danilo Gallinari,12.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,203991,Clint Capela,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,203992,Bogdan Bogdanović,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1626153,Delon Wright,35.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1627789,Timothe Luwawu-Cabarrot,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1628381,John Collins,7.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1628411,Wes Iwundu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1628989,Kevin Huerter,16.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1629027,Trae Young,43.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1630168,Onyeka Okongwu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203524,Solomon Hill,1630602,Chaundee Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,101150,Lou Williams,76.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,201568,Danilo Gallinari,72.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,203524,Solomon Hill,8.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,203992,Bogdan Bogdanović,123.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1626153,Delon Wright,115.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1627789,Timothe Luwawu-Cabarrot,28.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1628381,John Collins,67.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1628411,Wes Iwundu,5.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1628989,Kevin Huerter,208.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1629027,Trae Young,1303.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1629631,De'Andre Hunter,94.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1630168,Onyeka Okongwu,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203991,Clint Capela,1630602,Chaundee Brown Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,101150,Lou Williams,86.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,201568,Danilo Gallinari,127.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,203524,Solomon Hill,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,203991,Clint Capela,116.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1626153,Delon Wright,189.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1627789,Timothe Luwawu-Cabarrot,20.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1628381,John Collins,165.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1628411,Wes Iwundu,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1628989,Kevin Huerter,129.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1629027,Trae Young,635.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1629631,De'Andre Hunter,107.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1630168,Onyeka Okongwu,90.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,203992,Bogdan Bogdanović,1630602,Chaundee Brown Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,101150,Lou Williams,256.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,201568,Danilo Gallinari,330.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,203524,Solomon Hill,19.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,203991,Clint Capela,97.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,203992,Bogdan Bogdanović,263.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,1627789,Timothe Luwawu-Cabarrot,69.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,1628381,John Collins,155.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,1628411,Wes Iwundu,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,1628989,Kevin Huerter,202.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,1629027,Trae Young,188.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,1629631,De'Andre Hunter,81.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,1630168,Onyeka Okongwu,177.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1626153,Delon Wright,1630602,Chaundee Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,101150,Lou Williams,20.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,201568,Danilo Gallinari,17.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,203524,Solomon Hill,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,203991,Clint Capela,31.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,203992,Bogdan Bogdanović,28.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,1626153,Delon Wright,77.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,1628381,John Collins,31.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,1628411,Wes Iwundu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,1628989,Kevin Huerter,59.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,1629027,Trae Young,205.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,1629631,De'Andre Hunter,12.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,1630168,Onyeka Okongwu,12.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1627789,Timothe Luwawu-Cabarrot,1630602,Chaundee Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,101150,Lou Williams,56.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,201568,Danilo Gallinari,63.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,203524,Solomon Hill,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,203991,Clint Capela,93.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,203992,Bogdan Bogdanović,158.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,1626153,Delon Wright,191.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,1627789,Timothe Luwawu-Cabarrot,24.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,1628411,Wes Iwundu,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,1628989,Kevin Huerter,206.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,1629027,Trae Young,1071.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,1629631,De'Andre Hunter,70.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,1630168,Onyeka Okongwu,18.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628381,John Collins,1630602,Chaundee Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,101150,Lou Williams,13.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,201568,Danilo Gallinari,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,203524,Solomon Hill,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,203991,Clint Capela,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,203992,Bogdan Bogdanović,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,1626153,Delon Wright,10.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,1627789,Timothe Luwawu-Cabarrot,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,1628381,John Collins,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,1628989,Kevin Huerter,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,1629027,Trae Young,22.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,1630168,Onyeka Okongwu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628411,Wes Iwundu,1630602,Chaundee Brown Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,101150,Lou Williams,8.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,201568,Danilo Gallinari,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,203524,Solomon Hill,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,203991,Clint Capela,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,203992,Bogdan Bogdanović,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,1626153,Delon Wright,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,1627789,Timothe Luwawu-Cabarrot,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,1628381,John Collins,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,1628411,Wes Iwundu,5.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,1628989,Kevin Huerter,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,1629027,Trae Young,13.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,1630168,Onyeka Okongwu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628419,Cameron Oliver,1630602,Chaundee Brown Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,101150,Lou Williams,70.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,201568,Danilo Gallinari,209.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,203524,Solomon Hill,11.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,203991,Clint Capela,202.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,203992,Bogdan Bogdanović,133.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,1626153,Delon Wright,143.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,1627789,Timothe Luwawu-Cabarrot,69.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,1628381,John Collins,229.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,1628411,Wes Iwundu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,1629027,Trae Young,662.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,1629631,De'Andre Hunter,133.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,1630168,Onyeka Okongwu,76.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1628989,Kevin Huerter,1630602,Chaundee Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,101150,Lou Williams,41.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,201568,Danilo Gallinari,358.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,203524,Solomon Hill,15.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,203991,Clint Capela,500.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,203992,Bogdan Bogdanović,636.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,1626153,Delon Wright,95.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,1627789,Timothe Luwawu-Cabarrot,120.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,1628381,John Collins,578.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,1628411,Wes Iwundu,9.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,1628419,Cameron Oliver,11.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,1628989,Kevin Huerter,752.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,1629631,De'Andre Hunter,581.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,1630168,Onyeka Okongwu,89.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629027,Trae Young,1630602,Chaundee Brown Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,101150,Lou Williams,16.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,201568,Danilo Gallinari,52.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,203524,Solomon Hill,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,203991,Clint Capela,56.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,203992,Bogdan Bogdanović,88.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,1626153,Delon Wright,75.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,1627789,Timothe Luwawu-Cabarrot,14.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,1628381,John Collins,80.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,1628411,Wes Iwundu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,1628989,Kevin Huerter,162.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,1629027,Trae Young,395.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,1630168,Onyeka Okongwu,15.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1629631,De'Andre Hunter,1630602,Chaundee Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,101150,Lou Williams,137.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,201568,Danilo Gallinari,70.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,203524,Solomon Hill,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,203991,Clint Capela,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,203992,Bogdan Bogdanović,154.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,1626153,Delon Wright,194.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,1627789,Timothe Luwawu-Cabarrot,21.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,1628381,John Collins,17.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,1628411,Wes Iwundu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,1628989,Kevin Huerter,66.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,1629027,Trae Young,189.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,1629631,De'Andre Hunter,33.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630168,Onyeka Okongwu,1630602,Chaundee Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,101150,Lou Williams,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,201568,Danilo Gallinari,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,203524,Solomon Hill,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,203991,Clint Capela,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,203992,Bogdan Bogdanović,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,1626153,Delon Wright,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,1627789,Timothe Luwawu-Cabarrot,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,1628381,John Collins,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,1628411,Wes Iwundu,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,1628419,Cameron Oliver,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,1628989,Kevin Huerter,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,1629027,Trae Young,37.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2021-22,Regular Season,1630602,Chaundee Brown Jr.,1630168,Onyeka Okongwu,0.0,True,NBA.com — https://www.nba.com/stats

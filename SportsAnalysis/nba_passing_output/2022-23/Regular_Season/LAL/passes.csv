@@ -1,0 +1,133 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+LAL,2022-23,Regular Season,2544,LeBron James,203076,Anthony Davis,387.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,203471,Dennis Schröder,480.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,1626156,D'Angelo Russell,49.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,1627736,Malik Beasley,34.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,1628972,Troy Brown Jr.,171.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,1629020,Jarred Vanderbilt,19.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,1629022,Lonnie Walker IV,172.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,1629060,Rui Hachimura,53.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,1629117,Wenyen Gabriel,69.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,1630559,Austin Reaves,281.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,2544,LeBron James,1631108,Max Christie,28.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,2544,LeBron James,549.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,203471,Dennis Schröder,460.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,1626156,D'Angelo Russell,256.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,1627736,Malik Beasley,59.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,1628972,Troy Brown Jr.,111.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,1629020,Jarred Vanderbilt,54.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,1629022,Lonnie Walker IV,148.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,1629060,Rui Hachimura,42.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,1629117,Wenyen Gabriel,4.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,1630559,Austin Reaves,280.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203076,Anthony Davis,1631108,Max Christie,6.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,2544,LeBron James,602.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,203076,Anthony Davis,385.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,1626156,D'Angelo Russell,98.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,1627736,Malik Beasley,139.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,1628972,Troy Brown Jr.,152.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,1629020,Jarred Vanderbilt,55.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,1629022,Lonnie Walker IV,152.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,1629060,Rui Hachimura,88.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,1629117,Wenyen Gabriel,71.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,1630559,Austin Reaves,281.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,203471,Dennis Schröder,1631108,Max Christie,27.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,2544,LeBron James,71.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,203076,Anthony Davis,240.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,203471,Dennis Schröder,97.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,1627736,Malik Beasley,86.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,1628972,Troy Brown Jr.,70.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,1629020,Jarred Vanderbilt,58.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,1629022,Lonnie Walker IV,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,1629060,Rui Hachimura,57.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,1629117,Wenyen Gabriel,30.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,1630559,Austin Reaves,91.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1626156,D'Angelo Russell,1631108,Max Christie,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,2544,LeBron James,39.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,203076,Anthony Davis,53.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,203471,Dennis Schröder,128.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,1626156,D'Angelo Russell,66.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,1628972,Troy Brown Jr.,22.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,1629020,Jarred Vanderbilt,40.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,1629022,Lonnie Walker IV,14.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,1629060,Rui Hachimura,16.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,1629117,Wenyen Gabriel,22.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,1630559,Austin Reaves,59.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1627736,Malik Beasley,1631108,Max Christie,1.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,2544,LeBron James,219.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,203076,Anthony Davis,134.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,203471,Dennis Schröder,255.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,1626156,D'Angelo Russell,101.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,1627736,Malik Beasley,44.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,1629020,Jarred Vanderbilt,36.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,1629022,Lonnie Walker IV,65.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,1629060,Rui Hachimura,34.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,1629117,Wenyen Gabriel,23.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,1630559,Austin Reaves,145.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1628972,Troy Brown Jr.,1631108,Max Christie,8.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,2544,LeBron James,36.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,203076,Anthony Davis,54.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,203471,Dennis Schröder,117.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,1626156,D'Angelo Russell,104.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,1627736,Malik Beasley,55.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,1628972,Troy Brown Jr.,48.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,1629022,Lonnie Walker IV,7.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,1629060,Rui Hachimura,4.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,1629117,Wenyen Gabriel,4.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,1630559,Austin Reaves,88.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629020,Jarred Vanderbilt,1631108,Max Christie,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,2544,LeBron James,150.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,203076,Anthony Davis,107.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,203471,Dennis Schröder,115.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,1626156,D'Angelo Russell,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,1627736,Malik Beasley,6.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,1628972,Troy Brown Jr.,36.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,1629020,Jarred Vanderbilt,5.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,1629060,Rui Hachimura,13.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,1629117,Wenyen Gabriel,12.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,1630559,Austin Reaves,85.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629022,Lonnie Walker IV,1631108,Max Christie,10.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,2544,LeBron James,63.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,203076,Anthony Davis,30.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,203471,Dennis Schröder,130.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,1626156,D'Angelo Russell,53.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,1627736,Malik Beasley,21.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,1628972,Troy Brown Jr.,31.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,1629020,Jarred Vanderbilt,3.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,1629022,Lonnie Walker IV,18.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,1629117,Wenyen Gabriel,8.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,1630559,Austin Reaves,91.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629060,Rui Hachimura,1631108,Max Christie,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,2544,LeBron James,135.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,203076,Anthony Davis,7.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,203471,Dennis Schröder,152.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,1626156,D'Angelo Russell,41.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,1627736,Malik Beasley,30.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,1628972,Troy Brown Jr.,38.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,1629020,Jarred Vanderbilt,5.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,1629022,Lonnie Walker IV,44.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,1629060,Rui Hachimura,11.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,1630559,Austin Reaves,161.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1629117,Wenyen Gabriel,1631108,Max Christie,21.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,2544,LeBron James,289.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,203076,Anthony Davis,269.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,203471,Dennis Schröder,281.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,1626156,D'Angelo Russell,103.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,1627736,Malik Beasley,80.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,1628972,Troy Brown Jr.,119.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,1629020,Jarred Vanderbilt,43.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,1629022,Lonnie Walker IV,141.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,1629060,Rui Hachimura,70.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,1629117,Wenyen Gabriel,76.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1630559,Austin Reaves,1631108,Max Christie,14.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,2544,LeBron James,55.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,203076,Anthony Davis,9.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,203471,Dennis Schröder,46.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,1626156,D'Angelo Russell,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,1627736,Malik Beasley,3.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,1628972,Troy Brown Jr.,16.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,1629020,Jarred Vanderbilt,0.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,1629022,Lonnie Walker IV,15.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,1629060,Rui Hachimura,6.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,1629117,Wenyen Gabriel,17.0,True,NBA.com — https://www.nba.com/stats
+LAL,2022-23,Regular Season,1631108,Max Christie,1630559,Austin Reaves,13.0,True,NBA.com — https://www.nba.com/stats

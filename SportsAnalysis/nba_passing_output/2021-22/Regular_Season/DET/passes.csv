@@ -1,0 +1,507 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DET,2021-22,Regular Season,202709,Cory Joseph,203482,Kelly Olynyk,172.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,203585,Rodney McGruder,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,203924,Jerami Grant,435.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1628402,Frank Jackson,164.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1628963,Marvin Bagley III,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1628977,Hamidou Diallo,158.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630165,Killian Hayes,39.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630180,Saddiq Bey,511.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630191,Isaiah Stewart,189.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630199,Cassius Stanley,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630240,Saben Lee,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630296,Braxton Key,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630568,Luka Garza,36.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630587,Isaiah Livers,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630595,Cade Cunningham,518.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630691,Jamorko Pickett,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,202709,Cory Joseph,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,202709,Cory Joseph,185.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,203585,Rodney McGruder,78.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,203924,Jerami Grant,63.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1628402,Frank Jackson,81.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1628963,Marvin Bagley III,37.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1628977,Hamidou Diallo,76.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1629035,Carsen Edwards,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630165,Killian Hayes,255.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630180,Saddiq Bey,135.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630191,Isaiah Stewart,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630199,Cassius Stanley,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630240,Saben Lee,53.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630296,Braxton Key,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630568,Luka Garza,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630587,Isaiah Livers,26.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630595,Cade Cunningham,142.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630691,Jamorko Pickett,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203482,Kelly Olynyk,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,202709,Cory Joseph,45.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,203482,Kelly Olynyk,81.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,203924,Jerami Grant,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1628402,Frank Jackson,24.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1628963,Marvin Bagley III,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1628977,Hamidou Diallo,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1629035,Carsen Edwards,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1629620,Justin Robinson,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630165,Killian Hayes,109.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630180,Saddiq Bey,38.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630191,Isaiah Stewart,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630199,Cassius Stanley,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630240,Saben Lee,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630296,Braxton Key,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630568,Luka Garza,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630587,Isaiah Livers,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630595,Cade Cunningham,47.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630691,Jamorko Pickett,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203585,Rodney McGruder,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,202709,Cory Joseph,395.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,203482,Kelly Olynyk,50.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,203585,Rodney McGruder,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1628402,Frank Jackson,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1628963,Marvin Bagley III,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1628977,Hamidou Diallo,56.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630165,Killian Hayes,284.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630180,Saddiq Bey,236.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630191,Isaiah Stewart,116.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630199,Cassius Stanley,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630240,Saben Lee,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630296,Braxton Key,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630568,Luka Garza,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630587,Isaiah Livers,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630595,Cade Cunningham,480.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630691,Jamorko Pickett,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,203924,Jerami Grant,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,202709,Cory Joseph,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,203585,Rodney McGruder,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,203924,Jerami Grant,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1628402,Frank Jackson,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1628476,Derrick Walton Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1628977,Hamidou Diallo,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1629620,Justin Robinson,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630180,Saddiq Bey,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630199,Cassius Stanley,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630240,Saben Lee,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630296,Braxton Key,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630568,Luka Garza,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630691,Jamorko Pickett,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1627767,Cheick Diallo,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,202709,Cory Joseph,120.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,203482,Kelly Olynyk,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,203585,Rodney McGruder,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,203924,Jerami Grant,50.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1627767,Cheick Diallo,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1628476,Derrick Walton Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1628963,Marvin Bagley III,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1628977,Hamidou Diallo,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1629035,Carsen Edwards,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1629620,Justin Robinson,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630165,Killian Hayes,94.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630180,Saddiq Bey,75.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630191,Isaiah Stewart,36.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630199,Cassius Stanley,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630240,Saben Lee,50.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630296,Braxton Key,32.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630568,Luka Garza,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630587,Isaiah Livers,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630595,Cade Cunningham,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630691,Jamorko Pickett,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628402,Frank Jackson,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,202709,Cory Joseph,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,203585,Rodney McGruder,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,203924,Jerami Grant,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1627767,Cheick Diallo,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1628402,Frank Jackson,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1628977,Hamidou Diallo,55.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1629309,Trayvon Palmer,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1629620,Justin Robinson,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630180,Saddiq Bey,52.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630199,Cassius Stanley,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630240,Saben Lee,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630296,Braxton Key,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630568,Luka Garza,38.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630691,Jamorko Pickett,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628476,Derrick Walton Jr.,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,202709,Cory Joseph,86.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,203482,Kelly Olynyk,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,203585,Rodney McGruder,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,203924,Jerami Grant,24.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1628402,Frank Jackson,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1628977,Hamidou Diallo,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630165,Killian Hayes,82.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630180,Saddiq Bey,47.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630191,Isaiah Stewart,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630199,Cassius Stanley,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630240,Saben Lee,24.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630296,Braxton Key,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630568,Luka Garza,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630587,Isaiah Livers,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630595,Cade Cunningham,166.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630691,Jamorko Pickett,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628963,Marvin Bagley III,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,202709,Cory Joseph,233.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,203482,Kelly Olynyk,56.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,203585,Rodney McGruder,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,203924,Jerami Grant,68.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1627767,Cheick Diallo,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1628402,Frank Jackson,53.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1628476,Derrick Walton Jr.,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1628963,Marvin Bagley III,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1629620,Justin Robinson,28.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630165,Killian Hayes,208.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630180,Saddiq Bey,164.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630191,Isaiah Stewart,60.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630199,Cassius Stanley,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630240,Saben Lee,73.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630296,Braxton Key,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630568,Luka Garza,20.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630587,Isaiah Livers,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630595,Cade Cunningham,237.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630691,Jamorko Pickett,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1628977,Hamidou Diallo,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,202709,Cory Joseph,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,203482,Kelly Olynyk,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,203585,Rodney McGruder,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,203924,Jerami Grant,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1628402,Frank Jackson,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1628977,Hamidou Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630165,Killian Hayes,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630180,Saddiq Bey,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630191,Isaiah Stewart,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630199,Cassius Stanley,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630240,Saben Lee,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630296,Braxton Key,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630568,Luka Garza,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630587,Isaiah Livers,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630595,Cade Cunningham,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630691,Jamorko Pickett,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629035,Carsen Edwards,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,202709,Cory Joseph,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,203585,Rodney McGruder,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,203924,Jerami Grant,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1628402,Frank Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1628476,Derrick Walton Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1628977,Hamidou Diallo,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630180,Saddiq Bey,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630199,Cassius Stanley,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630240,Saben Lee,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630296,Braxton Key,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630568,Luka Garza,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630595,Cade Cunningham,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630691,Jamorko Pickett,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629309,Trayvon Palmer,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,202709,Cory Joseph,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,203585,Rodney McGruder,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,203924,Jerami Grant,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1627767,Cheick Diallo,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1628402,Frank Jackson,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1628476,Derrick Walton Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1628977,Hamidou Diallo,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630180,Saddiq Bey,26.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630199,Cassius Stanley,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630240,Saben Lee,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630296,Braxton Key,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630568,Luka Garza,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630595,Cade Cunningham,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630691,Jamorko Pickett,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1629620,Justin Robinson,1630695,Micah Potter,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,202709,Cory Joseph,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,203482,Kelly Olynyk,264.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,203585,Rodney McGruder,129.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,203924,Jerami Grant,321.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1628402,Frank Jackson,151.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1628963,Marvin Bagley III,73.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1628977,Hamidou Diallo,146.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630180,Saddiq Bey,420.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630191,Isaiah Stewart,242.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630199,Cassius Stanley,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630240,Saben Lee,38.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630296,Braxton Key,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630568,Luka Garza,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630587,Isaiah Livers,75.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630595,Cade Cunningham,539.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630691,Jamorko Pickett,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630165,Killian Hayes,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,202709,Cory Joseph,413.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,203482,Kelly Olynyk,105.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,203585,Rodney McGruder,38.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,203924,Jerami Grant,264.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1627767,Cheick Diallo,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1628402,Frank Jackson,98.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1628476,Derrick Walton Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1628963,Marvin Bagley III,55.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1628977,Hamidou Diallo,173.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1629035,Carsen Edwards,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1629620,Justin Robinson,22.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630165,Killian Hayes,298.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630191,Isaiah Stewart,252.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630199,Cassius Stanley,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630240,Saben Lee,70.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630296,Braxton Key,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630568,Luka Garza,37.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630587,Isaiah Livers,30.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630595,Cade Cunningham,551.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630691,Jamorko Pickett,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630180,Saddiq Bey,1630695,Micah Potter,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,202709,Cory Joseph,259.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,203482,Kelly Olynyk,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,203585,Rodney McGruder,20.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,203924,Jerami Grant,207.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1628402,Frank Jackson,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1628963,Marvin Bagley III,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1628977,Hamidou Diallo,113.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1629035,Carsen Edwards,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630165,Killian Hayes,326.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630180,Saddiq Bey,228.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630199,Cassius Stanley,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630240,Saben Lee,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630296,Braxton Key,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630568,Luka Garza,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630587,Isaiah Livers,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630595,Cade Cunningham,565.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630691,Jamorko Pickett,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630191,Isaiah Stewart,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,202709,Cory Joseph,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,203585,Rodney McGruder,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,203924,Jerami Grant,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1627767,Cheick Diallo,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1628402,Frank Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1628476,Derrick Walton Jr.,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1628977,Hamidou Diallo,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1629620,Justin Robinson,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630165,Killian Hayes,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630180,Saddiq Bey,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630191,Isaiah Stewart,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630240,Saben Lee,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630296,Braxton Key,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630568,Luka Garza,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630595,Cade Cunningham,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630691,Jamorko Pickett,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630199,Cassius Stanley,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,202709,Cory Joseph,37.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,203482,Kelly Olynyk,61.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,203585,Rodney McGruder,64.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,203924,Jerami Grant,34.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1628402,Frank Jackson,84.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1628963,Marvin Bagley III,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1628977,Hamidou Diallo,43.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1629035,Carsen Edwards,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1629620,Justin Robinson,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630165,Killian Hayes,29.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630180,Saddiq Bey,100.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630191,Isaiah Stewart,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630199,Cassius Stanley,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630296,Braxton Key,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630568,Luka Garza,56.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630587,Isaiah Livers,36.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630595,Cade Cunningham,87.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630691,Jamorko Pickett,45.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630240,Saben Lee,1630695,Micah Potter,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,202709,Cory Joseph,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,203482,Kelly Olynyk,26.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,203585,Rodney McGruder,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,203924,Jerami Grant,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1628402,Frank Jackson,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1628963,Marvin Bagley III,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1628977,Hamidou Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1629035,Carsen Edwards,33.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630165,Killian Hayes,48.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630180,Saddiq Bey,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630191,Isaiah Stewart,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630199,Cassius Stanley,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630240,Saben Lee,39.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630568,Luka Garza,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630587,Isaiah Livers,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630595,Cade Cunningham,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630691,Jamorko Pickett,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630296,Braxton Key,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,202709,Cory Joseph,33.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,203482,Kelly Olynyk,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,203585,Rodney McGruder,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,203924,Jerami Grant,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1628402,Frank Jackson,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1628476,Derrick Walton Jr.,32.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1628977,Hamidou Diallo,33.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1629035,Carsen Edwards,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1629620,Justin Robinson,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630165,Killian Hayes,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630180,Saddiq Bey,34.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630199,Cassius Stanley,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630240,Saben Lee,65.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630296,Braxton Key,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630587,Isaiah Livers,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630595,Cade Cunningham,50.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630691,Jamorko Pickett,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630568,Luka Garza,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,202709,Cory Joseph,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,203482,Kelly Olynyk,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,203585,Rodney McGruder,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,203924,Jerami Grant,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1628402,Frank Jackson,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1628963,Marvin Bagley III,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1628977,Hamidou Diallo,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1629035,Carsen Edwards,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1629620,Justin Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630165,Killian Hayes,101.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630180,Saddiq Bey,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630191,Isaiah Stewart,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630199,Cassius Stanley,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630240,Saben Lee,57.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630296,Braxton Key,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630568,Luka Garza,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630595,Cade Cunningham,60.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630691,Jamorko Pickett,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630587,Isaiah Livers,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,202709,Cory Joseph,483.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,203482,Kelly Olynyk,117.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,203585,Rodney McGruder,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,203924,Jerami Grant,481.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1628402,Frank Jackson,86.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1628963,Marvin Bagley III,113.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1628977,Hamidou Diallo,169.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1629035,Carsen Edwards,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1629620,Justin Robinson,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630165,Killian Hayes,443.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630180,Saddiq Bey,624.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630191,Isaiah Stewart,347.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630199,Cassius Stanley,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630240,Saben Lee,96.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630296,Braxton Key,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630568,Luka Garza,40.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630587,Isaiah Livers,51.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630691,Jamorko Pickett,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630595,Cade Cunningham,1630695,Micah Potter,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,202709,Cory Joseph,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,203585,Rodney McGruder,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,203924,Jerami Grant,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1627767,Cheick Diallo,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1628402,Frank Jackson,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1628476,Derrick Walton Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1628963,Marvin Bagley III,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1628977,Hamidou Diallo,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1629035,Carsen Edwards,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1629620,Justin Robinson,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630165,Killian Hayes,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630180,Saddiq Bey,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630191,Isaiah Stewart,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630199,Cassius Stanley,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630240,Saben Lee,49.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630296,Braxton Key,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630568,Luka Garza,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630587,Isaiah Livers,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630595,Cade Cunningham,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630691,Jamorko Pickett,1630695,Micah Potter,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,202709,Cory Joseph,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,203585,Rodney McGruder,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,203924,Jerami Grant,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1627767,Cheick Diallo,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1628402,Frank Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1628476,Derrick Walton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1628977,Hamidou Diallo,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1629035,Carsen Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1629309,Trayvon Palmer,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1629620,Justin Robinson,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630180,Saddiq Bey,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630199,Cassius Stanley,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630240,Saben Lee,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630296,Braxton Key,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630568,Luka Garza,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630595,Cade Cunningham,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2021-22,Regular Season,1630695,Micah Potter,1630691,Jamorko Pickett,0.0,True,NBA.com — https://www.nba.com/stats

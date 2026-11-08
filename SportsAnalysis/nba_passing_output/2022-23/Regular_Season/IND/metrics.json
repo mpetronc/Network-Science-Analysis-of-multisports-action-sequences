@@ -1,0 +1,38 @@
+{
+  "team": "IND",
+  "season": "2022-23",
+  "season_type": "Regular Season",
+  "source": "NBA.com \u2014 https://www.nba.com/stats",
+  "created_at": "2026-11-05T20:33:04.669733+00:00",
+  "player_count": 15,
+  "roster_player_count": 15,
+  "additional_receiver_ids": [],
+  "player_profiles_complete": true,
+  "missing_outgoing_profiles": {},
+  "usage_hhi_starness": 0.09617037151694124,
+  "usage_effective_players": 10.398212923861289,
+  "passing_mutual_information": 0.25801918778613164,
+  "normalized_passing_mutual_information": 0.09527858371352002,
+  "field_goal_attempts": 7143,
+  "recorded_passes": 23730.0,
+  "receiver_entropy": 0.8755291373864772,
+  "conditional_receiver_entropy": 0.8006486426318771,
+  "observed_only_receiver_entropy": 0.8755291373864772,
+  "observed_only_conditional_receiver_entropy": 0.8006486426318771,
+  "settings": {
+    "minimum_player_mpg": 10.0,
+    "source_archive": "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output_before_10min_20261105_213224"
+  },
+  "notes": [
+    "The passing network contains player-to-player edges only.",
+    "Passing entropy excludes shooting and free-throw attempts.",
+    "Season-aggregated tracked passes; not ordered possession/action sequences.",
+    "Profile coverage does not guarantee tracking exists for every game/pass.",
+    "Incomplete-profile metrics are provisional and omit unknown outgoing passes.",
+    "Entropy normalization uses all included players.",
+    "Passing mutual information is computed from unnormalized entropies, in nats; normalized MI divides by log(player count).",
+    "Playing time and lineups affect interpretation.",
+    "Usage HHI is computed from season possession-ending actions (FGA + 0.44 FTA + TOV), not raw USG percentages."
+  ],
+  "requests": []
+}

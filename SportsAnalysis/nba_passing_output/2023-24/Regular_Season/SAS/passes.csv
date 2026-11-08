@@ -1,0 +1,273 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1628380,Zach Collins,86.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1628984,Devonte' Graham,7.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1629640,Keldon Johnson,127.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1629646,Charles Bassey,24.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1630170,Devin Vassell,126.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1630200,Tre Jones,255.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1630561,David Duke Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1630564,RaiQuan Gray,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1630577,Julian Champagnie,21.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1631103,Malaki Branham,121.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1631104,Blake Wesley,120.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1631110,Jeremy Sochan,91.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1631230,Dominick Barlow,12.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1631321,Sidy Cissoko,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1626224,Cedi Osman,1641705,Victor Wembanyama,101.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1626224,Cedi Osman,88.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1628984,Devonte' Graham,44.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1629640,Keldon Johnson,219.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1630170,Devin Vassell,294.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1630200,Tre Jones,348.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1630561,David Duke Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1630564,RaiQuan Gray,2.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1630577,Julian Champagnie,67.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1631103,Malaki Branham,144.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1631104,Blake Wesley,173.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1631110,Jeremy Sochan,259.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1631123,Jamaree Bouyea,2.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1631230,Dominick Barlow,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1631321,Sidy Cissoko,8.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628380,Zach Collins,1641705,Victor Wembanyama,114.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1626224,Cedi Osman,6.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1628380,Zach Collins,56.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1629640,Keldon Johnson,8.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1629646,Charles Bassey,7.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1630170,Devin Vassell,11.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1630200,Tre Jones,49.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1630561,David Duke Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1630564,RaiQuan Gray,8.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1630577,Julian Champagnie,46.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1631103,Malaki Branham,36.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1631104,Blake Wesley,61.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1631110,Jeremy Sochan,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1631123,Jamaree Bouyea,7.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1631230,Dominick Barlow,10.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1631321,Sidy Cissoko,25.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1628984,Devonte' Graham,1641705,Victor Wembanyama,53.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1626224,Cedi Osman,166.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1628380,Zach Collins,193.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1628984,Devonte' Graham,5.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1629646,Charles Bassey,11.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1630170,Devin Vassell,235.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1630200,Tre Jones,526.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1630561,David Duke Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1630564,RaiQuan Gray,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1630577,Julian Champagnie,45.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1631103,Malaki Branham,253.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1631104,Blake Wesley,221.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1631110,Jeremy Sochan,320.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1631230,Dominick Barlow,32.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1631321,Sidy Cissoko,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629640,Keldon Johnson,1641705,Victor Wembanyama,194.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1626224,Cedi Osman,37.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1628380,Zach Collins,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1628984,Devonte' Graham,10.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1629640,Keldon Johnson,25.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1630170,Devin Vassell,23.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1630200,Tre Jones,107.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1630561,David Duke Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1630564,RaiQuan Gray,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1630577,Julian Champagnie,7.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1631103,Malaki Branham,32.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1631104,Blake Wesley,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1631110,Jeremy Sochan,34.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1631230,Dominick Barlow,2.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1631321,Sidy Cissoko,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1629646,Charles Bassey,1641705,Victor Wembanyama,12.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1626224,Cedi Osman,112.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1628380,Zach Collins,290.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1628984,Devonte' Graham,7.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1629640,Keldon Johnson,237.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1629646,Charles Bassey,10.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1630200,Tre Jones,488.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1630561,David Duke Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1630564,RaiQuan Gray,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1630577,Julian Champagnie,125.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1631103,Malaki Branham,183.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1631104,Blake Wesley,102.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1631110,Jeremy Sochan,413.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1631230,Dominick Barlow,48.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1631321,Sidy Cissoko,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630170,Devin Vassell,1641705,Victor Wembanyama,469.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1626224,Cedi Osman,236.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1628380,Zach Collins,324.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1628984,Devonte' Graham,61.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1629640,Keldon Johnson,378.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1629646,Charles Bassey,30.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1630170,Devin Vassell,808.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1630561,David Duke Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1630564,RaiQuan Gray,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1630577,Julian Champagnie,303.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1631103,Malaki Branham,244.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1631104,Blake Wesley,35.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1631110,Jeremy Sochan,423.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1631123,Jamaree Bouyea,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1631230,Dominick Barlow,46.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1631321,Sidy Cissoko,12.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630200,Tre Jones,1641705,Victor Wembanyama,765.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1626224,Cedi Osman,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1628380,Zach Collins,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1628984,Devonte' Graham,5.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1629640,Keldon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1630170,Devin Vassell,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1630200,Tre Jones,7.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1630564,RaiQuan Gray,5.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1630577,Julian Champagnie,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1631103,Malaki Branham,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1631104,Blake Wesley,8.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1631110,Jeremy Sochan,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1631123,Jamaree Bouyea,15.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1631230,Dominick Barlow,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1631321,Sidy Cissoko,6.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630561,David Duke Jr.,1641705,Victor Wembanyama,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1626224,Cedi Osman,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1628380,Zach Collins,2.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1628984,Devonte' Graham,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1629640,Keldon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1630170,Devin Vassell,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1630200,Tre Jones,6.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1630561,David Duke Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1630577,Julian Champagnie,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1631103,Malaki Branham,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1631104,Blake Wesley,9.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1631110,Jeremy Sochan,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1631123,Jamaree Bouyea,4.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1631230,Dominick Barlow,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1631321,Sidy Cissoko,9.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630564,RaiQuan Gray,1641705,Victor Wembanyama,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1626224,Cedi Osman,24.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1628380,Zach Collins,67.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1628984,Devonte' Graham,56.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1629640,Keldon Johnson,49.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1629646,Charles Bassey,2.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1630170,Devin Vassell,111.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1630200,Tre Jones,420.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1630561,David Duke Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1630564,RaiQuan Gray,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1631103,Malaki Branham,94.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1631104,Blake Wesley,97.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1631110,Jeremy Sochan,161.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1631123,Jamaree Bouyea,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1631230,Dominick Barlow,17.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1631321,Sidy Cissoko,9.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1630577,Julian Champagnie,1641705,Victor Wembanyama,177.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1626224,Cedi Osman,69.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1628380,Zach Collins,181.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1628984,Devonte' Graham,22.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1629640,Keldon Johnson,200.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1629646,Charles Bassey,23.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1630170,Devin Vassell,203.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1630200,Tre Jones,190.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1630561,David Duke Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1630564,RaiQuan Gray,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1630577,Julian Champagnie,57.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1631104,Blake Wesley,116.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1631110,Jeremy Sochan,243.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1631230,Dominick Barlow,33.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1631321,Sidy Cissoko,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631103,Malaki Branham,1641705,Victor Wembanyama,309.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1626224,Cedi Osman,92.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1628380,Zach Collins,160.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1628984,Devonte' Graham,65.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1629640,Keldon Johnson,203.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1629646,Charles Bassey,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1630170,Devin Vassell,169.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1630200,Tre Jones,48.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1630561,David Duke Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1630564,RaiQuan Gray,14.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1630577,Julian Champagnie,78.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1631103,Malaki Branham,130.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1631110,Jeremy Sochan,76.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1631123,Jamaree Bouyea,5.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1631230,Dominick Barlow,61.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1631321,Sidy Cissoko,17.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631104,Blake Wesley,1641705,Victor Wembanyama,114.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1626224,Cedi Osman,81.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1628380,Zach Collins,311.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1628984,Devonte' Graham,6.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1629640,Keldon Johnson,314.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1629646,Charles Bassey,21.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1630170,Devin Vassell,432.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1630200,Tre Jones,520.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1630561,David Duke Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1630564,RaiQuan Gray,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1630577,Julian Champagnie,107.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1631103,Malaki Branham,265.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1631104,Blake Wesley,107.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1631230,Dominick Barlow,22.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1631321,Sidy Cissoko,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631110,Jeremy Sochan,1641705,Victor Wembanyama,369.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1626224,Cedi Osman,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1628380,Zach Collins,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1628984,Devonte' Graham,13.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1629640,Keldon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1630170,Devin Vassell,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1630200,Tre Jones,4.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1630561,David Duke Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1630564,RaiQuan Gray,5.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1630577,Julian Champagnie,2.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1631103,Malaki Branham,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1631104,Blake Wesley,10.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1631110,Jeremy Sochan,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1631230,Dominick Barlow,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1631321,Sidy Cissoko,6.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631123,Jamaree Bouyea,1641705,Victor Wembanyama,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1626224,Cedi Osman,23.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1628380,Zach Collins,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1628984,Devonte' Graham,8.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1629640,Keldon Johnson,53.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1629646,Charles Bassey,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1630170,Devin Vassell,66.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1630200,Tre Jones,73.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1630561,David Duke Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1630564,RaiQuan Gray,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1630577,Julian Champagnie,26.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1631103,Malaki Branham,35.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1631104,Blake Wesley,80.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1631110,Jeremy Sochan,29.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1631321,Sidy Cissoko,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631230,Dominick Barlow,1641705,Victor Wembanyama,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1626224,Cedi Osman,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1628380,Zach Collins,6.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1628984,Devonte' Graham,15.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1629640,Keldon Johnson,2.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1630170,Devin Vassell,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1630200,Tre Jones,24.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1630561,David Duke Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1630564,RaiQuan Gray,6.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1630577,Julian Champagnie,10.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1631103,Malaki Branham,5.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1631104,Blake Wesley,30.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1631110,Jeremy Sochan,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1631123,Jamaree Bouyea,8.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1631230,Dominick Barlow,1.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1631321,Sidy Cissoko,1641705,Victor Wembanyama,3.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1626224,Cedi Osman,109.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1628380,Zach Collins,73.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1628984,Devonte' Graham,47.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1629640,Keldon Johnson,193.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1629646,Charles Bassey,4.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1630170,Devin Vassell,426.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1630200,Tre Jones,662.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1630561,David Duke Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1630564,RaiQuan Gray,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1630577,Julian Champagnie,162.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1631103,Malaki Branham,252.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1631104,Blake Wesley,114.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1631110,Jeremy Sochan,328.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1631230,Dominick Barlow,5.0,True,NBA.com — https://www.nba.com/stats
+SAS,2023-24,Regular Season,1641705,Victor Wembanyama,1631321,Sidy Cissoko,1.0,True,NBA.com — https://www.nba.com/stats

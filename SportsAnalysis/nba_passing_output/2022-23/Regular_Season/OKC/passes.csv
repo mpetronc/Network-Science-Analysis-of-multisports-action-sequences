@@ -1,0 +1,241 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+OKC,2022-23,Regular Season,203967,Dario Saric,1628983,Shai Gilgeous-Alexander,65.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1629026,Kenrich Williams,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1629652,Luguentz Dort,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1630197,Aleksej Pokusevski,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1630198,Isaiah Joe,44.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1630215,Jared Butler,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1630322,Lindy Waters III,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1630526,Jeremiah Robinson-Earl,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1630544,Tre Mann,27.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1630581,Josh Giddey,63.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1630598,Aaron Wiggins,34.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1631114,Jalen Williams,77.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1631119,Jaylin Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,203967,Dario Saric,1631172,Ousmane Dieng,16.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,203967,Dario Saric,25.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1629026,Kenrich Williams,135.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1629652,Luguentz Dort,364.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1630197,Aleksej Pokusevski,205.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1630198,Isaiah Joe,231.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1630215,Jared Butler,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1630322,Lindy Waters III,66.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1630526,Jeremiah Robinson-Earl,105.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1630544,Tre Mann,137.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1630581,Josh Giddey,692.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1630598,Aaron Wiggins,106.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1630846,Olivier Sarr,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1631114,Jalen Williams,320.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1631119,Jaylin Williams,175.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1628983,Shai Gilgeous-Alexander,1631172,Ousmane Dieng,37.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,203967,Dario Saric,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1628983,Shai Gilgeous-Alexander,205.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1629652,Luguentz Dort,124.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1630197,Aleksej Pokusevski,32.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1630198,Isaiah Joe,60.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1630215,Jared Butler,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1630322,Lindy Waters III,24.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1630526,Jeremiah Robinson-Earl,29.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1630544,Tre Mann,136.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1630581,Josh Giddey,273.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1630598,Aaron Wiggins,77.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1631114,Jalen Williams,135.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1631119,Jaylin Williams,27.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629026,Kenrich Williams,1631172,Ousmane Dieng,25.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,203967,Dario Saric,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1628983,Shai Gilgeous-Alexander,315.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1629026,Kenrich Williams,62.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1630197,Aleksej Pokusevski,96.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1630198,Isaiah Joe,86.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1630215,Jared Butler,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1630322,Lindy Waters III,17.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1630526,Jeremiah Robinson-Earl,62.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1630544,Tre Mann,59.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1630581,Josh Giddey,399.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1630598,Aaron Wiggins,56.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1630846,Olivier Sarr,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1631114,Jalen Williams,209.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1631119,Jaylin Williams,109.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1629652,Luguentz Dort,1631172,Ousmane Dieng,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,203967,Dario Saric,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1628983,Shai Gilgeous-Alexander,386.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1629026,Kenrich Williams,38.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1629652,Luguentz Dort,106.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1630198,Isaiah Joe,43.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1630215,Jared Butler,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1630322,Lindy Waters III,8.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1630526,Jeremiah Robinson-Earl,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1630544,Tre Mann,86.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1630581,Josh Giddey,242.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1630598,Aaron Wiggins,30.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1631114,Jalen Williams,100.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1631119,Jaylin Williams,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630197,Aleksej Pokusevski,1631172,Ousmane Dieng,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,203967,Dario Saric,53.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1628983,Shai Gilgeous-Alexander,268.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1629026,Kenrich Williams,57.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1629652,Luguentz Dort,90.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1630197,Aleksej Pokusevski,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1630215,Jared Butler,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1630322,Lindy Waters III,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1630526,Jeremiah Robinson-Earl,23.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1630544,Tre Mann,50.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1630581,Josh Giddey,218.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1630598,Aaron Wiggins,59.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1630846,Olivier Sarr,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1631114,Jalen Williams,175.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1631119,Jaylin Williams,93.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630198,Isaiah Joe,1631172,Ousmane Dieng,21.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,203967,Dario Saric,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1628983,Shai Gilgeous-Alexander,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1629026,Kenrich Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1629652,Luguentz Dort,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1630197,Aleksej Pokusevski,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1630198,Isaiah Joe,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1630322,Lindy Waters III,6.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1630526,Jeremiah Robinson-Earl,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1630544,Tre Mann,38.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1630581,Josh Giddey,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1630598,Aaron Wiggins,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1630846,Olivier Sarr,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1631114,Jalen Williams,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1631119,Jaylin Williams,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630215,Jared Butler,1631172,Ousmane Dieng,31.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,203967,Dario Saric,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1628983,Shai Gilgeous-Alexander,73.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1629026,Kenrich Williams,24.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1629652,Luguentz Dort,34.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1630197,Aleksej Pokusevski,4.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1630198,Isaiah Joe,30.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1630215,Jared Butler,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1630526,Jeremiah Robinson-Earl,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1630544,Tre Mann,42.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1630581,Josh Giddey,58.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1630598,Aaron Wiggins,37.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1630846,Olivier Sarr,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1631114,Jalen Williams,52.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1631119,Jaylin Williams,28.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630322,Lindy Waters III,1631172,Ousmane Dieng,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,203967,Dario Saric,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1628983,Shai Gilgeous-Alexander,238.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1629026,Kenrich Williams,28.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1629652,Luguentz Dort,95.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1630197,Aleksej Pokusevski,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1630198,Isaiah Joe,28.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1630215,Jared Butler,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1630322,Lindy Waters III,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1630544,Tre Mann,91.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1630581,Josh Giddey,232.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1630598,Aaron Wiggins,21.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1630846,Olivier Sarr,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1631114,Jalen Williams,92.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1631119,Jaylin Williams,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630526,Jeremiah Robinson-Earl,1631172,Ousmane Dieng,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,203967,Dario Saric,25.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1628983,Shai Gilgeous-Alexander,166.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1629026,Kenrich Williams,106.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1629652,Luguentz Dort,60.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1630197,Aleksej Pokusevski,64.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1630198,Isaiah Joe,62.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1630215,Jared Butler,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1630322,Lindy Waters III,39.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1630526,Jeremiah Robinson-Earl,64.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1630581,Josh Giddey,236.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1630598,Aaron Wiggins,80.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1630846,Olivier Sarr,15.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1631114,Jalen Williams,115.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1631119,Jaylin Williams,62.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630544,Tre Mann,1631172,Ousmane Dieng,107.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,203967,Dario Saric,64.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1628983,Shai Gilgeous-Alexander,847.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1629026,Kenrich Williams,286.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1629652,Luguentz Dort,592.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1630197,Aleksej Pokusevski,215.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1630198,Isaiah Joe,228.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1630215,Jared Butler,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1630322,Lindy Waters III,74.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1630526,Jeremiah Robinson-Earl,203.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1630544,Tre Mann,268.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1630598,Aaron Wiggins,228.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1630846,Olivier Sarr,7.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1631114,Jalen Williams,640.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1631119,Jaylin Williams,317.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630581,Josh Giddey,1631172,Ousmane Dieng,60.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,203967,Dario Saric,26.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1628983,Shai Gilgeous-Alexander,189.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1629026,Kenrich Williams,54.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1629652,Luguentz Dort,75.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1630197,Aleksej Pokusevski,33.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1630198,Isaiah Joe,47.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1630215,Jared Butler,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1630322,Lindy Waters III,18.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1630526,Jeremiah Robinson-Earl,17.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1630544,Tre Mann,92.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1630581,Josh Giddey,193.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1630846,Olivier Sarr,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1631114,Jalen Williams,123.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1631119,Jaylin Williams,43.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630598,Aaron Wiggins,1631172,Ousmane Dieng,21.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,203967,Dario Saric,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1628983,Shai Gilgeous-Alexander,17.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1629026,Kenrich Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1629652,Luguentz Dort,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1630197,Aleksej Pokusevski,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1630198,Isaiah Joe,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1630215,Jared Butler,26.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1630322,Lindy Waters III,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1630526,Jeremiah Robinson-Earl,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1630544,Tre Mann,31.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1630581,Josh Giddey,9.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1630598,Aaron Wiggins,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1631114,Jalen Williams,14.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1631119,Jaylin Williams,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1630846,Olivier Sarr,1631172,Ousmane Dieng,11.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,203967,Dario Saric,58.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1628983,Shai Gilgeous-Alexander,404.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1629026,Kenrich Williams,141.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1629652,Luguentz Dort,241.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1630197,Aleksej Pokusevski,101.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1630198,Isaiah Joe,212.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1630215,Jared Butler,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1630322,Lindy Waters III,60.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1630526,Jeremiah Robinson-Earl,52.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1630544,Tre Mann,135.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1630581,Josh Giddey,555.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1630598,Aaron Wiggins,106.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1630846,Olivier Sarr,5.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1631119,Jaylin Williams,162.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631114,Jalen Williams,1631172,Ousmane Dieng,45.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,203967,Dario Saric,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1628983,Shai Gilgeous-Alexander,354.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1629026,Kenrich Williams,26.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1629652,Luguentz Dort,145.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1630197,Aleksej Pokusevski,2.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1630198,Isaiah Joe,121.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1630215,Jared Butler,1.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1630322,Lindy Waters III,36.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1630526,Jeremiah Robinson-Earl,3.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1630544,Tre Mann,75.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1630581,Josh Giddey,411.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1630598,Aaron Wiggins,43.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1630846,Olivier Sarr,0.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1631114,Jalen Williams,232.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631119,Jaylin Williams,1631172,Ousmane Dieng,20.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,203967,Dario Saric,13.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1628983,Shai Gilgeous-Alexander,64.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1629026,Kenrich Williams,12.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1629652,Luguentz Dort,24.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1630197,Aleksej Pokusevski,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1630198,Isaiah Joe,19.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1630215,Jared Butler,31.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1630322,Lindy Waters III,22.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1630526,Jeremiah Robinson-Earl,10.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1630544,Tre Mann,100.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1630581,Josh Giddey,71.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1630598,Aaron Wiggins,21.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1630846,Olivier Sarr,17.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1631114,Jalen Williams,47.0,True,NBA.com — https://www.nba.com/stats
+OKC,2022-23,Regular Season,1631172,Ousmane Dieng,1631119,Jaylin Williams,9.0,True,NBA.com — https://www.nba.com/stats

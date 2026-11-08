@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DAL,2020-21,Regular Season,200755,JJ Redick,203501,Tim Hardaway Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,203504,Trey Burke,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,203939,Dwight Powell,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,204001,Kristaps Porziņģis,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,1626161,Willie Cauley-Stein,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,1626196,Josh Richardson,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,1627827,Dorian Finney-Smith,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,1628467,Maxi Kleber,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,1628973,Jalen Brunson,40.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,1629029,Luka Dončić,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,1629740,Nicolo Melli,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,200755,JJ Redick,1630182,Josh Green,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,200755,JJ Redick,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,203504,Trey Burke,98.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,203939,Dwight Powell,79.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,204001,Kristaps Porziņģis,143.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,1626161,Willie Cauley-Stein,62.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,1626196,Josh Richardson,143.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,1627827,Dorian Finney-Smith,120.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,1628467,Maxi Kleber,79.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,1628973,Jalen Brunson,369.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,1629029,Luka Dončić,525.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,1629740,Nicolo Melli,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203501,Tim Hardaway Jr.,1630182,Josh Green,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,200755,JJ Redick,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,203501,Tim Hardaway Jr.,101.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,203939,Dwight Powell,66.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,204001,Kristaps Porziņģis,81.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,1626161,Willie Cauley-Stein,44.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,1626196,Josh Richardson,57.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,1627827,Dorian Finney-Smith,33.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,1628467,Maxi Kleber,53.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,1628973,Jalen Brunson,135.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,1629029,Luka Dončić,147.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,1629740,Nicolo Melli,30.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203504,Trey Burke,1630182,Josh Green,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,200755,JJ Redick,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,203501,Tim Hardaway Jr.,128.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,203504,Trey Burke,59.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,204001,Kristaps Porziņģis,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,1626161,Willie Cauley-Stein,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,1626196,Josh Richardson,95.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,1627827,Dorian Finney-Smith,53.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,1628467,Maxi Kleber,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,1628973,Jalen Brunson,241.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,1629029,Luka Dončić,466.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,1629740,Nicolo Melli,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,203939,Dwight Powell,1630182,Josh Green,16.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,200755,JJ Redick,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,203501,Tim Hardaway Jr.,180.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,203504,Trey Burke,71.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,203939,Dwight Powell,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,1626161,Willie Cauley-Stein,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,1626196,Josh Richardson,278.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,1627827,Dorian Finney-Smith,130.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,1628467,Maxi Kleber,48.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,1628973,Jalen Brunson,369.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,1629029,Luka Dončić,625.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,1629740,Nicolo Melli,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,204001,Kristaps Porziņģis,1630182,Josh Green,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,200755,JJ Redick,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,203501,Tim Hardaway Jr.,87.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,203504,Trey Burke,70.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,203939,Dwight Powell,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,204001,Kristaps Porziņģis,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,1626196,Josh Richardson,88.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,1627827,Dorian Finney-Smith,34.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,1628467,Maxi Kleber,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,1628973,Jalen Brunson,196.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,1629029,Luka Dončić,410.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,1629740,Nicolo Melli,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626161,Willie Cauley-Stein,1630182,Josh Green,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,200755,JJ Redick,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,203501,Tim Hardaway Jr.,164.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,203504,Trey Burke,80.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,203939,Dwight Powell,103.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,204001,Kristaps Porziņģis,317.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,1626161,Willie Cauley-Stein,62.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,1627827,Dorian Finney-Smith,203.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,1628467,Maxi Kleber,140.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,1628973,Jalen Brunson,314.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,1629029,Luka Dončić,444.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,1629740,Nicolo Melli,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1626196,Josh Richardson,1630182,Josh Green,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,200755,JJ Redick,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,203501,Tim Hardaway Jr.,135.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,203504,Trey Burke,55.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,203939,Dwight Powell,62.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,204001,Kristaps Porziņģis,158.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,1626161,Willie Cauley-Stein,40.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,1626196,Josh Richardson,245.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,1628467,Maxi Kleber,78.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,1628973,Jalen Brunson,314.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,1629029,Luka Dončić,676.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,1629740,Nicolo Melli,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1627827,Dorian Finney-Smith,1630182,Josh Green,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,200755,JJ Redick,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,203501,Tim Hardaway Jr.,75.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,203504,Trey Burke,56.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,203939,Dwight Powell,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,204001,Kristaps Porziņģis,66.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,1626161,Willie Cauley-Stein,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,1626196,Josh Richardson,169.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,1627827,Dorian Finney-Smith,76.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,1628973,Jalen Brunson,228.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,1629029,Luka Dončić,525.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,1629740,Nicolo Melli,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628467,Maxi Kleber,1630182,Josh Green,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,200755,JJ Redick,44.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,203501,Tim Hardaway Jr.,496.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,203504,Trey Burke,198.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,203939,Dwight Powell,144.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,204001,Kristaps Porziņģis,282.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,1626161,Willie Cauley-Stein,94.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,1626196,Josh Richardson,370.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,1627827,Dorian Finney-Smith,215.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,1628467,Maxi Kleber,145.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,1629029,Luka Dončić,442.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,1629740,Nicolo Melli,63.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1628973,Jalen Brunson,1630182,Josh Green,39.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,200755,JJ Redick,32.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,203501,Tim Hardaway Jr.,570.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,203504,Trey Burke,221.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,203939,Dwight Powell,234.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,204001,Kristaps Porziņģis,477.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,1626161,Willie Cauley-Stein,227.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,1626196,Josh Richardson,530.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,1627827,Dorian Finney-Smith,518.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,1628467,Maxi Kleber,344.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,1628973,Jalen Brunson,384.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,1629740,Nicolo Melli,64.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629029,Luka Dončić,1630182,Josh Green,53.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,200755,JJ Redick,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,203501,Tim Hardaway Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,203504,Trey Burke,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,203939,Dwight Powell,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,204001,Kristaps Porziņģis,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,1626161,Willie Cauley-Stein,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,1626196,Josh Richardson,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,1627827,Dorian Finney-Smith,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,1628467,Maxi Kleber,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,1628973,Jalen Brunson,98.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,1629029,Luka Dončić,121.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1629740,Nicolo Melli,1630182,Josh Green,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,200755,JJ Redick,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,203501,Tim Hardaway Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,203504,Trey Burke,43.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,203939,Dwight Powell,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,204001,Kristaps Porziņģis,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,1626161,Willie Cauley-Stein,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,1626196,Josh Richardson,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,1627827,Dorian Finney-Smith,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,1628467,Maxi Kleber,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,1628973,Jalen Brunson,55.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,1629029,Luka Dončić,48.0,True,NBA.com — https://www.nba.com/stats
+DAL,2020-21,Regular Season,1630182,Josh Green,1629740,Nicolo Melli,7.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,8 @@
+{
+  "source": "LeagueDashPtStats Passing: PASSES_RECEIVED, single game",
+  "missing_pass_policy": "zero",
+  "zero_filled_player_ids": [],
+  "tracking_error": "",
+  "minimum_player_minutes": 0,
+  "zero_total_passes": false
+}

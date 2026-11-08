@@ -1,0 +1,133 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+NYK,2020-21,Regular Season,201565,Derrick Rose,201959,Taj Gibson,113.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,202692,Alec Burks,181.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,203457,Nerlens Noel,50.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,203493,Reggie Bullock Jr.,126.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,203901,Elfrid Payton,3.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,203944,Julius Randle,428.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,1628995,Kevin Knox II,11.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,1629011,Mitchell Robinson,1.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,1629628,RJ Barrett,238.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,1630167,Obi Toppin,75.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201565,Derrick Rose,1630193,Immanuel Quickley,223.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,201565,Derrick Rose,263.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,202692,Alec Burks,93.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,203457,Nerlens Noel,0.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,203493,Reggie Bullock Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,203901,Elfrid Payton,84.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,203944,Julius Randle,99.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,1628995,Kevin Knox II,1.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,1629011,Mitchell Robinson,1.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,1629628,RJ Barrett,51.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,1630167,Obi Toppin,36.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,201959,Taj Gibson,1630193,Immanuel Quickley,166.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,201565,Derrick Rose,132.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,201959,Taj Gibson,60.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,203457,Nerlens Noel,47.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,203493,Reggie Bullock Jr.,56.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,203901,Elfrid Payton,76.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,203944,Julius Randle,331.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,1628995,Kevin Knox II,19.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,1629011,Mitchell Robinson,14.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,1629628,RJ Barrett,119.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,1630167,Obi Toppin,111.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,202692,Alec Burks,1630193,Immanuel Quickley,215.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,201565,Derrick Rose,195.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,201959,Taj Gibson,0.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,202692,Alec Burks,70.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,203493,Reggie Bullock Jr.,113.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,203901,Elfrid Payton,424.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,203944,Julius Randle,235.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,1628995,Kevin Knox II,10.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,1629011,Mitchell Robinson,0.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,1629628,RJ Barrett,145.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,1630167,Obi Toppin,31.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203457,Nerlens Noel,1630193,Immanuel Quickley,224.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,201565,Derrick Rose,180.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,201959,Taj Gibson,26.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,202692,Alec Burks,76.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,203457,Nerlens Noel,51.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,203901,Elfrid Payton,411.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,203944,Julius Randle,558.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,1628995,Kevin Knox II,14.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,1629011,Mitchell Robinson,57.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,1629628,RJ Barrett,216.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,1630167,Obi Toppin,15.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203493,Reggie Bullock Jr.,1630193,Immanuel Quickley,112.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,201565,Derrick Rose,10.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,201959,Taj Gibson,28.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,202692,Alec Burks,95.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,203457,Nerlens Noel,143.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,203493,Reggie Bullock Jr.,346.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,203944,Julius Randle,863.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,1628995,Kevin Knox II,31.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,1629011,Mitchell Robinson,109.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,1629628,RJ Barrett,705.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,1630167,Obi Toppin,13.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203901,Elfrid Payton,1630193,Immanuel Quickley,14.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,201565,Derrick Rose,425.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,201959,Taj Gibson,46.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,202692,Alec Burks,324.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,203457,Nerlens Noel,181.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,203493,Reggie Bullock Jr.,662.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,203901,Elfrid Payton,978.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,1628995,Kevin Knox II,55.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,1629011,Mitchell Robinson,78.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,1629628,RJ Barrett,688.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,1630167,Obi Toppin,4.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,203944,Julius Randle,1630193,Immanuel Quickley,398.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,201565,Derrick Rose,26.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,201959,Taj Gibson,2.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,202692,Alec Burks,21.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,203457,Nerlens Noel,16.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,203493,Reggie Bullock Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,203901,Elfrid Payton,41.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,203944,Julius Randle,34.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,1629011,Mitchell Robinson,15.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,1629628,RJ Barrett,31.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,1630167,Obi Toppin,28.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1628995,Kevin Knox II,1630193,Immanuel Quickley,80.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,201565,Derrick Rose,7.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,201959,Taj Gibson,1.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,202692,Alec Burks,40.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,203457,Nerlens Noel,0.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,203493,Reggie Bullock Jr.,53.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,203901,Elfrid Payton,371.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,203944,Julius Randle,109.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,1628995,Kevin Knox II,4.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,1629628,RJ Barrett,119.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,1630167,Obi Toppin,5.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629011,Mitchell Robinson,1630193,Immanuel Quickley,66.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,201565,Derrick Rose,114.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,201959,Taj Gibson,57.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,202692,Alec Burks,100.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,203457,Nerlens Noel,92.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,203493,Reggie Bullock Jr.,152.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,203901,Elfrid Payton,296.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,203944,Julius Randle,843.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,1628995,Kevin Knox II,29.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,1629011,Mitchell Robinson,93.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,1630167,Obi Toppin,29.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1629628,RJ Barrett,1630193,Immanuel Quickley,111.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,201565,Derrick Rose,207.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,201959,Taj Gibson,19.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,202692,Alec Burks,101.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,203457,Nerlens Noel,11.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,203493,Reggie Bullock Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,203901,Elfrid Payton,18.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,203944,Julius Randle,15.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,1628995,Kevin Knox II,16.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,1629011,Mitchell Robinson,5.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,1629628,RJ Barrett,40.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630167,Obi Toppin,1630193,Immanuel Quickley,288.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,201565,Derrick Rose,183.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,201959,Taj Gibson,61.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,202692,Alec Burks,224.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,203457,Nerlens Noel,88.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,203493,Reggie Bullock Jr.,65.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,203901,Elfrid Payton,13.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,203944,Julius Randle,376.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,1628995,Kevin Knox II,69.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,1629011,Mitchell Robinson,25.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,1629628,RJ Barrett,179.0,True,NBA.com — https://www.nba.com/stats
+NYK,2020-21,Regular Season,1630193,Immanuel Quickley,1630167,Obi Toppin,154.0,True,NBA.com — https://www.nba.com/stats

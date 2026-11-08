@@ -1,0 +1,241 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MIL,2022-23,Regular Season,201572,Brook Lopez,201586,Serge Ibaka,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,201609,Goran Dragic,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,201950,Jrue Holiday,364.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,202083,Wesley Matthews,28.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,203086,Meyers Leonard,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,203109,Jae Crowder,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,203114,Khris Middleton,127.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,203507,Giannis Antetokounmpo,263.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,204060,Joe Ingles,99.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,1626171,Bobby Portis Jr.,49.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,1626192,Pat Connaughton,93.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,1628960,Grayson Allen,147.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,1628975,Jevon Carter,232.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,1629623,Lindell Wigginton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201572,Brook Lopez,1630699,MarJon Beauchamp,28.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,201609,Goran Dragic,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,201950,Jrue Holiday,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,202083,Wesley Matthews,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,203086,Meyers Leonard,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,203109,Jae Crowder,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,203114,Khris Middleton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,203507,Giannis Antetokounmpo,13.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,204060,Joe Ingles,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,1626171,Bobby Portis Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,1626192,Pat Connaughton,4.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,1628960,Grayson Allen,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,1628975,Jevon Carter,16.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,1629623,Lindell Wigginton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201586,Serge Ibaka,1630699,MarJon Beauchamp,15.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,201572,Brook Lopez,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,201586,Serge Ibaka,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,201950,Jrue Holiday,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,202083,Wesley Matthews,9.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,203086,Meyers Leonard,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,203109,Jae Crowder,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,203114,Khris Middleton,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,203507,Giannis Antetokounmpo,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,204060,Joe Ingles,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,1626171,Bobby Portis Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,1626192,Pat Connaughton,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,1628960,Grayson Allen,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,1628975,Jevon Carter,9.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,1629623,Lindell Wigginton,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201609,Goran Dragic,1630699,MarJon Beauchamp,9.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,201572,Brook Lopez,486.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,201586,Serge Ibaka,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,201609,Goran Dragic,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,202083,Wesley Matthews,78.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,203086,Meyers Leonard,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,203109,Jae Crowder,35.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,203114,Khris Middleton,262.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,203507,Giannis Antetokounmpo,845.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,204060,Joe Ingles,278.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,1626171,Bobby Portis Jr.,348.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,1626192,Pat Connaughton,228.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,1628960,Grayson Allen,428.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,1628975,Jevon Carter,205.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,1629623,Lindell Wigginton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,201950,Jrue Holiday,1630699,MarJon Beauchamp,37.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,201572,Brook Lopez,29.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,201586,Serge Ibaka,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,201609,Goran Dragic,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,201950,Jrue Holiday,123.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,203086,Meyers Leonard,4.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,203109,Jae Crowder,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,203114,Khris Middleton,37.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,203507,Giannis Antetokounmpo,64.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,204060,Joe Ingles,19.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,1626171,Bobby Portis Jr.,26.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,1626192,Pat Connaughton,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,1628960,Grayson Allen,23.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,1628975,Jevon Carter,76.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,1629623,Lindell Wigginton,7.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,202083,Wesley Matthews,1630699,MarJon Beauchamp,9.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,201586,Serge Ibaka,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,201609,Goran Dragic,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,201950,Jrue Holiday,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,202083,Wesley Matthews,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,203109,Jae Crowder,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,203114,Khris Middleton,4.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,203507,Giannis Antetokounmpo,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,204060,Joe Ingles,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,1626171,Bobby Portis Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,1626192,Pat Connaughton,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,1628960,Grayson Allen,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,1628975,Jevon Carter,22.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,1629623,Lindell Wigginton,22.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203086,Meyers Leonard,1630699,MarJon Beauchamp,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,201572,Brook Lopez,15.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,201586,Serge Ibaka,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,201609,Goran Dragic,7.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,201950,Jrue Holiday,91.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,202083,Wesley Matthews,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,203086,Meyers Leonard,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,203114,Khris Middleton,38.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,203507,Giannis Antetokounmpo,34.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,204060,Joe Ingles,35.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,1626171,Bobby Portis Jr.,27.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,1626192,Pat Connaughton,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,1628960,Grayson Allen,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,1628975,Jevon Carter,78.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,1629623,Lindell Wigginton,17.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203109,Jae Crowder,1630699,MarJon Beauchamp,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,201572,Brook Lopez,151.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,201586,Serge Ibaka,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,201609,Goran Dragic,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,201950,Jrue Holiday,238.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,202083,Wesley Matthews,21.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,203086,Meyers Leonard,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,203109,Jae Crowder,18.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,203507,Giannis Antetokounmpo,189.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,204060,Joe Ingles,69.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,1626171,Bobby Portis Jr.,88.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,1626192,Pat Connaughton,34.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,1628960,Grayson Allen,74.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,1628975,Jevon Carter,91.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,1629623,Lindell Wigginton,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203114,Khris Middleton,1630699,MarJon Beauchamp,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,201572,Brook Lopez,227.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,201586,Serge Ibaka,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,201609,Goran Dragic,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,201950,Jrue Holiday,691.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,202083,Wesley Matthews,64.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,203086,Meyers Leonard,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,203109,Jae Crowder,27.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,203114,Khris Middleton,168.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,204060,Joe Ingles,144.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,1626171,Bobby Portis Jr.,189.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,1626192,Pat Connaughton,256.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,1628960,Grayson Allen,428.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,1628975,Jevon Carter,368.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,1629623,Lindell Wigginton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,203507,Giannis Antetokounmpo,1630699,MarJon Beauchamp,60.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,201572,Brook Lopez,141.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,201586,Serge Ibaka,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,201609,Goran Dragic,4.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,201950,Jrue Holiday,280.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,202083,Wesley Matthews,20.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,203086,Meyers Leonard,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,203109,Jae Crowder,28.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,203114,Khris Middleton,104.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,203507,Giannis Antetokounmpo,156.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,1626171,Bobby Portis Jr.,130.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,1626192,Pat Connaughton,65.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,1628960,Grayson Allen,66.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,1628975,Jevon Carter,107.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,1629623,Lindell Wigginton,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,204060,Joe Ingles,1630699,MarJon Beauchamp,24.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,201572,Brook Lopez,59.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,201586,Serge Ibaka,4.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,201609,Goran Dragic,15.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,201950,Jrue Holiday,679.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,202083,Wesley Matthews,43.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,203086,Meyers Leonard,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,203109,Jae Crowder,26.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,203114,Khris Middleton,130.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,203507,Giannis Antetokounmpo,257.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,204060,Joe Ingles,126.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,1626192,Pat Connaughton,93.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,1628960,Grayson Allen,135.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,1628975,Jevon Carter,522.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,1629623,Lindell Wigginton,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626171,Bobby Portis Jr.,1630699,MarJon Beauchamp,31.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,201572,Brook Lopez,66.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,201586,Serge Ibaka,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,201609,Goran Dragic,9.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,201950,Jrue Holiday,439.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,202083,Wesley Matthews,20.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,203086,Meyers Leonard,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,203109,Jae Crowder,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,203114,Khris Middleton,51.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,203507,Giannis Antetokounmpo,337.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,204060,Joe Ingles,69.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,1626171,Bobby Portis Jr.,80.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,1628960,Grayson Allen,87.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,1628975,Jevon Carter,218.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,1629623,Lindell Wigginton,9.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1626192,Pat Connaughton,1630699,MarJon Beauchamp,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,201572,Brook Lopez,144.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,201586,Serge Ibaka,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,201609,Goran Dragic,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,201950,Jrue Holiday,478.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,202083,Wesley Matthews,23.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,203086,Meyers Leonard,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,203109,Jae Crowder,4.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,203114,Khris Middleton,71.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,203507,Giannis Antetokounmpo,444.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,204060,Joe Ingles,47.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,1626171,Bobby Portis Jr.,125.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,1626192,Pat Connaughton,76.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,1628975,Jevon Carter,211.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,1629623,Lindell Wigginton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628960,Grayson Allen,1630699,MarJon Beauchamp,15.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,201572,Brook Lopez,293.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,201586,Serge Ibaka,27.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,201609,Goran Dragic,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,201950,Jrue Holiday,250.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,202083,Wesley Matthews,47.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,203086,Meyers Leonard,13.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,203109,Jae Crowder,49.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,203114,Khris Middleton,134.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,203507,Giannis Antetokounmpo,451.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,204060,Joe Ingles,123.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,1626171,Bobby Portis Jr.,312.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,1626192,Pat Connaughton,98.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,1628960,Grayson Allen,226.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,1629623,Lindell Wigginton,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1628975,Jevon Carter,1630699,MarJon Beauchamp,84.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,201586,Serge Ibaka,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,201609,Goran Dragic,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,201950,Jrue Holiday,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,202083,Wesley Matthews,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,203086,Meyers Leonard,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,203109,Jae Crowder,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,203114,Khris Middleton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,203507,Giannis Antetokounmpo,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,204060,Joe Ingles,7.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,1626171,Bobby Portis Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,1626192,Pat Connaughton,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,1628960,Grayson Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,1628975,Jevon Carter,9.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1629623,Lindell Wigginton,1630699,MarJon Beauchamp,19.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,201572,Brook Lopez,23.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,201586,Serge Ibaka,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,201609,Goran Dragic,16.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,201950,Jrue Holiday,48.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,202083,Wesley Matthews,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,203086,Meyers Leonard,7.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,203109,Jae Crowder,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,203114,Khris Middleton,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,203507,Giannis Antetokounmpo,44.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,204060,Joe Ingles,19.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,1626171,Bobby Portis Jr.,33.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,1626192,Pat Connaughton,17.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,1628960,Grayson Allen,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,1628975,Jevon Carter,88.0,True,NBA.com — https://www.nba.com/stats
+MIL,2022-23,Regular Season,1630699,MarJon Beauchamp,1629623,Lindell Wigginton,24.0,True,NBA.com — https://www.nba.com/stats

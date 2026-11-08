@@ -1,0 +1,307 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DAL,2025-26,Regular Season,202691,Klay Thompson,203114,Khris Middleton,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,203939,Dwight Powell,43.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1628963,Marvin Bagley III,29.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1628997,Caleb Martin,48.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1629023,P.J. Washington,70.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1629655,Daniel Gafford,80.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1630230,Naji Marshall,68.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1630314,Brandon Williams,127.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1630526,Jeremiah Robinson-Earl,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1630619,Moussa Cisse,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1631108,Max Christie,55.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1641726,Dereck Lively II,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1641890,Tyler Smith,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1642358,AJ Johnson,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1642843,Cooper Flagg,75.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1642948,Ryan Nembhard,78.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,202691,Klay Thompson,1642967,John Poulakidas,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,202691,Klay Thompson,19.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,203939,Dwight Powell,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1628963,Marvin Bagley III,24.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1628997,Caleb Martin,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1629023,P.J. Washington,36.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1629655,Daniel Gafford,32.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1630230,Naji Marshall,56.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1630314,Brandon Williams,86.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1630619,Moussa Cisse,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1631108,Max Christie,55.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1641890,Tyler Smith,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1642358,AJ Johnson,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1642843,Cooper Flagg,83.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1642948,Ryan Nembhard,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203114,Khris Middleton,1642967,John Poulakidas,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,202691,Klay Thompson,62.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,203114,Khris Middleton,32.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1628963,Marvin Bagley III,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1628997,Caleb Martin,36.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1629023,P.J. Washington,42.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1629655,Daniel Gafford,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1630230,Naji Marshall,95.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1630314,Brandon Williams,144.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1630526,Jeremiah Robinson-Earl,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1630619,Moussa Cisse,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1631108,Max Christie,103.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1641890,Tyler Smith,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1642358,AJ Johnson,29.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1642843,Cooper Flagg,121.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1642948,Ryan Nembhard,145.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,203939,Dwight Powell,1642967,John Poulakidas,19.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,202691,Klay Thompson,36.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,203114,Khris Middleton,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,203939,Dwight Powell,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1628997,Caleb Martin,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1629023,P.J. Washington,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1629655,Daniel Gafford,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1630230,Naji Marshall,77.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1630314,Brandon Williams,82.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1630619,Moussa Cisse,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1631108,Max Christie,33.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1641890,Tyler Smith,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1642358,AJ Johnson,16.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1642843,Cooper Flagg,68.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1642948,Ryan Nembhard,61.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628963,Marvin Bagley III,1642967,John Poulakidas,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,202691,Klay Thompson,71.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,203114,Khris Middleton,27.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,203939,Dwight Powell,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1628963,Marvin Bagley III,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1629023,P.J. Washington,34.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1629655,Daniel Gafford,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1630230,Naji Marshall,84.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1630314,Brandon Williams,169.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1630526,Jeremiah Robinson-Earl,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1630619,Moussa Cisse,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1631108,Max Christie,49.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1641890,Tyler Smith,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1642358,AJ Johnson,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1642843,Cooper Flagg,67.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1642948,Ryan Nembhard,75.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1628997,Caleb Martin,1642967,John Poulakidas,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,202691,Klay Thompson,74.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,203114,Khris Middleton,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,203939,Dwight Powell,30.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1628963,Marvin Bagley III,22.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1628997,Caleb Martin,34.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1629655,Daniel Gafford,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1630230,Naji Marshall,252.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1630314,Brandon Williams,369.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1630619,Moussa Cisse,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1631108,Max Christie,191.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1641726,Dereck Lively II,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1641890,Tyler Smith,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1642358,AJ Johnson,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1642843,Cooper Flagg,300.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1642948,Ryan Nembhard,206.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629023,P.J. Washington,1642967,John Poulakidas,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,202691,Klay Thompson,92.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,203114,Khris Middleton,40.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,203939,Dwight Powell,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1628997,Caleb Martin,40.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1629023,P.J. Washington,64.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1630230,Naji Marshall,153.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1630314,Brandon Williams,179.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1630619,Moussa Cisse,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1631108,Max Christie,110.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1641890,Tyler Smith,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1642358,AJ Johnson,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1642843,Cooper Flagg,223.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1642948,Ryan Nembhard,93.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1629655,Daniel Gafford,1642967,John Poulakidas,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,202691,Klay Thompson,153.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,203114,Khris Middleton,65.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,203939,Dwight Powell,74.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1628963,Marvin Bagley III,54.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1628997,Caleb Martin,62.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1629023,P.J. Washington,213.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1629655,Daniel Gafford,139.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1630314,Brandon Williams,279.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1630619,Moussa Cisse,24.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1631108,Max Christie,288.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1641726,Dereck Lively II,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1641890,Tyler Smith,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1642358,AJ Johnson,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1642843,Cooper Flagg,511.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1642948,Ryan Nembhard,196.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630230,Naji Marshall,1642967,John Poulakidas,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,202691,Klay Thompson,253.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,203114,Khris Middleton,119.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,203939,Dwight Powell,90.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1628963,Marvin Bagley III,56.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1628997,Caleb Martin,116.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1629023,P.J. Washington,194.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1629655,Daniel Gafford,109.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1630230,Naji Marshall,315.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1630526,Jeremiah Robinson-Earl,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1630619,Moussa Cisse,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1631108,Max Christie,273.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1641726,Dereck Lively II,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1641890,Tyler Smith,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1642358,AJ Johnson,20.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1642843,Cooper Flagg,354.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1642948,Ryan Nembhard,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630314,Brandon Williams,1642967,John Poulakidas,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,202691,Klay Thompson,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,203114,Khris Middleton,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,203939,Dwight Powell,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1628997,Caleb Martin,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1629023,P.J. Washington,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1629655,Daniel Gafford,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1630230,Naji Marshall,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1630314,Brandon Williams,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1630619,Moussa Cisse,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1631108,Max Christie,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1641890,Tyler Smith,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1642358,AJ Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1642843,Cooper Flagg,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1642948,Ryan Nembhard,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630526,Jeremiah Robinson-Earl,1642967,John Poulakidas,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,202691,Klay Thompson,22.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,203114,Khris Middleton,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,203939,Dwight Powell,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1628997,Caleb Martin,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1629023,P.J. Washington,20.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1629655,Daniel Gafford,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1630230,Naji Marshall,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1630314,Brandon Williams,61.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1630526,Jeremiah Robinson-Earl,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1631108,Max Christie,30.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1641890,Tyler Smith,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1642358,AJ Johnson,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1642843,Cooper Flagg,46.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1642948,Ryan Nembhard,110.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1630619,Moussa Cisse,1642967,John Poulakidas,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,202691,Klay Thompson,68.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,203114,Khris Middleton,59.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,203939,Dwight Powell,77.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1628963,Marvin Bagley III,30.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1628997,Caleb Martin,48.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1629023,P.J. Washington,140.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1629655,Daniel Gafford,89.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1630230,Naji Marshall,243.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1630314,Brandon Williams,324.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1630619,Moussa Cisse,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1641726,Dereck Lively II,20.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1641890,Tyler Smith,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1642358,AJ Johnson,16.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1642843,Cooper Flagg,438.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1642948,Ryan Nembhard,247.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1631108,Max Christie,1642967,John Poulakidas,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,202691,Klay Thompson,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,203114,Khris Middleton,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,203939,Dwight Powell,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1628963,Marvin Bagley III,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1628997,Caleb Martin,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1629023,P.J. Washington,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1629655,Daniel Gafford,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1630230,Naji Marshall,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1630314,Brandon Williams,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1630619,Moussa Cisse,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1631108,Max Christie,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1641890,Tyler Smith,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1642358,AJ Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1642843,Cooper Flagg,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1642948,Ryan Nembhard,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641726,Dereck Lively II,1642967,John Poulakidas,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,202691,Klay Thompson,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,203114,Khris Middleton,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,203939,Dwight Powell,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1628963,Marvin Bagley III,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1628997,Caleb Martin,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1629023,P.J. Washington,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1629655,Daniel Gafford,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1630230,Naji Marshall,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1630314,Brandon Williams,24.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1630619,Moussa Cisse,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1631108,Max Christie,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1642358,AJ Johnson,29.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1642843,Cooper Flagg,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1642948,Ryan Nembhard,59.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1641890,Tyler Smith,1642967,John Poulakidas,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,202691,Klay Thompson,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,203114,Khris Middleton,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,203939,Dwight Powell,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1628963,Marvin Bagley III,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1628997,Caleb Martin,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1629023,P.J. Washington,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1629655,Daniel Gafford,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1630230,Naji Marshall,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1630314,Brandon Williams,22.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1630619,Moussa Cisse,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1631108,Max Christie,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1641890,Tyler Smith,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1642843,Cooper Flagg,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1642948,Ryan Nembhard,34.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642358,AJ Johnson,1642967,John Poulakidas,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,202691,Klay Thompson,163.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,203114,Khris Middleton,80.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,203939,Dwight Powell,65.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1628963,Marvin Bagley III,56.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1628997,Caleb Martin,66.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1629023,P.J. Washington,236.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1629655,Daniel Gafford,99.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1630230,Naji Marshall,564.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1630314,Brandon Williams,437.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1630619,Moussa Cisse,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1631108,Max Christie,414.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1641726,Dereck Lively II,16.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1641890,Tyler Smith,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1642358,AJ Johnson,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1642948,Ryan Nembhard,531.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642843,Cooper Flagg,1642967,John Poulakidas,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,202691,Klay Thompson,172.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,203114,Khris Middleton,63.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,203939,Dwight Powell,73.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1628963,Marvin Bagley III,38.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1628997,Caleb Martin,52.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1629023,P.J. Washington,121.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1629655,Daniel Gafford,50.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1630230,Naji Marshall,228.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1630314,Brandon Williams,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1630526,Jeremiah Robinson-Earl,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1630619,Moussa Cisse,32.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1631108,Max Christie,219.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1641726,Dereck Lively II,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1641890,Tyler Smith,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1642358,AJ Johnson,52.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1642843,Cooper Flagg,563.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642948,Ryan Nembhard,1642967,John Poulakidas,52.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,202691,Klay Thompson,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,203114,Khris Middleton,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,203939,Dwight Powell,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1628963,Marvin Bagley III,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1628997,Caleb Martin,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1629023,P.J. Washington,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1629655,Daniel Gafford,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1630230,Naji Marshall,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1630314,Brandon Williams,24.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1630526,Jeremiah Robinson-Earl,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1630619,Moussa Cisse,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1631108,Max Christie,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1641890,Tyler Smith,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1642358,AJ Johnson,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1642843,Cooper Flagg,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2025-26,Regular Season,1642967,John Poulakidas,1642948,Ryan Nembhard,49.0,True,NBA.com — https://www.nba.com/stats

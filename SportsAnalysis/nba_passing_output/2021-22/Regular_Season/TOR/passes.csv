@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+TOR,2021-22,Regular Season,201152,Thaddeus Young,203920,Khem Birch,11.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1627783,Pascal Siakam,127.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1627832,Fred VanVleet,90.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1628384,OG Anunoby,13.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1628449,Chris Boucher,26.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1629004,Svi Mykhailiuk,4.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1629018,Gary Trent Jr.,52.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1629139,Yuta Watanabe,3.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1629717,Armoni Brooks,16.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1630173,Precious Achiuwa,50.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1630201,Malachi Flynn,48.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1630567,Scottie Barnes,96.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,201152,Thaddeus Young,1630625,Dalano Banton,48.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,201152,Thaddeus Young,10.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1627783,Pascal Siakam,140.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1627832,Fred VanVleet,357.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1628384,OG Anunoby,59.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1628449,Chris Boucher,23.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1629004,Svi Mykhailiuk,32.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1629018,Gary Trent Jr.,107.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1629139,Yuta Watanabe,2.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1629717,Armoni Brooks,7.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1630173,Precious Achiuwa,4.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1630201,Malachi Flynn,30.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1630567,Scottie Barnes,136.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,203920,Khem Birch,1630625,Dalano Banton,77.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,201152,Thaddeus Young,111.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,203920,Khem Birch,118.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1627832,Fred VanVleet,1009.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1628384,OG Anunoby,351.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1628391,D.J. Wilson,5.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1628449,Chris Boucher,136.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1629004,Svi Mykhailiuk,62.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1629018,Gary Trent Jr.,498.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1629139,Yuta Watanabe,38.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1629717,Armoni Brooks,23.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1630173,Precious Achiuwa,238.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1630201,Malachi Flynn,141.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1630567,Scottie Barnes,708.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627783,Pascal Siakam,1630625,Dalano Banton,107.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,201152,Thaddeus Young,55.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,203920,Khem Birch,210.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1627783,Pascal Siakam,1008.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1628384,OG Anunoby,505.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1628449,Chris Boucher,215.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1629004,Svi Mykhailiuk,113.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1629018,Gary Trent Jr.,568.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1629139,Yuta Watanabe,42.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1629717,Armoni Brooks,13.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1630173,Precious Achiuwa,343.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1630201,Malachi Flynn,19.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1630567,Scottie Barnes,859.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1627832,Fred VanVleet,1630625,Dalano Banton,58.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,201152,Thaddeus Young,5.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,203920,Khem Birch,58.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1627783,Pascal Siakam,222.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1627832,Fred VanVleet,467.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1628449,Chris Boucher,89.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1629004,Svi Mykhailiuk,25.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1629018,Gary Trent Jr.,157.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1629139,Yuta Watanabe,10.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1629717,Armoni Brooks,2.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1630173,Precious Achiuwa,105.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1630201,Malachi Flynn,33.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1630567,Scottie Barnes,247.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628384,OG Anunoby,1630625,Dalano Banton,75.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,201152,Thaddeus Young,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,203920,Khem Birch,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1627783,Pascal Siakam,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1627832,Fred VanVleet,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1628384,OG Anunoby,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1628449,Chris Boucher,2.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1629004,Svi Mykhailiuk,15.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1629018,Gary Trent Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1629139,Yuta Watanabe,11.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1629717,Armoni Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1630173,Precious Achiuwa,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1630201,Malachi Flynn,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1630567,Scottie Barnes,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628391,D.J. Wilson,1630625,Dalano Banton,19.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,201152,Thaddeus Young,18.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,203920,Khem Birch,14.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1627783,Pascal Siakam,258.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1627832,Fred VanVleet,379.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1628384,OG Anunoby,56.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1628391,D.J. Wilson,2.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1629004,Svi Mykhailiuk,35.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1629018,Gary Trent Jr.,87.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1629139,Yuta Watanabe,17.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1629717,Armoni Brooks,9.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1630173,Precious Achiuwa,44.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1630201,Malachi Flynn,78.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1630567,Scottie Barnes,200.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1628449,Chris Boucher,1630625,Dalano Banton,139.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,201152,Thaddeus Young,3.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,203920,Khem Birch,35.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1627783,Pascal Siakam,57.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1627832,Fred VanVleet,121.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1628384,OG Anunoby,35.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1628391,D.J. Wilson,9.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1628449,Chris Boucher,28.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1629018,Gary Trent Jr.,41.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1629139,Yuta Watanabe,36.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1629717,Armoni Brooks,5.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1630173,Precious Achiuwa,33.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1630201,Malachi Flynn,55.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1630567,Scottie Barnes,39.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629004,Svi Mykhailiuk,1630625,Dalano Banton,69.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,201152,Thaddeus Young,32.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,203920,Khem Birch,77.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1627783,Pascal Siakam,393.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1627832,Fred VanVleet,386.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1628384,OG Anunoby,123.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1628391,D.J. Wilson,1.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1628449,Chris Boucher,79.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1629004,Svi Mykhailiuk,22.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1629139,Yuta Watanabe,14.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1629717,Armoni Brooks,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1630173,Precious Achiuwa,134.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1630201,Malachi Flynn,68.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1630567,Scottie Barnes,250.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629018,Gary Trent Jr.,1630625,Dalano Banton,69.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,201152,Thaddeus Young,3.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,203920,Khem Birch,1.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1627783,Pascal Siakam,41.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1627832,Fred VanVleet,63.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1628384,OG Anunoby,9.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1628391,D.J. Wilson,11.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1628449,Chris Boucher,27.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1629004,Svi Mykhailiuk,29.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1629018,Gary Trent Jr.,26.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1629717,Armoni Brooks,4.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1630173,Precious Achiuwa,16.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1630201,Malachi Flynn,58.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1630567,Scottie Barnes,39.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629139,Yuta Watanabe,1630625,Dalano Banton,62.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,201152,Thaddeus Young,9.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,203920,Khem Birch,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1627783,Pascal Siakam,26.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1627832,Fred VanVleet,13.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1628384,OG Anunoby,1.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1628449,Chris Boucher,11.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1629004,Svi Mykhailiuk,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1629018,Gary Trent Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1629139,Yuta Watanabe,4.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1630173,Precious Achiuwa,21.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1630201,Malachi Flynn,5.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1630567,Scottie Barnes,56.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1629717,Armoni Brooks,1630625,Dalano Banton,13.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,201152,Thaddeus Young,27.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,203920,Khem Birch,2.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1627783,Pascal Siakam,294.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1627832,Fred VanVleet,535.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1628384,OG Anunoby,90.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1628449,Chris Boucher,46.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1629004,Svi Mykhailiuk,28.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1629018,Gary Trent Jr.,133.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1629139,Yuta Watanabe,10.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1629717,Armoni Brooks,14.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1630201,Malachi Flynn,101.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1630567,Scottie Barnes,239.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630173,Precious Achiuwa,1630625,Dalano Banton,112.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,201152,Thaddeus Young,35.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,203920,Khem Birch,20.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1627783,Pascal Siakam,169.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1627832,Fred VanVleet,30.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1628384,OG Anunoby,35.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1628391,D.J. Wilson,1.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1628449,Chris Boucher,75.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1629004,Svi Mykhailiuk,45.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1629018,Gary Trent Jr.,119.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1629139,Yuta Watanabe,58.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1629717,Armoni Brooks,3.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1630173,Precious Achiuwa,85.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1630567,Scottie Barnes,121.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630201,Malachi Flynn,1630625,Dalano Banton,44.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,201152,Thaddeus Young,101.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,203920,Khem Birch,108.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1627783,Pascal Siakam,777.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1627832,Fred VanVleet,977.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1628384,OG Anunoby,282.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1628449,Chris Boucher,190.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1629004,Svi Mykhailiuk,70.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1629018,Gary Trent Jr.,410.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1629139,Yuta Watanabe,35.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1629717,Armoni Brooks,52.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1630173,Precious Achiuwa,253.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1630201,Malachi Flynn,166.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630567,Scottie Barnes,1630625,Dalano Banton,218.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,201152,Thaddeus Young,40.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,203920,Khem Birch,59.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1627783,Pascal Siakam,157.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1627832,Fred VanVleet,101.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1628384,OG Anunoby,99.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1628391,D.J. Wilson,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1628449,Chris Boucher,131.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1629004,Svi Mykhailiuk,75.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1629018,Gary Trent Jr.,130.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1629139,Yuta Watanabe,63.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1629717,Armoni Brooks,12.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1630173,Precious Achiuwa,97.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1630201,Malachi Flynn,40.0,True,NBA.com — https://www.nba.com/stats
+TOR,2021-22,Regular Season,1630625,Dalano Banton,1630567,Scottie Barnes,199.0,True,NBA.com — https://www.nba.com/stats

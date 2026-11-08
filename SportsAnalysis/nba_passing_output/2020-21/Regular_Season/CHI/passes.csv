@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+CHI,2020-21,Regular Season,201152,Thaddeus Young,202066,Garrett Temple,214.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,202329,Al-Farouq Aminu,4.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,202696,Nikola Vučević,68.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,203107,Tomas Satoransky,626.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,203897,Zach LaVine,542.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,1627756,Denzel Valentine,181.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,1627853,Ryan Arcidiacono,90.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,1628374,Lauri Markkanen,148.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,1628464,Daniel Theis,15.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,1628972,Troy Brown Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,1629632,Coby White,580.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,201152,Thaddeus Young,1630172,Patrick Williams,160.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,201152,Thaddeus Young,182.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,202329,Al-Farouq Aminu,2.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,202696,Nikola Vučević,113.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,203107,Tomas Satoransky,98.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,203897,Zach LaVine,223.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,1627756,Denzel Valentine,52.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,1627853,Ryan Arcidiacono,11.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,1628374,Lauri Markkanen,48.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,1628464,Daniel Theis,30.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,1628972,Troy Brown Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,1629632,Coby White,273.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202066,Garrett Temple,1630172,Patrick Williams,78.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,201152,Thaddeus Young,4.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,202066,Garrett Temple,1.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,202696,Nikola Vučević,0.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,203107,Tomas Satoransky,32.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,203897,Zach LaVine,3.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,1627756,Denzel Valentine,10.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,1627853,Ryan Arcidiacono,3.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,1628374,Lauri Markkanen,5.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,1628464,Daniel Theis,4.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,1628972,Troy Brown Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,1629632,Coby White,13.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202329,Al-Farouq Aminu,1630172,Patrick Williams,7.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,201152,Thaddeus Young,80.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,202066,Garrett Temple,95.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,202329,Al-Farouq Aminu,3.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,203107,Tomas Satoransky,266.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,203897,Zach LaVine,201.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,1627756,Denzel Valentine,37.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,1627853,Ryan Arcidiacono,20.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,1628374,Lauri Markkanen,37.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,1628464,Daniel Theis,56.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,1628972,Troy Brown Jr.,27.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,1629632,Coby White,498.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,202696,Nikola Vučević,1630172,Patrick Williams,129.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,201152,Thaddeus Young,512.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,202066,Garrett Temple,114.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,202329,Al-Farouq Aminu,13.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,202696,Nikola Vučević,232.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,203897,Zach LaVine,436.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,1627756,Denzel Valentine,136.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,1627853,Ryan Arcidiacono,46.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,1628374,Lauri Markkanen,189.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,1628464,Daniel Theis,90.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,1628972,Troy Brown Jr.,19.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,1629632,Coby White,136.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203107,Tomas Satoransky,1630172,Patrick Williams,143.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,201152,Thaddeus Young,421.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,202066,Garrett Temple,135.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,202329,Al-Farouq Aminu,1.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,202696,Nikola Vučević,197.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,203107,Tomas Satoransky,257.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,1627756,Denzel Valentine,77.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,1627853,Ryan Arcidiacono,16.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,1628374,Lauri Markkanen,193.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,1628464,Daniel Theis,58.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,1628972,Troy Brown Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,1629632,Coby White,427.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,203897,Zach LaVine,1630172,Patrick Williams,158.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,201152,Thaddeus Young,140.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,202066,Garrett Temple,53.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,202329,Al-Farouq Aminu,6.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,202696,Nikola Vučević,34.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,203107,Tomas Satoransky,124.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,203897,Zach LaVine,127.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,1627853,Ryan Arcidiacono,73.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,1628374,Lauri Markkanen,51.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,1628464,Daniel Theis,21.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,1628972,Troy Brown Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,1629632,Coby White,188.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627756,Denzel Valentine,1630172,Patrick Williams,36.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,201152,Thaddeus Young,88.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,202066,Garrett Temple,20.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,202329,Al-Farouq Aminu,2.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,202696,Nikola Vučević,15.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,203107,Tomas Satoransky,49.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,203897,Zach LaVine,45.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,1627756,Denzel Valentine,83.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,1628374,Lauri Markkanen,55.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,1628464,Daniel Theis,19.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,1628972,Troy Brown Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,1629632,Coby White,45.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1627853,Ryan Arcidiacono,1630172,Patrick Williams,46.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,201152,Thaddeus Young,68.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,202066,Garrett Temple,36.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,202329,Al-Farouq Aminu,3.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,202696,Nikola Vučević,32.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,203107,Tomas Satoransky,234.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,203897,Zach LaVine,239.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,1627756,Denzel Valentine,51.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,1627853,Ryan Arcidiacono,68.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,1628464,Daniel Theis,18.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,1628972,Troy Brown Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,1629632,Coby White,298.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628374,Lauri Markkanen,1630172,Patrick Williams,57.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,201152,Thaddeus Young,5.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,202066,Garrett Temple,40.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,202329,Al-Farouq Aminu,2.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,202696,Nikola Vučević,33.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,203107,Tomas Satoransky,78.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,203897,Zach LaVine,85.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,1627756,Denzel Valentine,29.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,1627853,Ryan Arcidiacono,21.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,1628374,Lauri Markkanen,15.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,1628972,Troy Brown Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,1629632,Coby White,222.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628464,Daniel Theis,1630172,Patrick Williams,30.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,201152,Thaddeus Young,13.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,202066,Garrett Temple,1.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,202329,Al-Farouq Aminu,1.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,202696,Nikola Vučević,19.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,203107,Tomas Satoransky,24.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,203897,Zach LaVine,37.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,1627756,Denzel Valentine,8.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,1627853,Ryan Arcidiacono,8.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,1628374,Lauri Markkanen,13.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,1628464,Daniel Theis,6.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,1629632,Coby White,39.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1628972,Troy Brown Jr.,1630172,Patrick Williams,4.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,201152,Thaddeus Young,457.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,202066,Garrett Temple,261.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,202329,Al-Farouq Aminu,6.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,202696,Nikola Vučević,400.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,203107,Tomas Satoransky,113.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,203897,Zach LaVine,565.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,1627756,Denzel Valentine,194.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,1627853,Ryan Arcidiacono,60.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,1628374,Lauri Markkanen,216.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,1628464,Daniel Theis,137.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,1628972,Troy Brown Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1629632,Coby White,1630172,Patrick Williams,316.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,201152,Thaddeus Young,119.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,202066,Garrett Temple,71.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,202329,Al-Farouq Aminu,3.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,202696,Nikola Vučević,117.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,203107,Tomas Satoransky,162.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,203897,Zach LaVine,219.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,1627756,Denzel Valentine,27.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,1627853,Ryan Arcidiacono,33.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,1628374,Lauri Markkanen,62.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,1628464,Daniel Theis,26.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,1628972,Troy Brown Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+CHI,2020-21,Regular Season,1630172,Patrick Williams,1629632,Coby White,357.0,True,NBA.com — https://www.nba.com/stats

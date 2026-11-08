@@ -1,0 +1,241 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+NOP,2020-21,Regular Season,201949,James Johnson,202339,Eric Bledsoe,78.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,202738,Isaiah Thomas,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,203500,Steven Adams,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1626195,Willy Hernangomez,33.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1627742,Brandon Ingram,48.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1628366,Lonzo Ball,77.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1628404,Josh Hart,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1628411,Wes Iwundu,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1629117,Wenyen Gabriel,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1629627,Zion Williamson,54.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1629637,Jaxson Hayes,29.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1629638,Nickeil Alexander-Walker,43.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1629712,Didi Louzada,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1630184,Kira Lewis Jr.,49.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,201949,James Johnson,1630230,Naji Marshall,58.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,201949,James Johnson,103.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,202738,Isaiah Thomas,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,203500,Steven Adams,260.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1626195,Willy Hernangomez,125.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1627742,Brandon Ingram,464.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1628366,Lonzo Ball,490.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1628404,Josh Hart,132.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1628411,Wes Iwundu,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1629117,Wenyen Gabriel,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1629627,Zion Williamson,420.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1629637,Jaxson Hayes,89.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1629638,Nickeil Alexander-Walker,137.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1629712,Didi Louzada,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1630184,Kira Lewis Jr.,43.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202339,Eric Bledsoe,1630230,Naji Marshall,75.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,201949,James Johnson,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,202339,Eric Bledsoe,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,203500,Steven Adams,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1626195,Willy Hernangomez,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1627742,Brandon Ingram,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1628366,Lonzo Ball,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1628411,Wes Iwundu,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1629117,Wenyen Gabriel,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1629627,Zion Williamson,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1629637,Jaxson Hayes,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1629638,Nickeil Alexander-Walker,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1630184,Kira Lewis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,202738,Isaiah Thomas,1630230,Naji Marshall,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,201949,James Johnson,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,202339,Eric Bledsoe,368.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,202738,Isaiah Thomas,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1626195,Willy Hernangomez,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1627742,Brandon Ingram,457.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1628366,Lonzo Ball,566.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1628404,Josh Hart,72.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1628411,Wes Iwundu,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1629117,Wenyen Gabriel,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1629627,Zion Williamson,165.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1629637,Jaxson Hayes,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1629638,Nickeil Alexander-Walker,116.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1630184,Kira Lewis Jr.,29.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,203500,Steven Adams,1630230,Naji Marshall,32.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,201949,James Johnson,44.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,202339,Eric Bledsoe,172.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,202738,Isaiah Thomas,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,203500,Steven Adams,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1627742,Brandon Ingram,113.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1628366,Lonzo Ball,273.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1628404,Josh Hart,48.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1628411,Wes Iwundu,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1629117,Wenyen Gabriel,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1629627,Zion Williamson,51.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1629637,Jaxson Hayes,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1629638,Nickeil Alexander-Walker,87.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1629712,Didi Louzada,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1630184,Kira Lewis Jr.,199.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1626195,Willy Hernangomez,1630230,Naji Marshall,67.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,201949,James Johnson,42.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,202339,Eric Bledsoe,389.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,202738,Isaiah Thomas,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,203500,Steven Adams,289.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1626195,Willy Hernangomez,63.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1628366,Lonzo Ball,633.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1628404,Josh Hart,154.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1628411,Wes Iwundu,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1629117,Wenyen Gabriel,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1629627,Zion Williamson,318.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1629637,Jaxson Hayes,50.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1629638,Nickeil Alexander-Walker,130.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1630184,Kira Lewis Jr.,91.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1627742,Brandon Ingram,1630230,Naji Marshall,49.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,201949,James Johnson,84.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,202339,Eric Bledsoe,471.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,202738,Isaiah Thomas,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,203500,Steven Adams,388.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1626195,Willy Hernangomez,153.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1627742,Brandon Ingram,872.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1628404,Josh Hart,172.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1628411,Wes Iwundu,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1629117,Wenyen Gabriel,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1629627,Zion Williamson,704.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1629637,Jaxson Hayes,111.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1629638,Nickeil Alexander-Walker,75.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1630184,Kira Lewis Jr.,61.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628366,Lonzo Ball,1630230,Naji Marshall,60.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,201949,James Johnson,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,202339,Eric Bledsoe,254.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,202738,Isaiah Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,203500,Steven Adams,47.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1626195,Willy Hernangomez,33.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1627742,Brandon Ingram,201.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1628366,Lonzo Ball,251.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1628411,Wes Iwundu,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1629117,Wenyen Gabriel,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1629627,Zion Williamson,142.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1629637,Jaxson Hayes,34.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1629638,Nickeil Alexander-Walker,206.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1630184,Kira Lewis Jr.,149.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628404,Josh Hart,1630230,Naji Marshall,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,201949,James Johnson,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,202339,Eric Bledsoe,22.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,202738,Isaiah Thomas,25.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,203500,Steven Adams,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1626195,Willy Hernangomez,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1627742,Brandon Ingram,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1628366,Lonzo Ball,16.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1628404,Josh Hart,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1629117,Wenyen Gabriel,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1629627,Zion Williamson,16.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1629637,Jaxson Hayes,17.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1629638,Nickeil Alexander-Walker,18.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1630184,Kira Lewis Jr.,47.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1628411,Wes Iwundu,1630230,Naji Marshall,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,201949,James Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,202339,Eric Bledsoe,16.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,202738,Isaiah Thomas,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,203500,Steven Adams,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1626195,Willy Hernangomez,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1627742,Brandon Ingram,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1628366,Lonzo Ball,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1628411,Wes Iwundu,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1629627,Zion Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1629637,Jaxson Hayes,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1629638,Nickeil Alexander-Walker,33.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1629712,Didi Louzada,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1630184,Kira Lewis Jr.,54.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629117,Wenyen Gabriel,1630230,Naji Marshall,21.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,201949,James Johnson,56.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,202339,Eric Bledsoe,534.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,202738,Isaiah Thomas,15.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,203500,Steven Adams,49.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1626195,Willy Hernangomez,22.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1627742,Brandon Ingram,328.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1628366,Lonzo Ball,532.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1628404,Josh Hart,127.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1628411,Wes Iwundu,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1629117,Wenyen Gabriel,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1629637,Jaxson Hayes,39.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1629638,Nickeil Alexander-Walker,153.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1629712,Didi Louzada,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1630184,Kira Lewis Jr.,262.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629627,Zion Williamson,1630230,Naji Marshall,83.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,201949,James Johnson,20.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,202339,Eric Bledsoe,111.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,202738,Isaiah Thomas,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,203500,Steven Adams,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1626195,Willy Hernangomez,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1627742,Brandon Ingram,84.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1628366,Lonzo Ball,122.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1628404,Josh Hart,41.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1628411,Wes Iwundu,13.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1629117,Wenyen Gabriel,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1629627,Zion Williamson,60.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1629638,Nickeil Alexander-Walker,133.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1629712,Didi Louzada,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1630184,Kira Lewis Jr.,156.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629637,Jaxson Hayes,1630230,Naji Marshall,41.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,201949,James Johnson,50.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,202339,Eric Bledsoe,166.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,202738,Isaiah Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,203500,Steven Adams,99.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1626195,Willy Hernangomez,74.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1627742,Brandon Ingram,121.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1628366,Lonzo Ball,80.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1628404,Josh Hart,117.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1628411,Wes Iwundu,11.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1629117,Wenyen Gabriel,31.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1629627,Zion Williamson,186.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1629637,Jaxson Hayes,119.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1629712,Didi Louzada,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1630184,Kira Lewis Jr.,138.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629638,Nickeil Alexander-Walker,1630230,Naji Marshall,29.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,201949,James Johnson,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,202339,Eric Bledsoe,3.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,202738,Isaiah Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,203500,Steven Adams,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1626195,Willy Hernangomez,2.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1627742,Brandon Ingram,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1628366,Lonzo Ball,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1628411,Wes Iwundu,1.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1629117,Wenyen Gabriel,4.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1629627,Zion Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1629637,Jaxson Hayes,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1629638,Nickeil Alexander-Walker,7.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1630184,Kira Lewis Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1629712,Didi Louzada,1630230,Naji Marshall,5.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,201949,James Johnson,47.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,202339,Eric Bledsoe,39.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,202738,Isaiah Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,203500,Steven Adams,30.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1626195,Willy Hernangomez,132.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1627742,Brandon Ingram,101.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1628366,Lonzo Ball,56.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1628404,Josh Hart,105.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1628411,Wes Iwundu,28.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1629117,Wenyen Gabriel,20.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1629627,Zion Williamson,291.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1629637,Jaxson Hayes,170.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1629638,Nickeil Alexander-Walker,138.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1629712,Didi Louzada,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630184,Kira Lewis Jr.,1630230,Naji Marshall,89.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,201949,James Johnson,61.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,202339,Eric Bledsoe,108.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,202738,Isaiah Thomas,8.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,203500,Steven Adams,14.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1626195,Willy Hernangomez,73.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1627742,Brandon Ingram,99.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1628366,Lonzo Ball,94.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1628404,Josh Hart,0.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1628411,Wes Iwundu,10.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1629117,Wenyen Gabriel,9.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1629627,Zion Williamson,119.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1629637,Jaxson Hayes,48.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1629638,Nickeil Alexander-Walker,45.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1629712,Didi Louzada,6.0,True,NBA.com — https://www.nba.com/stats
+NOP,2020-21,Regular Season,1630230,Naji Marshall,1630184,Kira Lewis Jr.,110.0,True,NBA.com — https://www.nba.com/stats

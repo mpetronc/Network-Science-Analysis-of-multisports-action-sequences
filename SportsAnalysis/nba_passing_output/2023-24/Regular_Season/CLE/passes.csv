@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+CLE,2023-24,Regular Season,202684,Tristan Thompson,202694,Marcus Morris Sr.,8.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1627747,Caris LeVert,100.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1627777,Georges Niang,57.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1628378,Donovan Mitchell,62.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1628386,Jarrett Allen,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1629622,Max Strus,51.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1629636,Darius Garland,98.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1629731,Dean Wade,8.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1630171,Isaac Okoro,25.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1630241,Sam Merrill,70.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1630596,Evan Mobley,6.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202684,Tristan Thompson,1641854,Craig Porter Jr.,90.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,202684,Tristan Thompson,4.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1627747,Caris LeVert,27.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1627777,Georges Niang,11.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1628378,Donovan Mitchell,8.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1628386,Jarrett Allen,6.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1629622,Max Strus,6.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1629636,Darius Garland,62.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1629731,Dean Wade,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1630171,Isaac Okoro,6.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1630241,Sam Merrill,14.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1630596,Evan Mobley,5.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,202694,Marcus Morris Sr.,1641854,Craig Porter Jr.,16.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,202684,Tristan Thompson,90.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,202694,Marcus Morris Sr.,25.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1627777,Georges Niang,342.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1628378,Donovan Mitchell,333.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1628386,Jarrett Allen,332.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1629622,Max Strus,212.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1629636,Darius Garland,340.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1629731,Dean Wade,95.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1630171,Isaac Okoro,192.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1630241,Sam Merrill,196.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1630596,Evan Mobley,222.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627747,Caris LeVert,1641854,Craig Porter Jr.,73.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,202684,Tristan Thompson,56.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,202694,Marcus Morris Sr.,18.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1627747,Caris LeVert,411.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1628378,Donovan Mitchell,331.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1628386,Jarrett Allen,109.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1629622,Max Strus,127.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1629636,Darius Garland,508.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1629731,Dean Wade,32.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1630171,Isaac Okoro,144.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1630241,Sam Merrill,126.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1630596,Evan Mobley,75.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1627777,Georges Niang,1641854,Craig Porter Jr.,221.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,202684,Tristan Thompson,27.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,202694,Marcus Morris Sr.,4.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1627747,Caris LeVert,421.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1627777,Georges Niang,186.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1628386,Jarrett Allen,419.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1629622,Max Strus,615.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1629636,Darius Garland,337.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1629731,Dean Wade,175.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1630171,Isaac Okoro,223.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1630241,Sam Merrill,130.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1630596,Evan Mobley,221.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628378,Donovan Mitchell,1641854,Craig Porter Jr.,27.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,202684,Tristan Thompson,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,202694,Marcus Morris Sr.,7.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1627747,Caris LeVert,315.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1627777,Georges Niang,97.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1628378,Donovan Mitchell,694.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1629622,Max Strus,410.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1629636,Darius Garland,576.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1629731,Dean Wade,66.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1630171,Isaac Okoro,162.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1630241,Sam Merrill,86.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1630596,Evan Mobley,103.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1628386,Jarrett Allen,1641854,Craig Porter Jr.,158.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,202684,Tristan Thompson,42.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,202694,Marcus Morris Sr.,10.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1627747,Caris LeVert,285.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1627777,Georges Niang,146.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1628378,Donovan Mitchell,642.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1628386,Jarrett Allen,467.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1629636,Darius Garland,462.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1629731,Dean Wade,117.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1630171,Isaac Okoro,194.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1630241,Sam Merrill,74.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1630596,Evan Mobley,301.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629622,Max Strus,1641854,Craig Porter Jr.,116.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,202684,Tristan Thompson,48.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,202694,Marcus Morris Sr.,36.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1627747,Caris LeVert,455.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1627777,Georges Niang,343.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1628378,Donovan Mitchell,312.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1628386,Jarrett Allen,447.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1629622,Max Strus,393.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1629731,Dean Wade,89.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1630171,Isaac Okoro,259.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1630241,Sam Merrill,157.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1630596,Evan Mobley,463.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629636,Darius Garland,1641854,Craig Porter Jr.,33.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,202684,Tristan Thompson,7.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,202694,Marcus Morris Sr.,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1627747,Caris LeVert,124.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1627777,Georges Niang,42.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1628378,Donovan Mitchell,321.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1628386,Jarrett Allen,92.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1629622,Max Strus,150.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1629636,Darius Garland,168.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1630171,Isaac Okoro,68.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1630241,Sam Merrill,41.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1630596,Evan Mobley,22.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1629731,Dean Wade,1641854,Craig Porter Jr.,91.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,202684,Tristan Thompson,19.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,202694,Marcus Morris Sr.,10.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1627747,Caris LeVert,184.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1627777,Georges Niang,122.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1628378,Donovan Mitchell,253.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1628386,Jarrett Allen,214.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1629622,Max Strus,150.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1629636,Darius Garland,230.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1629731,Dean Wade,74.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1630241,Sam Merrill,53.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1630596,Evan Mobley,103.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630171,Isaac Okoro,1641854,Craig Porter Jr.,53.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,202684,Tristan Thompson,67.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,202694,Marcus Morris Sr.,14.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1627747,Caris LeVert,135.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1627777,Georges Niang,141.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1628378,Donovan Mitchell,110.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1628386,Jarrett Allen,108.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1629622,Max Strus,53.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1629636,Darius Garland,144.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1629731,Dean Wade,28.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1630171,Isaac Okoro,59.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1630596,Evan Mobley,44.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630241,Sam Merrill,1641854,Craig Porter Jr.,140.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,202684,Tristan Thompson,5.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,202694,Marcus Morris Sr.,3.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1627747,Caris LeVert,241.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1627777,Georges Niang,98.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1628378,Donovan Mitchell,378.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1628386,Jarrett Allen,106.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1629622,Max Strus,342.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1629636,Darius Garland,723.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1629731,Dean Wade,26.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1630171,Isaac Okoro,119.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1630241,Sam Merrill,45.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1630596,Evan Mobley,1641854,Craig Porter Jr.,75.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,202684,Tristan Thompson,80.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,202694,Marcus Morris Sr.,17.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1627747,Caris LeVert,134.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1627777,Georges Niang,129.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1628378,Donovan Mitchell,38.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1628386,Jarrett Allen,120.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1629622,Max Strus,127.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1629636,Darius Garland,42.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1629731,Dean Wade,51.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1630171,Isaac Okoro,58.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1630241,Sam Merrill,194.0,True,NBA.com — https://www.nba.com/stats
+CLE,2023-24,Regular Season,1641854,Craig Porter Jr.,1630596,Evan Mobley,57.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,273 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1627732,Ben Simmons,8.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1627827,Dorian Finney-Smith,182.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1628372,Dennis Smith Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1628969,Mikal Bridges,408.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1629022,Lonnie Walker IV,85.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1629651,Nic Claxton,309.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1629661,Cameron Johnson,147.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1629717,Armoni Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1630549,Day'Ron Sharpe,78.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1630560,Cam Thomas,221.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1630570,Trendon Watford,61.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1630592,Jalen Wilson,58.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1631367,Jacob Gilyard,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,203471,Dennis Schröder,1641730,Noah Clowney,46.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,203471,Dennis Schröder,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1627827,Dorian Finney-Smith,102.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1628372,Dennis Smith Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1628969,Mikal Bridges,191.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1629022,Lonnie Walker IV,59.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1629651,Nic Claxton,28.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1629661,Cameron Johnson,31.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1629717,Armoni Brooks,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1630549,Day'Ron Sharpe,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1630560,Cam Thomas,194.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1630570,Trendon Watford,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1630592,Jalen Wilson,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1631367,Jacob Gilyard,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627732,Ben Simmons,1641730,Noah Clowney,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,203471,Dennis Schröder,305.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1627732,Ben Simmons,106.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1628372,Dennis Smith Jr.,132.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1628969,Mikal Bridges,276.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1629022,Lonnie Walker IV,55.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1629651,Nic Claxton,105.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1629661,Cameron Johnson,104.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1629717,Armoni Brooks,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1630549,Day'Ron Sharpe,34.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1630560,Cam Thomas,229.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1630570,Trendon Watford,47.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1630592,Jalen Wilson,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1631367,Jacob Gilyard,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1627827,Dorian Finney-Smith,1641730,Noah Clowney,5.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,203471,Dennis Schröder,66.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1627732,Ben Simmons,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1627827,Dorian Finney-Smith,96.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1628969,Mikal Bridges,227.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1629022,Lonnie Walker IV,162.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1629651,Nic Claxton,156.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1629661,Cameron Johnson,118.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1629717,Armoni Brooks,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1630549,Day'Ron Sharpe,132.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1630553,Keon Johnson,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1630560,Cam Thomas,193.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1630570,Trendon Watford,101.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1630592,Jalen Wilson,41.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1631367,Jacob Gilyard,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1641727,Dariq Whitehead,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628372,Dennis Smith Jr.,1641730,Noah Clowney,23.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,203471,Dennis Schröder,359.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1627732,Ben Simmons,110.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1627827,Dorian Finney-Smith,303.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1628372,Dennis Smith Jr.,206.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1629022,Lonnie Walker IV,89.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1629651,Nic Claxton,318.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1629661,Cameron Johnson,272.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1629717,Armoni Brooks,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1630549,Day'Ron Sharpe,77.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1630560,Cam Thomas,362.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1630570,Trendon Watford,126.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1630592,Jalen Wilson,51.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1631367,Jacob Gilyard,8.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1628969,Mikal Bridges,1641730,Noah Clowney,41.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,203471,Dennis Schröder,66.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1627732,Ben Simmons,24.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1627827,Dorian Finney-Smith,42.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1628372,Dennis Smith Jr.,104.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1628969,Mikal Bridges,78.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1629651,Nic Claxton,40.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1629661,Cameron Johnson,40.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1629717,Armoni Brooks,5.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1630549,Day'Ron Sharpe,26.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1630560,Cam Thomas,77.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1630570,Trendon Watford,83.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1630592,Jalen Wilson,22.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1631367,Jacob Gilyard,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629022,Lonnie Walker IV,1641730,Noah Clowney,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,203471,Dennis Schröder,374.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1627732,Ben Simmons,42.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1627827,Dorian Finney-Smith,77.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1628372,Dennis Smith Jr.,137.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1628969,Mikal Bridges,476.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1629022,Lonnie Walker IV,74.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1629661,Cameron Johnson,185.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1629717,Armoni Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1630549,Day'Ron Sharpe,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1630553,Keon Johnson,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1630560,Cam Thomas,383.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1630570,Trendon Watford,65.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1630592,Jalen Wilson,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1631367,Jacob Gilyard,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629651,Nic Claxton,1641730,Noah Clowney,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,203471,Dennis Schröder,134.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1627732,Ben Simmons,20.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1627827,Dorian Finney-Smith,125.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1628372,Dennis Smith Jr.,76.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1628969,Mikal Bridges,236.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1629022,Lonnie Walker IV,43.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1629651,Nic Claxton,146.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1629717,Armoni Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1630549,Day'Ron Sharpe,65.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1630560,Cam Thomas,121.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1630570,Trendon Watford,43.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1630592,Jalen Wilson,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1631367,Jacob Gilyard,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629661,Cameron Johnson,1641730,Noah Clowney,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,203471,Dennis Schröder,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1627732,Ben Simmons,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1627827,Dorian Finney-Smith,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1628372,Dennis Smith Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1628969,Mikal Bridges,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1629022,Lonnie Walker IV,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1629651,Nic Claxton,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1629661,Cameron Johnson,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1630549,Day'Ron Sharpe,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1630553,Keon Johnson,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1630560,Cam Thomas,8.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1630570,Trendon Watford,25.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1630592,Jalen Wilson,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1631367,Jacob Gilyard,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1641727,Dariq Whitehead,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1629717,Armoni Brooks,1641730,Noah Clowney,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,203471,Dennis Schröder,101.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1627732,Ben Simmons,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1627827,Dorian Finney-Smith,45.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1628372,Dennis Smith Jr.,155.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1628969,Mikal Bridges,142.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1629022,Lonnie Walker IV,83.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1629651,Nic Claxton,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1629661,Cameron Johnson,67.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1629717,Armoni Brooks,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1630553,Keon Johnson,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1630560,Cam Thomas,172.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1630570,Trendon Watford,98.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1630592,Jalen Wilson,27.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1631367,Jacob Gilyard,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1641727,Dariq Whitehead,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630549,Day'Ron Sharpe,1641730,Noah Clowney,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,203471,Dennis Schröder,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1627732,Ben Simmons,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1627827,Dorian Finney-Smith,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1628372,Dennis Smith Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1628969,Mikal Bridges,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1629022,Lonnie Walker IV,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1629651,Nic Claxton,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1629661,Cameron Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1629717,Armoni Brooks,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1630549,Day'Ron Sharpe,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1630560,Cam Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1630570,Trendon Watford,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1630592,Jalen Wilson,11.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1631367,Jacob Gilyard,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1641727,Dariq Whitehead,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630553,Keon Johnson,1641730,Noah Clowney,5.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,203471,Dennis Schröder,204.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1627732,Ben Simmons,129.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1627827,Dorian Finney-Smith,130.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1628372,Dennis Smith Jr.,133.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1628969,Mikal Bridges,335.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1629022,Lonnie Walker IV,94.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1629651,Nic Claxton,239.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1629661,Cameron Johnson,118.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1629717,Armoni Brooks,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1630549,Day'Ron Sharpe,68.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1630570,Trendon Watford,121.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1630592,Jalen Wilson,33.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1631367,Jacob Gilyard,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630560,Cam Thomas,1641730,Noah Clowney,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,203471,Dennis Schröder,81.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1627732,Ben Simmons,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1627827,Dorian Finney-Smith,43.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1628372,Dennis Smith Jr.,125.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1628969,Mikal Bridges,132.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1629022,Lonnie Walker IV,98.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1629651,Nic Claxton,81.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1629661,Cameron Johnson,56.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1629717,Armoni Brooks,38.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1630549,Day'Ron Sharpe,82.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1630553,Keon Johnson,22.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1630560,Cam Thomas,234.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1630592,Jalen Wilson,71.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1631367,Jacob Gilyard,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1641727,Dariq Whitehead,2.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630570,Trendon Watford,1641730,Noah Clowney,44.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,203471,Dennis Schröder,69.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1627732,Ben Simmons,13.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1627827,Dorian Finney-Smith,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1628372,Dennis Smith Jr.,61.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1628969,Mikal Bridges,42.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1629022,Lonnie Walker IV,21.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1629651,Nic Claxton,17.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1629661,Cameron Johnson,14.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1629717,Armoni Brooks,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1630549,Day'Ron Sharpe,22.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1630553,Keon Johnson,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1630560,Cam Thomas,45.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1630570,Trendon Watford,61.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1631367,Jacob Gilyard,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1641727,Dariq Whitehead,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1630592,Jalen Wilson,1641730,Noah Clowney,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,203471,Dennis Schröder,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1627732,Ben Simmons,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1627827,Dorian Finney-Smith,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1628372,Dennis Smith Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1628969,Mikal Bridges,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1629022,Lonnie Walker IV,7.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1629651,Nic Claxton,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1629661,Cameron Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1629717,Armoni Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1630549,Day'Ron Sharpe,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1630553,Keon Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1630560,Cam Thomas,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1630570,Trendon Watford,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1630592,Jalen Wilson,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1631367,Jacob Gilyard,1641730,Noah Clowney,5.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,203471,Dennis Schröder,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1627732,Ben Simmons,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1627827,Dorian Finney-Smith,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1628372,Dennis Smith Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1628969,Mikal Bridges,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1629022,Lonnie Walker IV,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1629651,Nic Claxton,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1629661,Cameron Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1629717,Armoni Brooks,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1630549,Day'Ron Sharpe,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1630553,Keon Johnson,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1630560,Cam Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1630570,Trendon Watford,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1630592,Jalen Wilson,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1631367,Jacob Gilyard,0.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641727,Dariq Whitehead,1641730,Noah Clowney,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,203471,Dennis Schröder,63.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1627732,Ben Simmons,1.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1627827,Dorian Finney-Smith,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1628372,Dennis Smith Jr.,24.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1628969,Mikal Bridges,33.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1629022,Lonnie Walker IV,18.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1629651,Nic Claxton,3.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1629661,Cameron Johnson,8.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1629717,Armoni Brooks,9.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1630549,Day'Ron Sharpe,4.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1630553,Keon Johnson,6.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1630560,Cam Thomas,46.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1630570,Trendon Watford,55.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1630592,Jalen Wilson,18.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1631367,Jacob Gilyard,12.0,True,NBA.com — https://www.nba.com/stats
+BKN,2023-24,Regular Season,1641730,Noah Clowney,1641727,Dariq Whitehead,1.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,463 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+UTA,2025-26,Regular Season,201567,Kevin Love,203994,Jusuf Nurkić,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1628374,Lauri Markkanen,46.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1628991,Jaren Jackson Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1629004,Svi Mykhailiuk,38.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1629723,John Konchar,10.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1631131,Oscar Tshiebwe,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1631246,Vince Williams Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1641718,Keyonte George,201.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1641729,Brice Sensabaugh,71.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1641989,Elijah Harkless,30.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1642262,Cody Williams,33.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1642268,Isaiah Collier,235.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1642271,Kyle Filipowski,31.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1642396,Blake Hinson,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1642846,Ace Bailey,34.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1643016,Bez Mbeng,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,201567,Kevin Love,1643158,Andersson Garcia,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,201567,Kevin Love,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1628374,Lauri Markkanen,208.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1628991,Jaren Jackson Jr.,21.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1629004,Svi Mykhailiuk,146.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1629723,John Konchar,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1631131,Oscar Tshiebwe,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1631246,Vince Williams Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1641718,Keyonte George,653.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1641729,Brice Sensabaugh,87.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1641989,Elijah Harkless,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1642262,Cody Williams,28.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1642268,Isaiah Collier,258.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1642271,Kyle Filipowski,37.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1642396,Blake Hinson,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1642846,Ace Bailey,158.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1643016,Bez Mbeng,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,203994,Jusuf Nurkić,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,201567,Kevin Love,21.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,203994,Jusuf Nurkić,118.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1628991,Jaren Jackson Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1629004,Svi Mykhailiuk,89.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1629723,John Konchar,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1631117,Walker Kessler,15.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1631131,Oscar Tshiebwe,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1631246,Vince Williams Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1641718,Keyonte George,361.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1641729,Brice Sensabaugh,39.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1641989,Elijah Harkless,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1642262,Cody Williams,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1642268,Isaiah Collier,262.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1642271,Kyle Filipowski,46.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1642396,Blake Hinson,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1642846,Ace Bailey,49.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1643016,Bez Mbeng,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628374,Lauri Markkanen,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1628374,Lauri Markkanen,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1629004,Svi Mykhailiuk,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1629723,John Konchar,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1631131,Oscar Tshiebwe,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1641718,Keyonte George,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1641729,Brice Sensabaugh,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1641989,Elijah Harkless,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1642262,Cody Williams,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1642268,Isaiah Collier,14.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1642271,Kyle Filipowski,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1642396,Blake Hinson,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1642846,Ace Bailey,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1643016,Bez Mbeng,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628964,Mo Bamba,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,201567,Kevin Love,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,203994,Jusuf Nurkić,11.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1628374,Lauri Markkanen,10.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1629004,Svi Mykhailiuk,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1629723,John Konchar,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1631131,Oscar Tshiebwe,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1631246,Vince Williams Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1641718,Keyonte George,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1641729,Brice Sensabaugh,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1641989,Elijah Harkless,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1642262,Cody Williams,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1642268,Isaiah Collier,31.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1642271,Kyle Filipowski,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1642396,Blake Hinson,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1642846,Ace Bailey,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1643016,Bez Mbeng,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1628991,Jaren Jackson Jr.,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,201567,Kevin Love,21.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,203994,Jusuf Nurkić,150.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1628374,Lauri Markkanen,83.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1629723,John Konchar,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1631113,Kennedy Chandler,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1631117,Walker Kessler,21.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1631131,Oscar Tshiebwe,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1631246,Vince Williams Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1641718,Keyonte George,309.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1641729,Brice Sensabaugh,51.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1641989,Elijah Harkless,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1642262,Cody Williams,21.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1642268,Isaiah Collier,121.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1642271,Kyle Filipowski,55.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1642396,Blake Hinson,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1642846,Ace Bailey,40.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1643016,Bez Mbeng,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629004,Svi Mykhailiuk,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,201567,Kevin Love,20.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,203994,Jusuf Nurkić,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1628374,Lauri Markkanen,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1628964,Mo Bamba,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1629004,Svi Mykhailiuk,17.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1631113,Kennedy Chandler,141.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1631131,Oscar Tshiebwe,21.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1631246,Vince Williams Jr.,29.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1641718,Keyonte George,31.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1641729,Brice Sensabaugh,72.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1641989,Elijah Harkless,57.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1642262,Cody Williams,127.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1642268,Isaiah Collier,85.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1642271,Kyle Filipowski,54.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1642396,Blake Hinson,30.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1642846,Ace Bailey,59.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1643016,Bez Mbeng,59.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1643060,Hayden Gray,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1629723,John Konchar,1643158,Andersson Garcia,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1628374,Lauri Markkanen,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1629004,Svi Mykhailiuk,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1629723,John Konchar,91.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1631131,Oscar Tshiebwe,49.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1641718,Keyonte George,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1641729,Brice Sensabaugh,78.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1641989,Elijah Harkless,21.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1642262,Cody Williams,105.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1642268,Isaiah Collier,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1642271,Kyle Filipowski,61.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1642396,Blake Hinson,30.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1642846,Ace Bailey,64.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1643016,Bez Mbeng,68.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631113,Kennedy Chandler,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1628374,Lauri Markkanen,39.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1629004,Svi Mykhailiuk,21.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1629723,John Konchar,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1631131,Oscar Tshiebwe,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1641718,Keyonte George,109.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1641729,Brice Sensabaugh,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1641989,Elijah Harkless,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1642262,Cody Williams,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1642268,Isaiah Collier,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1642271,Kyle Filipowski,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1642396,Blake Hinson,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1642846,Ace Bailey,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1643016,Bez Mbeng,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631117,Walker Kessler,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,201567,Kevin Love,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1628374,Lauri Markkanen,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1629004,Svi Mykhailiuk,11.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1629723,John Konchar,33.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1631113,Kennedy Chandler,63.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1631246,Vince Williams Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1641718,Keyonte George,17.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1641729,Brice Sensabaugh,40.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1641989,Elijah Harkless,50.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1642262,Cody Williams,57.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1642268,Isaiah Collier,26.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1642271,Kyle Filipowski,11.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1642396,Blake Hinson,19.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1642846,Ace Bailey,24.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1643016,Bez Mbeng,34.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1643060,Hayden Gray,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631131,Oscar Tshiebwe,1643158,Andersson Garcia,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,201567,Kevin Love,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,203994,Jusuf Nurkić,10.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1628374,Lauri Markkanen,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1628991,Jaren Jackson Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1629004,Svi Mykhailiuk,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1629723,John Konchar,22.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1631131,Oscar Tshiebwe,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1641718,Keyonte George,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1641729,Brice Sensabaugh,20.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1641989,Elijah Harkless,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1642262,Cody Williams,8.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1642268,Isaiah Collier,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1642271,Kyle Filipowski,30.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1642396,Blake Hinson,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1642846,Ace Bailey,18.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1643016,Bez Mbeng,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1631246,Vince Williams Jr.,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,201567,Kevin Love,133.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,203994,Jusuf Nurkić,512.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1628374,Lauri Markkanen,390.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1628964,Mo Bamba,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1628991,Jaren Jackson Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1629004,Svi Mykhailiuk,261.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1629723,John Konchar,14.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1631117,Walker Kessler,82.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1631131,Oscar Tshiebwe,14.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1641729,Brice Sensabaugh,204.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1641989,Elijah Harkless,29.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1642262,Cody Williams,126.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1642268,Isaiah Collier,350.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1642271,Kyle Filipowski,303.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1642396,Blake Hinson,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1642846,Ace Bailey,229.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1643016,Bez Mbeng,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641718,Keyonte George,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,201567,Kevin Love,36.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,203994,Jusuf Nurkić,62.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1628374,Lauri Markkanen,47.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1628964,Mo Bamba,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1628991,Jaren Jackson Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1629004,Svi Mykhailiuk,42.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1629723,John Konchar,54.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1631113,Kennedy Chandler,76.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1631117,Walker Kessler,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1631131,Oscar Tshiebwe,43.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1631246,Vince Williams Jr.,16.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1641718,Keyonte George,195.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1641989,Elijah Harkless,62.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1642262,Cody Williams,136.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1642268,Isaiah Collier,392.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1642271,Kyle Filipowski,154.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1642396,Blake Hinson,23.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1642846,Ace Bailey,77.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1643016,Bez Mbeng,31.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1643060,Hayden Gray,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641729,Brice Sensabaugh,1643158,Andersson Garcia,10.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,201567,Kevin Love,24.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,203994,Jusuf Nurkić,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1628374,Lauri Markkanen,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1628964,Mo Bamba,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1629004,Svi Mykhailiuk,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1629723,John Konchar,22.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1631113,Kennedy Chandler,30.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1631117,Walker Kessler,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1631131,Oscar Tshiebwe,30.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1641718,Keyonte George,42.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1641729,Brice Sensabaugh,91.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1642262,Cody Williams,106.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1642268,Isaiah Collier,29.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1642271,Kyle Filipowski,55.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1642396,Blake Hinson,31.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1642846,Ace Bailey,102.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1643016,Bez Mbeng,39.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1641989,Elijah Harkless,1643158,Andersson Garcia,16.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,201567,Kevin Love,25.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,203994,Jusuf Nurkić,23.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1628374,Lauri Markkanen,20.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1628964,Mo Bamba,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1628991,Jaren Jackson Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1629004,Svi Mykhailiuk,29.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1629723,John Konchar,55.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1631113,Kennedy Chandler,101.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1631117,Walker Kessler,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1631131,Oscar Tshiebwe,44.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1631246,Vince Williams Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1641718,Keyonte George,176.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1641729,Brice Sensabaugh,186.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1641989,Elijah Harkless,102.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1642268,Isaiah Collier,276.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1642271,Kyle Filipowski,155.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1642396,Blake Hinson,34.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1642846,Ace Bailey,135.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1643016,Bez Mbeng,60.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1643060,Hayden Gray,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642262,Cody Williams,1643158,Andersson Garcia,14.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,201567,Kevin Love,175.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,203994,Jusuf Nurkić,204.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1628374,Lauri Markkanen,313.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1628964,Mo Bamba,10.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1628991,Jaren Jackson Jr.,45.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1629004,Svi Mykhailiuk,120.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1629723,John Konchar,44.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1631131,Oscar Tshiebwe,13.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1631246,Vince Williams Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1641718,Keyonte George,487.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1641729,Brice Sensabaugh,435.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1641989,Elijah Harkless,33.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1642262,Cody Williams,207.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1642271,Kyle Filipowski,398.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1642396,Blake Hinson,24.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1642846,Ace Bailey,297.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1643016,Bez Mbeng,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642268,Isaiah Collier,1643158,Andersson Garcia,15.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,201567,Kevin Love,32.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,203994,Jusuf Nurkić,33.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1628374,Lauri Markkanen,71.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1628991,Jaren Jackson Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1629004,Svi Mykhailiuk,72.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1629723,John Konchar,61.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1631113,Kennedy Chandler,59.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1631117,Walker Kessler,11.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1631131,Oscar Tshiebwe,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1631246,Vince Williams Jr.,23.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1641718,Keyonte George,413.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1641729,Brice Sensabaugh,175.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1641989,Elijah Harkless,69.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1642262,Cody Williams,191.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1642268,Isaiah Collier,574.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1642396,Blake Hinson,17.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1642846,Ace Bailey,187.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1643016,Bez Mbeng,19.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642271,Kyle Filipowski,1643158,Andersson Garcia,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,201567,Kevin Love,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1628374,Lauri Markkanen,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1629004,Svi Mykhailiuk,4.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1629723,John Konchar,8.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1631113,Kennedy Chandler,17.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1631131,Oscar Tshiebwe,12.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1631246,Vince Williams Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1641718,Keyonte George,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1641729,Brice Sensabaugh,25.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1641989,Elijah Harkless,27.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1642262,Cody Williams,33.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1642268,Isaiah Collier,32.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1642271,Kyle Filipowski,13.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1642846,Ace Bailey,16.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1643016,Bez Mbeng,20.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1643060,Hayden Gray,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642396,Blake Hinson,1643158,Andersson Garcia,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,201567,Kevin Love,30.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,203994,Jusuf Nurkić,122.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1628374,Lauri Markkanen,40.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1628964,Mo Bamba,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1628991,Jaren Jackson Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1629004,Svi Mykhailiuk,43.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1629723,John Konchar,47.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1631113,Kennedy Chandler,65.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1631117,Walker Kessler,8.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1631131,Oscar Tshiebwe,11.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1631246,Vince Williams Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1641718,Keyonte George,192.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1641729,Brice Sensabaugh,97.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1641989,Elijah Harkless,73.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1642262,Cody Williams,82.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1642268,Isaiah Collier,214.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1642271,Kyle Filipowski,112.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1642396,Blake Hinson,12.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1643016,Bez Mbeng,36.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1643060,Hayden Gray,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1642846,Ace Bailey,1643158,Andersson Garcia,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,201567,Kevin Love,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1628374,Lauri Markkanen,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1629004,Svi Mykhailiuk,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1629723,John Konchar,47.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1631113,Kennedy Chandler,75.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1631131,Oscar Tshiebwe,33.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1641718,Keyonte George,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1641729,Brice Sensabaugh,40.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1641989,Elijah Harkless,53.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1642262,Cody Williams,79.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1642268,Isaiah Collier,18.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1642271,Kyle Filipowski,26.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1642396,Blake Hinson,14.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1642846,Ace Bailey,48.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1643060,Hayden Gray,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643016,Bez Mbeng,1643158,Andersson Garcia,22.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,201567,Kevin Love,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1628374,Lauri Markkanen,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1629004,Svi Mykhailiuk,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1629723,John Konchar,2.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1631131,Oscar Tshiebwe,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1641718,Keyonte George,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1641729,Brice Sensabaugh,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1641989,Elijah Harkless,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1642262,Cody Williams,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1642268,Isaiah Collier,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1642271,Kyle Filipowski,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1642396,Blake Hinson,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1642846,Ace Bailey,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1643016,Bez Mbeng,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643060,Hayden Gray,1643158,Andersson Garcia,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,201567,Kevin Love,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,203994,Jusuf Nurkić,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1628374,Lauri Markkanen,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1628964,Mo Bamba,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1629004,Svi Mykhailiuk,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1629723,John Konchar,1.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1631113,Kennedy Chandler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1631117,Walker Kessler,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1631131,Oscar Tshiebwe,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1641718,Keyonte George,0.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1641729,Brice Sensabaugh,18.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1641989,Elijah Harkless,35.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1642262,Cody Williams,30.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1642268,Isaiah Collier,35.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1642271,Kyle Filipowski,5.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1642396,Blake Hinson,6.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1642846,Ace Bailey,3.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1643016,Bez Mbeng,19.0,True,NBA.com — https://www.nba.com/stats
+UTA,2025-26,Regular Season,1643158,Andersson Garcia,1643060,Hayden Gray,0.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,273 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,203914,Gary Harris,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1628371,Jonathan Isaac,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1628976,Wendell Carter Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1629021,Moritz Wagner,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1629048,Goga Bitadze,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1629626,Bol Bol,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1629643,Chuma Okeke,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1629678,Admiral Schofield,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1630175,Cole Anthony,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1630206,Jay Scrubb,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1630284,Kevon Harris,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1630532,Franz Wagner,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1630591,Jalen Suggs,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1631094,Paolo Banchero,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203487,Michael Carter-Williams,1631216,Caleb Houstan,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1628365,Markelle Fultz,184.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1628371,Jonathan Isaac,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1628976,Wendell Carter Jr.,107.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1629021,Moritz Wagner,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1629048,Goga Bitadze,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1629626,Bol Bol,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1629643,Chuma Okeke,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1629678,Admiral Schofield,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1630175,Cole Anthony,32.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1630284,Kevon Harris,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1630532,Franz Wagner,99.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1630591,Jalen Suggs,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1631094,Paolo Banchero,139.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,203914,Gary Harris,1631216,Caleb Houstan,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,203914,Gary Harris,268.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1628371,Jonathan Isaac,31.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1628976,Wendell Carter Jr.,541.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1629021,Moritz Wagner,225.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1629048,Goga Bitadze,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1629626,Bol Bol,91.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1629643,Chuma Okeke,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1629678,Admiral Schofield,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1630175,Cole Anthony,136.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1630284,Kevon Harris,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1630532,Franz Wagner,532.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1630591,Jalen Suggs,112.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1631094,Paolo Banchero,904.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628365,Markelle Fultz,1631216,Caleb Houstan,20.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,203914,Gary Harris,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1628365,Markelle Fultz,55.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1628976,Wendell Carter Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1629021,Moritz Wagner,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1629048,Goga Bitadze,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1629626,Bol Bol,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1629678,Admiral Schofield,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1630175,Cole Anthony,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1630284,Kevon Harris,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1630532,Franz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1630591,Jalen Suggs,20.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1631094,Paolo Banchero,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628371,Jonathan Isaac,1631216,Caleb Houstan,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,203487,Michael Carter-Williams,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,203914,Gary Harris,145.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1628365,Markelle Fultz,603.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1628371,Jonathan Isaac,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1629021,Moritz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1629048,Goga Bitadze,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1629626,Bol Bol,45.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1629643,Chuma Okeke,27.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1629678,Admiral Schofield,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1630175,Cole Anthony,182.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1630284,Kevon Harris,15.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1630532,Franz Wagner,365.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1630591,Jalen Suggs,163.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1631094,Paolo Banchero,454.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1628976,Wendell Carter Jr.,1631216,Caleb Houstan,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,203487,Michael Carter-Williams,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,203914,Gary Harris,26.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1628365,Markelle Fultz,311.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1628371,Jonathan Isaac,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1629048,Goga Bitadze,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1629626,Bol Bol,74.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1629643,Chuma Okeke,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1629678,Admiral Schofield,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1630175,Cole Anthony,315.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1630206,Jay Scrubb,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1630284,Kevon Harris,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1630532,Franz Wagner,230.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1630591,Jalen Suggs,141.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1631094,Paolo Banchero,182.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629021,Moritz Wagner,1631216,Caleb Houstan,31.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,203487,Michael Carter-Williams,16.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,203914,Gary Harris,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1628365,Markelle Fultz,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1628371,Jonathan Isaac,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1629021,Moritz Wagner,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1629626,Bol Bol,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1629643,Chuma Okeke,16.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1629678,Admiral Schofield,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1630175,Cole Anthony,86.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1630206,Jay Scrubb,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1630284,Kevon Harris,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1630532,Franz Wagner,43.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1630591,Jalen Suggs,42.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1631094,Paolo Banchero,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629048,Goga Bitadze,1631216,Caleb Houstan,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,203487,Michael Carter-Williams,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,203914,Gary Harris,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1628365,Markelle Fultz,102.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1628371,Jonathan Isaac,2.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1628976,Wendell Carter Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1629021,Moritz Wagner,50.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1629048,Goga Bitadze,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1629643,Chuma Okeke,49.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1629678,Admiral Schofield,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1630175,Cole Anthony,129.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1630206,Jay Scrubb,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1630284,Kevon Harris,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1630532,Franz Wagner,181.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1630591,Jalen Suggs,159.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1631094,Paolo Banchero,128.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629626,Bol Bol,1631216,Caleb Houstan,16.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,203487,Michael Carter-Williams,14.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,203914,Gary Harris,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1628365,Markelle Fultz,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1628371,Jonathan Isaac,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1628976,Wendell Carter Jr.,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1629021,Moritz Wagner,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1629048,Goga Bitadze,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1629626,Bol Bol,48.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1629678,Admiral Schofield,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1630175,Cole Anthony,21.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1630206,Jay Scrubb,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1630284,Kevon Harris,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1630532,Franz Wagner,77.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1630591,Jalen Suggs,118.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1631094,Paolo Banchero,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629643,Chuma Okeke,1631216,Caleb Houstan,24.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,203487,Michael Carter-Williams,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,203914,Gary Harris,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1628365,Markelle Fultz,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1628371,Jonathan Isaac,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1628976,Wendell Carter Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1629021,Moritz Wagner,7.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1629048,Goga Bitadze,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1629626,Bol Bol,28.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1629643,Chuma Okeke,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1630175,Cole Anthony,128.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1630206,Jay Scrubb,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1630284,Kevon Harris,40.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1630532,Franz Wagner,85.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1630591,Jalen Suggs,42.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1631094,Paolo Banchero,26.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1629678,Admiral Schofield,1631216,Caleb Houstan,23.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,203914,Gary Harris,43.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1628365,Markelle Fultz,190.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1628371,Jonathan Isaac,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1628976,Wendell Carter Jr.,145.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1629021,Moritz Wagner,296.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1629048,Goga Bitadze,70.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1629626,Bol Bol,129.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1629643,Chuma Okeke,14.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1629678,Admiral Schofield,69.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1630284,Kevon Harris,22.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1630532,Franz Wagner,495.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1630591,Jalen Suggs,189.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1631094,Paolo Banchero,307.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630175,Cole Anthony,1631216,Caleb Houstan,57.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,203487,Michael Carter-Williams,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,203914,Gary Harris,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1628365,Markelle Fultz,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1628371,Jonathan Isaac,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1628976,Wendell Carter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1629021,Moritz Wagner,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1629048,Goga Bitadze,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1629626,Bol Bol,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1629643,Chuma Okeke,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1629678,Admiral Schofield,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1630175,Cole Anthony,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1630284,Kevon Harris,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1630532,Franz Wagner,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1630591,Jalen Suggs,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1631094,Paolo Banchero,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630206,Jay Scrubb,1631216,Caleb Houstan,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,203487,Michael Carter-Williams,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,203914,Gary Harris,3.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1628365,Markelle Fultz,15.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1628371,Jonathan Isaac,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1628976,Wendell Carter Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1629021,Moritz Wagner,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1629048,Goga Bitadze,9.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1629626,Bol Bol,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1629643,Chuma Okeke,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1629678,Admiral Schofield,32.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1630175,Cole Anthony,33.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1630206,Jay Scrubb,4.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1630532,Franz Wagner,27.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1630591,Jalen Suggs,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1631094,Paolo Banchero,32.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630284,Kevon Harris,1631216,Caleb Houstan,20.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,203487,Michael Carter-Williams,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,203914,Gary Harris,103.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1628365,Markelle Fultz,347.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1628371,Jonathan Isaac,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1628976,Wendell Carter Jr.,421.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1629021,Moritz Wagner,225.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1629048,Goga Bitadze,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1629626,Bol Bol,133.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1629643,Chuma Okeke,40.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1629678,Admiral Schofield,57.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1630175,Cole Anthony,386.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1630284,Kevon Harris,21.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1630591,Jalen Suggs,200.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1631094,Paolo Banchero,430.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630532,Franz Wagner,1631216,Caleb Houstan,54.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,203914,Gary Harris,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1628365,Markelle Fultz,133.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1628371,Jonathan Isaac,11.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1628976,Wendell Carter Jr.,164.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1629021,Moritz Wagner,127.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1629048,Goga Bitadze,29.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1629626,Bol Bol,128.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1629643,Chuma Okeke,65.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1629678,Admiral Schofield,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1630175,Cole Anthony,223.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1630206,Jay Scrubb,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1630284,Kevon Harris,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1630532,Franz Wagner,309.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1631094,Paolo Banchero,189.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1630591,Jalen Suggs,1631216,Caleb Houstan,32.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,203487,Michael Carter-Williams,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,203914,Gary Harris,140.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1628365,Markelle Fultz,985.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1628371,Jonathan Isaac,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1628976,Wendell Carter Jr.,316.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1629021,Moritz Wagner,160.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1629048,Goga Bitadze,13.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1629626,Bol Bol,111.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1629643,Chuma Okeke,17.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1629678,Admiral Schofield,12.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1630175,Cole Anthony,266.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1630206,Jay Scrubb,0.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1630284,Kevon Harris,42.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1630532,Franz Wagner,514.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1630591,Jalen Suggs,156.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631094,Paolo Banchero,1631216,Caleb Houstan,25.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,203487,Michael Carter-Williams,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,203914,Gary Harris,10.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1628365,Markelle Fultz,30.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1628371,Jonathan Isaac,1.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1628976,Wendell Carter Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1629021,Moritz Wagner,35.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1629048,Goga Bitadze,6.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1629626,Bol Bol,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1629643,Chuma Okeke,19.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1629678,Admiral Schofield,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1630175,Cole Anthony,89.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1630206,Jay Scrubb,5.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1630284,Kevon Harris,18.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1630532,Franz Wagner,61.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1630591,Jalen Suggs,41.0,True,NBA.com — https://www.nba.com/stats
+ORL,2022-23,Regular Season,1631216,Caleb Houstan,1631094,Paolo Banchero,37.0,True,NBA.com — https://www.nba.com/stats

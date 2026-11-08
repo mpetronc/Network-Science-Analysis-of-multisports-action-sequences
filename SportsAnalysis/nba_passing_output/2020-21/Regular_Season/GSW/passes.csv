@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+GSW,2020-21,Regular Season,201939,Stephen Curry,203110,Draymond Green,926.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,203145,Kent Bazemore,282.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,203952,Andrew Wiggins,534.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1626162,Kelly Oubre Jr.,349.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1626172,Kevon Looney,290.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1627737,Marquese Chriss,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1627814,Damion Lee,123.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1628539,Mychal Mulder,85.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1629308,Juan Toscano-Anderson,284.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1629672,Eric Paschall,97.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1629673,Jordan Poole,63.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1630164,James Wiseman,170.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,201939,Stephen Curry,1630185,Nico Mannion,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,201939,Stephen Curry,1829.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,203145,Kent Bazemore,235.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,203952,Andrew Wiggins,595.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1626162,Kelly Oubre Jr.,312.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1626172,Kevon Looney,168.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1627737,Marquese Chriss,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1627814,Damion Lee,81.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1628539,Mychal Mulder,85.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1629308,Juan Toscano-Anderson,206.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1629672,Eric Paschall,27.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1629673,Jordan Poole,213.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1630164,James Wiseman,152.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203110,Draymond Green,1630185,Nico Mannion,19.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,201939,Stephen Curry,343.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,203110,Draymond Green,259.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,203952,Andrew Wiggins,170.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1626162,Kelly Oubre Jr.,39.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1626172,Kevon Looney,138.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1627737,Marquese Chriss,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1627814,Damion Lee,75.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1628395,Jordan Bell,4.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1628539,Mychal Mulder,30.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1629308,Juan Toscano-Anderson,77.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1629672,Eric Paschall,100.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1629673,Jordan Poole,114.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1630164,James Wiseman,37.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203145,Kent Bazemore,1630185,Nico Mannion,43.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,201939,Stephen Curry,305.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,203110,Draymond Green,457.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,203145,Kent Bazemore,134.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1626162,Kelly Oubre Jr.,123.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1626172,Kevon Looney,151.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1627737,Marquese Chriss,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1627814,Damion Lee,113.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1628539,Mychal Mulder,47.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1629308,Juan Toscano-Anderson,170.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1629672,Eric Paschall,98.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1629673,Jordan Poole,134.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1630164,James Wiseman,106.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,203952,Andrew Wiggins,1630185,Nico Mannion,41.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,201939,Stephen Curry,299.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,203110,Draymond Green,266.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,203145,Kent Bazemore,33.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,203952,Andrew Wiggins,126.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1626172,Kevon Looney,51.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1627737,Marquese Chriss,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1627814,Damion Lee,55.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1628539,Mychal Mulder,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1629308,Juan Toscano-Anderson,79.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1629672,Eric Paschall,41.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1629673,Jordan Poole,83.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1630164,James Wiseman,70.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626162,Kelly Oubre Jr.,1630185,Nico Mannion,41.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,201939,Stephen Curry,345.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,203110,Draymond Green,314.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,203145,Kent Bazemore,157.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,203952,Andrew Wiggins,191.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1626162,Kelly Oubre Jr.,80.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1627737,Marquese Chriss,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1627814,Damion Lee,52.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1628539,Mychal Mulder,38.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1629308,Juan Toscano-Anderson,73.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1629672,Eric Paschall,34.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1629673,Jordan Poole,190.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1630164,James Wiseman,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1626172,Kevon Looney,1630185,Nico Mannion,45.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,201939,Stephen Curry,6.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,203110,Draymond Green,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,203145,Kent Bazemore,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,203952,Andrew Wiggins,6.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1626162,Kelly Oubre Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1626172,Kevon Looney,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1627814,Damion Lee,4.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1628539,Mychal Mulder,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1629308,Juan Toscano-Anderson,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1629672,Eric Paschall,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1629673,Jordan Poole,7.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1630164,James Wiseman,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627737,Marquese Chriss,1630185,Nico Mannion,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,201939,Stephen Curry,184.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,203110,Draymond Green,118.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,203145,Kent Bazemore,103.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,203952,Andrew Wiggins,128.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1626162,Kelly Oubre Jr.,92.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1626172,Kevon Looney,44.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1627737,Marquese Chriss,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1628539,Mychal Mulder,20.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1629308,Juan Toscano-Anderson,62.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1629672,Eric Paschall,100.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1629673,Jordan Poole,99.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1630164,James Wiseman,42.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1627814,Damion Lee,1630185,Nico Mannion,78.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,201939,Stephen Curry,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,203110,Draymond Green,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,203145,Kent Bazemore,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,203952,Andrew Wiggins,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1626162,Kelly Oubre Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1626172,Kevon Looney,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1627737,Marquese Chriss,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1627814,Damion Lee,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1628539,Mychal Mulder,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1629308,Juan Toscano-Anderson,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1629672,Eric Paschall,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1629673,Jordan Poole,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1630164,James Wiseman,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628395,Jordan Bell,1630185,Nico Mannion,13.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,201939,Stephen Curry,56.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,203110,Draymond Green,53.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,203145,Kent Bazemore,22.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,203952,Andrew Wiggins,33.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1626162,Kelly Oubre Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1626172,Kevon Looney,29.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1627737,Marquese Chriss,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1627814,Damion Lee,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1628395,Jordan Bell,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1629308,Juan Toscano-Anderson,52.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1629672,Eric Paschall,26.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1629673,Jordan Poole,36.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1630164,James Wiseman,11.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1628539,Mychal Mulder,1630185,Nico Mannion,28.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,201939,Stephen Curry,475.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,203110,Draymond Green,295.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,203145,Kent Bazemore,126.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,203952,Andrew Wiggins,208.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1626162,Kelly Oubre Jr.,94.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1626172,Kevon Looney,47.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1627737,Marquese Chriss,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1627814,Damion Lee,76.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1628539,Mychal Mulder,85.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1629672,Eric Paschall,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1629673,Jordan Poole,272.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1630164,James Wiseman,27.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629308,Juan Toscano-Anderson,1630185,Nico Mannion,131.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,201939,Stephen Curry,97.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,203110,Draymond Green,33.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,203145,Kent Bazemore,74.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,203952,Andrew Wiggins,98.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1626162,Kelly Oubre Jr.,48.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1626172,Kevon Looney,12.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1627737,Marquese Chriss,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1627814,Damion Lee,91.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1628539,Mychal Mulder,21.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1629308,Juan Toscano-Anderson,19.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1629673,Jordan Poole,49.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1630164,James Wiseman,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629672,Eric Paschall,1630185,Nico Mannion,40.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,201939,Stephen Curry,50.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,203110,Draymond Green,136.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,203145,Kent Bazemore,75.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,203952,Andrew Wiggins,157.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1626162,Kelly Oubre Jr.,111.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1626172,Kevon Looney,133.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1627737,Marquese Chriss,7.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1627814,Damion Lee,68.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1628395,Jordan Bell,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1628539,Mychal Mulder,61.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1629308,Juan Toscano-Anderson,155.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1629672,Eric Paschall,48.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1630164,James Wiseman,63.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1629673,Jordan Poole,1630185,Nico Mannion,91.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,201939,Stephen Curry,241.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,203110,Draymond Green,179.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,203145,Kent Bazemore,29.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,203952,Andrew Wiggins,73.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1626162,Kelly Oubre Jr.,46.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1626172,Kevon Looney,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1627737,Marquese Chriss,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1627814,Damion Lee,32.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1628395,Jordan Bell,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1628539,Mychal Mulder,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1629308,Juan Toscano-Anderson,43.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1629672,Eric Paschall,19.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1629673,Jordan Poole,61.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630164,James Wiseman,1630185,Nico Mannion,84.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,201939,Stephen Curry,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,203110,Draymond Green,21.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,203145,Kent Bazemore,30.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,203952,Andrew Wiggins,41.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1626162,Kelly Oubre Jr.,38.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1626172,Kevon Looney,44.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1627737,Marquese Chriss,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1627814,Damion Lee,59.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1628395,Jordan Bell,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1628539,Mychal Mulder,56.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1629308,Juan Toscano-Anderson,76.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1629672,Eric Paschall,37.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1629673,Jordan Poole,167.0,True,NBA.com — https://www.nba.com/stats
+GSW,2020-21,Regular Season,1630185,Nico Mannion,1630164,James Wiseman,49.0,True,NBA.com — https://www.nba.com/stats

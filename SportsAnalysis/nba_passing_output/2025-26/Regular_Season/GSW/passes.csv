@@ -1,0 +1,343 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+GSW,2025-26,Regular Season,201143,Al Horford,201939,Stephen Curry,148.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,202710,Jimmy Butler III,126.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,203110,Draymond Green,119.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,203552,Seth Curry,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,204001,Kristaps Porziņģis,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1627780,Gary Payton II,66.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1629001,De'Anthony Melton,178.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1630209,Omer Yurtseven,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1630311,Pat Spencer,128.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1630541,Moses Moody,107.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1630611,Gui Santos,109.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1631466,Nate Williams,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1641764,Brandin Podziemski,357.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1642366,Quinten Post,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1642502,Malevy Leons,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1642954,Will Richard,84.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201143,Al Horford,1643018,LJ Cryer,12.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,201143,Al Horford,92.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,202710,Jimmy Butler III,183.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,203110,Draymond Green,395.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,203552,Seth Curry,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,204001,Kristaps Porziņģis,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1627780,Gary Payton II,159.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1629001,De'Anthony Melton,80.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1629646,Charles Bassey,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1630209,Omer Yurtseven,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1630311,Pat Spencer,21.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1630541,Moses Moody,110.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1630611,Gui Santos,49.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1631466,Nate Williams,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1641764,Brandin Podziemski,184.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1642366,Quinten Post,122.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1642502,Malevy Leons,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1642954,Will Richard,74.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,201939,Stephen Curry,1643018,LJ Cryer,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,201143,Al Horford,121.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,201939,Stephen Curry,214.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,203110,Draymond Green,320.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,203552,Seth Curry,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,204001,Kristaps Porziņģis,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1627780,Gary Payton II,56.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1629001,De'Anthony Melton,75.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1630209,Omer Yurtseven,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1630311,Pat Spencer,79.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1630541,Moses Moody,145.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1630611,Gui Santos,22.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1631466,Nate Williams,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1641764,Brandin Podziemski,245.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1642366,Quinten Post,151.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1642502,Malevy Leons,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1642954,Will Richard,79.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,202710,Jimmy Butler III,1643018,LJ Cryer,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,201143,Al Horford,93.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,201939,Stephen Curry,806.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,202710,Jimmy Butler III,374.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,203552,Seth Curry,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,204001,Kristaps Porziņģis,64.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1627780,Gary Payton II,183.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1629001,De'Anthony Melton,308.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1629646,Charles Bassey,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1630209,Omer Yurtseven,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1630311,Pat Spencer,251.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1630541,Moses Moody,219.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1630611,Gui Santos,258.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1631466,Nate Williams,12.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1641764,Brandin Podziemski,688.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1642366,Quinten Post,142.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1642502,Malevy Leons,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1642954,Will Richard,131.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203110,Draymond Green,1643018,LJ Cryer,114.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,201143,Al Horford,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,201939,Stephen Curry,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,202710,Jimmy Butler III,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,203110,Draymond Green,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,204001,Kristaps Porziņģis,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1627780,Gary Payton II,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1629001,De'Anthony Melton,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1629646,Charles Bassey,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1630209,Omer Yurtseven,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1630311,Pat Spencer,35.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1630541,Moses Moody,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1630611,Gui Santos,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1631466,Nate Williams,6.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1641764,Brandin Podziemski,11.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1642366,Quinten Post,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1642502,Malevy Leons,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1642954,Will Richard,7.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,203552,Seth Curry,1643018,LJ Cryer,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,201143,Al Horford,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,201939,Stephen Curry,21.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,202710,Jimmy Butler III,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,203110,Draymond Green,71.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,203552,Seth Curry,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1627780,Gary Payton II,21.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1629001,De'Anthony Melton,58.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1630209,Omer Yurtseven,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1630311,Pat Spencer,47.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1630541,Moses Moody,6.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1630611,Gui Santos,53.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1631466,Nate Williams,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1641764,Brandin Podziemski,107.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1642366,Quinten Post,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1642502,Malevy Leons,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1642954,Will Richard,17.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,204001,Kristaps Porziņģis,1643018,LJ Cryer,19.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,201143,Al Horford,66.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,201939,Stephen Curry,204.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,202710,Jimmy Butler III,64.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,203110,Draymond Green,195.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,203552,Seth Curry,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,204001,Kristaps Porziņģis,38.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1629001,De'Anthony Melton,105.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1629646,Charles Bassey,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1630209,Omer Yurtseven,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1630311,Pat Spencer,214.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1630541,Moses Moody,63.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1630611,Gui Santos,107.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1631466,Nate Williams,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1641764,Brandin Podziemski,253.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1642366,Quinten Post,59.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1642502,Malevy Leons,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1642954,Will Richard,62.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1627780,Gary Payton II,1643018,LJ Cryer,25.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,201143,Al Horford,151.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,201939,Stephen Curry,107.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,202710,Jimmy Butler III,107.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,203110,Draymond Green,283.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,203552,Seth Curry,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,204001,Kristaps Porziņģis,69.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1627780,Gary Payton II,77.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1629646,Charles Bassey,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1630209,Omer Yurtseven,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1630311,Pat Spencer,152.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1630541,Moses Moody,67.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1630611,Gui Santos,146.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1631466,Nate Williams,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1641764,Brandin Podziemski,287.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1642366,Quinten Post,71.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1642502,Malevy Leons,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1642954,Will Richard,72.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629001,De'Anthony Melton,1643018,LJ Cryer,6.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,201143,Al Horford,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,201939,Stephen Curry,14.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,202710,Jimmy Butler III,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,203110,Draymond Green,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,203552,Seth Curry,12.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,204001,Kristaps Porziņģis,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1627780,Gary Payton II,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1629001,De'Anthony Melton,6.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1630209,Omer Yurtseven,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1630311,Pat Spencer,54.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1630541,Moses Moody,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1630611,Gui Santos,7.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1631466,Nate Williams,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1641764,Brandin Podziemski,29.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1642366,Quinten Post,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1642502,Malevy Leons,12.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1642954,Will Richard,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1629646,Charles Bassey,1643018,LJ Cryer,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,201143,Al Horford,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,201939,Stephen Curry,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,202710,Jimmy Butler III,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,203110,Draymond Green,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,203552,Seth Curry,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,204001,Kristaps Porziņģis,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1627780,Gary Payton II,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1629001,De'Anthony Melton,4.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1630311,Pat Spencer,56.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1630541,Moses Moody,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1630611,Gui Santos,22.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1631466,Nate Williams,11.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1641764,Brandin Podziemski,13.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1642366,Quinten Post,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1642502,Malevy Leons,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1642954,Will Richard,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630209,Omer Yurtseven,1643018,LJ Cryer,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,201143,Al Horford,134.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,201939,Stephen Curry,23.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,202710,Jimmy Butler III,89.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,203110,Draymond Green,204.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,203552,Seth Curry,40.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,204001,Kristaps Porziņģis,67.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1627780,Gary Payton II,174.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1629001,De'Anthony Melton,150.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1629646,Charles Bassey,31.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1630209,Omer Yurtseven,37.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1630541,Moses Moody,111.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1630611,Gui Santos,248.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1631466,Nate Williams,62.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1641764,Brandin Podziemski,220.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1642366,Quinten Post,187.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1642502,Malevy Leons,74.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1642954,Will Richard,140.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630311,Pat Spencer,1643018,LJ Cryer,78.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,201143,Al Horford,96.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,201939,Stephen Curry,70.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,202710,Jimmy Butler III,95.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,203110,Draymond Green,220.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,203552,Seth Curry,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,204001,Kristaps Porziņģis,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1627780,Gary Payton II,49.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1629001,De'Anthony Melton,69.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1630209,Omer Yurtseven,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1630311,Pat Spencer,85.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1630611,Gui Santos,52.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1631466,Nate Williams,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1641764,Brandin Podziemski,196.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1642366,Quinten Post,93.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1642502,Malevy Leons,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1642954,Will Richard,45.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630541,Moses Moody,1643018,LJ Cryer,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,201143,Al Horford,118.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,201939,Stephen Curry,93.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,202710,Jimmy Butler III,20.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,203110,Draymond Green,263.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,203552,Seth Curry,11.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,204001,Kristaps Porziņģis,68.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1627780,Gary Payton II,100.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1629001,De'Anthony Melton,186.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1629646,Charles Bassey,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1630209,Omer Yurtseven,16.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1630311,Pat Spencer,269.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1630541,Moses Moody,73.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1631466,Nate Williams,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1641764,Brandin Podziemski,380.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1642366,Quinten Post,83.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1642502,Malevy Leons,18.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1642954,Will Richard,76.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1630611,Gui Santos,1643018,LJ Cryer,57.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,201143,Al Horford,4.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,201939,Stephen Curry,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,202710,Jimmy Butler III,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,203110,Draymond Green,16.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,203552,Seth Curry,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,204001,Kristaps Porziņģis,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1627780,Gary Payton II,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1629001,De'Anthony Melton,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1629646,Charles Bassey,4.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1630209,Omer Yurtseven,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1630311,Pat Spencer,36.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1630541,Moses Moody,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1630611,Gui Santos,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1641764,Brandin Podziemski,11.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1642366,Quinten Post,4.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1642502,Malevy Leons,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1642954,Will Richard,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1631466,Nate Williams,1643018,LJ Cryer,12.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,201143,Al Horford,284.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,201939,Stephen Curry,233.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,202710,Jimmy Butler III,299.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,203110,Draymond Green,542.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,203552,Seth Curry,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,204001,Kristaps Porziņģis,101.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1627780,Gary Payton II,212.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1629001,De'Anthony Melton,280.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1629646,Charles Bassey,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1630209,Omer Yurtseven,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1630311,Pat Spencer,204.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1630541,Moses Moody,295.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1630611,Gui Santos,368.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1631466,Nate Williams,25.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1642366,Quinten Post,243.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1642502,Malevy Leons,34.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1642954,Will Richard,185.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1641764,Brandin Podziemski,1643018,LJ Cryer,65.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,201143,Al Horford,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,201939,Stephen Curry,167.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,202710,Jimmy Butler III,152.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,203110,Draymond Green,219.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,203552,Seth Curry,6.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,204001,Kristaps Porziņģis,1.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1627780,Gary Payton II,57.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1629001,De'Anthony Melton,112.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1629646,Charles Bassey,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1630209,Omer Yurtseven,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1630311,Pat Spencer,217.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1630541,Moses Moody,98.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1630611,Gui Santos,87.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1631466,Nate Williams,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1641764,Brandin Podziemski,255.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1642502,Malevy Leons,6.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1642954,Will Richard,74.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642366,Quinten Post,1643018,LJ Cryer,11.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,201143,Al Horford,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,201939,Stephen Curry,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,202710,Jimmy Butler III,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,203110,Draymond Green,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,203552,Seth Curry,13.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,204001,Kristaps Porziņģis,3.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1627780,Gary Payton II,4.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1629001,De'Anthony Melton,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1629646,Charles Bassey,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1630209,Omer Yurtseven,9.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1630311,Pat Spencer,88.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1630541,Moses Moody,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1630611,Gui Santos,26.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1631466,Nate Williams,13.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1641764,Brandin Podziemski,36.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1642366,Quinten Post,10.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1642954,Will Richard,18.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642502,Malevy Leons,1643018,LJ Cryer,24.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,201143,Al Horford,59.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,201939,Stephen Curry,68.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,202710,Jimmy Butler III,97.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,203110,Draymond Green,124.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,203552,Seth Curry,6.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,204001,Kristaps Porziņģis,14.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1627780,Gary Payton II,54.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1629001,De'Anthony Melton,86.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1629646,Charles Bassey,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1630209,Omer Yurtseven,5.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1630311,Pat Spencer,130.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1630541,Moses Moody,63.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1630611,Gui Santos,81.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1631466,Nate Williams,7.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1641764,Brandin Podziemski,166.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1642366,Quinten Post,71.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1642502,Malevy Leons,19.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1642954,Will Richard,1643018,LJ Cryer,20.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,201143,Al Horford,7.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,201939,Stephen Curry,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,202710,Jimmy Butler III,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,203110,Draymond Green,90.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,203552,Seth Curry,2.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,204001,Kristaps Porziņģis,22.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1627780,Gary Payton II,20.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1629001,De'Anthony Melton,7.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1629646,Charles Bassey,4.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1630209,Omer Yurtseven,8.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1630311,Pat Spencer,68.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1630541,Moses Moody,0.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1630611,Gui Santos,50.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1631466,Nate Williams,13.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1641764,Brandin Podziemski,56.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1642366,Quinten Post,12.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1642502,Malevy Leons,15.0,True,NBA.com — https://www.nba.com/stats
+GSW,2025-26,Regular Season,1643018,LJ Cryer,1642954,Will Richard,17.0,True,NBA.com — https://www.nba.com/stats

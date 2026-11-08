@@ -1,0 +1,343 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+HOU,2020-21,Regular Season,201569,Eric Gordon,201571,D.J. Augustin,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,202322,John Wall,108.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,202340,Avery Bradley,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1626174,Christian Wood,57.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1627863,Danuel House Jr.,103.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1628021,David Nwaba,61.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1628383,Justin Patton,14.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1628425,Sterling Brown,79.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1629645,Kevin Porter Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1629717,Armoni Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1630231,KJ Martin,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1630237,Anthony Lamb,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201569,Eric Gordon,1630256,Jae'Sean Tate,90.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,202322,John Wall,17.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,202340,Avery Bradley,26.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,203482,Kelly Olynyk,171.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1626174,Christian Wood,22.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1627863,Danuel House Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1628021,David Nwaba,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1628383,Justin Patton,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1628391,D.J. Wilson,52.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1628419,Cameron Oliver,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1628425,Sterling Brown,46.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1629017,Khyri Thomas,11.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1629244,Cam Reynolds,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1629645,Kevin Porter Jr.,28.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1629717,Armoni Brooks,32.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1630231,KJ Martin,94.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1630237,Anthony Lamb,22.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,201571,D.J. Augustin,1630256,Jae'Sean Tate,71.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,201569,Eric Gordon,182.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,201571,D.J. Augustin,28.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,202340,Avery Bradley,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,203482,Kelly Olynyk,107.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1626174,Christian Wood,301.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1627863,Danuel House Jr.,156.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1628021,David Nwaba,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1628383,Justin Patton,29.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1628391,D.J. Wilson,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1628425,Sterling Brown,142.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1629645,Kevin Porter Jr.,119.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1629717,Armoni Brooks,18.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1630231,KJ Martin,25.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1630237,Anthony Lamb,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202322,John Wall,1630256,Jae'Sean Tate,251.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,201571,D.J. Augustin,24.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,202322,John Wall,27.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,203482,Kelly Olynyk,79.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1626174,Christian Wood,46.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1627863,Danuel House Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1628021,David Nwaba,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1628383,Justin Patton,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1628391,D.J. Wilson,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1628425,Sterling Brown,8.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1629645,Kevin Porter Jr.,92.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1629717,Armoni Brooks,18.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1630231,KJ Martin,36.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1630237,Anthony Lamb,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,202340,Avery Bradley,1630256,Jae'Sean Tate,25.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,201571,D.J. Augustin,178.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,202322,John Wall,193.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,202340,Avery Bradley,99.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1626174,Christian Wood,86.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1627863,Danuel House Jr.,25.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1628021,David Nwaba,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1628383,Justin Patton,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1628391,D.J. Wilson,27.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1628419,Cameron Oliver,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1628425,Sterling Brown,20.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1629017,Khyri Thomas,18.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1629244,Cam Reynolds,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1629645,Kevin Porter Jr.,296.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1629717,Armoni Brooks,79.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1630231,KJ Martin,92.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1630237,Anthony Lamb,59.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,203482,Kelly Olynyk,1630256,Jae'Sean Tate,156.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,201569,Eric Gordon,57.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,201571,D.J. Augustin,29.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,202322,John Wall,447.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,202340,Avery Bradley,42.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,203482,Kelly Olynyk,80.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1627863,Danuel House Jr.,62.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1628021,David Nwaba,19.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1628383,Justin Patton,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1628391,D.J. Wilson,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1628425,Sterling Brown,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1629645,Kevin Porter Jr.,273.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1629717,Armoni Brooks,22.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1630231,KJ Martin,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1630237,Anthony Lamb,5.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1626174,Christian Wood,1630256,Jae'Sean Tate,135.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,201569,Eric Gordon,120.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,201571,D.J. Augustin,17.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,202322,John Wall,225.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,202340,Avery Bradley,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,203482,Kelly Olynyk,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1626174,Christian Wood,68.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1628021,David Nwaba,27.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1628383,Justin Patton,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1628391,D.J. Wilson,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1628425,Sterling Brown,52.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1629017,Khyri Thomas,12.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1629645,Kevin Porter Jr.,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1629717,Armoni Brooks,22.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1630231,KJ Martin,22.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1630237,Anthony Lamb,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1627863,Danuel House Jr.,1630256,Jae'Sean Tate,95.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,201569,Eric Gordon,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,201571,D.J. Augustin,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,202322,John Wall,66.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,202340,Avery Bradley,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1626174,Christian Wood,35.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1627863,Danuel House Jr.,24.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1628383,Justin Patton,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1628425,Sterling Brown,30.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1629645,Kevin Porter Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1629717,Armoni Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1630231,KJ Martin,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1630237,Anthony Lamb,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628021,David Nwaba,1630256,Jae'Sean Tate,37.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,201569,Eric Gordon,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,201571,D.J. Augustin,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,202322,John Wall,44.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,202340,Avery Bradley,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1626174,Christian Wood,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1627863,Danuel House Jr.,5.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1628021,David Nwaba,5.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1628425,Sterling Brown,17.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1629645,Kevin Porter Jr.,42.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1629717,Armoni Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1630231,KJ Martin,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1630237,Anthony Lamb,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628383,Justin Patton,1630256,Jae'Sean Tate,12.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,201571,D.J. Augustin,82.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,202322,John Wall,24.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,202340,Avery Bradley,23.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,203482,Kelly Olynyk,24.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1626174,Christian Wood,10.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1627863,Danuel House Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1628021,David Nwaba,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1628383,Justin Patton,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1628425,Sterling Brown,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1629645,Kevin Porter Jr.,63.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1629717,Armoni Brooks,43.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1630231,KJ Martin,23.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1630237,Anthony Lamb,18.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628391,D.J. Wilson,1630256,Jae'Sean Tate,40.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,201571,D.J. Augustin,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,202322,John Wall,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,202340,Avery Bradley,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,203482,Kelly Olynyk,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1626174,Christian Wood,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1627863,Danuel House Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1628021,David Nwaba,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1628383,Justin Patton,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1628425,Sterling Brown,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1629017,Khyri Thomas,20.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1629244,Cam Reynolds,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1629645,Kevin Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1629717,Armoni Brooks,31.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1630231,KJ Martin,15.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1630237,Anthony Lamb,23.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628419,Cameron Oliver,1630256,Jae'Sean Tate,25.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,201569,Eric Gordon,109.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,201571,D.J. Augustin,55.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,202322,John Wall,212.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,202340,Avery Bradley,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,203482,Kelly Olynyk,14.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1626174,Christian Wood,59.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1627863,Danuel House Jr.,58.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1628021,David Nwaba,43.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1628383,Justin Patton,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1628391,D.J. Wilson,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1629645,Kevin Porter Jr.,91.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1629717,Armoni Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1630231,KJ Martin,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1630237,Anthony Lamb,5.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1628425,Sterling Brown,1630256,Jae'Sean Tate,99.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,201571,D.J. Augustin,10.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,202322,John Wall,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,202340,Avery Bradley,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,203482,Kelly Olynyk,20.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1626174,Christian Wood,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1627863,Danuel House Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1628021,David Nwaba,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1628383,Justin Patton,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1628419,Cameron Oliver,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1628425,Sterling Brown,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1629645,Kevin Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1629717,Armoni Brooks,29.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1630231,KJ Martin,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1630237,Anthony Lamb,16.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629017,Khyri Thomas,1630256,Jae'Sean Tate,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,201571,D.J. Augustin,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,202322,John Wall,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,202340,Avery Bradley,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,203482,Kelly Olynyk,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1626174,Christian Wood,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1627863,Danuel House Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1628021,David Nwaba,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1628383,Justin Patton,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1628391,D.J. Wilson,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1628419,Cameron Oliver,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1628425,Sterling Brown,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1629645,Kevin Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1629717,Armoni Brooks,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1630231,KJ Martin,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1630237,Anthony Lamb,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629244,Cam Reynolds,1630256,Jae'Sean Tate,5.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,201569,Eric Gordon,6.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,201571,D.J. Augustin,25.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,202322,John Wall,83.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,202340,Avery Bradley,78.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,203482,Kelly Olynyk,236.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1626174,Christian Wood,289.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1627863,Danuel House Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1628021,David Nwaba,5.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1628383,Justin Patton,36.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1628391,D.J. Wilson,53.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1628419,Cameron Oliver,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1628425,Sterling Brown,70.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1629017,Khyri Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1629244,Cam Reynolds,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1629717,Armoni Brooks,61.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1630231,KJ Martin,76.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1630237,Anthony Lamb,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629645,Kevin Porter Jr.,1630256,Jae'Sean Tate,175.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,201569,Eric Gordon,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,201571,D.J. Augustin,22.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,202322,John Wall,24.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,202340,Avery Bradley,26.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,203482,Kelly Olynyk,57.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1626174,Christian Wood,20.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1627863,Danuel House Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1628021,David Nwaba,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1628383,Justin Patton,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1628391,D.J. Wilson,38.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1628419,Cameron Oliver,16.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1628425,Sterling Brown,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1629017,Khyri Thomas,28.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1629244,Cam Reynolds,14.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1629645,Kevin Porter Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1630231,KJ Martin,52.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1630237,Anthony Lamb,60.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1629717,Armoni Brooks,1630256,Jae'Sean Tate,56.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,201569,Eric Gordon,5.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,201571,D.J. Augustin,142.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,202322,John Wall,75.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,202340,Avery Bradley,41.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,203482,Kelly Olynyk,77.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1626174,Christian Wood,24.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1627863,Danuel House Jr.,32.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1628021,David Nwaba,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1628383,Justin Patton,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1628391,D.J. Wilson,16.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1628419,Cameron Oliver,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1628425,Sterling Brown,29.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1629017,Khyri Thomas,20.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1629244,Cam Reynolds,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1629645,Kevin Porter Jr.,166.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1629717,Armoni Brooks,83.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1630237,Anthony Lamb,46.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630231,KJ Martin,1630256,Jae'Sean Tate,98.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,201569,Eric Gordon,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,201571,D.J. Augustin,55.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,202322,John Wall,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,202340,Avery Bradley,11.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,203482,Kelly Olynyk,60.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1626174,Christian Wood,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1627863,Danuel House Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1628021,David Nwaba,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1628383,Justin Patton,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1628391,D.J. Wilson,6.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1628419,Cameron Oliver,12.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1628425,Sterling Brown,10.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1629017,Khyri Thomas,24.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1629244,Cam Reynolds,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1629645,Kevin Porter Jr.,38.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1629717,Armoni Brooks,62.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1630231,KJ Martin,39.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630237,Anthony Lamb,1630256,Jae'Sean Tate,47.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,201569,Eric Gordon,103.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,201571,D.J. Augustin,78.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,202322,John Wall,347.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,202340,Avery Bradley,39.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,203482,Kelly Olynyk,134.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1626174,Christian Wood,129.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1627863,Danuel House Jr.,97.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1628021,David Nwaba,38.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1628383,Justin Patton,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1628391,D.J. Wilson,36.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1628419,Cameron Oliver,26.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1628425,Sterling Brown,109.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1629017,Khyri Thomas,22.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1629244,Cam Reynolds,5.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1629645,Kevin Porter Jr.,187.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1629717,Armoni Brooks,63.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1630231,KJ Martin,66.0,True,NBA.com — https://www.nba.com/stats
+HOU,2020-21,Regular Season,1630256,Jae'Sean Tate,1630237,Anthony Lamb,22.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,9 @@
+{
+  "season_minimum_mpg": 10,
+  "game_minimum_minutes": 10,
+  "source_archive": "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output_before_10min_20261105_213224",
+  "season_teams": 180,
+  "playoff_team_games": 28,
+  "population_policy": "Only passes between eligible players; recompute all entropy, MI and usage HHI from the same IDs. Isolates omitted from drawings only.",
+  "rebuilt_at": "2026-11-05T20:33:58.880453+00:00"
+}

@@ -1,0 +1,133 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+HOU,2021-22,Regular Season,201569,Eric Gordon,203471,Dennis Schröder,42.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1626174,Christian Wood,251.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1628021,David Nwaba,27.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1629645,Kevin Porter Jr.,201.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1629726,Garrison Mathews,146.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1630224,Jalen Green,175.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1630227,Daishen Nix,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1630231,KJ Martin,131.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1630256,Jae'Sean Tate,299.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1630528,Josh Christopher,95.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,201569,Eric Gordon,1630578,Alperen Sengun,200.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,201569,Eric Gordon,54.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1626174,Christian Wood,67.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1628021,David Nwaba,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1629645,Kevin Porter Jr.,42.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1629726,Garrison Mathews,70.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1630224,Jalen Green,127.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1630227,Daishen Nix,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1630231,KJ Martin,94.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1630256,Jae'Sean Tate,49.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1630528,Josh Christopher,79.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,203471,Dennis Schröder,1630578,Alperen Sengun,163.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,201569,Eric Gordon,343.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,203471,Dennis Schröder,100.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,1628021,David Nwaba,23.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,1629645,Kevin Porter Jr.,853.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,1629726,Garrison Mathews,119.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,1630224,Jalen Green,376.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,1630227,Daishen Nix,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,1630231,KJ Martin,69.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,1630256,Jae'Sean Tate,335.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,1630528,Josh Christopher,94.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1626174,Christian Wood,1630578,Alperen Sengun,57.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,201569,Eric Gordon,40.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,203471,Dennis Schröder,14.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,1626174,Christian Wood,28.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,1629645,Kevin Porter Jr.,74.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,1629726,Garrison Mathews,8.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,1630224,Jalen Green,35.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,1630227,Daishen Nix,28.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,1630231,KJ Martin,42.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,1630256,Jae'Sean Tate,26.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,1630528,Josh Christopher,79.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1628021,David Nwaba,1630578,Alperen Sengun,33.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,201569,Eric Gordon,225.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,203471,Dennis Schröder,34.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,1626174,Christian Wood,644.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,1628021,David Nwaba,39.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,1629726,Garrison Mathews,153.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,1630224,Jalen Green,768.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,1630227,Daishen Nix,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,1630231,KJ Martin,198.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,1630256,Jae'Sean Tate,473.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,1630528,Josh Christopher,100.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629645,Kevin Porter Jr.,1630578,Alperen Sengun,271.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,201569,Eric Gordon,145.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,203471,Dennis Schröder,76.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,1626174,Christian Wood,87.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,1628021,David Nwaba,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,1629645,Kevin Porter Jr.,217.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,1630224,Jalen Green,96.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,1630227,Daishen Nix,26.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,1630231,KJ Martin,85.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,1630256,Jae'Sean Tate,123.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,1630528,Josh Christopher,123.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1629726,Garrison Mathews,1630578,Alperen Sengun,76.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,201569,Eric Gordon,134.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,203471,Dennis Schröder,106.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,1626174,Christian Wood,323.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,1628021,David Nwaba,11.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,1629645,Kevin Porter Jr.,582.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,1629726,Garrison Mathews,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,1630227,Daishen Nix,14.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,1630231,KJ Martin,119.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,1630256,Jae'Sean Tate,235.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,1630528,Josh Christopher,82.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630224,Jalen Green,1630578,Alperen Sengun,157.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,201569,Eric Gordon,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,203471,Dennis Schröder,29.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,1626174,Christian Wood,5.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,1628021,David Nwaba,24.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,1629645,Kevin Porter Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,1629726,Garrison Mathews,31.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,1630224,Jalen Green,15.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,1630231,KJ Martin,65.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,1630256,Jae'Sean Tate,12.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,1630528,Josh Christopher,105.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630227,Daishen Nix,1630578,Alperen Sengun,30.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,201569,Eric Gordon,189.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,203471,Dennis Schröder,140.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,1626174,Christian Wood,80.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,1628021,David Nwaba,42.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,1629645,Kevin Porter Jr.,270.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,1629726,Garrison Mathews,88.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,1630224,Jalen Green,159.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,1630227,Daishen Nix,83.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,1630256,Jae'Sean Tate,65.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,1630528,Josh Christopher,277.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630231,KJ Martin,1630578,Alperen Sengun,107.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,201569,Eric Gordon,322.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,203471,Dennis Schröder,58.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,1626174,Christian Wood,322.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,1628021,David Nwaba,15.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,1629645,Kevin Porter Jr.,483.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,1629726,Garrison Mathews,150.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,1630224,Jalen Green,319.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,1630227,Daishen Nix,11.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,1630231,KJ Martin,50.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,1630528,Josh Christopher,117.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630256,Jae'Sean Tate,1630578,Alperen Sengun,112.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,201569,Eric Gordon,115.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,203471,Dennis Schröder,82.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,1626174,Christian Wood,93.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,1628021,David Nwaba,58.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,1629645,Kevin Porter Jr.,90.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,1629726,Garrison Mathews,88.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,1630224,Jalen Green,117.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,1630227,Daishen Nix,65.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,1630231,KJ Martin,217.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,1630256,Jae'Sean Tate,99.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630528,Josh Christopher,1630578,Alperen Sengun,262.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,201569,Eric Gordon,173.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,203471,Dennis Schröder,150.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,1626174,Christian Wood,79.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,1628021,David Nwaba,40.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,1629645,Kevin Porter Jr.,271.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,1629726,Garrison Mathews,117.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,1630224,Jalen Green,184.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,1630227,Daishen Nix,27.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,1630231,KJ Martin,203.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,1630256,Jae'Sean Tate,127.0,True,NBA.com — https://www.nba.com/stats
+HOU,2021-22,Regular Season,1630578,Alperen Sengun,1630528,Josh Christopher,200.0,True,NBA.com — https://www.nba.com/stats

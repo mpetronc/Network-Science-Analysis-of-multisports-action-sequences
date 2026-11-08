@@ -1,0 +1,241 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+HOU,2024-25,Regular Season,201145,Jeff Green,203500,Steven Adams,14.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1627832,Fred VanVleet,19.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1628415,Dillon Brooks,10.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1628988,Aaron Holiday,72.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1629111,Jock Landale,12.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1630224,Jalen Green,53.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1630256,Jae'Sean Tate,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1630578,Alperen Sengun,12.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1631095,Jabari Smith Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1631106,Tari Eason,8.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1641708,Amen Thompson,27.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1641715,Cam Whitmore,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1642263,Reed Sheppard,26.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,201145,Jeff Green,1642368,N'Faly Dante,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,201145,Jeff Green,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1627832,Fred VanVleet,175.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1628415,Dillon Brooks,84.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1628988,Aaron Holiday,47.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1629111,Jock Landale,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1630224,Jalen Green,201.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1630256,Jae'Sean Tate,23.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1630578,Alperen Sengun,30.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1631095,Jabari Smith Jr.,44.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1631106,Tari Eason,51.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1641708,Amen Thompson,172.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1641715,Cam Whitmore,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1642263,Reed Sheppard,36.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,203500,Steven Adams,1642368,N'Faly Dante,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,201145,Jeff Green,20.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,203500,Steven Adams,97.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1628415,Dillon Brooks,417.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1628988,Aaron Holiday,62.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1629111,Jock Landale,50.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1630224,Jalen Green,799.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1630256,Jae'Sean Tate,60.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1630578,Alperen Sengun,1176.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1631095,Jabari Smith Jr.,237.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1631106,Tari Eason,175.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1641708,Amen Thompson,315.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1641715,Cam Whitmore,70.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1642263,Reed Sheppard,15.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1627832,Fred VanVleet,1642368,N'Faly Dante,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,201145,Jeff Green,12.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,203500,Steven Adams,42.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1627832,Fred VanVleet,401.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1628988,Aaron Holiday,33.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1629111,Jock Landale,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1630224,Jalen Green,371.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1630256,Jae'Sean Tate,16.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1630578,Alperen Sengun,376.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1631095,Jabari Smith Jr.,82.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1631106,Tari Eason,87.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1641708,Amen Thompson,177.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1641715,Cam Whitmore,18.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1642263,Reed Sheppard,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628415,Dillon Brooks,1642368,N'Faly Dante,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,201145,Jeff Green,50.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,203500,Steven Adams,45.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1627832,Fred VanVleet,72.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1628415,Dillon Brooks,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1629111,Jock Landale,47.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1630224,Jalen Green,102.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1630256,Jae'Sean Tate,47.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1630578,Alperen Sengun,106.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1631095,Jabari Smith Jr.,54.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1631106,Tari Eason,41.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1631223,David Roddy,6.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1641708,Amen Thompson,105.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1641715,Cam Whitmore,78.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1642263,Reed Sheppard,61.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1628988,Aaron Holiday,1642368,N'Faly Dante,10.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,201145,Jeff Green,17.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,203500,Steven Adams,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1627832,Fred VanVleet,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1628415,Dillon Brooks,16.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1628988,Aaron Holiday,58.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1630224,Jalen Green,85.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1630256,Jae'Sean Tate,20.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1630578,Alperen Sengun,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1631095,Jabari Smith Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1631106,Tari Eason,32.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1641708,Amen Thompson,53.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1641715,Cam Whitmore,47.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1642263,Reed Sheppard,62.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1629111,Jock Landale,1642368,N'Faly Dante,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,201145,Jeff Green,36.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,203500,Steven Adams,122.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1627832,Fred VanVleet,689.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1628415,Dillon Brooks,473.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1628988,Aaron Holiday,105.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1629111,Jock Landale,57.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1630256,Jae'Sean Tate,75.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1630578,Alperen Sengun,723.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1631095,Jabari Smith Jr.,205.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1631106,Tari Eason,186.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1631223,David Roddy,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1641708,Amen Thompson,422.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1641715,Cam Whitmore,67.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1642263,Reed Sheppard,67.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630224,Jalen Green,1642368,N'Faly Dante,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,201145,Jeff Green,16.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,203500,Steven Adams,16.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1627832,Fred VanVleet,72.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1628415,Dillon Brooks,32.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1628988,Aaron Holiday,64.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1629111,Jock Landale,15.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1630224,Jalen Green,90.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1630578,Alperen Sengun,28.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1631095,Jabari Smith Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1631106,Tari Eason,20.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1641708,Amen Thompson,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1641715,Cam Whitmore,35.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1642263,Reed Sheppard,53.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630256,Jae'Sean Tate,1642368,N'Faly Dante,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,201145,Jeff Green,16.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,203500,Steven Adams,11.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1627832,Fred VanVleet,835.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1628415,Dillon Brooks,394.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1628988,Aaron Holiday,106.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1629111,Jock Landale,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1630224,Jalen Green,859.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1630256,Jae'Sean Tate,19.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1631095,Jabari Smith Jr.,242.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1631106,Tari Eason,161.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1641708,Amen Thompson,383.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1641715,Cam Whitmore,65.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1642263,Reed Sheppard,69.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1630578,Alperen Sengun,1642368,N'Faly Dante,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,201145,Jeff Green,10.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,203500,Steven Adams,30.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1627832,Fred VanVleet,451.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1628415,Dillon Brooks,126.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1628988,Aaron Holiday,65.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1629111,Jock Landale,6.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1630224,Jalen Green,317.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1630256,Jae'Sean Tate,11.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1630578,Alperen Sengun,169.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1631106,Tari Eason,55.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1641708,Amen Thompson,158.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1641715,Cam Whitmore,14.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1642263,Reed Sheppard,36.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631095,Jabari Smith Jr.,1642368,N'Faly Dante,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,201145,Jeff Green,9.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,203500,Steven Adams,29.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1627832,Fred VanVleet,303.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1628415,Dillon Brooks,91.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1628988,Aaron Holiday,66.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1629111,Jock Landale,27.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1630224,Jalen Green,333.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1630256,Jae'Sean Tate,14.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1630578,Alperen Sengun,116.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1631095,Jabari Smith Jr.,48.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1641708,Amen Thompson,216.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1641715,Cam Whitmore,32.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1642263,Reed Sheppard,72.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631106,Tari Eason,1642368,N'Faly Dante,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,201145,Jeff Green,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,203500,Steven Adams,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1627832,Fred VanVleet,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1628415,Dillon Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1628988,Aaron Holiday,6.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1629111,Jock Landale,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1630224,Jalen Green,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1630256,Jae'Sean Tate,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1630578,Alperen Sengun,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1631095,Jabari Smith Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1631106,Tari Eason,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1641708,Amen Thompson,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1641715,Cam Whitmore,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1642263,Reed Sheppard,10.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1631223,David Roddy,1642368,N'Faly Dante,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,201145,Jeff Green,49.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,203500,Steven Adams,110.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1627832,Fred VanVleet,503.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1628415,Dillon Brooks,225.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1628988,Aaron Holiday,142.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1629111,Jock Landale,76.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1630224,Jalen Green,565.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1630256,Jae'Sean Tate,54.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1630578,Alperen Sengun,444.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1631095,Jabari Smith Jr.,104.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1631106,Tari Eason,193.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1631223,David Roddy,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1641715,Cam Whitmore,101.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1642263,Reed Sheppard,139.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641708,Amen Thompson,1642368,N'Faly Dante,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,201145,Jeff Green,28.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,203500,Steven Adams,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1627832,Fred VanVleet,65.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1628415,Dillon Brooks,20.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1628988,Aaron Holiday,59.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1629111,Jock Landale,26.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1630224,Jalen Green,63.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1630256,Jae'Sean Tate,31.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1630578,Alperen Sengun,32.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1631095,Jabari Smith Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1631106,Tari Eason,17.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1631223,David Roddy,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1641708,Amen Thompson,76.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1642263,Reed Sheppard,64.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1641715,Cam Whitmore,1642368,N'Faly Dante,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,201145,Jeff Green,28.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,203500,Steven Adams,30.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1627832,Fred VanVleet,23.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1628415,Dillon Brooks,21.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1628988,Aaron Holiday,60.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1629111,Jock Landale,67.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1630224,Jalen Green,95.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1630256,Jae'Sean Tate,42.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1630578,Alperen Sengun,77.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1631095,Jabari Smith Jr.,38.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1631106,Tari Eason,57.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1631223,David Roddy,7.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1641708,Amen Thompson,141.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1641715,Cam Whitmore,91.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642263,Reed Sheppard,1642368,N'Faly Dante,6.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,201145,Jeff Green,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,203500,Steven Adams,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1627832,Fred VanVleet,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1628415,Dillon Brooks,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1628988,Aaron Holiday,13.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1629111,Jock Landale,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1630224,Jalen Green,2.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1630256,Jae'Sean Tate,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1630578,Alperen Sengun,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1631095,Jabari Smith Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1631106,Tari Eason,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1631223,David Roddy,4.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1641708,Amen Thompson,0.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1641715,Cam Whitmore,3.0,True,NBA.com — https://www.nba.com/stats
+HOU,2024-25,Regular Season,1642368,N'Faly Dante,1642263,Reed Sheppard,14.0,True,NBA.com — https://www.nba.com/stats

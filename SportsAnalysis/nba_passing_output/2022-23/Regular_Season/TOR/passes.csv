@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+TOR,2022-23,Regular Season,201152,Thaddeus Young,203115,Will Barton,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,203490,Otto Porter Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1627751,Jakob Poeltl,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1627783,Pascal Siakam,156.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1627823,Juancho Hernangomez,19.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1627832,Fred VanVleet,293.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1628384,OG Anunoby,85.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1628449,Chris Boucher,44.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1629018,Gary Trent Jr.,77.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1630173,Precious Achiuwa,13.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1630201,Malachi Flynn,141.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1630288,Jeff Dowtin Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1630567,Scottie Barnes,229.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,201152,Thaddeus Young,1631132,Christian Koloko,3.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,201152,Thaddeus Young,3.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1627751,Jakob Poeltl,11.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1627783,Pascal Siakam,50.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1627823,Juancho Hernangomez,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1627832,Fred VanVleet,35.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1628384,OG Anunoby,17.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1628449,Chris Boucher,20.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1629018,Gary Trent Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1630173,Precious Achiuwa,29.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1630201,Malachi Flynn,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1630288,Jeff Dowtin Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1630567,Scottie Barnes,44.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203115,Will Barton,1631132,Christian Koloko,5.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,201152,Thaddeus Young,10.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,203115,Will Barton,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1627751,Jakob Poeltl,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1627783,Pascal Siakam,5.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1627823,Juancho Hernangomez,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1627832,Fred VanVleet,22.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1628384,OG Anunoby,18.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1628449,Chris Boucher,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1629018,Gary Trent Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1630173,Precious Achiuwa,13.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1630201,Malachi Flynn,11.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1630288,Jeff Dowtin Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1630567,Scottie Barnes,40.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,203490,Otto Porter Jr.,1631132,Christian Koloko,3.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,201152,Thaddeus Young,2.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,203115,Will Barton,19.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1627783,Pascal Siakam,215.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1627823,Juancho Hernangomez,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1627832,Fred VanVleet,378.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1628384,OG Anunoby,79.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1628449,Chris Boucher,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1629018,Gary Trent Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1630173,Precious Achiuwa,11.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1630201,Malachi Flynn,28.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1630288,Jeff Dowtin Jr.,15.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1630567,Scottie Barnes,175.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627751,Jakob Poeltl,1631132,Christian Koloko,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,201152,Thaddeus Young,87.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,203115,Will Barton,57.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,203490,Otto Porter Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1627751,Jakob Poeltl,158.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1627823,Juancho Hernangomez,57.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1627832,Fred VanVleet,1249.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1628384,OG Anunoby,396.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1628449,Chris Boucher,110.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1629018,Gary Trent Jr.,444.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1630173,Precious Achiuwa,178.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1630201,Malachi Flynn,146.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1630288,Jeff Dowtin Jr.,45.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1630567,Scottie Barnes,789.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627783,Pascal Siakam,1631132,Christian Koloko,72.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,201152,Thaddeus Young,21.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,203115,Will Barton,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,203490,Otto Porter Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1627751,Jakob Poeltl,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1627783,Pascal Siakam,72.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1627832,Fred VanVleet,160.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1628384,OG Anunoby,40.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1628449,Chris Boucher,20.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1629018,Gary Trent Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1630173,Precious Achiuwa,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1630201,Malachi Flynn,67.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1630288,Jeff Dowtin Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1630567,Scottie Barnes,95.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627823,Juancho Hernangomez,1631132,Christian Koloko,12.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,201152,Thaddeus Young,178.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,203115,Will Barton,26.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,203490,Otto Porter Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1627751,Jakob Poeltl,237.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1627783,Pascal Siakam,1277.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1627823,Juancho Hernangomez,59.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1628384,OG Anunoby,540.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1628449,Chris Boucher,155.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1629018,Gary Trent Jr.,440.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1630173,Precious Achiuwa,203.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1630201,Malachi Flynn,55.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1630288,Jeff Dowtin Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1630567,Scottie Barnes,961.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1627832,Fred VanVleet,1631132,Christian Koloko,103.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,201152,Thaddeus Young,90.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,203115,Will Barton,17.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,203490,Otto Porter Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1627751,Jakob Poeltl,64.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1627783,Pascal Siakam,328.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1627823,Juancho Hernangomez,32.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1627832,Fred VanVleet,532.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1628449,Chris Boucher,75.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1629018,Gary Trent Jr.,152.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1630173,Precious Achiuwa,74.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1630201,Malachi Flynn,65.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1630288,Jeff Dowtin Jr.,30.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1630567,Scottie Barnes,410.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628384,OG Anunoby,1631132,Christian Koloko,45.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,201152,Thaddeus Young,29.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,203115,Will Barton,31.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,203490,Otto Porter Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1627751,Jakob Poeltl,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1627783,Pascal Siakam,172.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1627823,Juancho Hernangomez,9.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1627832,Fred VanVleet,260.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1628384,OG Anunoby,55.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1629018,Gary Trent Jr.,74.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1630173,Precious Achiuwa,52.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1630201,Malachi Flynn,111.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1630288,Jeff Dowtin Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1630567,Scottie Barnes,209.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1628449,Chris Boucher,1631132,Christian Koloko,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,201152,Thaddeus Young,71.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,203115,Will Barton,19.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,203490,Otto Porter Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1627751,Jakob Poeltl,20.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1627783,Pascal Siakam,327.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1627823,Juancho Hernangomez,7.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1627832,Fred VanVleet,289.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1628384,OG Anunoby,115.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1628449,Chris Boucher,54.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1630173,Precious Achiuwa,103.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1630201,Malachi Flynn,74.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1630288,Jeff Dowtin Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1630567,Scottie Barnes,287.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1629018,Gary Trent Jr.,1631132,Christian Koloko,25.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,201152,Thaddeus Young,10.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,203115,Will Barton,31.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,203490,Otto Porter Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1627751,Jakob Poeltl,1.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1627783,Pascal Siakam,209.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1627823,Juancho Hernangomez,7.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1627832,Fred VanVleet,339.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1628384,OG Anunoby,62.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1628449,Chris Boucher,43.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1629018,Gary Trent Jr.,117.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1630201,Malachi Flynn,66.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1630288,Jeff Dowtin Jr.,39.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1630567,Scottie Barnes,239.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630173,Precious Achiuwa,1631132,Christian Koloko,6.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,201152,Thaddeus Young,101.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,203115,Will Barton,1.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,203490,Otto Porter Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1627751,Jakob Poeltl,17.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1627783,Pascal Siakam,157.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1627823,Juancho Hernangomez,58.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1627832,Fred VanVleet,79.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1628384,OG Anunoby,80.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1628449,Chris Boucher,71.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1629018,Gary Trent Jr.,115.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1630173,Precious Achiuwa,69.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1630288,Jeff Dowtin Jr.,29.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1630567,Scottie Barnes,153.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630201,Malachi Flynn,1631132,Christian Koloko,66.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,201152,Thaddeus Young,14.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,203115,Will Barton,9.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,203490,Otto Porter Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1627751,Jakob Poeltl,13.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1627783,Pascal Siakam,48.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1627823,Juancho Hernangomez,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1627832,Fred VanVleet,15.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1628384,OG Anunoby,53.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1628449,Chris Boucher,33.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1629018,Gary Trent Jr.,20.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1630173,Precious Achiuwa,31.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1630201,Malachi Flynn,26.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1630567,Scottie Barnes,52.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630288,Jeff Dowtin Jr.,1631132,Christian Koloko,21.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,201152,Thaddeus Young,169.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,203115,Will Barton,54.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,203490,Otto Porter Jr.,40.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1627751,Jakob Poeltl,137.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1627783,Pascal Siakam,847.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1627823,Juancho Hernangomez,89.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1627832,Fred VanVleet,916.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1628384,OG Anunoby,538.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1628449,Chris Boucher,168.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1629018,Gary Trent Jr.,483.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1630173,Precious Achiuwa,254.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1630201,Malachi Flynn,179.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1630288,Jeff Dowtin Jr.,42.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1630567,Scottie Barnes,1631132,Christian Koloko,94.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,201152,Thaddeus Young,3.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,203115,Will Barton,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,203490,Otto Porter Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1627751,Jakob Poeltl,0.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1627783,Pascal Siakam,126.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1627823,Juancho Hernangomez,8.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1627832,Fred VanVleet,184.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1628384,OG Anunoby,32.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1628449,Chris Boucher,10.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1629018,Gary Trent Jr.,40.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1630173,Precious Achiuwa,10.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1630201,Malachi Flynn,75.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1630288,Jeff Dowtin Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+TOR,2022-23,Regular Season,1631132,Christian Koloko,1630567,Scottie Barnes,98.0,True,NBA.com — https://www.nba.com/stats

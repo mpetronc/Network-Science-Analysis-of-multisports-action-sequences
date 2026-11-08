@@ -1,0 +1,111 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+CHA,2021-22,Regular Season,202330,Gordon Hayward,202738,Isaiah Thomas,0.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202330,Gordon Hayward,203486,Mason Plumlee,171.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202330,Gordon Hayward,1626149,Montrezl Harrell,3.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202330,Gordon Hayward,1626162,Kelly Oubre Jr.,158.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202330,Gordon Hayward,1626179,Terry Rozier,269.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202330,Gordon Hayward,1628970,Miles Bridges,250.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202330,Gordon Hayward,1628998,Cody Martin,141.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202330,Gordon Hayward,1629023,P.J. Washington,131.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202330,Gordon Hayward,1629667,Jalen McDaniels,51.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202330,Gordon Hayward,1630163,LaMelo Ball,464.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,202330,Gordon Hayward,0.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,203486,Mason Plumlee,26.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,1626149,Montrezl Harrell,52.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,1626162,Kelly Oubre Jr.,26.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,1626179,Terry Rozier,35.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,1628970,Miles Bridges,30.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,1628998,Cody Martin,27.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,1629023,P.J. Washington,38.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,1629667,Jalen McDaniels,25.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,202738,Isaiah Thomas,1630163,LaMelo Ball,62.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,202330,Gordon Hayward,176.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,202738,Isaiah Thomas,28.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,1626149,Montrezl Harrell,5.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,1626162,Kelly Oubre Jr.,106.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,1626179,Terry Rozier,558.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,1628970,Miles Bridges,325.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,1628998,Cody Martin,104.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,1629023,P.J. Washington,84.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,1629667,Jalen McDaniels,58.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,203486,Mason Plumlee,1630163,LaMelo Ball,781.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,202330,Gordon Hayward,4.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,202738,Isaiah Thomas,48.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,203486,Mason Plumlee,2.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,1626162,Kelly Oubre Jr.,60.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,1626179,Terry Rozier,136.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,1628970,Miles Bridges,39.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,1628998,Cody Martin,37.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,1629023,P.J. Washington,22.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,1629667,Jalen McDaniels,16.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626149,Montrezl Harrell,1630163,LaMelo Ball,164.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,202330,Gordon Hayward,95.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,202738,Isaiah Thomas,28.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,203486,Mason Plumlee,60.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,1626149,Montrezl Harrell,50.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,1626179,Terry Rozier,259.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,1628970,Miles Bridges,156.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,1628998,Cody Martin,109.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,1629023,P.J. Washington,78.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,1629667,Jalen McDaniels,38.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626162,Kelly Oubre Jr.,1630163,LaMelo Ball,320.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,202330,Gordon Hayward,261.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,202738,Isaiah Thomas,40.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,203486,Mason Plumlee,438.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,1626149,Montrezl Harrell,138.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,1626162,Kelly Oubre Jr.,305.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,1628970,Miles Bridges,699.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,1628998,Cody Martin,217.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,1629023,P.J. Washington,297.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,1629667,Jalen McDaniels,129.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1626179,Terry Rozier,1630163,LaMelo Ball,819.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,202330,Gordon Hayward,258.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,202738,Isaiah Thomas,35.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,203486,Mason Plumlee,182.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,1626149,Montrezl Harrell,35.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,1626162,Kelly Oubre Jr.,207.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,1626179,Terry Rozier,713.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,1628998,Cody Martin,227.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,1629023,P.J. Washington,191.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,1629667,Jalen McDaniels,60.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628970,Miles Bridges,1630163,LaMelo Ball,1058.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,202330,Gordon Hayward,158.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,202738,Isaiah Thomas,37.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,203486,Mason Plumlee,106.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,1626149,Montrezl Harrell,50.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,1626162,Kelly Oubre Jr.,177.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,1626179,Terry Rozier,323.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,1628970,Miles Bridges,238.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,1629023,P.J. Washington,124.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,1629667,Jalen McDaniels,65.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1628998,Cody Martin,1630163,LaMelo Ball,403.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,202330,Gordon Hayward,130.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,202738,Isaiah Thomas,60.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,203486,Mason Plumlee,33.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,1626149,Montrezl Harrell,24.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,1626162,Kelly Oubre Jr.,139.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,1626179,Terry Rozier,406.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,1628970,Miles Bridges,240.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,1628998,Cody Martin,166.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,1629667,Jalen McDaniels,44.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629023,P.J. Washington,1630163,LaMelo Ball,619.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,202330,Gordon Hayward,60.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,202738,Isaiah Thomas,59.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,203486,Mason Plumlee,34.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,1626149,Montrezl Harrell,15.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,1626162,Kelly Oubre Jr.,63.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,1626179,Terry Rozier,189.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,1628970,Miles Bridges,62.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,1628998,Cody Martin,83.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,1629023,P.J. Washington,49.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1629667,Jalen McDaniels,1630163,LaMelo Ball,234.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,202330,Gordon Hayward,479.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,202738,Isaiah Thomas,55.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,203486,Mason Plumlee,618.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,1626149,Montrezl Harrell,178.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,1626162,Kelly Oubre Jr.,318.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,1626179,Terry Rozier,962.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,1628970,Miles Bridges,1094.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,1628998,Cody Martin,235.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,1629023,P.J. Washington,424.0,True,NBA.com — https://www.nba.com/stats
+CHA,2021-22,Regular Season,1630163,LaMelo Ball,1629667,Jalen McDaniels,166.0,True,NBA.com — https://www.nba.com/stats

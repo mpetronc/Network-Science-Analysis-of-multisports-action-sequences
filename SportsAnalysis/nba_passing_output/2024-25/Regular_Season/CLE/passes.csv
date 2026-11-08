@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1628386,Jarrett Allen,193.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1629622,Max Strus,207.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1629631,De'Andre Hunter,85.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1629636,Darius Garland,428.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1629660,Ty Jerome,257.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1629731,Dean Wade,174.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1630171,Isaac Okoro,100.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1630241,Sam Merrill,199.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1630596,Evan Mobley,541.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628378,Donovan Mitchell,1641854,Craig Porter Jr.,32.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1628378,Donovan Mitchell,387.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1629622,Max Strus,239.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1629631,De'Andre Hunter,45.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1629636,Darius Garland,789.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1629660,Ty Jerome,201.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1629731,Dean Wade,53.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1630171,Isaac Okoro,54.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1630241,Sam Merrill,92.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1630596,Evan Mobley,166.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1628386,Jarrett Allen,1641854,Craig Porter Jr.,39.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1628378,Donovan Mitchell,290.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1628386,Jarrett Allen,208.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1629631,De'Andre Hunter,49.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1629636,Darius Garland,484.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1629660,Ty Jerome,119.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1629731,Dean Wade,46.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1630171,Isaac Okoro,53.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1630241,Sam Merrill,29.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1630596,Evan Mobley,166.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629622,Max Strus,1641854,Craig Porter Jr.,31.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1628378,Donovan Mitchell,106.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1628386,Jarrett Allen,21.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1629622,Max Strus,34.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1629636,Darius Garland,137.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1629660,Ty Jerome,106.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1629731,Dean Wade,14.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1630171,Isaac Okoro,21.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1630241,Sam Merrill,42.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1630596,Evan Mobley,51.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629631,De'Andre Hunter,1641854,Craig Porter Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1628378,Donovan Mitchell,445.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1628386,Jarrett Allen,677.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1629622,Max Strus,353.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1629631,De'Andre Hunter,87.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1629660,Ty Jerome,212.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1629731,Dean Wade,210.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1630171,Isaac Okoro,169.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1630241,Sam Merrill,160.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1630596,Evan Mobley,465.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629636,Darius Garland,1641854,Craig Porter Jr.,44.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1628378,Donovan Mitchell,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1628386,Jarrett Allen,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1629622,Max Strus,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1629636,Darius Garland,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1629731,Dean Wade,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1630171,Isaac Okoro,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1630241,Sam Merrill,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1630596,Evan Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1641772,Nae'Qwan Tomlin,6.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629643,Chuma Okeke,1641854,Craig Porter Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1628378,Donovan Mitchell,293.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1628386,Jarrett Allen,192.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1629622,Max Strus,67.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1629631,De'Andre Hunter,80.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1629636,Darius Garland,250.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1629731,Dean Wade,114.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1630171,Isaac Okoro,70.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1630241,Sam Merrill,156.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1630596,Evan Mobley,327.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629660,Ty Jerome,1641854,Craig Porter Jr.,59.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1628378,Donovan Mitchell,297.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1628386,Jarrett Allen,61.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1629622,Max Strus,52.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1629631,De'Andre Hunter,22.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1629636,Darius Garland,374.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1629660,Ty Jerome,213.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1630171,Isaac Okoro,29.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1630241,Sam Merrill,65.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1630596,Evan Mobley,82.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1629731,Dean Wade,1641854,Craig Porter Jr.,24.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1628378,Donovan Mitchell,140.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1628386,Jarrett Allen,70.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1629622,Max Strus,37.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1629631,De'Andre Hunter,24.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1629636,Darius Garland,172.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1629660,Ty Jerome,56.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1629731,Dean Wade,28.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1630241,Sam Merrill,35.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1630596,Evan Mobley,86.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630171,Isaac Okoro,1641854,Craig Porter Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1628378,Donovan Mitchell,188.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1628386,Jarrett Allen,75.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1629622,Max Strus,31.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1629631,De'Andre Hunter,37.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1629636,Darius Garland,166.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1629660,Ty Jerome,198.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1629731,Dean Wade,43.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1630171,Isaac Okoro,45.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1630596,Evan Mobley,122.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630241,Sam Merrill,1641854,Craig Porter Jr.,30.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1628378,Donovan Mitchell,843.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1628386,Jarrett Allen,91.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1629622,Max Strus,198.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1629631,De'Andre Hunter,60.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1629636,Darius Garland,712.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1629643,Chuma Okeke,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1629660,Ty Jerome,341.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1629731,Dean Wade,83.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1630171,Isaac Okoro,90.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1630241,Sam Merrill,154.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1641772,Nae'Qwan Tomlin,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1630596,Evan Mobley,1641854,Craig Porter Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1628378,Donovan Mitchell,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1628386,Jarrett Allen,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1629622,Max Strus,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1629631,De'Andre Hunter,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1629636,Darius Garland,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1629643,Chuma Okeke,5.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1629731,Dean Wade,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1630171,Isaac Okoro,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1630241,Sam Merrill,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1630596,Evan Mobley,0.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641772,Nae'Qwan Tomlin,1641854,Craig Porter Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1628378,Donovan Mitchell,50.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1628386,Jarrett Allen,40.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1629622,Max Strus,16.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1629631,De'Andre Hunter,12.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1629636,Darius Garland,45.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1629643,Chuma Okeke,2.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1629660,Ty Jerome,68.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1629731,Dean Wade,23.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1630171,Isaac Okoro,29.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1630241,Sam Merrill,33.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1630596,Evan Mobley,52.0,True,NBA.com — https://www.nba.com/stats
+CLE,2024-25,Regular Season,1641854,Craig Porter Jr.,1641772,Nae'Qwan Tomlin,17.0,True,NBA.com — https://www.nba.com/stats

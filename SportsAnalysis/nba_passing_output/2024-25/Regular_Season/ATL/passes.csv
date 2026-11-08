@@ -1,0 +1,307 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+ATL,2024-25,Regular Season,203991,Clint Capela,1626204,Larry Nance Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1627747,Caris LeVert,23.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1627777,Georges Niang,15.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1629027,Trae Young,448.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1629611,Terance Mann,22.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1629726,Garrison Mathews,27.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1630168,Onyeka Okongwu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1630249,Vít Krejčí,57.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1630552,Jalen Johnson,171.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1630700,Dyson Daniels,151.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1630811,Keaton Wallace,57.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1631230,Dominick Barlow,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1631243,Mouhamed Gueye,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1631342,Daeqwon Plowden,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1641723,Kobe Bufkin,6.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,203991,Clint Capela,1642258,Zaccharie Risacher,53.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,203991,Clint Capela,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1627747,Caris LeVert,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1627777,Georges Niang,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1629027,Trae Young,114.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1629611,Terance Mann,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1629726,Garrison Mathews,33.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1630168,Onyeka Okongwu,12.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1630249,Vít Krejčí,50.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1630552,Jalen Johnson,34.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1630700,Dyson Daniels,75.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1630811,Keaton Wallace,60.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1631230,Dominick Barlow,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1631243,Mouhamed Gueye,6.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1631342,Daeqwon Plowden,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1626204,Larry Nance Jr.,1642258,Zaccharie Risacher,21.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,203991,Clint Capela,16.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1626204,Larry Nance Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1627777,Georges Niang,73.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1629027,Trae Young,151.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1629611,Terance Mann,55.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1629726,Garrison Mathews,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1630168,Onyeka Okongwu,65.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1630249,Vít Krejčí,34.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1630552,Jalen Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1630700,Dyson Daniels,125.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1630811,Keaton Wallace,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1631230,Dominick Barlow,18.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1631243,Mouhamed Gueye,11.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1631342,Daeqwon Plowden,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627747,Caris LeVert,1642258,Zaccharie Risacher,37.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,203991,Clint Capela,7.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1626204,Larry Nance Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1627747,Caris LeVert,79.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1629027,Trae Young,309.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1629611,Terance Mann,44.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1629726,Garrison Mathews,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1630168,Onyeka Okongwu,39.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1630249,Vít Krejčí,18.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1630552,Jalen Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1630700,Dyson Daniels,159.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1630811,Keaton Wallace,9.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1631230,Dominick Barlow,9.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1631243,Mouhamed Gueye,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1631342,Daeqwon Plowden,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1627777,Georges Niang,1642258,Zaccharie Risacher,24.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,203991,Clint Capela,307.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1626204,Larry Nance Jr.,112.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1627747,Caris LeVert,199.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1627777,Georges Niang,259.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1629611,Terance Mann,125.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1629726,Garrison Mathews,205.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1630168,Onyeka Okongwu,544.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1630249,Vít Krejčí,206.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1630552,Jalen Johnson,558.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1630700,Dyson Daniels,817.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1630811,Keaton Wallace,29.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1631230,Dominick Barlow,76.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1631243,Mouhamed Gueye,119.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1631342,Daeqwon Plowden,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629027,Trae Young,1642258,Zaccharie Risacher,501.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,203991,Clint Capela,18.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1626204,Larry Nance Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1627747,Caris LeVert,66.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1627777,Georges Niang,41.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1629027,Trae Young,158.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1629726,Garrison Mathews,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1630168,Onyeka Okongwu,42.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1630249,Vít Krejčí,45.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1630552,Jalen Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1630700,Dyson Daniels,92.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1630811,Keaton Wallace,14.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1631230,Dominick Barlow,21.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1631243,Mouhamed Gueye,18.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1631342,Daeqwon Plowden,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629611,Terance Mann,1642258,Zaccharie Risacher,32.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,203991,Clint Capela,26.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1626204,Larry Nance Jr.,24.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1627747,Caris LeVert,6.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1627777,Georges Niang,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1629027,Trae Young,205.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1629611,Terance Mann,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1630168,Onyeka Okongwu,45.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1630249,Vít Krejčí,57.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1630552,Jalen Johnson,43.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1630700,Dyson Daniels,53.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1630811,Keaton Wallace,65.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1631210,Jacob Toppin,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1631230,Dominick Barlow,10.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1631243,Mouhamed Gueye,8.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1631342,Daeqwon Plowden,11.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1641723,Kobe Bufkin,5.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1629726,Garrison Mathews,1642258,Zaccharie Risacher,23.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,203991,Clint Capela,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1626204,Larry Nance Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1627747,Caris LeVert,105.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1627777,Georges Niang,50.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1629027,Trae Young,756.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1629611,Terance Mann,50.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1629726,Garrison Mathews,53.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1630249,Vít Krejčí,131.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1630552,Jalen Johnson,118.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1630700,Dyson Daniels,403.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1630811,Keaton Wallace,65.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1631230,Dominick Barlow,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1631243,Mouhamed Gueye,36.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1631342,Daeqwon Plowden,6.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1641723,Kobe Bufkin,26.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630168,Onyeka Okongwu,1642258,Zaccharie Risacher,134.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,203991,Clint Capela,39.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1626204,Larry Nance Jr.,52.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1627747,Caris LeVert,37.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1627777,Georges Niang,20.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1629027,Trae Young,272.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1629611,Terance Mann,46.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1629726,Garrison Mathews,73.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1630168,Onyeka Okongwu,113.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1630552,Jalen Johnson,112.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1630700,Dyson Daniels,241.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1630811,Keaton Wallace,88.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1631210,Jacob Toppin,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1631230,Dominick Barlow,27.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1631243,Mouhamed Gueye,21.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1631342,Daeqwon Plowden,12.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1641723,Kobe Bufkin,11.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630249,Vít Krejčí,1642258,Zaccharie Risacher,103.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,203991,Clint Capela,131.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1626204,Larry Nance Jr.,43.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1627747,Caris LeVert,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1627777,Georges Niang,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1629027,Trae Young,1049.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1629611,Terance Mann,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1629726,Garrison Mathews,73.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1630168,Onyeka Okongwu,119.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1630249,Vít Krejčí,126.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1630700,Dyson Daniels,210.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1630811,Keaton Wallace,141.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1631230,Dominick Barlow,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1631243,Mouhamed Gueye,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1631342,Daeqwon Plowden,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1641723,Kobe Bufkin,89.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630552,Jalen Johnson,1642258,Zaccharie Risacher,158.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,203991,Clint Capela,156.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1626204,Larry Nance Jr.,84.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1627747,Caris LeVert,163.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1627777,Georges Niang,97.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1629027,Trae Young,1170.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1629611,Terance Mann,90.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1629726,Garrison Mathews,52.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1630168,Onyeka Okongwu,510.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1630249,Vít Krejčí,234.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1630552,Jalen Johnson,190.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1630811,Keaton Wallace,73.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1631230,Dominick Barlow,43.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1631243,Mouhamed Gueye,65.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1631342,Daeqwon Plowden,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1641723,Kobe Bufkin,9.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630700,Dyson Daniels,1642258,Zaccharie Risacher,299.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,203991,Clint Capela,25.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1626204,Larry Nance Jr.,34.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1627747,Caris LeVert,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1627777,Georges Niang,11.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1629027,Trae Young,29.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1629611,Terance Mann,25.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1629726,Garrison Mathews,78.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1630168,Onyeka Okongwu,70.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1630249,Vít Krejčí,96.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1630552,Jalen Johnson,123.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1630700,Dyson Daniels,99.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1631210,Jacob Toppin,9.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1631230,Dominick Barlow,21.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1631243,Mouhamed Gueye,23.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1631342,Daeqwon Plowden,13.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1630811,Keaton Wallace,1642258,Zaccharie Risacher,73.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,203991,Clint Capela,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1626204,Larry Nance Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1627747,Caris LeVert,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1627777,Georges Niang,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1629027,Trae Young,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1629611,Terance Mann,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1629726,Garrison Mathews,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1630168,Onyeka Okongwu,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1630249,Vít Krejčí,6.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1630552,Jalen Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1630700,Dyson Daniels,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1630811,Keaton Wallace,10.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1631230,Dominick Barlow,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1631243,Mouhamed Gueye,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1631342,Daeqwon Plowden,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631210,Jacob Toppin,1642258,Zaccharie Risacher,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,203991,Clint Capela,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1626204,Larry Nance Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1627747,Caris LeVert,29.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1627777,Georges Niang,12.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1629027,Trae Young,117.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1629611,Terance Mann,24.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1629726,Garrison Mathews,7.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1630168,Onyeka Okongwu,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1630249,Vít Krejčí,26.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1630552,Jalen Johnson,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1630700,Dyson Daniels,39.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1630811,Keaton Wallace,31.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1631210,Jacob Toppin,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1631243,Mouhamed Gueye,6.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1631342,Daeqwon Plowden,5.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631230,Dominick Barlow,1642258,Zaccharie Risacher,8.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,203991,Clint Capela,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1626204,Larry Nance Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1627747,Caris LeVert,15.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1627777,Georges Niang,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1629027,Trae Young,180.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1629611,Terance Mann,21.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1629726,Garrison Mathews,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1630168,Onyeka Okongwu,25.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1630249,Vít Krejčí,33.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1630552,Jalen Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1630700,Dyson Daniels,80.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1630811,Keaton Wallace,35.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1631230,Dominick Barlow,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1631342,Daeqwon Plowden,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631243,Mouhamed Gueye,1642258,Zaccharie Risacher,39.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,203991,Clint Capela,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1626204,Larry Nance Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1627747,Caris LeVert,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1627777,Georges Niang,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1629027,Trae Young,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1629611,Terance Mann,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1629726,Garrison Mathews,7.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1630168,Onyeka Okongwu,4.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1630249,Vít Krejčí,10.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1630552,Jalen Johnson,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1630700,Dyson Daniels,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1630811,Keaton Wallace,26.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1631210,Jacob Toppin,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1631230,Dominick Barlow,3.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1631243,Mouhamed Gueye,1.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1641723,Kobe Bufkin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1631342,Daeqwon Plowden,1642258,Zaccharie Risacher,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,203991,Clint Capela,5.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1626204,Larry Nance Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1627747,Caris LeVert,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1627777,Georges Niang,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1629027,Trae Young,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1629611,Terance Mann,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1629726,Garrison Mathews,2.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1630168,Onyeka Okongwu,21.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1630249,Vít Krejčí,13.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1630552,Jalen Johnson,62.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1630700,Dyson Daniels,9.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1630811,Keaton Wallace,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1631230,Dominick Barlow,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1631243,Mouhamed Gueye,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1631342,Daeqwon Plowden,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1641723,Kobe Bufkin,1642258,Zaccharie Risacher,17.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,203991,Clint Capela,47.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1626204,Larry Nance Jr.,16.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1627747,Caris LeVert,32.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1627777,Georges Niang,13.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1629027,Trae Young,562.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1629611,Terance Mann,34.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1629726,Garrison Mathews,23.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1630168,Onyeka Okongwu,79.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1630249,Vít Krejčí,84.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1630552,Jalen Johnson,114.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1630700,Dyson Daniels,282.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1630811,Keaton Wallace,73.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1631210,Jacob Toppin,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1631230,Dominick Barlow,9.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1631243,Mouhamed Gueye,34.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1631342,Daeqwon Plowden,0.0,True,NBA.com — https://www.nba.com/stats
+ATL,2024-25,Regular Season,1642258,Zaccharie Risacher,1641723,Kobe Bufkin,12.0,True,NBA.com — https://www.nba.com/stats

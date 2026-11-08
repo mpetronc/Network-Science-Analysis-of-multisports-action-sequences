@@ -1,0 +1,157 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+LAC,2021-22,Regular Season,201587,Nicolas Batum,202331,Paul George,168.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,202694,Marcus Morris Sr.,149.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,202704,Reggie Jackson,577.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,203496,Robert Covington,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,1626181,Norman Powell,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,1627826,Ivica Zubac,140.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,1628379,Luke Kennard,66.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,1628392,Isaiah Hartenstein,31.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,1629599,Amir Coffey,80.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,1629611,Terance Mann,156.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,1629875,Xavier Moon,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,201587,Nicolas Batum,1630527,Brandon Boston,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,201587,Nicolas Batum,94.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,202694,Marcus Morris Sr.,86.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,202704,Reggie Jackson,377.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,203496,Robert Covington,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,1626181,Norman Powell,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,1627826,Ivica Zubac,202.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,1628379,Luke Kennard,111.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,1628392,Isaiah Hartenstein,46.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,1629599,Amir Coffey,33.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,1629611,Terance Mann,135.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,1629875,Xavier Moon,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202331,Paul George,1630527,Brandon Boston,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,201587,Nicolas Batum,83.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,202331,Paul George,71.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,202704,Reggie Jackson,470.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,203496,Robert Covington,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,1626181,Norman Powell,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,1627826,Ivica Zubac,124.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,1628379,Luke Kennard,59.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,1628392,Isaiah Hartenstein,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,1629599,Amir Coffey,80.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,1629611,Terance Mann,132.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,1629875,Xavier Moon,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202694,Marcus Morris Sr.,1630527,Brandon Boston,14.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,201587,Nicolas Batum,393.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,202331,Paul George,445.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,202694,Marcus Morris Sr.,534.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,203496,Robert Covington,43.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,1626181,Norman Powell,25.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,1627826,Ivica Zubac,453.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,1628379,Luke Kennard,307.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,1628392,Isaiah Hartenstein,195.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,1629599,Amir Coffey,248.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,1629611,Terance Mann,325.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,1629875,Xavier Moon,5.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,202704,Reggie Jackson,1630527,Brandon Boston,58.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,201587,Nicolas Batum,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,202331,Paul George,30.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,202694,Marcus Morris Sr.,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,202704,Reggie Jackson,139.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,1626181,Norman Powell,14.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,1627826,Ivica Zubac,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,1628379,Luke Kennard,54.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,1628392,Isaiah Hartenstein,47.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,1629599,Amir Coffey,66.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,1629611,Terance Mann,178.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,1629875,Xavier Moon,23.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,203496,Robert Covington,1630527,Brandon Boston,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,201587,Nicolas Batum,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,202331,Paul George,5.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,202694,Marcus Morris Sr.,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,202704,Reggie Jackson,14.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,203496,Robert Covington,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,1627826,Ivica Zubac,7.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,1628379,Luke Kennard,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,1628392,Isaiah Hartenstein,5.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,1629599,Amir Coffey,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,1629611,Terance Mann,12.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,1629875,Xavier Moon,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1626181,Norman Powell,1630527,Brandon Boston,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,201587,Nicolas Batum,147.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,202331,Paul George,289.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,202694,Marcus Morris Sr.,145.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,202704,Reggie Jackson,903.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,203496,Robert Covington,27.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,1626181,Norman Powell,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,1628379,Luke Kennard,87.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,1628392,Isaiah Hartenstein,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,1629599,Amir Coffey,116.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,1629611,Terance Mann,191.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,1629875,Xavier Moon,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1627826,Ivica Zubac,1630527,Brandon Boston,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,201587,Nicolas Batum,66.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,202331,Paul George,130.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,202694,Marcus Morris Sr.,78.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,202704,Reggie Jackson,317.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,203496,Robert Covington,58.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,1626181,Norman Powell,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,1627826,Ivica Zubac,92.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,1628392,Isaiah Hartenstein,227.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,1629599,Amir Coffey,95.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,1629611,Terance Mann,257.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,1629875,Xavier Moon,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628379,Luke Kennard,1630527,Brandon Boston,39.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,201587,Nicolas Batum,38.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,202331,Paul George,72.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,202694,Marcus Morris Sr.,23.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,202704,Reggie Jackson,232.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,203496,Robert Covington,66.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,1626181,Norman Powell,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,1627826,Ivica Zubac,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,1628379,Luke Kennard,289.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,1629599,Amir Coffey,154.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,1629611,Terance Mann,271.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,1629875,Xavier Moon,21.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1628392,Isaiah Hartenstein,1630527,Brandon Boston,105.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,201587,Nicolas Batum,89.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,202331,Paul George,36.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,202694,Marcus Morris Sr.,109.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,202704,Reggie Jackson,278.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,203496,Robert Covington,30.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,1626181,Norman Powell,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,1627826,Ivica Zubac,92.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,1628379,Luke Kennard,98.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,1628392,Isaiah Hartenstein,120.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,1629611,Terance Mann,148.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,1629875,Xavier Moon,39.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629599,Amir Coffey,1630527,Brandon Boston,57.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,201587,Nicolas Batum,119.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,202331,Paul George,165.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,202694,Marcus Morris Sr.,171.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,202704,Reggie Jackson,429.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,203496,Robert Covington,75.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,1626181,Norman Powell,31.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,1627826,Ivica Zubac,175.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,1628379,Luke Kennard,305.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,1628392,Isaiah Hartenstein,300.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,1629599,Amir Coffey,173.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,1629875,Xavier Moon,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629611,Terance Mann,1630527,Brandon Boston,92.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,201587,Nicolas Batum,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,202331,Paul George,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,202694,Marcus Morris Sr.,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,202704,Reggie Jackson,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,203496,Robert Covington,12.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,1626181,Norman Powell,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,1627826,Ivica Zubac,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,1628379,Luke Kennard,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,1628392,Isaiah Hartenstein,30.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,1629599,Amir Coffey,43.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,1629611,Terance Mann,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1629875,Xavier Moon,1630527,Brandon Boston,28.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,201587,Nicolas Batum,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,202331,Paul George,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,202694,Marcus Morris Sr.,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,202704,Reggie Jackson,83.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,203496,Robert Covington,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,1626181,Norman Powell,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,1627826,Ivica Zubac,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,1628379,Luke Kennard,29.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,1628392,Isaiah Hartenstein,76.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,1629599,Amir Coffey,55.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,1629611,Terance Mann,87.0,True,NBA.com — https://www.nba.com/stats
+LAC,2021-22,Regular Season,1630527,Brandon Boston,1629875,Xavier Moon,28.0,True,NBA.com — https://www.nba.com/stats

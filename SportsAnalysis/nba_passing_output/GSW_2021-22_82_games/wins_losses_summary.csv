@@ -1,0 +1,5 @@
+,receiver_entropy,receiver_entropy,receiver_entropy,receiver_entropy_fixed15,receiver_entropy_fixed15,receiver_entropy_fixed15,effective_receivers,effective_receivers,effective_receivers,usage_hhi,usage_hhi,usage_hhi,max_player_usage_rate,max_player_usage_rate,max_player_usage_rate
+,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count
+result,,,,,,,,,,,,,,,
+L,0.8826738852988396,0.9213431186635236,29,0.7697676107344014,0.7953250513565203,29,8.412137768187078,8.617371995388627,29,0.14507110561100214,0.1463724733319539,29,0.3245172413793103,0.32,29
+W,0.9040250938633135,0.905692079874766,53,0.8086530593479514,0.8006025370833477,53,8.980595458848338,8.741413126494976,53,0.14091190869515235,0.14134851810303026,53,0.3330943396226415,0.322,53

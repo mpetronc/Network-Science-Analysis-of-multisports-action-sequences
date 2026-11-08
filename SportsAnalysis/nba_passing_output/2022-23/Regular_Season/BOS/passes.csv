@@ -1,0 +1,183 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+BOS,2022-23,Regular Season,201143,Al Horford,201933,Blake Griffin,8.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,203488,Mike Muscala,2.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,203935,Marcus Smart,504.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1627759,Jaylen Brown,405.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1627763,Malcolm Brogdon,221.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1628369,Jayson Tatum,555.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1628401,Derrick White,432.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1628436,Luke Kornet,2.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1629057,Robert Williams III,28.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1629684,Grant Williams,83.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1630202,Payton Pritchard,28.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1630551,Justin Champagnie,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201143,Al Horford,1630573,Sam Hauser,42.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,201143,Al Horford,7.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,203488,Mike Muscala,10.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,203935,Marcus Smart,112.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1627759,Jaylen Brown,76.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1627763,Malcolm Brogdon,105.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1628369,Jayson Tatum,126.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1628401,Derrick White,102.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1628436,Luke Kornet,7.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1629057,Robert Williams III,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1629684,Grant Williams,31.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1630202,Payton Pritchard,48.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1630551,Justin Champagnie,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,201933,Blake Griffin,1630573,Sam Hauser,35.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,201143,Al Horford,1.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,201933,Blake Griffin,9.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,203935,Marcus Smart,20.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1627759,Jaylen Brown,22.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1627763,Malcolm Brogdon,48.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1628369,Jayson Tatum,16.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1628401,Derrick White,94.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1628436,Luke Kornet,6.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1629057,Robert Williams III,5.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1629684,Grant Williams,18.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1630202,Payton Pritchard,32.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1630551,Justin Champagnie,4.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203488,Mike Muscala,1630573,Sam Hauser,21.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,201143,Al Horford,369.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,201933,Blake Griffin,95.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,203488,Mike Muscala,8.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1627759,Jaylen Brown,720.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1627763,Malcolm Brogdon,179.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1628369,Jayson Tatum,828.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1628401,Derrick White,263.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1628436,Luke Kornet,34.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1629057,Robert Williams III,59.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1629684,Grant Williams,140.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1630202,Payton Pritchard,15.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1630551,Justin Champagnie,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,203935,Marcus Smart,1630573,Sam Hauser,33.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,201143,Al Horford,338.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,201933,Blake Griffin,56.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,203488,Mike Muscala,23.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,203935,Marcus Smart,553.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,1627763,Malcolm Brogdon,366.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,1628369,Jayson Tatum,394.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,1628401,Derrick White,354.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,1628436,Luke Kornet,28.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,1629057,Robert Williams III,71.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,1629684,Grant Williams,149.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,1630202,Payton Pritchard,31.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,1630551,Justin Champagnie,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627759,Jaylen Brown,1630573,Sam Hauser,56.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,201143,Al Horford,157.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,201933,Blake Griffin,52.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,203488,Mike Muscala,29.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,203935,Marcus Smart,245.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,1627759,Jaylen Brown,442.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,1628369,Jayson Tatum,547.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,1628401,Derrick White,330.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,1628436,Luke Kornet,92.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,1629057,Robert Williams III,100.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,1629684,Grant Williams,265.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,1630202,Payton Pritchard,91.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,1630551,Justin Champagnie,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1627763,Malcolm Brogdon,1630573,Sam Hauser,153.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,201143,Al Horford,399.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,201933,Blake Griffin,75.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,203488,Mike Muscala,15.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,203935,Marcus Smart,733.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,1627759,Jaylen Brown,464.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,1627763,Malcolm Brogdon,463.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,1628401,Derrick White,575.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,1628436,Luke Kornet,60.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,1629057,Robert Williams III,109.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,1629684,Grant Williams,250.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,1630202,Payton Pritchard,81.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,1630551,Justin Champagnie,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628369,Jayson Tatum,1630573,Sam Hauser,126.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,201143,Al Horford,289.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,201933,Blake Griffin,89.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,203488,Mike Muscala,46.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,203935,Marcus Smart,380.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,1627759,Jaylen Brown,459.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,1627763,Malcolm Brogdon,325.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,1628369,Jayson Tatum,650.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,1628436,Luke Kornet,65.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,1629057,Robert Williams III,145.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,1629684,Grant Williams,200.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,1630202,Payton Pritchard,82.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,1630551,Justin Champagnie,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628401,Derrick White,1630573,Sam Hauser,138.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,201143,Al Horford,3.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,201933,Blake Griffin,7.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,203488,Mike Muscala,7.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,203935,Marcus Smart,53.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,1627759,Jaylen Brown,48.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,1627763,Malcolm Brogdon,159.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,1628369,Jayson Tatum,89.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,1628401,Derrick White,93.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,1629057,Robert Williams III,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,1629684,Grant Williams,38.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,1630202,Payton Pritchard,83.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,1630551,Justin Champagnie,4.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1628436,Luke Kornet,1630573,Sam Hauser,63.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,201143,Al Horford,45.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,201933,Blake Griffin,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,203488,Mike Muscala,5.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,203935,Marcus Smart,84.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,1627759,Jaylen Brown,109.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,1627763,Malcolm Brogdon,145.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,1628369,Jayson Tatum,219.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,1628401,Derrick White,170.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,1628436,Luke Kornet,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,1629684,Grant Williams,30.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,1630202,Payton Pritchard,40.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,1630551,Justin Champagnie,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629057,Robert Williams III,1630573,Sam Hauser,25.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,201143,Al Horford,77.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,201933,Blake Griffin,27.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,203488,Mike Muscala,15.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,203935,Marcus Smart,227.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,1627759,Jaylen Brown,200.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,1627763,Malcolm Brogdon,321.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,1628369,Jayson Tatum,321.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,1628401,Derrick White,265.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,1628436,Luke Kornet,23.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,1629057,Robert Williams III,19.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,1630202,Payton Pritchard,107.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,1630551,Justin Champagnie,1.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1629684,Grant Williams,1630573,Sam Hauser,57.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,201143,Al Horford,20.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,201933,Blake Griffin,38.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,203488,Mike Muscala,29.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,203935,Marcus Smart,20.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,1627759,Jaylen Brown,54.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,1627763,Malcolm Brogdon,113.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,1628369,Jayson Tatum,89.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,1628401,Derrick White,80.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,1628436,Luke Kornet,84.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,1629057,Robert Williams III,20.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,1629684,Grant Williams,83.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,1630551,Justin Champagnie,7.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630202,Payton Pritchard,1630573,Sam Hauser,119.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,201143,Al Horford,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,201933,Blake Griffin,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,203488,Mike Muscala,3.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,1627759,Jaylen Brown,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,1627763,Malcolm Brogdon,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,1628369,Jayson Tatum,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,1628401,Derrick White,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,1628436,Luke Kornet,4.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,1629057,Robert Williams III,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,1629684,Grant Williams,0.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,1630202,Payton Pritchard,8.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630551,Justin Champagnie,1630573,Sam Hauser,2.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,201143,Al Horford,32.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,201933,Blake Griffin,29.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,203488,Mike Muscala,15.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,203935,Marcus Smart,74.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,1627759,Jaylen Brown,74.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,1627763,Malcolm Brogdon,231.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,1628369,Jayson Tatum,107.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,1628401,Derrick White,198.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,1628436,Luke Kornet,53.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,1629057,Robert Williams III,24.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,1629684,Grant Williams,60.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,1630202,Payton Pritchard,144.0,True,NBA.com — https://www.nba.com/stats
+BOS,2022-23,Regular Season,1630573,Sam Hauser,1630551,Justin Champagnie,0.0,True,NBA.com — https://www.nba.com/stats

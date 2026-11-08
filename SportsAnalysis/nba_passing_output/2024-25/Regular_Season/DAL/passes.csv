@@ -1,0 +1,307 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DAL,2024-25,Regular Season,202681,Kyrie Irving,202691,Klay Thompson,235.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,203076,Anthony Davis,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,203915,Spencer Dinwiddie,278.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,203939,Dwight Powell,34.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,203957,Dante Exum,73.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1628997,Caleb Martin,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1629023,P.J. Washington,274.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1629650,Moses Brown,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1629655,Daniel Gafford,181.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1630230,Naji Marshall,270.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1630314,Brandon Williams,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1630539,Kai Jones,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1630556,Kessler Edwards,54.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1630702,Jaden Hardy,61.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1631108,Max Christie,67.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1641726,Dereck Lively II,112.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202681,Kyrie Irving,1641765,Olivier-Maxence Prosper,76.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,202681,Kyrie Irving,164.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,203076,Anthony Davis,24.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,203915,Spencer Dinwiddie,165.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,203939,Dwight Powell,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,203957,Dante Exum,50.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1628997,Caleb Martin,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1629023,P.J. Washington,119.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1629650,Moses Brown,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1629655,Daniel Gafford,90.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1630230,Naji Marshall,105.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1630314,Brandon Williams,38.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1630539,Kai Jones,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1630556,Kessler Edwards,47.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1630702,Jaden Hardy,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1631108,Max Christie,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1641726,Dereck Lively II,102.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,202691,Klay Thompson,1641765,Olivier-Maxence Prosper,33.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,202681,Kyrie Irving,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,202691,Klay Thompson,30.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,203915,Spencer Dinwiddie,93.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,203939,Dwight Powell,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,203957,Dante Exum,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1628997,Caleb Martin,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1629023,P.J. Washington,44.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1629650,Moses Brown,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1629655,Daniel Gafford,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1630230,Naji Marshall,53.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1630314,Brandon Williams,27.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1630539,Kai Jones,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1630556,Kessler Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1630702,Jaden Hardy,27.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1631108,Max Christie,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1641726,Dereck Lively II,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203076,Anthony Davis,1641765,Olivier-Maxence Prosper,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,202681,Kyrie Irving,304.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,202691,Klay Thompson,254.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,203076,Anthony Davis,114.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,203939,Dwight Powell,53.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,203957,Dante Exum,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1628997,Caleb Martin,40.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1629023,P.J. Washington,308.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1629650,Moses Brown,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1629655,Daniel Gafford,199.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1630230,Naji Marshall,377.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1630314,Brandon Williams,68.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1630539,Kai Jones,50.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1630556,Kessler Edwards,66.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1630702,Jaden Hardy,150.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1631108,Max Christie,169.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1641726,Dereck Lively II,93.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203915,Spencer Dinwiddie,1641765,Olivier-Maxence Prosper,85.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,202681,Kyrie Irving,56.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,202691,Klay Thompson,50.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,203076,Anthony Davis,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,203915,Spencer Dinwiddie,105.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,203957,Dante Exum,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1628997,Caleb Martin,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1629023,P.J. Washington,22.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1629650,Moses Brown,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1629655,Daniel Gafford,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1630230,Naji Marshall,66.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1630314,Brandon Williams,91.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1630539,Kai Jones,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1630556,Kessler Edwards,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1630702,Jaden Hardy,69.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1631108,Max Christie,61.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203939,Dwight Powell,1641765,Olivier-Maxence Prosper,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,202681,Kyrie Irving,85.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,202691,Klay Thompson,68.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,203076,Anthony Davis,19.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,203915,Spencer Dinwiddie,49.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,203939,Dwight Powell,35.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1628997,Caleb Martin,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1629023,P.J. Washington,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1629650,Moses Brown,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1629655,Daniel Gafford,21.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1630230,Naji Marshall,64.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1630314,Brandon Williams,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1630539,Kai Jones,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1630556,Kessler Edwards,58.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1630702,Jaden Hardy,16.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1631108,Max Christie,71.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1641726,Dereck Lively II,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,203957,Dante Exum,1641765,Olivier-Maxence Prosper,19.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,202681,Kyrie Irving,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,202691,Klay Thompson,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,203076,Anthony Davis,29.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,203915,Spencer Dinwiddie,46.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,203939,Dwight Powell,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,203957,Dante Exum,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1629023,P.J. Washington,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1629650,Moses Brown,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1629655,Daniel Gafford,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1630230,Naji Marshall,42.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1630314,Brandon Williams,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1630539,Kai Jones,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1630556,Kessler Edwards,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1630702,Jaden Hardy,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1631108,Max Christie,24.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1641726,Dereck Lively II,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1628997,Caleb Martin,1641765,Olivier-Maxence Prosper,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,202681,Kyrie Irving,407.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,202691,Klay Thompson,145.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,203076,Anthony Davis,35.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,203915,Spencer Dinwiddie,491.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,203939,Dwight Powell,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,203957,Dante Exum,35.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1628997,Caleb Martin,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1629650,Moses Brown,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1629655,Daniel Gafford,58.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1630230,Naji Marshall,254.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1630314,Brandon Williams,47.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1630539,Kai Jones,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1630556,Kessler Edwards,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1630702,Jaden Hardy,129.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1631108,Max Christie,46.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1641726,Dereck Lively II,68.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629023,P.J. Washington,1641765,Olivier-Maxence Prosper,18.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,202681,Kyrie Irving,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,202691,Klay Thompson,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,203076,Anthony Davis,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,203915,Spencer Dinwiddie,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,203939,Dwight Powell,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,203957,Dante Exum,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1628997,Caleb Martin,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1629023,P.J. Washington,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1629655,Daniel Gafford,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1630230,Naji Marshall,16.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1630314,Brandon Williams,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1630539,Kai Jones,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1630556,Kessler Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1630702,Jaden Hardy,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1631108,Max Christie,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629650,Moses Brown,1641765,Olivier-Maxence Prosper,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,202681,Kyrie Irving,302.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,202691,Klay Thompson,121.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,203076,Anthony Davis,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,203915,Spencer Dinwiddie,217.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,203939,Dwight Powell,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,203957,Dante Exum,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1628997,Caleb Martin,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1629023,P.J. Washington,154.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1629650,Moses Brown,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1630230,Naji Marshall,122.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1630314,Brandon Williams,19.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1630539,Kai Jones,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1630556,Kessler Edwards,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1630702,Jaden Hardy,69.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1631108,Max Christie,30.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1629655,Daniel Gafford,1641765,Olivier-Maxence Prosper,12.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,202681,Kyrie Irving,307.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,202691,Klay Thompson,164.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,203076,Anthony Davis,53.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,203915,Spencer Dinwiddie,373.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,203939,Dwight Powell,62.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,203957,Dante Exum,83.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1628997,Caleb Martin,37.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1629023,P.J. Washington,177.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1629650,Moses Brown,16.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1629655,Daniel Gafford,118.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1630314,Brandon Williams,101.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1630539,Kai Jones,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1630556,Kessler Edwards,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1630702,Jaden Hardy,128.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1631108,Max Christie,181.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1641726,Dereck Lively II,92.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630230,Naji Marshall,1641765,Olivier-Maxence Prosper,37.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,202681,Kyrie Irving,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,202691,Klay Thompson,45.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,203076,Anthony Davis,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,203915,Spencer Dinwiddie,82.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,203939,Dwight Powell,81.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,203957,Dante Exum,16.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1628997,Caleb Martin,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1629023,P.J. Washington,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1629650,Moses Brown,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1629655,Daniel Gafford,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1630230,Naji Marshall,94.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1630539,Kai Jones,6.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1630556,Kessler Edwards,51.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1630702,Jaden Hardy,59.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1631108,Max Christie,69.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1641726,Dereck Lively II,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630314,Brandon Williams,1641765,Olivier-Maxence Prosper,27.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,202681,Kyrie Irving,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,202691,Klay Thompson,22.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,203076,Anthony Davis,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,203915,Spencer Dinwiddie,85.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,203939,Dwight Powell,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,203957,Dante Exum,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1628997,Caleb Martin,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1629023,P.J. Washington,22.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1629650,Moses Brown,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1629655,Daniel Gafford,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1630230,Naji Marshall,57.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1630314,Brandon Williams,13.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1630556,Kessler Edwards,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1630702,Jaden Hardy,34.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1631108,Max Christie,42.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630539,Kai Jones,1641765,Olivier-Maxence Prosper,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,202681,Kyrie Irving,85.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,202691,Klay Thompson,67.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,203076,Anthony Davis,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,203915,Spencer Dinwiddie,115.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,203939,Dwight Powell,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,203957,Dante Exum,105.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1628997,Caleb Martin,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1629023,P.J. Washington,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1629650,Moses Brown,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1629655,Daniel Gafford,10.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1630230,Naji Marshall,79.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1630314,Brandon Williams,77.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1630539,Kai Jones,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1630702,Jaden Hardy,33.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1631108,Max Christie,61.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1641726,Dereck Lively II,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630556,Kessler Edwards,1641765,Olivier-Maxence Prosper,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,202681,Kyrie Irving,50.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,202691,Klay Thompson,42.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,203076,Anthony Davis,8.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,203915,Spencer Dinwiddie,105.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,203939,Dwight Powell,37.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,203957,Dante Exum,14.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1628997,Caleb Martin,16.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1629023,P.J. Washington,45.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1629650,Moses Brown,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1629655,Daniel Gafford,43.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1630230,Naji Marshall,118.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1630314,Brandon Williams,41.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1630539,Kai Jones,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1630556,Kessler Edwards,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1631108,Max Christie,39.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1641726,Dereck Lively II,45.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1630702,Jaden Hardy,1641765,Olivier-Maxence Prosper,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,202681,Kyrie Irving,97.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,202691,Klay Thompson,75.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,203076,Anthony Davis,23.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,203915,Spencer Dinwiddie,209.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,203939,Dwight Powell,40.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,203957,Dante Exum,61.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1628997,Caleb Martin,32.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1629023,P.J. Washington,45.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1629650,Moses Brown,9.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1629655,Daniel Gafford,26.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1630230,Naji Marshall,178.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1630314,Brandon Williams,74.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1630539,Kai Jones,28.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1630556,Kessler Edwards,46.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1630702,Jaden Hardy,38.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1641726,Dereck Lively II,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1631108,Max Christie,1641765,Olivier-Maxence Prosper,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,202681,Kyrie Irving,204.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,202691,Klay Thompson,143.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,203076,Anthony Davis,7.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,203915,Spencer Dinwiddie,159.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,203939,Dwight Powell,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,203957,Dante Exum,4.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1628997,Caleb Martin,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1629023,P.J. Washington,92.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1629650,Moses Brown,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1629655,Daniel Gafford,1.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1630230,Naji Marshall,93.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1630314,Brandon Williams,5.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1630539,Kai Jones,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1630556,Kessler Edwards,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1630702,Jaden Hardy,69.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1631108,Max Christie,3.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641726,Dereck Lively II,1641765,Olivier-Maxence Prosper,2.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,202681,Kyrie Irving,80.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,202691,Klay Thompson,35.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,203076,Anthony Davis,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,203915,Spencer Dinwiddie,116.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,203939,Dwight Powell,15.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,203957,Dante Exum,25.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1628997,Caleb Martin,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1629023,P.J. Washington,22.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1629650,Moses Brown,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1629655,Daniel Gafford,11.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1630230,Naji Marshall,62.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1630314,Brandon Williams,36.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1630539,Kai Jones,0.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1630556,Kessler Edwards,17.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1630702,Jaden Hardy,40.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1631108,Max Christie,31.0,True,NBA.com — https://www.nba.com/stats
+DAL,2024-25,Regular Season,1641765,Olivier-Maxence Prosper,1641726,Dereck Lively II,1.0,True,NBA.com — https://www.nba.com/stats

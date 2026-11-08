@@ -1,0 +1,343 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+DET,2023-24,Regular Season,203095,Evan Fournier,203925,Joe Harris,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1628972,Troy Brown Jr.,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1629002,Chimezie Metu,33.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1629656,Quentin Grimes,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1630164,James Wiseman,57.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1630191,Isaiah Stewart,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1630201,Malachi Flynn,105.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1630595,Cade Cunningham,70.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1630649,Stanley Umude,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1631093,Jaden Ivey,35.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1631105,Jalen Duren,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1631197,Jared Rhoden,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1631204,Marcus Sasser,107.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1631323,Simone Fontecchio,28.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1641709,Ausar Thompson,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203095,Evan Fournier,1641787,Tosan Evbuomwan,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,203095,Evan Fournier,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1628972,Troy Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1629002,Chimezie Metu,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1629656,Quentin Grimes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1630164,James Wiseman,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1630165,Killian Hayes,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1630191,Isaiah Stewart,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1630201,Malachi Flynn,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1630587,Isaiah Livers,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1630595,Cade Cunningham,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1630649,Stanley Umude,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1631093,Jaden Ivey,20.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1631105,Jalen Duren,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1631204,Marcus Sasser,22.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1631323,Simone Fontecchio,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1641709,Ausar Thompson,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,203925,Joe Harris,1641787,Tosan Evbuomwan,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,203095,Evan Fournier,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,203925,Joe Harris,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1629002,Chimezie Metu,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1629656,Quentin Grimes,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1630164,James Wiseman,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1630201,Malachi Flynn,45.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1630595,Cade Cunningham,25.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1630649,Stanley Umude,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1631093,Jaden Ivey,41.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1631105,Jalen Duren,22.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1631197,Jared Rhoden,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1631204,Marcus Sasser,67.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1631323,Simone Fontecchio,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1641709,Ausar Thompson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1628972,Troy Brown Jr.,1641787,Tosan Evbuomwan,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,203095,Evan Fournier,27.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,203925,Joe Harris,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1628972,Troy Brown Jr.,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1629656,Quentin Grimes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1630164,James Wiseman,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1630201,Malachi Flynn,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1630595,Cade Cunningham,25.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1630649,Stanley Umude,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1631093,Jaden Ivey,57.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1631105,Jalen Duren,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1631197,Jared Rhoden,25.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1631204,Marcus Sasser,96.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1631323,Simone Fontecchio,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1641709,Ausar Thompson,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629002,Chimezie Metu,1641787,Tosan Evbuomwan,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,203095,Evan Fournier,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,203925,Joe Harris,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1628972,Troy Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1629002,Chimezie Metu,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1630164,James Wiseman,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1630191,Isaiah Stewart,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1630201,Malachi Flynn,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1630595,Cade Cunningham,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1630649,Stanley Umude,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1631093,Jaden Ivey,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1631105,Jalen Duren,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1631204,Marcus Sasser,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1631323,Simone Fontecchio,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1641709,Ausar Thompson,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1629656,Quentin Grimes,1641787,Tosan Evbuomwan,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,203095,Evan Fournier,83.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,203925,Joe Harris,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1628972,Troy Brown Jr.,28.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1629002,Chimezie Metu,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1629656,Quentin Grimes,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1630165,Killian Hayes,114.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1630191,Isaiah Stewart,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1630201,Malachi Flynn,181.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1630587,Isaiah Livers,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1630595,Cade Cunningham,190.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1630649,Stanley Umude,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1631093,Jaden Ivey,173.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1631105,Jalen Duren,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1631197,Jared Rhoden,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1631204,Marcus Sasser,349.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1631323,Simone Fontecchio,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1641709,Ausar Thompson,49.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630164,James Wiseman,1641787,Tosan Evbuomwan,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,203095,Evan Fournier,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,203925,Joe Harris,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1628972,Troy Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1629002,Chimezie Metu,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1629656,Quentin Grimes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1630164,James Wiseman,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1630191,Isaiah Stewart,146.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1630201,Malachi Flynn,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1630587,Isaiah Livers,52.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1630595,Cade Cunningham,285.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1630649,Stanley Umude,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1631093,Jaden Ivey,188.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1631105,Jalen Duren,200.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1631197,Jared Rhoden,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1631204,Marcus Sasser,95.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1631323,Simone Fontecchio,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1641709,Ausar Thompson,122.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630165,Killian Hayes,1641787,Tosan Evbuomwan,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,203095,Evan Fournier,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,203925,Joe Harris,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1628972,Troy Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1629002,Chimezie Metu,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1629656,Quentin Grimes,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1630164,James Wiseman,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1630165,Killian Hayes,144.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1630201,Malachi Flynn,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1630587,Isaiah Livers,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1630595,Cade Cunningham,449.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1630649,Stanley Umude,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1631093,Jaden Ivey,151.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1631105,Jalen Duren,51.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1631197,Jared Rhoden,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1631204,Marcus Sasser,80.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1631323,Simone Fontecchio,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1641709,Ausar Thompson,93.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630191,Isaiah Stewart,1641787,Tosan Evbuomwan,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,203095,Evan Fournier,115.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,203925,Joe Harris,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1628972,Troy Brown Jr.,46.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1629002,Chimezie Metu,51.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1629656,Quentin Grimes,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1630164,James Wiseman,95.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1630595,Cade Cunningham,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1630649,Stanley Umude,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1631093,Jaden Ivey,41.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1631105,Jalen Duren,22.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1631197,Jared Rhoden,36.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1631204,Marcus Sasser,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1631323,Simone Fontecchio,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1641709,Ausar Thompson,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630201,Malachi Flynn,1641787,Tosan Evbuomwan,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,203095,Evan Fournier,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,203925,Joe Harris,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1628972,Troy Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1629002,Chimezie Metu,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1629656,Quentin Grimes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1630164,James Wiseman,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1630165,Killian Hayes,56.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1630191,Isaiah Stewart,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1630201,Malachi Flynn,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1630595,Cade Cunningham,91.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1630649,Stanley Umude,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1631093,Jaden Ivey,39.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1631105,Jalen Duren,9.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1631204,Marcus Sasser,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1631323,Simone Fontecchio,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1641709,Ausar Thompson,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630587,Isaiah Livers,1641787,Tosan Evbuomwan,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,203095,Evan Fournier,41.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,203925,Joe Harris,16.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1628972,Troy Brown Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1629002,Chimezie Metu,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1629656,Quentin Grimes,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1630164,James Wiseman,91.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1630165,Killian Hayes,224.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1630191,Isaiah Stewart,301.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1630201,Malachi Flynn,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1630587,Isaiah Livers,62.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1630649,Stanley Umude,25.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1631093,Jaden Ivey,620.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1631105,Jalen Duren,573.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1631197,Jared Rhoden,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1631204,Marcus Sasser,158.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1631323,Simone Fontecchio,133.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1641709,Ausar Thompson,273.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630595,Cade Cunningham,1641787,Tosan Evbuomwan,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,203095,Evan Fournier,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,203925,Joe Harris,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1628972,Troy Brown Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1629002,Chimezie Metu,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1629656,Quentin Grimes,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1630164,James Wiseman,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1630165,Killian Hayes,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1630191,Isaiah Stewart,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1630201,Malachi Flynn,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1630587,Isaiah Livers,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1630595,Cade Cunningham,25.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1631093,Jaden Ivey,18.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1631105,Jalen Duren,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1631204,Marcus Sasser,40.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1631323,Simone Fontecchio,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1641709,Ausar Thompson,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1630649,Stanley Umude,1641787,Tosan Evbuomwan,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,203095,Evan Fournier,30.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,203925,Joe Harris,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1628972,Troy Brown Jr.,33.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1629002,Chimezie Metu,56.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1629656,Quentin Grimes,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1630164,James Wiseman,97.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1630165,Killian Hayes,114.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1630191,Isaiah Stewart,113.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1630201,Malachi Flynn,26.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1630587,Isaiah Livers,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1630595,Cade Cunningham,561.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1630649,Stanley Umude,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1631105,Jalen Duren,341.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1631197,Jared Rhoden,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1631204,Marcus Sasser,234.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1631323,Simone Fontecchio,49.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1641709,Ausar Thompson,101.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631093,Jaden Ivey,1641787,Tosan Evbuomwan,28.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,203095,Evan Fournier,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,203925,Joe Harris,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1628972,Troy Brown Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1629002,Chimezie Metu,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1629656,Quentin Grimes,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1630164,James Wiseman,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1630165,Killian Hayes,278.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1630191,Isaiah Stewart,86.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1630201,Malachi Flynn,33.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1630587,Isaiah Livers,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1630595,Cade Cunningham,1112.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1630649,Stanley Umude,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1631093,Jaden Ivey,491.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1631204,Marcus Sasser,209.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1631323,Simone Fontecchio,26.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1641709,Ausar Thompson,112.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631105,Jalen Duren,1641787,Tosan Evbuomwan,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,203095,Evan Fournier,10.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,203925,Joe Harris,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1628972,Troy Brown Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1629002,Chimezie Metu,17.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1629656,Quentin Grimes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1630164,James Wiseman,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1630165,Killian Hayes,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1630191,Isaiah Stewart,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1630201,Malachi Flynn,54.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1630595,Cade Cunningham,8.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1630649,Stanley Umude,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1631093,Jaden Ivey,14.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1631105,Jalen Duren,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1631204,Marcus Sasser,81.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1631323,Simone Fontecchio,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1641709,Ausar Thompson,3.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631197,Jared Rhoden,1641787,Tosan Evbuomwan,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,203095,Evan Fournier,113.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,203925,Joe Harris,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1628972,Troy Brown Jr.,47.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1629002,Chimezie Metu,70.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1629656,Quentin Grimes,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1630164,James Wiseman,184.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1630165,Killian Hayes,99.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1630191,Isaiah Stewart,63.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1630201,Malachi Flynn,31.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1630587,Isaiah Livers,42.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1630595,Cade Cunningham,151.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1630649,Stanley Umude,36.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1631093,Jaden Ivey,333.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1631105,Jalen Duren,136.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1631197,Jared Rhoden,36.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1631323,Simone Fontecchio,47.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1641709,Ausar Thompson,110.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631204,Marcus Sasser,1641787,Tosan Evbuomwan,21.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,203095,Evan Fournier,24.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,203925,Joe Harris,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1628972,Troy Brown Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1629002,Chimezie Metu,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1629656,Quentin Grimes,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1630164,James Wiseman,13.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1630191,Isaiah Stewart,23.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1630201,Malachi Flynn,12.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1630595,Cade Cunningham,125.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1630649,Stanley Umude,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1631093,Jaden Ivey,40.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1631105,Jalen Duren,24.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1631204,Marcus Sasser,46.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1641709,Ausar Thompson,24.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1631323,Simone Fontecchio,1641787,Tosan Evbuomwan,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,203095,Evan Fournier,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,203925,Joe Harris,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1628972,Troy Brown Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1629002,Chimezie Metu,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1629656,Quentin Grimes,5.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1630164,James Wiseman,29.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1630165,Killian Hayes,130.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1630191,Isaiah Stewart,89.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1630201,Malachi Flynn,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1630587,Isaiah Livers,15.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1630595,Cade Cunningham,340.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1630649,Stanley Umude,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1631093,Jaden Ivey,141.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1631105,Jalen Duren,91.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1631197,Jared Rhoden,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1631204,Marcus Sasser,151.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1631323,Simone Fontecchio,19.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641709,Ausar Thompson,1641787,Tosan Evbuomwan,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,203095,Evan Fournier,11.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,203925,Joe Harris,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1628972,Troy Brown Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1629002,Chimezie Metu,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1629656,Quentin Grimes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1630164,James Wiseman,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1630165,Killian Hayes,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1630191,Isaiah Stewart,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1630201,Malachi Flynn,24.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1630587,Isaiah Livers,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1630595,Cade Cunningham,44.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1630649,Stanley Umude,2.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1631093,Jaden Ivey,33.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1631105,Jalen Duren,7.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1631197,Jared Rhoden,1.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1631204,Marcus Sasser,29.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1631323,Simone Fontecchio,0.0,True,NBA.com — https://www.nba.com/stats
+DET,2023-24,Regular Season,1641787,Tosan Evbuomwan,1641709,Ausar Thompson,0.0,True,NBA.com — https://www.nba.com/stats

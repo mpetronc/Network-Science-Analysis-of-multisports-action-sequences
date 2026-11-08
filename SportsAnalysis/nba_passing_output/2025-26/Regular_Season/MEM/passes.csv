@@ -1,0 +1,553 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1629630,Ja Morant,156.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1629634,Brandon Clarke,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1629660,Ty Jerome,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1630583,Santi Aldama,160.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1630590,Scotty Pippen Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1641707,Taylor Hendricks,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1641712,Rayan Rupert,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1641713,GG Jackson,44.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1641744,Zach Edey,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1641765,Olivier-Maxence Prosper,29.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1642285,Cam Spencer,368.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1642377,Jaylen Wells,110.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1642380,Adama Bal,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1642383,Walter Clayton Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1642907,Cedric Coward,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1642914,Javon Small,79.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1642942,Jahmai Mashack,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,203484,Kentavious Caldwell-Pope,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,203484,Kentavious Caldwell-Pope,123.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1630583,Santi Aldama,120.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1641707,Taylor Hendricks,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1641712,Rayan Rupert,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1641713,GG Jackson,28.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1641744,Zach Edey,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1641765,Olivier-Maxence Prosper,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1642285,Cam Spencer,83.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1642377,Jaylen Wells,133.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1642380,Adama Bal,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1642383,Walter Clayton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1642907,Cedric Coward,159.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1642914,Javon Small,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1642942,Jahmai Mashack,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629630,Ja Morant,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,203484,Kentavious Caldwell-Pope,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1630583,Santi Aldama,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1641707,Taylor Hendricks,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1641712,Rayan Rupert,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1641713,GG Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1641765,Olivier-Maxence Prosper,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1642285,Cam Spencer,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1642377,Jaylen Wells,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1642380,Adama Bal,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1642383,Walter Clayton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1642907,Cedric Coward,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1642914,Javon Small,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1642942,Jahmai Mashack,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629634,Brandon Clarke,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,203484,Kentavious Caldwell-Pope,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1630583,Santi Aldama,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1630590,Scotty Pippen Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1630610,DeJon Jarreau,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1631174,Tyler Burton,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1641707,Taylor Hendricks,40.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1641712,Rayan Rupert,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1641713,GG Jackson,74.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1641765,Olivier-Maxence Prosper,49.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1642285,Cam Spencer,21.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1642377,Jaylen Wells,56.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1642380,Adama Bal,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1642383,Walter Clayton Jr.,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1642907,Cedric Coward,69.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1642914,Javon Small,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1642942,Jahmai Mashack,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1643133,Lawson Lovering,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1629660,Ty Jerome,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,203484,Kentavious Caldwell-Pope,194.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1629630,Ja Morant,184.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1629634,Brandon Clarke,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1629660,Ty Jerome,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1641707,Taylor Hendricks,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1641712,Rayan Rupert,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1641713,GG Jackson,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1641744,Zach Edey,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1641765,Olivier-Maxence Prosper,29.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1642285,Cam Spencer,386.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1642377,Jaylen Wells,155.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1642380,Adama Bal,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1642383,Walter Clayton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1642907,Cedric Coward,160.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1642914,Javon Small,63.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1642942,Jahmai Mashack,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630583,Santi Aldama,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,203484,Kentavious Caldwell-Pope,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1629660,Ty Jerome,39.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1641707,Taylor Hendricks,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1641712,Rayan Rupert,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1641713,GG Jackson,66.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1641765,Olivier-Maxence Prosper,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1642285,Cam Spencer,55.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1642377,Jaylen Wells,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1642380,Adama Bal,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1642383,Walter Clayton Jr.,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1642907,Cedric Coward,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1642914,Javon Small,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1642942,Jahmai Mashack,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1643133,Lawson Lovering,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630590,Scotty Pippen Jr.,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,203484,Kentavious Caldwell-Pope,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1629660,Ty Jerome,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1631174,Tyler Burton,47.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1641707,Taylor Hendricks,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1641712,Rayan Rupert,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1641713,GG Jackson,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1641765,Olivier-Maxence Prosper,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1642285,Cam Spencer,39.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1642377,Jaylen Wells,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1642380,Adama Bal,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1642383,Walter Clayton Jr.,114.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1642907,Cedric Coward,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1642914,Javon Small,28.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1642942,Jahmai Mashack,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1630610,DeJon Jarreau,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,203484,Kentavious Caldwell-Pope,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1629660,Ty Jerome,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1630610,DeJon Jarreau,47.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1641707,Taylor Hendricks,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1641712,Rayan Rupert,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1641713,GG Jackson,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1641765,Olivier-Maxence Prosper,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1642285,Cam Spencer,30.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1642377,Jaylen Wells,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1642380,Adama Bal,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1642383,Walter Clayton Jr.,75.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1642907,Cedric Coward,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1642914,Javon Small,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1642942,Jahmai Mashack,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631174,Tyler Burton,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,203484,Kentavious Caldwell-Pope,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1630610,DeJon Jarreau,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1641707,Taylor Hendricks,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1641712,Rayan Rupert,30.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1641713,GG Jackson,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1641727,Dariq Whitehead,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1641765,Olivier-Maxence Prosper,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1642285,Cam Spencer,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1642377,Jaylen Wells,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1642380,Adama Bal,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1642383,Walter Clayton Jr.,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1642907,Cedric Coward,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1642914,Javon Small,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1642942,Jahmai Mashack,89.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1631351,Lucas Williamson,1643253,Toby Okani,21.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,203484,Kentavious Caldwell-Pope,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1629660,Ty Jerome,48.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1630590,Scotty Pippen Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1630610,DeJon Jarreau,30.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1631174,Tyler Burton,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1631351,Lucas Williamson,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1641712,Rayan Rupert,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1641713,GG Jackson,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1641727,Dariq Whitehead,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1641765,Olivier-Maxence Prosper,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1642285,Cam Spencer,63.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1642377,Jaylen Wells,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1642380,Adama Bal,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1642383,Walter Clayton Jr.,92.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1642907,Cedric Coward,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1642914,Javon Small,65.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1642942,Jahmai Mashack,31.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641707,Taylor Hendricks,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,203484,Kentavious Caldwell-Pope,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1629660,Ty Jerome,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1630590,Scotty Pippen Jr.,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1630610,DeJon Jarreau,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1631174,Tyler Burton,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1631351,Lucas Williamson,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1641707,Taylor Hendricks,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1641713,GG Jackson,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1641727,Dariq Whitehead,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1641765,Olivier-Maxence Prosper,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1642285,Cam Spencer,28.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1642377,Jaylen Wells,21.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1642380,Adama Bal,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1642383,Walter Clayton Jr.,88.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1642907,Cedric Coward,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1642914,Javon Small,53.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1642942,Jahmai Mashack,98.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641712,Rayan Rupert,1643253,Toby Okani,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,203484,Kentavious Caldwell-Pope,62.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1629630,Ja Morant,29.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1629660,Ty Jerome,96.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1630583,Santi Aldama,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1630590,Scotty Pippen Jr.,78.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1630610,DeJon Jarreau,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1631174,Tyler Burton,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1631351,Lucas Williamson,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1641707,Taylor Hendricks,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1641712,Rayan Rupert,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1641727,Dariq Whitehead,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1641744,Zach Edey,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1641765,Olivier-Maxence Prosper,59.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1642285,Cam Spencer,272.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1642377,Jaylen Wells,130.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1642380,Adama Bal,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1642383,Walter Clayton Jr.,97.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1642907,Cedric Coward,98.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1642914,Javon Small,169.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1642942,Jahmai Mashack,47.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1643133,Lawson Lovering,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641713,GG Jackson,1643253,Toby Okani,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,203484,Kentavious Caldwell-Pope,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1631351,Lucas Williamson,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1641707,Taylor Hendricks,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1641712,Rayan Rupert,20.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1641713,GG Jackson,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1641765,Olivier-Maxence Prosper,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1642285,Cam Spencer,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1642377,Jaylen Wells,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1642380,Adama Bal,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1642383,Walter Clayton Jr.,21.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1642907,Cedric Coward,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1642914,Javon Small,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1642942,Jahmai Mashack,53.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641727,Dariq Whitehead,1643253,Toby Okani,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,203484,Kentavious Caldwell-Pope,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1630583,Santi Aldama,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1641707,Taylor Hendricks,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1641712,Rayan Rupert,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1641713,GG Jackson,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1641765,Olivier-Maxence Prosper,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1642285,Cam Spencer,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1642377,Jaylen Wells,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1642380,Adama Bal,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1642383,Walter Clayton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1642907,Cedric Coward,57.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1642914,Javon Small,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1642942,Jahmai Mashack,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641744,Zach Edey,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,203484,Kentavious Caldwell-Pope,42.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1629630,Ja Morant,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1629634,Brandon Clarke,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1629660,Ty Jerome,67.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1630583,Santi Aldama,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1630590,Scotty Pippen Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1630610,DeJon Jarreau,30.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1631174,Tyler Burton,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1631351,Lucas Williamson,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1641707,Taylor Hendricks,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1641712,Rayan Rupert,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1641713,GG Jackson,71.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1641727,Dariq Whitehead,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1642285,Cam Spencer,111.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1642377,Jaylen Wells,51.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1642380,Adama Bal,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1642383,Walter Clayton Jr.,92.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1642907,Cedric Coward,71.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1642914,Javon Small,116.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1642942,Jahmai Mashack,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1641765,Olivier-Maxence Prosper,1643253,Toby Okani,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,203484,Kentavious Caldwell-Pope,290.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1629630,Ja Morant,72.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1629660,Ty Jerome,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1630583,Santi Aldama,376.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1630590,Scotty Pippen Jr.,63.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1630610,DeJon Jarreau,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1631174,Tyler Burton,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1631351,Lucas Williamson,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1641707,Taylor Hendricks,56.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1641712,Rayan Rupert,28.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1641713,GG Jackson,280.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1641727,Dariq Whitehead,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1641744,Zach Edey,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1641765,Olivier-Maxence Prosper,104.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1642377,Jaylen Wells,278.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1642380,Adama Bal,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1642383,Walter Clayton Jr.,99.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1642907,Cedric Coward,258.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1642914,Javon Small,167.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1642942,Jahmai Mashack,77.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1643133,Lawson Lovering,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642285,Cam Spencer,1643253,Toby Okani,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,203484,Kentavious Caldwell-Pope,75.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1629630,Ja Morant,112.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1629634,Brandon Clarke,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1629660,Ty Jerome,33.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1630583,Santi Aldama,122.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1630590,Scotty Pippen Jr.,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1630610,DeJon Jarreau,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1631174,Tyler Burton,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1641707,Taylor Hendricks,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1641712,Rayan Rupert,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1641713,GG Jackson,76.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1641744,Zach Edey,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1641765,Olivier-Maxence Prosper,40.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1642285,Cam Spencer,218.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1642380,Adama Bal,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1642383,Walter Clayton Jr.,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1642907,Cedric Coward,93.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1642914,Javon Small,58.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1642942,Jahmai Mashack,28.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1643133,Lawson Lovering,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642377,Jaylen Wells,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,203484,Kentavious Caldwell-Pope,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1630610,DeJon Jarreau,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1631174,Tyler Burton,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1631351,Lucas Williamson,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1641707,Taylor Hendricks,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1641712,Rayan Rupert,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1641713,GG Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1641727,Dariq Whitehead,20.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1641765,Olivier-Maxence Prosper,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1642285,Cam Spencer,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1642377,Jaylen Wells,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1642383,Walter Clayton Jr.,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1642907,Cedric Coward,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1642914,Javon Small,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1642942,Jahmai Mashack,57.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642380,Adama Bal,1643253,Toby Okani,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,203484,Kentavious Caldwell-Pope,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1629660,Ty Jerome,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1630590,Scotty Pippen Jr.,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1630610,DeJon Jarreau,100.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1631174,Tyler Burton,61.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1631351,Lucas Williamson,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1641707,Taylor Hendricks,89.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1641712,Rayan Rupert,61.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1641713,GG Jackson,81.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1641727,Dariq Whitehead,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1641765,Olivier-Maxence Prosper,85.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1642285,Cam Spencer,124.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1642377,Jaylen Wells,47.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1642380,Adama Bal,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1642907,Cedric Coward,91.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1642914,Javon Small,101.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1642942,Jahmai Mashack,77.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642383,Walter Clayton Jr.,1643253,Toby Okani,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,203484,Kentavious Caldwell-Pope,52.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1629630,Ja Morant,256.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1629634,Brandon Clarke,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1629660,Ty Jerome,127.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1630583,Santi Aldama,140.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1630590,Scotty Pippen Jr.,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1630610,DeJon Jarreau,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1631174,Tyler Burton,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1631351,Lucas Williamson,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1641707,Taylor Hendricks,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1641712,Rayan Rupert,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1641713,GG Jackson,92.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1641727,Dariq Whitehead,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1641744,Zach Edey,44.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1641765,Olivier-Maxence Prosper,83.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1642285,Cam Spencer,347.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1642377,Jaylen Wells,150.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1642380,Adama Bal,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1642383,Walter Clayton Jr.,121.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1642914,Javon Small,142.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1642942,Jahmai Mashack,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642907,Cedric Coward,1643253,Toby Okani,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,203484,Kentavious Caldwell-Pope,72.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1629660,Ty Jerome,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1630583,Santi Aldama,52.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1630590,Scotty Pippen Jr.,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1630610,DeJon Jarreau,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1631174,Tyler Burton,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1631351,Lucas Williamson,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1641707,Taylor Hendricks,65.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1641712,Rayan Rupert,38.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1641713,GG Jackson,137.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1641727,Dariq Whitehead,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1641765,Olivier-Maxence Prosper,108.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1642285,Cam Spencer,178.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1642377,Jaylen Wells,70.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1642380,Adama Bal,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1642383,Walter Clayton Jr.,87.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1642907,Cedric Coward,102.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1642942,Jahmai Mashack,60.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1643133,Lawson Lovering,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642914,Javon Small,1643253,Toby Okani,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,203484,Kentavious Caldwell-Pope,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1629660,Ty Jerome,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1630583,Santi Aldama,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1630590,Scotty Pippen Jr.,21.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1630610,DeJon Jarreau,28.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1631174,Tyler Burton,20.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1631351,Lucas Williamson,74.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1641707,Taylor Hendricks,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1641712,Rayan Rupert,80.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1641713,GG Jackson,58.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1641727,Dariq Whitehead,54.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1641765,Olivier-Maxence Prosper,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1642285,Cam Spencer,89.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1642377,Jaylen Wells,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1642380,Adama Bal,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1642383,Walter Clayton Jr.,90.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1642907,Cedric Coward,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1642914,Javon Small,76.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1643133,Lawson Lovering,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1642942,Jahmai Mashack,1643253,Toby Okani,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,203484,Kentavious Caldwell-Pope,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1630590,Scotty Pippen Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1631351,Lucas Williamson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1641707,Taylor Hendricks,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1641712,Rayan Rupert,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1641713,GG Jackson,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1641727,Dariq Whitehead,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1641765,Olivier-Maxence Prosper,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1642285,Cam Spencer,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1642377,Jaylen Wells,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1642380,Adama Bal,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1642383,Walter Clayton Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1642907,Cedric Coward,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1642914,Javon Small,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1642942,Jahmai Mashack,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643133,Lawson Lovering,1643253,Toby Okani,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,203484,Kentavious Caldwell-Pope,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1629660,Ty Jerome,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1631174,Tyler Burton,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1631351,Lucas Williamson,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1641707,Taylor Hendricks,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1641712,Rayan Rupert,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1641713,GG Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1641727,Dariq Whitehead,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1641744,Zach Edey,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1641765,Olivier-Maxence Prosper,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1642285,Cam Spencer,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1642377,Jaylen Wells,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1642380,Adama Bal,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1642383,Walter Clayton Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1642907,Cedric Coward,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1642914,Javon Small,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1642942,Jahmai Mashack,21.0,True,NBA.com — https://www.nba.com/stats
+MEM,2025-26,Regular Season,1643253,Toby Okani,1643133,Lawson Lovering,0.0,True,NBA.com — https://www.nba.com/stats

@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MIL,2024-25,Regular Season,201572,Brook Lopez,203081,Damian Lillard,692.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,203507,Giannis Antetokounmpo,439.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1626171,Bobby Portis Jr.,73.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1626192,Pat Connaughton,44.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1627752,Taurean Prince,176.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1628398,Kyle Kuzma,114.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1629018,Gary Trent Jr.,122.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1629645,Kevin Porter Jr.,124.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1630579,Jericho Sims,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1631157,Ryan Rollins,126.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1631250,Pete Nance,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1631260,AJ Green,113.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,201572,Brook Lopez,1641748,Andre Jackson Jr.,70.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,201572,Brook Lopez,634.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,203507,Giannis Antetokounmpo,1052.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1626171,Bobby Portis Jr.,357.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1626192,Pat Connaughton,59.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1627752,Taurean Prince,355.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1628398,Kyle Kuzma,158.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1629018,Gary Trent Jr.,248.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1629645,Kevin Porter Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1630579,Jericho Sims,21.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1631157,Ryan Rollins,21.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1631250,Pete Nance,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1631260,AJ Green,239.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203081,Damian Lillard,1641748,Andre Jackson Jr.,181.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,201572,Brook Lopez,434.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,203081,Damian Lillard,947.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1626171,Bobby Portis Jr.,145.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1626192,Pat Connaughton,156.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1627752,Taurean Prince,442.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1628398,Kyle Kuzma,162.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1629018,Gary Trent Jr.,250.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1629645,Kevin Porter Jr.,172.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1630579,Jericho Sims,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1631157,Ryan Rollins,280.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1631250,Pete Nance,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1631260,AJ Green,246.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,203507,Giannis Antetokounmpo,1641748,Andre Jackson Jr.,123.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,201572,Brook Lopez,61.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,203081,Damian Lillard,509.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,203507,Giannis Antetokounmpo,153.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1626192,Pat Connaughton,103.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1627752,Taurean Prince,118.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1628398,Kyle Kuzma,20.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1629018,Gary Trent Jr.,161.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1629645,Kevin Porter Jr.,45.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1630579,Jericho Sims,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1631157,Ryan Rollins,165.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1631250,Pete Nance,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1631260,AJ Green,137.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626171,Bobby Portis Jr.,1641748,Andre Jackson Jr.,51.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,201572,Brook Lopez,36.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,203081,Damian Lillard,139.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,203507,Giannis Antetokounmpo,166.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1626171,Bobby Portis Jr.,71.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1627752,Taurean Prince,22.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1628398,Kyle Kuzma,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1629018,Gary Trent Jr.,39.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1629645,Kevin Porter Jr.,34.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1630579,Jericho Sims,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1631123,Jamaree Bouyea,15.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1631157,Ryan Rollins,66.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1631250,Pete Nance,26.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1631260,AJ Green,60.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1626192,Pat Connaughton,1641748,Andre Jackson Jr.,31.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,201572,Brook Lopez,181.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,203081,Damian Lillard,490.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,203507,Giannis Antetokounmpo,471.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1626171,Bobby Portis Jr.,98.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1626192,Pat Connaughton,21.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1628398,Kyle Kuzma,63.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1629018,Gary Trent Jr.,98.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1629645,Kevin Porter Jr.,89.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1630579,Jericho Sims,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1631157,Ryan Rollins,91.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1631250,Pete Nance,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1631260,AJ Green,72.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1627752,Taurean Prince,1641748,Andre Jackson Jr.,53.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,201572,Brook Lopez,112.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,203081,Damian Lillard,146.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,203507,Giannis Antetokounmpo,189.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1626171,Bobby Portis Jr.,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1626192,Pat Connaughton,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1627752,Taurean Prince,92.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1629018,Gary Trent Jr.,72.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1629645,Kevin Porter Jr.,138.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1630579,Jericho Sims,18.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1631123,Jamaree Bouyea,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1631157,Ryan Rollins,91.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1631250,Pete Nance,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1631260,AJ Green,82.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1628398,Kyle Kuzma,1641748,Andre Jackson Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,201572,Brook Lopez,107.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,203081,Damian Lillard,248.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,203507,Giannis Antetokounmpo,190.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1626171,Bobby Portis Jr.,120.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1626192,Pat Connaughton,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1627752,Taurean Prince,67.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1628398,Kyle Kuzma,59.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1629645,Kevin Porter Jr.,80.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1630579,Jericho Sims,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1631157,Ryan Rollins,41.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1631250,Pete Nance,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1631260,AJ Green,68.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629018,Gary Trent Jr.,1641748,Andre Jackson Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,201572,Brook Lopez,141.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,203081,Damian Lillard,29.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,203507,Giannis Antetokounmpo,178.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1626171,Bobby Portis Jr.,34.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1626192,Pat Connaughton,19.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1627752,Taurean Prince,74.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1628398,Kyle Kuzma,149.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1629018,Gary Trent Jr.,111.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1630579,Jericho Sims,36.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1631123,Jamaree Bouyea,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1631157,Ryan Rollins,25.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1631250,Pete Nance,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1631260,AJ Green,121.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1629645,Kevin Porter Jr.,1641748,Andre Jackson Jr.,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,203081,Damian Lillard,56.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,203507,Giannis Antetokounmpo,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1626171,Bobby Portis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1626192,Pat Connaughton,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1627752,Taurean Prince,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1628398,Kyle Kuzma,34.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1629018,Gary Trent Jr.,31.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1629645,Kevin Porter Jr.,90.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1631157,Ryan Rollins,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1631250,Pete Nance,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1631260,AJ Green,30.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1630579,Jericho Sims,1641748,Andre Jackson Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,203507,Giannis Antetokounmpo,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1626171,Bobby Portis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1626192,Pat Connaughton,31.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1627752,Taurean Prince,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1628398,Kyle Kuzma,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1629018,Gary Trent Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1629645,Kevin Porter Jr.,1.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1630579,Jericho Sims,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1631157,Ryan Rollins,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1631250,Pete Nance,25.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1631260,AJ Green,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631123,Jamaree Bouyea,1641748,Andre Jackson Jr.,16.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,201572,Brook Lopez,152.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,203081,Damian Lillard,20.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,203507,Giannis Antetokounmpo,247.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1626171,Bobby Portis Jr.,153.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1626192,Pat Connaughton,37.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1627752,Taurean Prince,84.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1628398,Kyle Kuzma,119.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1629018,Gary Trent Jr.,65.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1629645,Kevin Porter Jr.,20.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1630579,Jericho Sims,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1631123,Jamaree Bouyea,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1631250,Pete Nance,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1631260,AJ Green,95.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631157,Ryan Rollins,1641748,Andre Jackson Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,203081,Damian Lillard,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,203507,Giannis Antetokounmpo,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1626171,Bobby Portis Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1626192,Pat Connaughton,34.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1627752,Taurean Prince,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1628398,Kyle Kuzma,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1629018,Gary Trent Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1629645,Kevin Porter Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1630579,Jericho Sims,0.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1631123,Jamaree Bouyea,28.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1631157,Ryan Rollins,13.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1631260,AJ Green,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631250,Pete Nance,1641748,Andre Jackson Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,201572,Brook Lopez,127.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,203081,Damian Lillard,346.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,203507,Giannis Antetokounmpo,245.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1626171,Bobby Portis Jr.,130.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1626192,Pat Connaughton,53.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1627752,Taurean Prince,68.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1628398,Kyle Kuzma,68.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1629018,Gary Trent Jr.,114.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1629645,Kevin Porter Jr.,162.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1630579,Jericho Sims,22.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1631123,Jamaree Bouyea,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1631157,Ryan Rollins,104.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1631250,Pete Nance,12.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1631260,AJ Green,1641748,Andre Jackson Jr.,32.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,201572,Brook Lopez,79.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,203081,Damian Lillard,278.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,203507,Giannis Antetokounmpo,172.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1626171,Bobby Portis Jr.,48.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1626192,Pat Connaughton,35.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1627752,Taurean Prince,96.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1628398,Kyle Kuzma,19.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1629018,Gary Trent Jr.,19.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1629645,Kevin Porter Jr.,21.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1630579,Jericho Sims,4.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1631123,Jamaree Bouyea,24.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1631157,Ryan Rollins,65.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1631250,Pete Nance,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2024-25,Regular Season,1641748,Andre Jackson Jr.,1631260,AJ Green,41.0,True,NBA.com — https://www.nba.com/stats

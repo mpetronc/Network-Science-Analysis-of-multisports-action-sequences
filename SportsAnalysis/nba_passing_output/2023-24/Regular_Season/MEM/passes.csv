@@ -1,0 +1,463 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MEM,2023-24,Regular Season,201565,Derrick Rose,203935,Marcus Smart,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1628379,Luke Kennard,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1628991,Jaren Jackson Jr.,110.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1629139,Yuta Watanabe,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1629723,John Konchar,36.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1630205,Lamar Stevens,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1630217,Desmond Bane,88.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1630533,Ziaire Williams,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1630583,Santi Aldama,57.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1630692,Jordan Goodwin,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1631222,Jake LaRavia,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1631246,Vince Williams Jr.,43.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1641713,GG Jackson,30.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1641970,Maozinha Pereira,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,201565,Derrick Rose,1641998,Trey Jemison III,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,201565,Derrick Rose,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1628379,Luke Kennard,46.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1628991,Jaren Jackson Jr.,127.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1629139,Yuta Watanabe,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1629630,Ja Morant,48.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1629723,John Konchar,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1630205,Lamar Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1630217,Desmond Bane,253.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1630533,Ziaire Williams,40.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1630583,Santi Aldama,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1630692,Jordan Goodwin,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1631222,Jake LaRavia,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1631246,Vince Williams Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1641713,GG Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1641970,Maozinha Pereira,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,203935,Marcus Smart,1641998,Trey Jemison III,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,201565,Derrick Rose,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,203935,Marcus Smart,45.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1628991,Jaren Jackson Jr.,185.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1629139,Yuta Watanabe,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1629630,Ja Morant,20.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1629634,Brandon Clarke,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1629723,John Konchar,79.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1630205,Lamar Stevens,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1630217,Desmond Bane,72.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1630533,Ziaire Williams,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1630562,Matt Hurt,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1630583,Santi Aldama,114.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1630590,Scotty Pippen Jr.,40.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1630610,DeJon Jarreau,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1630692,Jordan Goodwin,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1631222,Jake LaRavia,36.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1631246,Vince Williams Jr.,142.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1641713,GG Jackson,77.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1641970,Maozinha Pereira,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628379,Luke Kennard,1641998,Trey Jemison III,38.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,201565,Derrick Rose,85.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,203935,Marcus Smart,106.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1628379,Luke Kennard,148.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1629139,Yuta Watanabe,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1629630,Ja Morant,66.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1629634,Brandon Clarke,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1629723,John Konchar,109.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1630205,Lamar Stevens,20.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1630217,Desmond Bane,353.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1630533,Ziaire Williams,100.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1630583,Santi Aldama,192.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1630590,Scotty Pippen Jr.,73.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1630610,DeJon Jarreau,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1630692,Jordan Goodwin,55.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1631222,Jake LaRavia,56.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1631246,Vince Williams Jr.,240.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1641713,GG Jackson,94.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1641970,Maozinha Pereira,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1628991,Jaren Jackson Jr.,1641998,Trey Jemison III,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,201565,Derrick Rose,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1628379,Luke Kennard,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1628991,Jaren Jackson Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1629723,John Konchar,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1630205,Lamar Stevens,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1630217,Desmond Bane,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1630533,Ziaire Williams,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1630583,Santi Aldama,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1630590,Scotty Pippen Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1630692,Jordan Goodwin,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1631222,Jake LaRavia,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1631246,Vince Williams Jr.,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1641713,GG Jackson,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1641970,Maozinha Pereira,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629139,Yuta Watanabe,1641998,Trey Jemison III,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,201565,Derrick Rose,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,203935,Marcus Smart,62.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1628379,Luke Kennard,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1628991,Jaren Jackson Jr.,56.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1629139,Yuta Watanabe,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1629723,John Konchar,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1630205,Lamar Stevens,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1630217,Desmond Bane,125.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1630533,Ziaire Williams,40.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1630583,Santi Aldama,33.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1630692,Jordan Goodwin,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1631222,Jake LaRavia,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1631246,Vince Williams Jr.,36.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1641713,GG Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1641970,Maozinha Pereira,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629630,Ja Morant,1641998,Trey Jemison III,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,201565,Derrick Rose,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1628379,Luke Kennard,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1628991,Jaren Jackson Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1629139,Yuta Watanabe,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1629723,John Konchar,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1630205,Lamar Stevens,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1630217,Desmond Bane,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1630533,Ziaire Williams,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1630583,Santi Aldama,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1630590,Scotty Pippen Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1630610,DeJon Jarreau,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1630692,Jordan Goodwin,21.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1631222,Jake LaRavia,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1641713,GG Jackson,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1641851,Timmy Allen,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1641970,Maozinha Pereira,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629634,Brandon Clarke,1641998,Trey Jemison III,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,201565,Derrick Rose,65.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,203935,Marcus Smart,31.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1628379,Luke Kennard,86.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1628991,Jaren Jackson Jr.,230.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1629139,Yuta Watanabe,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1629630,Ja Morant,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1630205,Lamar Stevens,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1630217,Desmond Bane,152.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1630533,Ziaire Williams,56.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1630562,Matt Hurt,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1630583,Santi Aldama,188.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1630590,Scotty Pippen Jr.,69.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1630610,DeJon Jarreau,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1630692,Jordan Goodwin,31.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1631222,Jake LaRavia,52.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1631246,Vince Williams Jr.,141.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1641713,GG Jackson,80.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1641970,Maozinha Pereira,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1629723,John Konchar,1641998,Trey Jemison III,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,201565,Derrick Rose,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1628379,Luke Kennard,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1628991,Jaren Jackson Jr.,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1629139,Yuta Watanabe,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1629634,Brandon Clarke,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1629723,John Konchar,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1630217,Desmond Bane,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1630533,Ziaire Williams,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1630562,Matt Hurt,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1630583,Santi Aldama,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1630590,Scotty Pippen Jr.,38.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1630610,DeJon Jarreau,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1630692,Jordan Goodwin,50.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1631222,Jake LaRavia,44.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1631246,Vince Williams Jr.,55.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1641713,GG Jackson,47.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1641970,Maozinha Pereira,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630205,Lamar Stevens,1641998,Trey Jemison III,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,201565,Derrick Rose,87.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,203935,Marcus Smart,262.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1628379,Luke Kennard,75.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1628991,Jaren Jackson Jr.,385.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1629139,Yuta Watanabe,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1629630,Ja Morant,119.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1629634,Brandon Clarke,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1629723,John Konchar,104.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1630205,Lamar Stevens,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1630533,Ziaire Williams,98.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1630583,Santi Aldama,218.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1630590,Scotty Pippen Jr.,29.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1630610,DeJon Jarreau,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1630692,Jordan Goodwin,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1631222,Jake LaRavia,31.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1631246,Vince Williams Jr.,110.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1641713,GG Jackson,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1641970,Maozinha Pereira,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630217,Desmond Bane,1641998,Trey Jemison III,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,201565,Derrick Rose,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,203935,Marcus Smart,59.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1628379,Luke Kennard,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1628991,Jaren Jackson Jr.,112.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1629139,Yuta Watanabe,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1629630,Ja Morant,16.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1629723,John Konchar,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1630205,Lamar Stevens,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1630217,Desmond Bane,111.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1630583,Santi Aldama,71.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1630590,Scotty Pippen Jr.,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1630692,Jordan Goodwin,33.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1631222,Jake LaRavia,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1631246,Vince Williams Jr.,78.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1641713,GG Jackson,39.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1641970,Maozinha Pereira,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630533,Ziaire Williams,1641998,Trey Jemison III,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,201565,Derrick Rose,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1628379,Luke Kennard,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1629139,Yuta Watanabe,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1629723,John Konchar,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1630205,Lamar Stevens,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1630217,Desmond Bane,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1630533,Ziaire Williams,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1630583,Santi Aldama,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1630590,Scotty Pippen Jr.,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1630692,Jordan Goodwin,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1631222,Jake LaRavia,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1631246,Vince Williams Jr.,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1641713,GG Jackson,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1641970,Maozinha Pereira,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630562,Matt Hurt,1641998,Trey Jemison III,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,201565,Derrick Rose,60.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,203935,Marcus Smart,35.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1628379,Luke Kennard,150.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1628991,Jaren Jackson Jr.,256.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1629139,Yuta Watanabe,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1629630,Ja Morant,48.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1629723,John Konchar,145.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1630205,Lamar Stevens,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1630217,Desmond Bane,268.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1630533,Ziaire Williams,72.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1630562,Matt Hurt,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1630590,Scotty Pippen Jr.,72.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1630610,DeJon Jarreau,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1630692,Jordan Goodwin,65.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1631222,Jake LaRavia,37.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1631246,Vince Williams Jr.,224.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1641713,GG Jackson,122.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1641970,Maozinha Pereira,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630583,Santi Aldama,1641998,Trey Jemison III,28.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,201565,Derrick Rose,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1628379,Luke Kennard,45.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1628991,Jaren Jackson Jr.,116.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1629139,Yuta Watanabe,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1629634,Brandon Clarke,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1629723,John Konchar,36.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1630205,Lamar Stevens,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1630217,Desmond Bane,28.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1630533,Ziaire Williams,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1630562,Matt Hurt,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1630583,Santi Aldama,65.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1630610,DeJon Jarreau,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1630692,Jordan Goodwin,46.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1631222,Jake LaRavia,72.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1631246,Vince Williams Jr.,42.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1641713,GG Jackson,126.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1641851,Timmy Allen,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1641970,Maozinha Pereira,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630590,Scotty Pippen Jr.,1641998,Trey Jemison III,70.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,201565,Derrick Rose,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1628379,Luke Kennard,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1628991,Jaren Jackson Jr.,22.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1629139,Yuta Watanabe,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1629634,Brandon Clarke,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1629723,John Konchar,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1630205,Lamar Stevens,21.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1630217,Desmond Bane,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1630533,Ziaire Williams,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1630583,Santi Aldama,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1630590,Scotty Pippen Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1630692,Jordan Goodwin,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1631222,Jake LaRavia,50.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1641713,GG Jackson,53.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1641970,Maozinha Pereira,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630610,DeJon Jarreau,1641998,Trey Jemison III,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,201565,Derrick Rose,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1628379,Luke Kennard,50.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1628991,Jaren Jackson Jr.,84.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1629139,Yuta Watanabe,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1629634,Brandon Clarke,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1629723,John Konchar,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1630205,Lamar Stevens,40.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1630217,Desmond Bane,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1630533,Ziaire Williams,27.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1630562,Matt Hurt,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1630583,Santi Aldama,70.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1630590,Scotty Pippen Jr.,74.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1630610,DeJon Jarreau,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1631222,Jake LaRavia,73.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1631246,Vince Williams Jr.,51.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1641713,GG Jackson,94.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1641851,Timmy Allen,12.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1641970,Maozinha Pereira,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1630692,Jordan Goodwin,1641998,Trey Jemison III,47.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,201565,Derrick Rose,29.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1628379,Luke Kennard,32.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1628991,Jaren Jackson Jr.,72.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1629139,Yuta Watanabe,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1629634,Brandon Clarke,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1629723,John Konchar,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1630205,Lamar Stevens,42.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1630217,Desmond Bane,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1630533,Ziaire Williams,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1630562,Matt Hurt,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1630583,Santi Aldama,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1630590,Scotty Pippen Jr.,70.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1630610,DeJon Jarreau,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1630692,Jordan Goodwin,82.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1631246,Vince Williams Jr.,42.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1641713,GG Jackson,104.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1641851,Timmy Allen,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1641970,Maozinha Pereira,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631222,Jake LaRavia,1641998,Trey Jemison III,33.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,201565,Derrick Rose,57.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,203935,Marcus Smart,36.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1628379,Luke Kennard,145.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1628991,Jaren Jackson Jr.,327.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1629139,Yuta Watanabe,11.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1629630,Ja Morant,55.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1629634,Brandon Clarke,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1629723,John Konchar,111.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1630205,Lamar Stevens,45.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1630217,Desmond Bane,145.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1630533,Ziaire Williams,105.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1630562,Matt Hurt,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1630583,Santi Aldama,201.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1630590,Scotty Pippen Jr.,38.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1630692,Jordan Goodwin,33.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1631222,Jake LaRavia,36.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1641713,GG Jackson,83.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1641970,Maozinha Pereira,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1631246,Vince Williams Jr.,1641998,Trey Jemison III,45.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,201565,Derrick Rose,39.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1628379,Luke Kennard,63.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1628991,Jaren Jackson Jr.,117.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1629139,Yuta Watanabe,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1629634,Brandon Clarke,20.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1629723,John Konchar,58.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1630205,Lamar Stevens,41.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1630217,Desmond Bane,39.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1630533,Ziaire Williams,26.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1630562,Matt Hurt,10.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1630583,Santi Aldama,81.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1630590,Scotty Pippen Jr.,145.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1630610,DeJon Jarreau,34.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1630692,Jordan Goodwin,99.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1631222,Jake LaRavia,80.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1631246,Vince Williams Jr.,83.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1641851,Timmy Allen,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1641970,Maozinha Pereira,8.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641713,GG Jackson,1641998,Trey Jemison III,50.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,201565,Derrick Rose,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1628379,Luke Kennard,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1628991,Jaren Jackson Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1629139,Yuta Watanabe,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1629634,Brandon Clarke,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1629723,John Konchar,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1630205,Lamar Stevens,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1630217,Desmond Bane,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1630533,Ziaire Williams,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1630590,Scotty Pippen Jr.,17.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1630610,DeJon Jarreau,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1630692,Jordan Goodwin,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1631222,Jake LaRavia,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1641713,GG Jackson,19.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1641970,Maozinha Pereira,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641851,Timmy Allen,1641998,Trey Jemison III,3.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,201565,Derrick Rose,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1628379,Luke Kennard,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1628991,Jaren Jackson Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1629139,Yuta Watanabe,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1629634,Brandon Clarke,1.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1629723,John Konchar,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1630205,Lamar Stevens,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1630217,Desmond Bane,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1630533,Ziaire Williams,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1630562,Matt Hurt,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1630583,Santi Aldama,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1630590,Scotty Pippen Jr.,25.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1630610,DeJon Jarreau,15.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1630692,Jordan Goodwin,18.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1631222,Jake LaRavia,7.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1631246,Vince Williams Jr.,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1641713,GG Jackson,13.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1641851,Timmy Allen,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641970,Maozinha Pereira,1641998,Trey Jemison III,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,201565,Derrick Rose,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,203935,Marcus Smart,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1628379,Luke Kennard,30.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1628991,Jaren Jackson Jr.,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1629139,Yuta Watanabe,4.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1629630,Ja Morant,0.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1629634,Brandon Clarke,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1629723,John Konchar,24.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1630205,Lamar Stevens,14.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1630217,Desmond Bane,6.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1630533,Ziaire Williams,9.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1630562,Matt Hurt,2.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1630583,Santi Aldama,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1630590,Scotty Pippen Jr.,63.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1630610,DeJon Jarreau,23.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1630692,Jordan Goodwin,60.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1631222,Jake LaRavia,42.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1631246,Vince Williams Jr.,50.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1641713,GG Jackson,82.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1641851,Timmy Allen,5.0,True,NBA.com — https://www.nba.com/stats
+MEM,2023-24,Regular Season,1641998,Trey Jemison III,1641970,Maozinha Pereira,4.0,True,NBA.com — https://www.nba.com/stats

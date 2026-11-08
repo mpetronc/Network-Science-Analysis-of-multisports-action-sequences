@@ -1,0 +1,133 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+MIL,2023-24,Regular Season,201572,Brook Lopez,201976,Patrick Beverley,43.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,203081,Damian Lillard,602.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,203109,Jae Crowder,56.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,203114,Khris Middleton,202.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,203507,Giannis Antetokounmpo,269.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,1626171,Bobby Portis Jr.,58.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,1626192,Pat Connaughton,72.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,1627736,Malik Beasley,128.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,1630699,MarJon Beauchamp,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,1631260,AJ Green,15.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201572,Brook Lopez,1641748,Andre Jackson Jr.,25.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,201572,Brook Lopez,58.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,203081,Damian Lillard,119.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,203109,Jae Crowder,31.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,203114,Khris Middleton,62.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,203507,Giannis Antetokounmpo,151.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,1626171,Bobby Portis Jr.,131.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,1626192,Pat Connaughton,90.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,1627736,Malik Beasley,43.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,1630699,MarJon Beauchamp,4.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,1631260,AJ Green,31.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,201976,Patrick Beverley,1641748,Andre Jackson Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,201572,Brook Lopez,584.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,201976,Patrick Beverley,82.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,203109,Jae Crowder,190.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,203114,Khris Middleton,438.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,203507,Giannis Antetokounmpo,1212.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,1626171,Bobby Portis Jr.,382.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,1626192,Pat Connaughton,221.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,1627736,Malik Beasley,499.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,1630699,MarJon Beauchamp,64.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,1631260,AJ Green,41.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203081,Damian Lillard,1641748,Andre Jackson Jr.,51.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,201572,Brook Lopez,68.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,201976,Patrick Beverley,56.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,203081,Damian Lillard,394.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,203114,Khris Middleton,47.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,203507,Giannis Antetokounmpo,205.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,1626171,Bobby Portis Jr.,68.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,1626192,Pat Connaughton,77.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,1627736,Malik Beasley,85.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,1630699,MarJon Beauchamp,3.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,1631260,AJ Green,19.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203109,Jae Crowder,1641748,Andre Jackson Jr.,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,201572,Brook Lopez,251.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,201976,Patrick Beverley,52.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,203081,Damian Lillard,470.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,203109,Jae Crowder,28.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,203507,Giannis Antetokounmpo,559.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,1626171,Bobby Portis Jr.,138.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,1626192,Pat Connaughton,61.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,1627736,Malik Beasley,147.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,1630699,MarJon Beauchamp,17.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,1631260,AJ Green,17.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203114,Khris Middleton,1641748,Andre Jackson Jr.,23.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,201572,Brook Lopez,276.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,201976,Patrick Beverley,121.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,203081,Damian Lillard,1162.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,203109,Jae Crowder,176.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,203114,Khris Middleton,460.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,1626171,Bobby Portis Jr.,304.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,1626192,Pat Connaughton,327.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,1627736,Malik Beasley,364.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,1630699,MarJon Beauchamp,68.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,1631260,AJ Green,75.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,203507,Giannis Antetokounmpo,1641748,Andre Jackson Jr.,66.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,201572,Brook Lopez,45.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,201976,Patrick Beverley,159.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,203081,Damian Lillard,692.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,203109,Jae Crowder,93.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,203114,Khris Middleton,195.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,203507,Giannis Antetokounmpo,305.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,1626192,Pat Connaughton,267.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,1627736,Malik Beasley,101.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,1630699,MarJon Beauchamp,53.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,1631260,AJ Green,55.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626171,Bobby Portis Jr.,1641748,Andre Jackson Jr.,39.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,201572,Brook Lopez,92.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,201976,Patrick Beverley,92.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,203081,Damian Lillard,444.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,203109,Jae Crowder,79.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,203114,Khris Middleton,109.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,203507,Giannis Antetokounmpo,427.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,1626171,Bobby Portis Jr.,268.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,1627736,Malik Beasley,113.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,1630699,MarJon Beauchamp,31.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,1631260,AJ Green,71.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1626192,Pat Connaughton,1641748,Andre Jackson Jr.,18.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,201572,Brook Lopez,168.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,201976,Patrick Beverley,37.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,203081,Damian Lillard,573.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,203109,Jae Crowder,63.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,203114,Khris Middleton,171.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,203507,Giannis Antetokounmpo,327.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,1626171,Bobby Portis Jr.,93.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,1626192,Pat Connaughton,71.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,1630699,MarJon Beauchamp,6.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,1631260,AJ Green,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1627736,Malik Beasley,1641748,Andre Jackson Jr.,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,201572,Brook Lopez,17.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,201976,Patrick Beverley,5.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,203081,Damian Lillard,59.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,203109,Jae Crowder,10.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,203114,Khris Middleton,20.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,203507,Giannis Antetokounmpo,68.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,1626171,Bobby Portis Jr.,37.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,1626192,Pat Connaughton,29.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,1627736,Malik Beasley,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,1631260,AJ Green,16.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1630699,MarJon Beauchamp,1641748,Andre Jackson Jr.,19.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,201572,Brook Lopez,7.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,201976,Patrick Beverley,41.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,203081,Damian Lillard,57.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,203109,Jae Crowder,16.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,203114,Khris Middleton,16.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,203507,Giannis Antetokounmpo,68.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,1626171,Bobby Portis Jr.,39.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,1626192,Pat Connaughton,65.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,1627736,Malik Beasley,11.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,1630699,MarJon Beauchamp,15.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1631260,AJ Green,1641748,Andre Jackson Jr.,30.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,201572,Brook Lopez,25.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,201976,Patrick Beverley,14.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,203081,Damian Lillard,108.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,203109,Jae Crowder,8.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,203114,Khris Middleton,40.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,203507,Giannis Antetokounmpo,71.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,1626171,Bobby Portis Jr.,28.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,1626192,Pat Connaughton,37.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,1627736,Malik Beasley,19.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,1630699,MarJon Beauchamp,23.0,True,NBA.com — https://www.nba.com/stats
+MIL,2023-24,Regular Season,1641748,Andre Jackson Jr.,1631260,AJ Green,33.0,True,NBA.com — https://www.nba.com/stats

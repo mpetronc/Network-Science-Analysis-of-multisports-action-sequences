@@ -1,0 +1,211 @@
+team,season,season_type,passer_id,passer_name,receiver_id,receiver_name,pass_count,outgoing_profile_available,source
+LAC,2025-26,Regular Season,101108,Chris Paul,201572,Brook Lopez,48.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,201587,Nicolas Batum,25.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,202695,Kawhi Leonard,62.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,203078,Bradley Beal,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,203992,Bogdan Bogdanović,33.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,1627739,Kris Dunn,52.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,1627884,Derrick Jones Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,1628381,John Collins,37.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,1629636,Darius Garland,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,1630543,Isaiah Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,1631097,Bennedict Mathurin,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,1641757,Jordan Miller,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,1642920,Kobe Sanders,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,101108,Chris Paul,1642949,Yanic Konan Niederhäuser,9.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,101108,Chris Paul,32.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,201587,Nicolas Batum,43.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,202695,Kawhi Leonard,213.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,203078,Bradley Beal,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,203992,Bogdan Bogdanović,28.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,1627739,Kris Dunn,201.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,1627884,Derrick Jones Jr.,102.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,1628381,John Collins,78.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,1629636,Darius Garland,126.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,1630543,Isaiah Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,1631097,Bennedict Mathurin,67.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,1641757,Jordan Miller,87.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,1642920,Kobe Sanders,85.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201572,Brook Lopez,1642949,Yanic Konan Niederhäuser,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,101108,Chris Paul,56.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,201572,Brook Lopez,61.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,202695,Kawhi Leonard,144.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,203078,Bradley Beal,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,203992,Bogdan Bogdanović,76.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,1627739,Kris Dunn,266.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,1627884,Derrick Jones Jr.,41.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,1628381,John Collins,34.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,1629636,Darius Garland,31.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,1630543,Isaiah Jackson,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,1631097,Bennedict Mathurin,77.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,1641757,Jordan Miller,115.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,1642920,Kobe Sanders,126.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,201587,Nicolas Batum,1642949,Yanic Konan Niederhäuser,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,101108,Chris Paul,37.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,201572,Brook Lopez,228.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,201587,Nicolas Batum,91.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,203078,Bradley Beal,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,203992,Bogdan Bogdanović,25.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,1627739,Kris Dunn,382.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,1627884,Derrick Jones Jr.,162.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,1628381,John Collins,180.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,1629636,Darius Garland,147.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,1630543,Isaiah Jackson,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,1631097,Bennedict Mathurin,90.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,1641757,Jordan Miller,94.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,1642920,Kobe Sanders,131.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,202695,Kawhi Leonard,1642949,Yanic Konan Niederhäuser,19.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,101108,Chris Paul,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,201572,Brook Lopez,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,201587,Nicolas Batum,5.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,202695,Kawhi Leonard,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,203992,Bogdan Bogdanović,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,1627739,Kris Dunn,18.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,1627884,Derrick Jones Jr.,14.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,1628381,John Collins,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,1629636,Darius Garland,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,1630543,Isaiah Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,1631097,Bennedict Mathurin,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,1641757,Jordan Miller,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,1642920,Kobe Sanders,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203078,Bradley Beal,1642949,Yanic Konan Niederhäuser,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,101108,Chris Paul,27.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,201572,Brook Lopez,36.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,201587,Nicolas Batum,35.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,202695,Kawhi Leonard,29.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,203078,Bradley Beal,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,1627739,Kris Dunn,56.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,1627884,Derrick Jones Jr.,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,1628381,John Collins,33.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,1629636,Darius Garland,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,1630543,Isaiah Jackson,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,1631097,Bennedict Mathurin,7.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,1641757,Jordan Miller,60.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,1642920,Kobe Sanders,42.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,203992,Bogdan Bogdanović,1642949,Yanic Konan Niederhäuser,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,101108,Chris Paul,50.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,201572,Brook Lopez,260.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,201587,Nicolas Batum,126.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,202695,Kawhi Leonard,689.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,203078,Bradley Beal,31.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,203992,Bogdan Bogdanović,54.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,1627884,Derrick Jones Jr.,250.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,1628381,John Collins,301.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,1629636,Darius Garland,180.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,1630543,Isaiah Jackson,27.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,1631097,Bennedict Mathurin,182.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,1641757,Jordan Miller,212.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,1642920,Kobe Sanders,168.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627739,Kris Dunn,1642949,Yanic Konan Niederhäuser,21.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,101108,Chris Paul,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,201572,Brook Lopez,101.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,201587,Nicolas Batum,20.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,202695,Kawhi Leonard,193.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,203078,Bradley Beal,12.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,203992,Bogdan Bogdanović,14.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,1627739,Kris Dunn,294.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,1628381,John Collins,54.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,1629636,Darius Garland,157.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,1630543,Isaiah Jackson,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,1631097,Bennedict Mathurin,64.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,1641757,Jordan Miller,53.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,1642920,Kobe Sanders,43.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1627884,Derrick Jones Jr.,1642949,Yanic Konan Niederhäuser,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,101108,Chris Paul,50.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,201572,Brook Lopez,54.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,201587,Nicolas Batum,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,202695,Kawhi Leonard,188.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,203078,Bradley Beal,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,203992,Bogdan Bogdanović,36.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,1627739,Kris Dunn,451.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,1627884,Derrick Jones Jr.,74.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,1629636,Darius Garland,115.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,1630543,Isaiah Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,1631097,Bennedict Mathurin,49.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,1641757,Jordan Miller,82.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,1642920,Kobe Sanders,71.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1628381,John Collins,1642949,Yanic Konan Niederhäuser,4.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,101108,Chris Paul,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,201572,Brook Lopez,123.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,201587,Nicolas Batum,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,202695,Kawhi Leonard,173.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,203078,Bradley Beal,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,203992,Bogdan Bogdanović,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,1627739,Kris Dunn,85.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,1627884,Derrick Jones Jr.,98.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,1628381,John Collins,77.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,1630543,Isaiah Jackson,41.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,1631097,Bennedict Mathurin,73.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,1641757,Jordan Miller,65.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,1642920,Kobe Sanders,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1629636,Darius Garland,1642949,Yanic Konan Niederhäuser,10.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,101108,Chris Paul,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,201572,Brook Lopez,1.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,201587,Nicolas Batum,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,202695,Kawhi Leonard,23.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,203078,Bradley Beal,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,203992,Bogdan Bogdanović,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,1627739,Kris Dunn,27.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,1627884,Derrick Jones Jr.,3.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,1628381,John Collins,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,1629636,Darius Garland,29.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,1631097,Bennedict Mathurin,47.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,1641757,Jordan Miller,39.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,1642920,Kobe Sanders,13.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1630543,Isaiah Jackson,1642949,Yanic Konan Niederhäuser,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,101108,Chris Paul,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,201572,Brook Lopez,60.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,201587,Nicolas Batum,39.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,202695,Kawhi Leonard,89.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,203078,Bradley Beal,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,203992,Bogdan Bogdanović,7.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,1627739,Kris Dunn,115.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,1627884,Derrick Jones Jr.,59.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,1628381,John Collins,51.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,1629636,Darius Garland,96.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,1630543,Isaiah Jackson,21.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,1641757,Jordan Miller,141.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,1642920,Kobe Sanders,40.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1631097,Bennedict Mathurin,1642949,Yanic Konan Niederhäuser,15.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,101108,Chris Paul,2.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,201572,Brook Lopez,75.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,201587,Nicolas Batum,77.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,202695,Kawhi Leonard,147.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,203078,Bradley Beal,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,203992,Bogdan Bogdanović,54.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,1627739,Kris Dunn,196.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,1627884,Derrick Jones Jr.,43.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,1628381,John Collins,67.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,1629636,Darius Garland,92.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,1630543,Isaiah Jackson,18.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,1631097,Bennedict Mathurin,167.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,1642920,Kobe Sanders,186.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1641757,Jordan Miller,1642949,Yanic Konan Niederhäuser,28.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,101108,Chris Paul,17.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,201572,Brook Lopez,85.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,201587,Nicolas Batum,78.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,202695,Kawhi Leonard,173.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,203078,Bradley Beal,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,203992,Bogdan Bogdanović,46.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,1627739,Kris Dunn,155.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,1627884,Derrick Jones Jr.,40.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,1628381,John Collins,77.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,1629636,Darius Garland,27.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,1630543,Isaiah Jackson,11.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,1631097,Bennedict Mathurin,54.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,1641757,Jordan Miller,171.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642920,Kobe Sanders,1642949,Yanic Konan Niederhäuser,28.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,101108,Chris Paul,14.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,201572,Brook Lopez,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,201587,Nicolas Batum,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,202695,Kawhi Leonard,47.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,203078,Bradley Beal,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,203992,Bogdan Bogdanović,16.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,1627739,Kris Dunn,22.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,1627884,Derrick Jones Jr.,8.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,1628381,John Collins,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,1629636,Darius Garland,6.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,1630543,Isaiah Jackson,0.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,1631097,Bennedict Mathurin,31.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,1641757,Jordan Miller,42.0,True,NBA.com — https://www.nba.com/stats
+LAC,2025-26,Regular Season,1642949,Yanic Konan Niederhäuser,1642920,Kobe Sanders,42.0,True,NBA.com — https://www.nba.com/stats
