@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+pandas>=2.2,<4
+requests>=2.32,<3
+networkx>=3.2,<4
+matplotlib>=3.8,<4
+nba_api>=1.11,<2
