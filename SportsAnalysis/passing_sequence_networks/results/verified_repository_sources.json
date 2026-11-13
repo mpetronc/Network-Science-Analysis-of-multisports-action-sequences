@@ -1,0 +1,48 @@
+{
+  "repository": "https://github.com/sealneaward/nba-movement-data",
+  "commit": "5c9ee6e1387e052c19ab2d22e12120c2210cbe54",
+  "files": [
+    {
+      "file": "01.04.2016.CHA.at.GSW.7z",
+      "url": "https://raw.githubusercontent.com/sealneaward/nba-movement-data/5c9ee6e1387e052c19ab2d22e12120c2210cbe54/data/01.04.2016.CHA.at.GSW.7z",
+      "bytes": 6269523,
+      "sha256": "344a275543e834b5965fccc3bcfceef78145fadadb033d26e3596b14c625241e",
+      "git_blob_sha1": "651800deba16e3d2253ff4c6e4cfcec2ab48c058"
+    },
+    {
+      "file": "0021500520_events.csv",
+      "url": "https://raw.githubusercontent.com/sealneaward/nba-movement-data/5c9ee6e1387e052c19ab2d22e12120c2210cbe54/data/events/0021500520.csv",
+      "bytes": 67842,
+      "sha256": "89f09c3b3fbb43491dfe973190fdf2896e7ffb312c5577d4372c0daa34a24904",
+      "git_blob_sha1": "0ff6559d0a60f9f807bf226e28d5a5ee30a23229"
+    },
+    {
+      "file": "01.05.2016.GSW.at.LAL.7z",
+      "url": "https://raw.githubusercontent.com/sealneaward/nba-movement-data/5c9ee6e1387e052c19ab2d22e12120c2210cbe54/data/01.05.2016.GSW.at.LAL.7z",
+      "bytes": 6315655,
+      "sha256": "473ce8ef4f429316e8d52ef190d2ff78c3fde920d698117756c8dcff319cabbe",
+      "git_blob_sha1": "0166b9b750b39e19d6b9e7aa8ddfefff76f2c9e5"
+    },
+    {
+      "file": "0021500524_events.csv",
+      "url": "https://raw.githubusercontent.com/sealneaward/nba-movement-data/5c9ee6e1387e052c19ab2d22e12120c2210cbe54/data/events/0021500524.csv",
+      "bytes": 78247,
+      "sha256": "dcc1b68bace3435506ba28c8458b8f086c1edba3a67fe1bed8d8f407f8aa520c",
+      "git_blob_sha1": "1a9ce8588fff709650058e5a496277939901f146"
+    },
+    {
+      "file": "01.08.2016.GSW.at.POR.7z",
+      "url": "https://raw.githubusercontent.com/sealneaward/nba-movement-data/5c9ee6e1387e052c19ab2d22e12120c2210cbe54/data/01.08.2016.GSW.at.POR.7z",
+      "bytes": 6262300,
+      "sha256": "6bd7dcfcdc40f9df1f1627a07793d35d4be316414a72ad86b05372a786734e93",
+      "git_blob_sha1": "a9365ea81bf786c32a6183f2373fd0e1b2040e64"
+    },
+    {
+      "file": "0021500548_events.csv",
+      "url": "https://raw.githubusercontent.com/sealneaward/nba-movement-data/5c9ee6e1387e052c19ab2d22e12120c2210cbe54/data/events/0021500548.csv",
+      "bytes": 82039,
+      "sha256": "eacb393c8c6f451939440821261bcfcf379921156037c12420e56ffd59faba96",
+      "git_blob_sha1": "6ae702997ef002a7003c4fbdd2e8c3f3b2945fd2"
+    }
+  ]
+}

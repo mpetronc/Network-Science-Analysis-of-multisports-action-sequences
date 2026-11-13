@@ -1,0 +1,35 @@
+[
+  {
+    "name": "strict",
+    "radius": 2.5,
+    "margin": 1.0,
+    "dwell": 0.16,
+    "minimum_distance": 5.0,
+    "maximum_flight": 1.0,
+    "maximum_height": 8.5,
+    "same_owner_bridge": 0.28,
+    "event_guard": 0.25
+  },
+  {
+    "name": "primary",
+    "radius": 3.0,
+    "margin": 0.75,
+    "dwell": 0.12,
+    "minimum_distance": 4.0,
+    "maximum_flight": 1.2,
+    "maximum_height": 8.5,
+    "same_owner_bridge": 0.28,
+    "event_guard": 0.25
+  },
+  {
+    "name": "relaxed",
+    "radius": 3.5,
+    "margin": 0.5,
+    "dwell": 0.08,
+    "minimum_distance": 3.0,
+    "maximum_flight": 1.4,
+    "maximum_height": 9.0,
+    "same_owner_bridge": 0.28,
+    "event_guard": 0.25
+  }
+]

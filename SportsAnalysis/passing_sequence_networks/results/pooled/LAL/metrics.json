@@ -1,0 +1,11 @@
+{
+  "inferred_passes": 141,
+  "active_players": 12,
+  "sequences": 96,
+  "multi_pass_sequences": 33,
+  "triples": 45,
+  "distinct_pair_states": 63,
+  "h_next_given_current_bits": 1.6339063874517876,
+  "h_next_given_previous_current_bits": 0.3111111111111111,
+  "training_entropy_difference_bits": 1.3227952763406765
+}
