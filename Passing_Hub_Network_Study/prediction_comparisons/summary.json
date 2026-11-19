@@ -1,0 +1,14 @@
+{
+  "sample": "eligible",
+  "season": "ALL",
+  "n": 96,
+  "median_edge_old": 0.4944261429779898,
+  "median_edge_new": 0.49813221622490705,
+  "median_paired_edge_change": 0.005945028346271419,
+  "teams_edge_improved": 34,
+  "teams_edge_worsened": 62,
+  "median_entropy_old": 0.04330406365657308,
+  "median_entropy_new": 0.02889050956620015,
+  "median_paired_entropy_change": -0.02218874417556055,
+  "teams_entropy_improved": 62
+}

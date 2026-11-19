@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "seasons": [
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "team_seasons": 180,
+  "checks": "Independent per-team hub selection, EC, edge redistribution, outgoing entropy, regression, scope, frozen hashes; pooled slope, franchise-clustered uncertainty and confidence intervals by independent within-season score calculation; combined PDF page counts"
+}

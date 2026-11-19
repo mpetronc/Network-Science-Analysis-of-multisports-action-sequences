@@ -1,0 +1,902 @@
+[
+  {
+    "season": "2020-21",
+    "team": "ATL",
+    "sha256": "41c486059068bb7e5448b08561667eaf6eeecb19d350bbb7440fe45ae8313c04"
+  },
+  {
+    "season": "2020-21",
+    "team": "BKN",
+    "sha256": "275af87a4be90865a7bd2028bc630c423541606905a5b4296b41572e5e2bc783"
+  },
+  {
+    "season": "2020-21",
+    "team": "BOS",
+    "sha256": "f97e076aeee455e1901851cc563486a1f4d884c3011dd0284c69f7002f5d15e2"
+  },
+  {
+    "season": "2020-21",
+    "team": "CHA",
+    "sha256": "0f5e3045e01781eea366c51991fb264ba044c2f882897cebf1dc16e480e2b8dc"
+  },
+  {
+    "season": "2020-21",
+    "team": "CHI",
+    "sha256": "26753b1db72ebc9b45f8802ec6b02d8afa8bc05be1e026f83684ef8300b573be"
+  },
+  {
+    "season": "2020-21",
+    "team": "CLE",
+    "sha256": "06a469b555fec6f050e623ca36c40a18a90d3ab179272666d4285f7f98b961e8"
+  },
+  {
+    "season": "2020-21",
+    "team": "DAL",
+    "sha256": "e3c73bb1a202508214104e9b174c4a6725a429f8f667ed59c5c24bb6fd84c24c"
+  },
+  {
+    "season": "2020-21",
+    "team": "DEN",
+    "sha256": "968fecd299535c6e99e87c1054d9b835b51b6b9f36c7d0ef6901a3113e24ad08"
+  },
+  {
+    "season": "2020-21",
+    "team": "DET",
+    "sha256": "c891375869aa2aa8dd40430974bf969ccf8295805f0629adcef4bc061459b180"
+  },
+  {
+    "season": "2020-21",
+    "team": "GSW",
+    "sha256": "008a765999ef13aa9be316bbe3a88ac688fcd1d118e3ab3a674388e6f7c5c16f"
+  },
+  {
+    "season": "2020-21",
+    "team": "HOU",
+    "sha256": "231ceaf21bbd56ab8b417028a825e7da9609ceac504385b59aa9cfe6b432416b"
+  },
+  {
+    "season": "2020-21",
+    "team": "IND",
+    "sha256": "4cb72cc3d9c40a1663271519c462ec1e7ad60c43a31b412ce1833164549aad7c"
+  },
+  {
+    "season": "2020-21",
+    "team": "LAC",
+    "sha256": "65c2057297a0b77ed983b19c406c4feda8b78b4430d3605bf6544909cca303d5"
+  },
+  {
+    "season": "2020-21",
+    "team": "LAL",
+    "sha256": "4549c5fff4be229f6fa559647cd19dd19fb4081bd8fd881993453b94fc54c69d"
+  },
+  {
+    "season": "2020-21",
+    "team": "MEM",
+    "sha256": "b52ae8d6bc87e50ee82c7784f7d9876d7db14eb3b5f222312176d1ba9302e940"
+  },
+  {
+    "season": "2020-21",
+    "team": "MIA",
+    "sha256": "556910587a16f51ebc556aa0abf5163f950beb441c274911385256d64ade9cc8"
+  },
+  {
+    "season": "2020-21",
+    "team": "MIL",
+    "sha256": "5a437ca941a22f8b939d20585d375bdf8f54fb37ea58dd9e883c4bc098b60459"
+  },
+  {
+    "season": "2020-21",
+    "team": "MIN",
+    "sha256": "3fde936f0518a88f8ddee7b460dd07641f0658ae934fdf574b162113ffdd2329"
+  },
+  {
+    "season": "2020-21",
+    "team": "NOP",
+    "sha256": "d62ef0ddd83f6c539b9db3d614ad536250817492e609a1524b1cf0a9ffd6d1ad"
+  },
+  {
+    "season": "2020-21",
+    "team": "NYK",
+    "sha256": "f2c5d68cd4d19ef47c357b84f394988e896bd0079d10169b5cdde5bf844ad733"
+  },
+  {
+    "season": "2020-21",
+    "team": "OKC",
+    "sha256": "27750006bb767bfc7e4453559d28aeb8072ce3ada495b9c804d45b450820debc"
+  },
+  {
+    "season": "2020-21",
+    "team": "ORL",
+    "sha256": "891cb3c5f202917187d4f88377595cface9040d5ca8481f41f582d3f5345441b"
+  },
+  {
+    "season": "2020-21",
+    "team": "PHI",
+    "sha256": "6ffcf3e89816e1e801112448e87d4a1863eff4b12344645ef781fd49b879b3dd"
+  },
+  {
+    "season": "2020-21",
+    "team": "PHX",
+    "sha256": "be6c1a6483c777094e4393ee94305d8709b323ee1afe8c99a713ecffa491bd58"
+  },
+  {
+    "season": "2020-21",
+    "team": "POR",
+    "sha256": "31ea34e861b93ac1354b81a5dbd7862ca053fc752179a93de6636d29d9ea4140"
+  },
+  {
+    "season": "2020-21",
+    "team": "SAC",
+    "sha256": "7152777399d52163422be455d1216a5050c3c4a95ed278cf61f3b047ddc4f7c3"
+  },
+  {
+    "season": "2020-21",
+    "team": "SAS",
+    "sha256": "ff4b56800f219b9a8104a7ee97caa9169b7f4c24893149659c3bac823c6f66b2"
+  },
+  {
+    "season": "2020-21",
+    "team": "TOR",
+    "sha256": "42d1be3f06a27cc8bae1f958b49f02878900936322646251ad4f07882a6af9cf"
+  },
+  {
+    "season": "2020-21",
+    "team": "UTA",
+    "sha256": "2237eaf3daf414f2e5258a9d0891e2be864f9722404cabb18320a9ec3857f987"
+  },
+  {
+    "season": "2020-21",
+    "team": "WAS",
+    "sha256": "eed9ce0e0bb14bc4d45bfbf4dd987815b31a88f8e727f9c749d245d184cd1683"
+  },
+  {
+    "season": "2021-22",
+    "team": "ATL",
+    "sha256": "0f2c6e4bca97aea1f880a8ca7c9321a6607b5f580b22a8b63856e6bc79b662f1"
+  },
+  {
+    "season": "2021-22",
+    "team": "BKN",
+    "sha256": "be34e13008736dd305d60e203b68fb4a0b51cb2720fe729bf1dab9bba540c8f7"
+  },
+  {
+    "season": "2021-22",
+    "team": "BOS",
+    "sha256": "e8f4179672df3c08b6958aafc21c599fa109fda4914454e3f33581013d8fcb5a"
+  },
+  {
+    "season": "2021-22",
+    "team": "CHA",
+    "sha256": "a33e4b7be8291113fb8ee9b6b4d47477f3daf814895e3fc52e5558c2121f8213"
+  },
+  {
+    "season": "2021-22",
+    "team": "CHI",
+    "sha256": "322cd8067a27c047355fef1947a7deff8230d7d4646140b002eaa98e8b00f938"
+  },
+  {
+    "season": "2021-22",
+    "team": "CLE",
+    "sha256": "a5889c442abaf9ee5be15cf837e202f425d78e7f9042698bf0cad902212f5261"
+  },
+  {
+    "season": "2021-22",
+    "team": "DAL",
+    "sha256": "49298af5cc8021b731e8c4aad9347d9bc57aeffbdecbc450bd641a7ed3e9d883"
+  },
+  {
+    "season": "2021-22",
+    "team": "DEN",
+    "sha256": "555cf77df583cae67fe601e0ebfabf595928657bd92a0b33f2bd3e6ddef717d1"
+  },
+  {
+    "season": "2021-22",
+    "team": "DET",
+    "sha256": "daac130bca339c1ca8598dbeec5c38b24cdfa5bc6ab91c4990d4d05e157da714"
+  },
+  {
+    "season": "2021-22",
+    "team": "GSW",
+    "sha256": "e768c6727ea5fed677e1a4b6448ebeb9f08a06520ff1b5ccae0812f11a351cf2"
+  },
+  {
+    "season": "2021-22",
+    "team": "HOU",
+    "sha256": "f11c9680c343268693fb321c09af4c0277088a1aec92040ab11f394321242cb0"
+  },
+  {
+    "season": "2021-22",
+    "team": "IND",
+    "sha256": "7171490ccdc5a2ebd26f1286a93f54c1537245b4fff8462903f5ae991f664fff"
+  },
+  {
+    "season": "2021-22",
+    "team": "LAC",
+    "sha256": "58dff12026bb89e46983ee95fb6ec291d0e4871107e2eb44d235c4d6109d2b33"
+  },
+  {
+    "season": "2021-22",
+    "team": "LAL",
+    "sha256": "f114315c8647e679da49873d862239350fc7a01fab95ba6d47443d9ab7a5c280"
+  },
+  {
+    "season": "2021-22",
+    "team": "MEM",
+    "sha256": "edffa11377a7b07742cf9e4aa376cf3e160187c32ef2c98c2fadee0031cf072c"
+  },
+  {
+    "season": "2021-22",
+    "team": "MIA",
+    "sha256": "1a3324c0016a79b8ce7906b8602866e2166a543b2e6f6e422583ef06c8495fa4"
+  },
+  {
+    "season": "2021-22",
+    "team": "MIL",
+    "sha256": "0fdec8335b7a344458d93685ef0ca807df6f0d8a13723e233445edb674916303"
+  },
+  {
+    "season": "2021-22",
+    "team": "MIN",
+    "sha256": "d0aa5cb917e5863134e2f4f41537d71f26fbdd63aaf4bd22f9dcc04c042aa0c7"
+  },
+  {
+    "season": "2021-22",
+    "team": "NOP",
+    "sha256": "87450717d4227eec9486d0da8bec6916603b5631a40c75191d5e046b3fe7e14f"
+  },
+  {
+    "season": "2021-22",
+    "team": "NYK",
+    "sha256": "4fe0efcde0ce31afa0044249c9ae4ebc989416b28b42ea0df15fc236131cf67f"
+  },
+  {
+    "season": "2021-22",
+    "team": "OKC",
+    "sha256": "6f84da4afe6b2254a930d86734635b9f86a1806b02fc49796923b2a797ca187d"
+  },
+  {
+    "season": "2021-22",
+    "team": "ORL",
+    "sha256": "9ef3caab267756feff6945bdb1a51dc421ad447e634e7e6ccfad644d174e3ce1"
+  },
+  {
+    "season": "2021-22",
+    "team": "PHI",
+    "sha256": "f04110efb43954ffa903ab2e4899a4273e36038b698183d15928a8b14a1fca03"
+  },
+  {
+    "season": "2021-22",
+    "team": "PHX",
+    "sha256": "915b36cf22af69501a16ac69ed849cc975e7a662fe14b795718db7b7f73c2db3"
+  },
+  {
+    "season": "2021-22",
+    "team": "POR",
+    "sha256": "ee891a849511585a9120de5bb19f267b1dc9ee7fef3deb9ac71a9dbc302b8114"
+  },
+  {
+    "season": "2021-22",
+    "team": "SAC",
+    "sha256": "59e7e695d54ee846f202d2efaec1069fc5599d9580aef04a7ec6a9b88ada251a"
+  },
+  {
+    "season": "2021-22",
+    "team": "SAS",
+    "sha256": "023310810dac80b7468874aaf01f9af059113de51581f39f20584d95fa8dafc4"
+  },
+  {
+    "season": "2021-22",
+    "team": "TOR",
+    "sha256": "43b60788bd2aac5edf102c3b50ade1ece0ea5a6e78ce77a0e18ae2f11a50ad3e"
+  },
+  {
+    "season": "2021-22",
+    "team": "UTA",
+    "sha256": "b08b3119f2a8819ae8c7bb22fb7b1f6f8d46e73381747a89ee6fb421c71eeed6"
+  },
+  {
+    "season": "2021-22",
+    "team": "WAS",
+    "sha256": "92823f82236df771dd880957abb3c12a6607a7bf08d512902d206bf98dd3111b"
+  },
+  {
+    "season": "2022-23",
+    "team": "ATL",
+    "sha256": "8f2ba88527acab4596c43ccf79b997a54a8f5580c09ccf2388d30850ccaec03e"
+  },
+  {
+    "season": "2022-23",
+    "team": "BKN",
+    "sha256": "c919b3c7fba2d146317f14afa3befa81380bce3270d742aa2743f82014f86b8a"
+  },
+  {
+    "season": "2022-23",
+    "team": "BOS",
+    "sha256": "8448c04b4362c7e9c83f1a27d6a3b466c1d4de89cdb404b242df512d9c55c656"
+  },
+  {
+    "season": "2022-23",
+    "team": "CHA",
+    "sha256": "0bcc95b7e5737f59cf2e0433a31b6ad6f6bc5ed253683798c750fd69ba2bcdd7"
+  },
+  {
+    "season": "2022-23",
+    "team": "CHI",
+    "sha256": "ece6f8720d19afa7816b6a517ef3560050b8d0c023fb99e0513c54b195904f66"
+  },
+  {
+    "season": "2022-23",
+    "team": "CLE",
+    "sha256": "4817e4e98b03ff15f802b018e119d7836cbac1036f7043976a3dd1252b41f656"
+  },
+  {
+    "season": "2022-23",
+    "team": "DAL",
+    "sha256": "5bec46d46ecd1c1e8c20bc0efe6f7fd926bed968ed80736f475de547a0413b80"
+  },
+  {
+    "season": "2022-23",
+    "team": "DEN",
+    "sha256": "3c59dfe932443bb52f362c50765efd801caebc6cad0a845cc8b21a7be2af14cb"
+  },
+  {
+    "season": "2022-23",
+    "team": "DET",
+    "sha256": "704ba5c71fce31031337024cc0d4e498e9dfcd2700dd7cce2e816919210810ff"
+  },
+  {
+    "season": "2022-23",
+    "team": "GSW",
+    "sha256": "f6ab6134b21f4545e0a630c13d252b68250e1814eb05e62e10c5df63a48c38d3"
+  },
+  {
+    "season": "2022-23",
+    "team": "HOU",
+    "sha256": "55a906d8efcffcf585df08b1f5301f6afe91cc787064748290713c50e81b6215"
+  },
+  {
+    "season": "2022-23",
+    "team": "IND",
+    "sha256": "741d137374ffc7b971ff66c89201be5fe421e2e0bc37ed38748d3bc1402de889"
+  },
+  {
+    "season": "2022-23",
+    "team": "LAC",
+    "sha256": "d42bd3cc7417276a705d38343df22d417a21973139676155ba96d70f4bec8084"
+  },
+  {
+    "season": "2022-23",
+    "team": "LAL",
+    "sha256": "07575bef89841c174086575cdb311a23f0ff7283f2ee26919583462c2717977c"
+  },
+  {
+    "season": "2022-23",
+    "team": "MEM",
+    "sha256": "b1d998163a4ac608695badc0547ee0815d9e3bbfdd0ef0ac1a9dd66598462865"
+  },
+  {
+    "season": "2022-23",
+    "team": "MIA",
+    "sha256": "c0ff00597eea1fd4435451183b3634e39e40b298742b716defc05f9b627dc4bd"
+  },
+  {
+    "season": "2022-23",
+    "team": "MIL",
+    "sha256": "78ff812907d5d0111e78e5d72300b41b540f6b9921481250b2abc9b80ac9a08c"
+  },
+  {
+    "season": "2022-23",
+    "team": "MIN",
+    "sha256": "f3de1085381b2485cf6fa027de48dbccbc15fabd087433008a4508a32a23654d"
+  },
+  {
+    "season": "2022-23",
+    "team": "NOP",
+    "sha256": "ed2b8de9a1ea86bc6f8ec07aecd7088147909bcfe4cb850b29d1ed126f81d156"
+  },
+  {
+    "season": "2022-23",
+    "team": "NYK",
+    "sha256": "1154a1452458efdce99665ae88e85351a37a0e0c78f376ecce00d2bb6fc1a379"
+  },
+  {
+    "season": "2022-23",
+    "team": "OKC",
+    "sha256": "b8fce16625eaecd5c8f17d8cf0422482a105e113f8e2f30d48e5124ad9c039ce"
+  },
+  {
+    "season": "2022-23",
+    "team": "ORL",
+    "sha256": "ac2c2958f17789b9ea2a4c96459914c1670ea6fedf77d0babaa5a863d767cfb2"
+  },
+  {
+    "season": "2022-23",
+    "team": "PHI",
+    "sha256": "4377790c95bab583c969e8f76e40f1a06c0ed28fae457b40623925f81c1b127f"
+  },
+  {
+    "season": "2022-23",
+    "team": "PHX",
+    "sha256": "5d04bb3ff6f665363e56943e9906b597c32389f6c80747b75b2c3856fe9836f1"
+  },
+  {
+    "season": "2022-23",
+    "team": "POR",
+    "sha256": "f0729c7a7d1f485617bfae09d9a7fea8993cbbd499faeebdc39bfd2685ffd675"
+  },
+  {
+    "season": "2022-23",
+    "team": "SAC",
+    "sha256": "4e9a3ed62277e231a2d46d693d25cf76fbce176f73fc0a51c96a9729547ddcdf"
+  },
+  {
+    "season": "2022-23",
+    "team": "SAS",
+    "sha256": "24fc9cd8efb6d840438321435cca4bd999180eab5d3b24a12591bbd26d219b02"
+  },
+  {
+    "season": "2022-23",
+    "team": "TOR",
+    "sha256": "b8895bfdc8a51790b3aa5a4ba68e40d505934a0995800dace97b432101d699b8"
+  },
+  {
+    "season": "2022-23",
+    "team": "UTA",
+    "sha256": "ee038853f502f999340aa15975656f645d7f19d01171827aa66d421dca3acb0f"
+  },
+  {
+    "season": "2022-23",
+    "team": "WAS",
+    "sha256": "316dbc4bdb7dee8229d2765fe2c97b17b601d3c03f9f42c9784fd31d272ccd4f"
+  },
+  {
+    "season": "2023-24",
+    "team": "ATL",
+    "sha256": "64ea2a8c4e742ef700145544ff59a0e8d5b588cd67b19f63ca0efe3cc37a1f81"
+  },
+  {
+    "season": "2023-24",
+    "team": "BKN",
+    "sha256": "1e2fd56b55dc3883d6e27c4cda8ab4dea9e33145a9b2727650ac13339d0c7e2f"
+  },
+  {
+    "season": "2023-24",
+    "team": "BOS",
+    "sha256": "3406af5972758ac7a15c2a73e75ef5d44a097ed23c61f31383f58bd4f7e595fb"
+  },
+  {
+    "season": "2023-24",
+    "team": "CHA",
+    "sha256": "cb1235e6ef4cfdcecf204f92c7ff1bf55d4c7b5844907b36556d5209d9617e7a"
+  },
+  {
+    "season": "2023-24",
+    "team": "CHI",
+    "sha256": "de0d4a21ed3df1f6b1e164cf1f05de250a185b90a6829ab903754431658f280a"
+  },
+  {
+    "season": "2023-24",
+    "team": "CLE",
+    "sha256": "e65f5ca0d6a2ebbd01e4f971d3eba01b9dcee6dd6dd120c74dda1fb89325ecc8"
+  },
+  {
+    "season": "2023-24",
+    "team": "DAL",
+    "sha256": "b8d4adf3a55b67bd8335bb7651bbde829bc4e7587a1ec9933333889a949f0db3"
+  },
+  {
+    "season": "2023-24",
+    "team": "DEN",
+    "sha256": "1cf8fbae6dc6f8bd438aadb08ee6d16c0815b5568f225eb94f50f4ad1e586a06"
+  },
+  {
+    "season": "2023-24",
+    "team": "DET",
+    "sha256": "d888c61f6114aeeba50379f2379295b10e7a4b6ba35468e9fa4195277a6f729e"
+  },
+  {
+    "season": "2023-24",
+    "team": "GSW",
+    "sha256": "ec283adcb7b73902b5e57a3b5053003803fa5e0e3732befb1fe72c204f9339a8"
+  },
+  {
+    "season": "2023-24",
+    "team": "HOU",
+    "sha256": "db70cd60f924bdf31032b2650ca47d57c56635901e507d212ca4b7448849c62c"
+  },
+  {
+    "season": "2023-24",
+    "team": "IND",
+    "sha256": "c3bdb32a2836a2486a6168558af4fc6ca06ae1dab5f340d338a1f7cff96a7319"
+  },
+  {
+    "season": "2023-24",
+    "team": "LAC",
+    "sha256": "c063c643f4e741c70debf8523fb2c637a50cb98316840e292166fc068c246b6d"
+  },
+  {
+    "season": "2023-24",
+    "team": "LAL",
+    "sha256": "8645734cc1d3022cccf6d28d4c6d73b2eb45a7dff2da4c3a540fb5c4b0e0bfc3"
+  },
+  {
+    "season": "2023-24",
+    "team": "MEM",
+    "sha256": "f62d3e1be37b33d9b043b41621c35cffbd7a725586499b7f96e26a46d4c807fc"
+  },
+  {
+    "season": "2023-24",
+    "team": "MIA",
+    "sha256": "4a88b609c75de6c54fd665a00e8800728dbef784e5b9be92abe670fa74730101"
+  },
+  {
+    "season": "2023-24",
+    "team": "MIL",
+    "sha256": "08257cbcc5667798b4e408f6fa066f736bf1f5eb99f30b0e66ce5088e8a8b706"
+  },
+  {
+    "season": "2023-24",
+    "team": "MIN",
+    "sha256": "b09cc818bc9166ebce76185d9e7707914a8ba01f318b7255a9b3c4cb0c497b01"
+  },
+  {
+    "season": "2023-24",
+    "team": "NOP",
+    "sha256": "eb3c8c5400bf065c6d59879f187b2b31c5f7a6ea3e05dc98b7fa946d1168bf1f"
+  },
+  {
+    "season": "2023-24",
+    "team": "NYK",
+    "sha256": "67cb2263d67e4adfd4ba3ec560e32ef428101107f032eede408d438fed629fd2"
+  },
+  {
+    "season": "2023-24",
+    "team": "OKC",
+    "sha256": "7730731c3790a2a9aa25c8b1c66129a43188316e0dbcf7068f837b80b4668f0a"
+  },
+  {
+    "season": "2023-24",
+    "team": "ORL",
+    "sha256": "0d5e61bb350c0c5902272b23061a811c1cd96dcefa117f9299b30f1e527ee228"
+  },
+  {
+    "season": "2023-24",
+    "team": "PHI",
+    "sha256": "8a777d38438f4eef1a4f141869eaef53985ed8d74f113d411095964b9c58df1f"
+  },
+  {
+    "season": "2023-24",
+    "team": "PHX",
+    "sha256": "b5774e91e08cdbe06c5ec45f16dc71572313f94356f79383c94e3e0898436162"
+  },
+  {
+    "season": "2023-24",
+    "team": "POR",
+    "sha256": "b9237af2a35ee7eed239bba5edb4fff6b4458f7968e7f47da82197cb7ab1a027"
+  },
+  {
+    "season": "2023-24",
+    "team": "SAC",
+    "sha256": "2f0dcfbb2452bea6da19d6759e34e874b9377c0b4c44e841f51937ff6f7d2750"
+  },
+  {
+    "season": "2023-24",
+    "team": "SAS",
+    "sha256": "78dd51108f888d9ff3fd12b2712ea532eb1f83b6b273c725322bd46b90287d6b"
+  },
+  {
+    "season": "2023-24",
+    "team": "TOR",
+    "sha256": "cf557d2bbf33bf0d44d85dce2fdb6fbf7fbd064fcba7f653b43f17ba703f7c07"
+  },
+  {
+    "season": "2023-24",
+    "team": "UTA",
+    "sha256": "62adaf5ff347db48802f79234ba00f2aba45969122d8184332342eb026d0da57"
+  },
+  {
+    "season": "2023-24",
+    "team": "WAS",
+    "sha256": "42f573904b6483a84525ab0aa02e8d3c1fa9887b288c12c5dd7bbe4bf4904c01"
+  },
+  {
+    "season": "2024-25",
+    "team": "ATL",
+    "sha256": "a033e333183cd08add84a8a2fe1f173a1151339c82075d1fd91164a0d47d0c23"
+  },
+  {
+    "season": "2024-25",
+    "team": "BKN",
+    "sha256": "146389300c3e9c9171eeff6d5e1cb6559029f5953e93ed5e26a59b883015912b"
+  },
+  {
+    "season": "2024-25",
+    "team": "BOS",
+    "sha256": "6ccb864938d294db5c9a1937d36ed8e394c4b35874b59a3a7358860db1c8a46e"
+  },
+  {
+    "season": "2024-25",
+    "team": "CHA",
+    "sha256": "dbfab5427e7937e61c68d7149e3ff7f8246a9a2292407c71b4c4e6781eaa9c36"
+  },
+  {
+    "season": "2024-25",
+    "team": "CHI",
+    "sha256": "eec081e2bc30b6a6b879ad2781b8d72d1f037459abc8219a1b184d3a38ddc181"
+  },
+  {
+    "season": "2024-25",
+    "team": "CLE",
+    "sha256": "ae897eacf1ff2b7415b437911a0948609a60852f9e6e99746b12d64a7446eb9e"
+  },
+  {
+    "season": "2024-25",
+    "team": "DAL",
+    "sha256": "77012bc9192d5659e0506ddf27ceb82ba2ae3424d8951efc61ca0cceee68e92f"
+  },
+  {
+    "season": "2024-25",
+    "team": "DEN",
+    "sha256": "76fdafea8540486158b3852953c1c7f96e1746192f6d1e4b5e653c994704d9d3"
+  },
+  {
+    "season": "2024-25",
+    "team": "DET",
+    "sha256": "f7385e6d5210e584fcc9d4c0f33a5fc67b9bcb9e23d7da0f646097a05704f1e2"
+  },
+  {
+    "season": "2024-25",
+    "team": "GSW",
+    "sha256": "d0da6d6a9a6fb559e41f5b88d38c0bd1f680a0527e795132b7bd85f526558f84"
+  },
+  {
+    "season": "2024-25",
+    "team": "HOU",
+    "sha256": "9b38e42b42b0ccc69527825af3892a99357d05204d32c7c7189b7f210d4115bd"
+  },
+  {
+    "season": "2024-25",
+    "team": "IND",
+    "sha256": "fb46c64719f4f38b5e17adf135ca5e33af4088350ec6f700b3bcb1f4f87efa1e"
+  },
+  {
+    "season": "2024-25",
+    "team": "LAC",
+    "sha256": "9970002fe3dfe0989db928c2e4c73dbfaeebde8e6690288110ef65360c1e951b"
+  },
+  {
+    "season": "2024-25",
+    "team": "LAL",
+    "sha256": "6c1c981950974a160efe6755a8ae48cb388b3d7620319a02f5518297e3f26d72"
+  },
+  {
+    "season": "2024-25",
+    "team": "MEM",
+    "sha256": "6331a54e45e57630197d5161ed5400c6579d4dc130295b1fe4e0db1cc9eae2f6"
+  },
+  {
+    "season": "2024-25",
+    "team": "MIA",
+    "sha256": "c16987c4ea05effe8b706412541a5f3eae345f555d1ce75f185f555341c0be00"
+  },
+  {
+    "season": "2024-25",
+    "team": "MIL",
+    "sha256": "eb4b3adfa61255e8e0ce47fed5cfb4f6eb8f84c0d127e1bfd0043a8697774258"
+  },
+  {
+    "season": "2024-25",
+    "team": "MIN",
+    "sha256": "041263df9b20f93ba47fc42d172ef69ada545e4f5a94f7ff0717facfc9226f87"
+  },
+  {
+    "season": "2024-25",
+    "team": "NOP",
+    "sha256": "3e376734a6abf0f347199b173d374d10fb4a2ed966460e2e93d00e8ee509e73f"
+  },
+  {
+    "season": "2024-25",
+    "team": "NYK",
+    "sha256": "2b35600c9ae687d362c68fe173501372ff731a58ccce504e2ca7d392aaab8e63"
+  },
+  {
+    "season": "2024-25",
+    "team": "OKC",
+    "sha256": "c3ccca7fa906eaf763609f70edfec5a3c8b8a0fcd265781a4a7b13ffd2ceea6a"
+  },
+  {
+    "season": "2024-25",
+    "team": "ORL",
+    "sha256": "f303e113a96ee94140b7daef7cef8db5610e5162a645ad328bab0ea2156638fd"
+  },
+  {
+    "season": "2024-25",
+    "team": "PHI",
+    "sha256": "67e5624f550921bbdb198f344c867b334909cb3a97f85eb030ef15b553916848"
+  },
+  {
+    "season": "2024-25",
+    "team": "PHX",
+    "sha256": "f466c210cd948895fb5ba5017ce3a60672af71c984e53ee2d570cd5c6ae95f57"
+  },
+  {
+    "season": "2024-25",
+    "team": "POR",
+    "sha256": "0b6d0e752bce0ae5b982e10b9b42bab8277ea454ccff47af5bc7ab6da5fd7f51"
+  },
+  {
+    "season": "2024-25",
+    "team": "SAC",
+    "sha256": "2ace4a1b6efc9d94fbec30d458d39d0538baef4f122059fa360e8fce18a729b6"
+  },
+  {
+    "season": "2024-25",
+    "team": "SAS",
+    "sha256": "feb0675565baa2847afabd2bdab312e028296a27cf8f005e12f70a12a3ed9089"
+  },
+  {
+    "season": "2024-25",
+    "team": "TOR",
+    "sha256": "9f3a873f4fcd4fdf34446098b025577e298a26bc6c6897c82fa8de0a1461f67a"
+  },
+  {
+    "season": "2024-25",
+    "team": "UTA",
+    "sha256": "c98d2820ffbc75ece40466de5d504ac9d3e88d3aa985d74d006cebe0b92e2880"
+  },
+  {
+    "season": "2024-25",
+    "team": "WAS",
+    "sha256": "4387a1ace470b656c7efe7ae0ed981b5352f4ab323a82942e8d9d7ec51627091"
+  },
+  {
+    "season": "2025-26",
+    "team": "ATL",
+    "sha256": "291487ef7b9fe5b7d1fe8e9e35a7af32a70884dcb8c9d5b9cd5ace6fdc302e8f"
+  },
+  {
+    "season": "2025-26",
+    "team": "BKN",
+    "sha256": "ba800ff6705cec4a8ea360ed64c1e92d56d2781ffacb0ae38fd8fdcaaeeae189"
+  },
+  {
+    "season": "2025-26",
+    "team": "BOS",
+    "sha256": "1ebb213f9180fda47220df77a800061a7bbccaf5bd752b376a5439d542b2edaa"
+  },
+  {
+    "season": "2025-26",
+    "team": "CHA",
+    "sha256": "4eeb76f8206c6fea1f80a2c10cc82a1c5470d5d1b03bee1c43f716a549cbde14"
+  },
+  {
+    "season": "2025-26",
+    "team": "CHI",
+    "sha256": "ef77480366759122decba3da4018eb92812b5cdca35bd1f506a78758aa88bb95"
+  },
+  {
+    "season": "2025-26",
+    "team": "CLE",
+    "sha256": "0f4e77b1277a8ce2240c1dc765c1c4661337b231ebea7eadac5f0a4baef2338b"
+  },
+  {
+    "season": "2025-26",
+    "team": "DAL",
+    "sha256": "9954d83d942b6149fc7847549534ce450108479cf9cb5dc2d9aafcf7a9e4aa0b"
+  },
+  {
+    "season": "2025-26",
+    "team": "DEN",
+    "sha256": "7521fe619f11fda379528f1ea1b4c91019206b62991770730675283d1b128ce8"
+  },
+  {
+    "season": "2025-26",
+    "team": "DET",
+    "sha256": "58dd0f374dfbc16608965c2f1eeaf081f3b6cc93b1a3e90a5edb6b49eff6e932"
+  },
+  {
+    "season": "2025-26",
+    "team": "GSW",
+    "sha256": "1be0420a25e58f6027b3b463b630f8262897a37368b0f2ab4da79b5e67e7b2fb"
+  },
+  {
+    "season": "2025-26",
+    "team": "HOU",
+    "sha256": "612d38671373a1fb8c0e592b8a51edf3c07545f7b78f3ed69685e7eaa9a4f8a9"
+  },
+  {
+    "season": "2025-26",
+    "team": "IND",
+    "sha256": "93862e9956acfb232f8b96a257485dc908edb90dcf394e5613481d9e3570f4b2"
+  },
+  {
+    "season": "2025-26",
+    "team": "LAC",
+    "sha256": "fe944605221f889d9e024268d0865ddc62b83e968e56485107344b1bd516a377"
+  },
+  {
+    "season": "2025-26",
+    "team": "LAL",
+    "sha256": "5199f15f64d8792f40ca1e81424f21ebd678a3963d05abf591be68495020a05e"
+  },
+  {
+    "season": "2025-26",
+    "team": "MEM",
+    "sha256": "943aa0359ea20b67de5cda46ec39460d4e2aab26903b3555cda81603b660ff6d"
+  },
+  {
+    "season": "2025-26",
+    "team": "MIA",
+    "sha256": "72786becc99c0fe97fd02e981d3418101e5b9ad72943aebb5992319b7e136ae0"
+  },
+  {
+    "season": "2025-26",
+    "team": "MIL",
+    "sha256": "b9584b9484c576bcdc7e7ba6218ec66ffa3b0e2e1d7f6063a55726cab0d74fe8"
+  },
+  {
+    "season": "2025-26",
+    "team": "MIN",
+    "sha256": "6c1ff0e2976790ad76045347ebe9d14a155de4bfd38499da922a3e2cdd1103a5"
+  },
+  {
+    "season": "2025-26",
+    "team": "NOP",
+    "sha256": "cc8abb97cc2789fd677cc8d083623c9037b741dce13db337da760860c9797fe6"
+  },
+  {
+    "season": "2025-26",
+    "team": "NYK",
+    "sha256": "bff492c3da006af90fc96c9e4981e14beaddd28d4b6e357e92f573dfd7d03187"
+  },
+  {
+    "season": "2025-26",
+    "team": "OKC",
+    "sha256": "30a7f13408ce8e35509972d3d9e867e068f7df40dbb778d97af1ada0ba54b463"
+  },
+  {
+    "season": "2025-26",
+    "team": "ORL",
+    "sha256": "f93b9dcb4b43dc463c1a5982ae83516dca01d71f3de75b12a0c6d98168cccb80"
+  },
+  {
+    "season": "2025-26",
+    "team": "PHI",
+    "sha256": "bc2a5c6cb8d7eb41bce170baf947b36cfd41eca44a777f4cc3a715a374f4e474"
+  },
+  {
+    "season": "2025-26",
+    "team": "PHX",
+    "sha256": "3e818b528ca8298072e5abdd12c5bc57cf5ed1fdbfd5d5071becd85a3baf05df"
+  },
+  {
+    "season": "2025-26",
+    "team": "POR",
+    "sha256": "f393806979e218210f80e0436a37985b01c732ac11978432ab9810661e619055"
+  },
+  {
+    "season": "2025-26",
+    "team": "SAC",
+    "sha256": "91f73641aad4fcf500e3e529e5957a5dfd9db7de381e5fded0721479450724c0"
+  },
+  {
+    "season": "2025-26",
+    "team": "SAS",
+    "sha256": "7939dd8d5b0ff32376c84e92173bbc94e876c15ab7c3d4f122d7677ede1f9cee"
+  },
+  {
+    "season": "2025-26",
+    "team": "TOR",
+    "sha256": "925159321e817204b89163cc546a28a7b26fbca921a49f7bbb5ae5590c0c45d4"
+  },
+  {
+    "season": "2025-26",
+    "team": "UTA",
+    "sha256": "f36300a7f7c81bb6f27222be61370321b0940c9e807301f9da3f4ba005c0e2da"
+  },
+  {
+    "season": "2025-26",
+    "team": "WAS",
+    "sha256": "85a027682557ff18097a508a3f7dd6588907aa9d5cf3a0d19ac95a47c3f2852c"
+  }
+]

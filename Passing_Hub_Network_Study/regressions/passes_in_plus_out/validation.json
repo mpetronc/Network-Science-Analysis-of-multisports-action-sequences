@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "team_seasons": 180,
+  "primary_n": 96,
+  "later_reference_n": 88,
+  "checks": "First20 hub strengths reconstructed and verified; highest-strength identity checked; seasonal slopes/r checked with SciPy; pooled slopes and clustered SEs checked independently by within-season scalar scores",
+  "source_sha256": "f10918a9ae6a5701e8018c271b6e2931b4bc7d2bdfbd0eda6399fd5f9f1b7a04",
+  "pdf_pages": 8,
+  "visual_review": "Pooled and season-panel plots rendered and checked"
+}

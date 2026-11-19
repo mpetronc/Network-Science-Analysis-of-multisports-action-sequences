@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "forecasts": 180,
+  "observed_comparisons": 171,
+  "primary_benchmark": 96,
+  "checks": "Unchanged training-only minutes; independently recomputed role weights, every predicted edge, conserved mass, zero self/hub routes, frozen hashes, independent entropy and held-out errors; future roster arrivals have zero forecast weight",
+  "pdf_pages": {
+    "networks": 180,
+    "comparison": 3
+  },
+  "visual_review": "Rendered network and comparison pages inspected"
+}
