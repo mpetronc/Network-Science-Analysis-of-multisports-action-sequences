@@ -1,0 +1,18 @@
+from pathlib import Path
+import argparse,shutil
+import pandas as pd,numpy as np
+from select_onoff_stars import paired
+from nba_api.stats.static import teams
+
+def main(argv=None):
+ p=argparse.ArgumentParser();p.add_argument('--output-dir',type=Path,default=Path(__file__).resolve().parent/'nba_passing_output');p.add_argument('--data-dir',type=Path);a=p.parse_args(argv);root=a.output_dir;out=a.data_dir or root/'ec_selected_dependency';out.mkdir(parents=True,exist_ok=True);metrics=pd.read_csv(root/'court_zone_networks/regressions/four_metrics.csv');metrics=metrics[metrics.season.eq('2024-25')].set_index('team');players=pd.read_csv(root/'2025-26/team_season_topics/player_games.csv',dtype={'GAME_ID':str});games=pd.read_csv(root/'2025-26/team_season_topics/team_games.csv',dtype={'GAME_ID':str});games['date']=pd.to_datetime(games.GAME_DATE);coverage=[];rows=[]
+ for t in teams.get_teams():
+  team=t['abbreviation'];tid=t['id'];z=metrics.loc[team];pid=int(z.passing_leader_id);M=pd.read_csv(root/'full_roster_entropy_centrality/historical_full_rosters/2024-25'/team/'passing_matrix.csv',index_col=0);ids=M.index.astype(int).to_numpy();T=M.to_numpy(float);mask=T.sum(0)+T.sum(1)>0;_,vec=np.linalg.eigh((T+T.T)[np.ix_(mask,mask)]);v=np.abs(vec[:,-1]);v/=v.sum();assert np.isclose(v[np.flatnonzero(ids[mask]==pid)[0]],v.max(),atol=1e-8)
+  g=games[games.TEAM_ID.eq(tid)].sort_values(['date','GAME_ID']);early=set(g.head(10).GAME_ID);part=players[players.TEAM_ID.eq(tid)&players.PLAYER_ID.eq(pid)];retained=part.GAME_ID.isin(early).any();c=dict(team=team,star_id=pid,star_name=z.passing_leader_name,retained_first10=bool(retained),status='not_retained_first10')
+  if not retained:coverage.append(c);continue
+  other=players[players.PLAYER_ID.eq(pid)&players.TEAM_ID.ne(tid)];date=pd.to_datetime(other.GAME_DATE).min() if len(other) else pd.NaT;censor=date-pd.Timedelta(days=14) if pd.notna(date) else pd.NaT;window=g[g.date.lt(censor)] if pd.notna(censor) else g;played=set(part.GAME_ID);ngp=int(window.GAME_ID.isin(played).sum());absent=len(window)-ngp;c.update(present_games=ngp,absent_games=absent,status='available' if absent else 'no_observed_absence');coverage.append(c)
+  if not absent:continue
+  prior=paired(root/'onoff_dependency/onoff/2024-25'/(team+'.csv'));q=prior[prior.VS_PLAYER_ID.eq(pid)];assert len(q)==1;prior=q.iloc[0];cur=paired(root/'onoff_dependency/onoff/2025-26'/(team+'.csv'));cur=cur[cur.VS_PLAYER_ID.eq(pid)];assert len(cur)==1;cur=cur.iloc[0]
+  rows.append(dict(team=team,team_id=tid,star_id=pid,star_name=z.passing_leader_name,prior_on_off_gap=prior.OFF_RATING_on-prior.OFF_RATING_off,prior_on_ortg=prior.OFF_RATING_on,prior_off_ortg=prior.OFF_RATING_off,prior_on_minutes=prior.MIN_on,prior_off_minutes=prior.MIN_off,current_on_off_gap=cur.OFF_RATING_on-cur.OFF_RATING_off,current_on_ortg=cur.OFF_RATING_on,current_off_ortg=cur.OFF_RATING_off,present_games=ngp,absent_games=absent,window_games=len(window),window_start=window.date.min().date().isoformat(),window_end=window.date.max().date().isoformat(),trade_censor_date=str(censor.date()) if pd.notna(censor) else '',first_other_team_date=str(date.date()) if pd.notna(date) else '',star_selection='Strict highest passing-only EC player in 2024-25; no substitute chosen',prior_hub_ec_share=v.max()))
+ pd.DataFrame(coverage).sort_values('team').to_csv(out/'coverage_all_30.csv',index=False);d=pd.DataFrame(rows).sort_values(['prior_on_off_gap','team'],ascending=[False,True]);d.insert(0,'dependency_rank',range(1,len(d)+1));d.to_csv(out/'selected_stars.csv',index=False);print(d[['team','star_name','prior_on_off_gap','present_games','absent_games','window_games']].to_string(index=False));print(pd.DataFrame(coverage).status.value_counts().to_string())
+if __name__=='__main__':main()

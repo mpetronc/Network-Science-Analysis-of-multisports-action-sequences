@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "team_seasons": 180,
+  "franchises": 30,
+  "seasons": 6,
+  "pdf_pages": 36,
+  "primary_sample": 96,
+  "checks": [
+    "One-to-one merge with latest split-role predictions",
+    "Hub identity and original/actual entropy equal across sources",
+    "30 franchise images and 6 league images verified",
+    "League and rendered PDF franchise-page layout visually inspected"
+  ],
+  "new_downloads": false
+}
