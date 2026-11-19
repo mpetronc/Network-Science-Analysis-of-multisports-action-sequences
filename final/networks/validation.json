@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "team_seasons": 180,
+  "franchises": 30,
+  "seasons": 6,
+  "observed_comparisons": 171,
+  "image_count": 180,
+  "pdf_page_counts": {
+    "2023-24_all_30_teams.pdf": 30,
+    "all_180_team_networks.pdf": 180,
+    "2024-25_all_30_teams.pdf": 30,
+    "2020-21_all_30_teams.pdf": 30,
+    "2021-22_all_30_teams.pdf": 30,
+    "2025-26_all_30_teams.pdf": 30,
+    "2022-23_all_30_teams.pdf": 30
+  },
+  "source_matrices_unchanged": true,
+  "missing_actual_comparisons_explicit": true,
+  "gallery_images_and_links_verified": true,
+  "team_and_season_filter_data_verified": true,
+  "visual_review": "Rendered PDF page 158 and missing-actual PNG checked; labels, panels and notes readable.",
+  "legacy_primary_eligible": 96,
+  "final_ten_plus_evaluation": 100,
+  "final_common_historical_evaluation": 85
+}

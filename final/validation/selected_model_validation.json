@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "team_seasons": 180,
+  "primary_n": 96,
+  "primary_with_history": 81,
+  "comparable_copy_primary": 21,
+  "all_target_franchises_excluded_from_learned_training": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "player_names_ids_not_features": true,
+  "source_files_unchanged": true,
+  "source_sha256": "54c7fbbf8d8bf874a1d32db34874a2b5518b604e91bf8e68879cd74bc1dc4f0b",
+  "checks": "Synthetic correction/fallback/permutation checks; all-target chronology/franchise assertions; hub/self-pass removal and conserved pass mass; frozen source hashes",
+  "independent_exact_previous_season_audits": 180,
+  "independent_role_multiplier_reconstructions": 180,
+  "first_history_season_matches_original_expanding_model": true,
+  "no_history_fallback_exact": true
+}

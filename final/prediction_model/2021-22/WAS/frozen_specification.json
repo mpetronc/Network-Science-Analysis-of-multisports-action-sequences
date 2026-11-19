@@ -1,0 +1,96 @@
+{
+  "season": "2021-22",
+  "team": "WAS",
+  "hub_id": 203915,
+  "hub_name": "Spencer Dinwiddie",
+  "first20_cutoff": "2021-11-27",
+  "required_previous_season": "2020-21",
+  "history_policy": "Immediately preceding season only",
+  "historical_team_seasons": 14,
+  "historical_training_keys": [
+    [
+      "2020-21",
+      "IND"
+    ],
+    [
+      "2020-21",
+      "UTA"
+    ],
+    [
+      "2020-21",
+      "SAC"
+    ],
+    [
+      "2020-21",
+      "TOR"
+    ],
+    [
+      "2020-21",
+      "NOP"
+    ],
+    [
+      "2020-21",
+      "PHI"
+    ],
+    [
+      "2020-21",
+      "LAL"
+    ],
+    [
+      "2020-21",
+      "CHA"
+    ],
+    [
+      "2020-21",
+      "OKC"
+    ],
+    [
+      "2020-21",
+      "BOS"
+    ],
+    [
+      "2020-21",
+      "LAC"
+    ],
+    [
+      "2020-21",
+      "HOU"
+    ],
+    [
+      "2020-21",
+      "BKN"
+    ],
+    [
+      "2020-21",
+      "MIN"
+    ]
+  ],
+  "target_franchise_excluded": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "identity_features_used": false,
+  "feature_names": [
+    "log_sender_share",
+    "log_receiver_share",
+    "present_sender_share",
+    "present_receiver_share",
+    "forecast_minutes_fraction",
+    "extra_minutes_fraction",
+    "position_G",
+    "position_F",
+    "position_C",
+    "unknown_position",
+    "position_match",
+    "log_active_players",
+    "hub_involvement"
+  ],
+  "ridge_penalty": 10.0,
+  "multiplier_cap": 4.0,
+  "label_pseudomass": 0.05,
+  "prediction_sha256": "21958e482acdc0c9552d65e5a771dea9857e13ba3f25d5451c08d98883f99be1",
+  "copy_available": false,
+  "copy_reason": "Previous selected hub differs: no comparable same-hub absence network",
+  "copy_retained_previous_pass_share": NaN,
+  "copy_sha256": null,
+  "freeze_stage": "Prediction frozen before reading target-season absence outcomes"
+}

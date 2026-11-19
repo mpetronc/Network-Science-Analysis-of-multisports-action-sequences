@@ -1,0 +1,84 @@
+{
+  "season": "2024-25",
+  "team": "CLE",
+  "hub_id": 1629636,
+  "hub_name": "Darius Garland",
+  "first20_cutoff": "2024-11-29",
+  "required_previous_season": "2023-24",
+  "history_policy": "Immediately preceding season only",
+  "historical_team_seasons": 11,
+  "historical_training_keys": [
+    [
+      "2023-24",
+      "PHI"
+    ],
+    [
+      "2023-24",
+      "ATL"
+    ],
+    [
+      "2023-24",
+      "WAS"
+    ],
+    [
+      "2023-24",
+      "IND"
+    ],
+    [
+      "2023-24",
+      "DET"
+    ],
+    [
+      "2023-24",
+      "POR"
+    ],
+    [
+      "2023-24",
+      "DAL"
+    ],
+    [
+      "2023-24",
+      "NOP"
+    ],
+    [
+      "2023-24",
+      "CHA"
+    ],
+    [
+      "2023-24",
+      "MIA"
+    ],
+    [
+      "2023-24",
+      "MEM"
+    ]
+  ],
+  "target_franchise_excluded": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "identity_features_used": false,
+  "feature_names": [
+    "log_sender_share",
+    "log_receiver_share",
+    "present_sender_share",
+    "present_receiver_share",
+    "forecast_minutes_fraction",
+    "extra_minutes_fraction",
+    "position_G",
+    "position_F",
+    "position_C",
+    "unknown_position",
+    "position_match",
+    "log_active_players",
+    "hub_involvement"
+  ],
+  "ridge_penalty": 10.0,
+  "multiplier_cap": 4.0,
+  "label_pseudomass": 0.05,
+  "prediction_sha256": "4419165be2f4614bb096084627a7aa9854201cdb1d77c1729bf0a23623b6703e",
+  "copy_available": true,
+  "copy_reason": "Previous same-hub absent passes copied on intersection with active first20 forecast roster; renormalized",
+  "copy_retained_previous_pass_share": 0.67491961414791,
+  "copy_sha256": "f5b13d1b7da6af5e555685b7cd8710bc3aeca603b7b1e06abb62d013c5a04e33",
+  "freeze_stage": "Prediction frozen before reading target-season absence outcomes"
+}

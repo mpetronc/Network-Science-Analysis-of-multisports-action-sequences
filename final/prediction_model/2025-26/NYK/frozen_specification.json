@@ -1,0 +1,88 @@
+{
+  "season": "2025-26",
+  "team": "NYK",
+  "hub_id": 1628973,
+  "hub_name": "Jalen Brunson",
+  "first20_cutoff": "2025-12-02",
+  "required_previous_season": "2024-25",
+  "history_policy": "Immediately preceding season only",
+  "historical_team_seasons": 12,
+  "historical_training_keys": [
+    [
+      "2024-25",
+      "HOU"
+    ],
+    [
+      "2024-25",
+      "LAL"
+    ],
+    [
+      "2024-25",
+      "BOS"
+    ],
+    [
+      "2024-25",
+      "CHI"
+    ],
+    [
+      "2024-25",
+      "MIL"
+    ],
+    [
+      "2024-25",
+      "ORL"
+    ],
+    [
+      "2024-25",
+      "DAL"
+    ],
+    [
+      "2024-25",
+      "OKC"
+    ],
+    [
+      "2024-25",
+      "UTA"
+    ],
+    [
+      "2024-25",
+      "CHA"
+    ],
+    [
+      "2024-25",
+      "GSW"
+    ],
+    [
+      "2024-25",
+      "NOP"
+    ]
+  ],
+  "target_franchise_excluded": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "identity_features_used": false,
+  "feature_names": [
+    "log_sender_share",
+    "log_receiver_share",
+    "present_sender_share",
+    "present_receiver_share",
+    "forecast_minutes_fraction",
+    "extra_minutes_fraction",
+    "position_G",
+    "position_F",
+    "position_C",
+    "unknown_position",
+    "position_match",
+    "log_active_players",
+    "hub_involvement"
+  ],
+  "ridge_penalty": 10.0,
+  "multiplier_cap": 4.0,
+  "label_pseudomass": 0.05,
+  "prediction_sha256": "8a2944bccb344a2c1b0417b6ba028ae3e7f9cef933ff91663a0ccf9904f349bd",
+  "copy_available": true,
+  "copy_reason": "Previous same-hub absent passes copied on intersection with active first20 forecast roster; renormalized",
+  "copy_retained_previous_pass_share": 0.5875905265218242,
+  "copy_sha256": "09991adbc3827ea4b772583ecd4001eaa83642dbfed64c99bc6ed5f0ee418749",
+  "freeze_stage": "Prediction frozen before reading target-season absence outcomes"
+}

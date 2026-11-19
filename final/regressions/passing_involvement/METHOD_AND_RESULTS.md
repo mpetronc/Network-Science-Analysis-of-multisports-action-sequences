@@ -1,0 +1,17 @@
+# Entropy change versus passes-in-plus-out centrality
+
+Uses the restored pre-EC player-selection study: first-20 passes-sent-plus-received leader. No tracking TOUCHES, no EC-selected hubs, and no replacement-model prediction errors are substituted for the outcome.
+
+Primary X=(hub passes sent + hub passes received)/(all first20 team passes). It is the fraction of recorded team passes involving the hub. With self-passes excluded, a given hub can occur only once in a pass, so no double counting occurs in its numerator. The alternative node-strength share divides by twice team passes; that rescales X by one-half and yields identical r, R2 and p. Raw first20 passes-in-plus-out is a declared sensitivity.
+
+Primary Y=observed later hub-absent entropy minus early hub-present entropy, using the existing500 equal-pass-count subsamples. Positive means higher outgoing conditional entropy without the hub. The later hub-present reference is a sensitivity. The 180-team-season source has 100 primary-eligible observations and 91 later-reference eligible observations, with the ten-plus tracked later absence evaluation filter and inherited tracking/trade exclusions. No early-present count threshold is imposed for evaluation; the later-present sensitivity requires at least15 later present games. Actual matrices, selected hubs and replacement forecasts are unchanged.
+
+Six per-season HC3 fits for each of four declared analyses are exported (24 tests, Holm correction across24). Four pooled fits include season indicators and franchise-clustered sandwich uncertainty with finite-sample correction and t(G-1) inference. Holm correction across the four pooled tests is reported separately. Pooled r and R2 use within-season-demeaned variables; they are not total model R2 including season effects.
+
+This remains exploratory after extensive previous analyses. Hub involvement is cumulative activity over the first20 team games and reflects availability. Raw totals additionally reflect passing volume/pace; normalized involvement reduces that scale difference. X and the original-network entropy share inputs, and node removal mechanically changes entropy. Temporal drift, roster mixing, co-absence and opponents remain. These are structural associations, not causal player impact, offensive efficiency or prediction accuracy.
+
+n,seasons,franchises,within_season_r,within_season_r_squared,slope,clustered_p,slope_ci_low,slope_ci_high,analysis,x,y,effect_per_10_percentage_points,effect_per_1000_passes,holm_four_pooled_tests
+100,6,30,0.3457094883158667,0.11951505031161835,0.22752348482894813,0.0023430767877786122,0.08800399476989357,0.3670429748880027,normalized_early,hub_pass_involvement_fraction,actual_equal_count_change,0.022752348482894813,,0.007029230363335836
+91,6,30,0.36509922818845025,0.13329744642380206,0.19661929709139697,0.0009961352419333045,0.08677308802523187,0.3064655061575621,normalized_later,hub_pass_involvement_fraction,concurrent_equal_count_change,0.0196619297091397,,0.003984540967733218
+100,6,30,0.25704018548574425,0.06606965695454581,2.7963710271385703e-05,0.008251172565539148,7.794459333205647e-06,4.813296120956576e-05,raw_early,hub_passes_in_plus_out,actual_equal_count_change,,0.0279637102713857,0.00900413066387068
+91,6,30,0.2905732307634419,0.08443280243630445,2.5822670323067528e-05,0.00450206533193534,8.674282485214977e-06,4.297105816092008e-05,raw_later,hub_passes_in_plus_out,concurrent_equal_count_change,,0.025822670323067527,0.00900413066387068

@@ -1,0 +1,128 @@
+{
+  "season": "2022-23",
+  "team": "PHI",
+  "hub_id": 1630178,
+  "hub_name": "Tyrese Maxey",
+  "first20_cutoff": "2022-11-27",
+  "required_previous_season": "2021-22",
+  "history_policy": "Immediately preceding season only",
+  "historical_team_seasons": 22,
+  "historical_training_keys": [
+    [
+      "2021-22",
+      "CHI"
+    ],
+    [
+      "2021-22",
+      "UTA"
+    ],
+    [
+      "2021-22",
+      "POR"
+    ],
+    [
+      "2021-22",
+      "MIN"
+    ],
+    [
+      "2021-22",
+      "NYK"
+    ],
+    [
+      "2021-22",
+      "MIA"
+    ],
+    [
+      "2021-22",
+      "PHX"
+    ],
+    [
+      "2021-22",
+      "TOR"
+    ],
+    [
+      "2021-22",
+      "BKN"
+    ],
+    [
+      "2021-22",
+      "OKC"
+    ],
+    [
+      "2021-22",
+      "MEM"
+    ],
+    [
+      "2021-22",
+      "LAC"
+    ],
+    [
+      "2021-22",
+      "SAS"
+    ],
+    [
+      "2021-22",
+      "DAL"
+    ],
+    [
+      "2021-22",
+      "IND"
+    ],
+    [
+      "2021-22",
+      "HOU"
+    ],
+    [
+      "2021-22",
+      "SAC"
+    ],
+    [
+      "2021-22",
+      "CLE"
+    ],
+    [
+      "2021-22",
+      "GSW"
+    ],
+    [
+      "2021-22",
+      "ORL"
+    ],
+    [
+      "2021-22",
+      "MIL"
+    ],
+    [
+      "2021-22",
+      "DET"
+    ]
+  ],
+  "target_franchise_excluded": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "identity_features_used": false,
+  "feature_names": [
+    "log_sender_share",
+    "log_receiver_share",
+    "present_sender_share",
+    "present_receiver_share",
+    "forecast_minutes_fraction",
+    "extra_minutes_fraction",
+    "position_G",
+    "position_F",
+    "position_C",
+    "unknown_position",
+    "position_match",
+    "log_active_players",
+    "hub_involvement"
+  ],
+  "ridge_penalty": 10.0,
+  "multiplier_cap": 4.0,
+  "label_pseudomass": 0.05,
+  "prediction_sha256": "c70441690681fad968b798c2375024dc5829d7486d7f989a744c9acac55791fa",
+  "copy_available": false,
+  "copy_reason": "Previous same-hub comparison does not meet exposure criteria",
+  "copy_retained_previous_pass_share": NaN,
+  "copy_sha256": null,
+  "freeze_stage": "Prediction frozen before reading target-season absence outcomes"
+}

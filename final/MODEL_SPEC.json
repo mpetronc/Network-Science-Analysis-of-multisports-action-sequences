@@ -1,0 +1,13 @@
+{
+  "model": "Previous-season-only, target-franchise-excluded historical role adjustment",
+  "hub": "Maximum first20 passes sent plus received",
+  "target_inputs": "First20 hub-present and early-absent passing/minutes; prior position metadata",
+  "historical_training": "Immediately previous season only, other franchises, original 15-present/10-absent historical eligibility",
+  "evaluation": "At least10 tracked later hub-absent games and nonempty observed absence matrix",
+  "total_team_seasons": 180,
+  "ten_plus_evaluation": 100,
+  "comparable_historical_evaluation": 85,
+  "no_previous_saved_season": "2020-21 retains separate-role initial forecast",
+  "source_study": "previous_season_history",
+  "prediction_networks": "prediction_model/<season>/<team>/predicted_evaluation.csv"
+}

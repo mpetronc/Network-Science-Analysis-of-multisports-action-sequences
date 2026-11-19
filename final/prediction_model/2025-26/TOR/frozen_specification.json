@@ -1,0 +1,92 @@
+{
+  "season": "2025-26",
+  "team": "TOR",
+  "hub_id": 1630193,
+  "hub_name": "Immanuel Quickley",
+  "first20_cutoff": "2025-11-29",
+  "required_previous_season": "2024-25",
+  "history_policy": "Immediately preceding season only",
+  "historical_team_seasons": 13,
+  "historical_training_keys": [
+    [
+      "2024-25",
+      "HOU"
+    ],
+    [
+      "2024-25",
+      "LAL"
+    ],
+    [
+      "2024-25",
+      "NYK"
+    ],
+    [
+      "2024-25",
+      "BOS"
+    ],
+    [
+      "2024-25",
+      "CHI"
+    ],
+    [
+      "2024-25",
+      "MIL"
+    ],
+    [
+      "2024-25",
+      "ORL"
+    ],
+    [
+      "2024-25",
+      "DAL"
+    ],
+    [
+      "2024-25",
+      "OKC"
+    ],
+    [
+      "2024-25",
+      "UTA"
+    ],
+    [
+      "2024-25",
+      "CHA"
+    ],
+    [
+      "2024-25",
+      "GSW"
+    ],
+    [
+      "2024-25",
+      "NOP"
+    ]
+  ],
+  "target_franchise_excluded": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "identity_features_used": false,
+  "feature_names": [
+    "log_sender_share",
+    "log_receiver_share",
+    "present_sender_share",
+    "present_receiver_share",
+    "forecast_minutes_fraction",
+    "extra_minutes_fraction",
+    "position_G",
+    "position_F",
+    "position_C",
+    "unknown_position",
+    "position_match",
+    "log_active_players",
+    "hub_involvement"
+  ],
+  "ridge_penalty": 10.0,
+  "multiplier_cap": 4.0,
+  "label_pseudomass": 0.05,
+  "prediction_sha256": "175d84591961efbe9a2d3f1da77e869b58dd90fe232297f15089dcb3415c48be",
+  "copy_available": false,
+  "copy_reason": "Previous selected hub differs: no comparable same-hub absence network",
+  "copy_retained_previous_pass_share": NaN,
+  "copy_sha256": null,
+  "freeze_stage": "Prediction frozen before reading target-season absence outcomes"
+}

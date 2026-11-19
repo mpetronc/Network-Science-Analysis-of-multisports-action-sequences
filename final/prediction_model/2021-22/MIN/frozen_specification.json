@@ -1,0 +1,96 @@
+{
+  "season": "2021-22",
+  "team": "MIN",
+  "hub_id": 1626156,
+  "hub_name": "D'Angelo Russell",
+  "first20_cutoff": "2021-11-27",
+  "required_previous_season": "2020-21",
+  "history_policy": "Immediately preceding season only",
+  "historical_team_seasons": 14,
+  "historical_training_keys": [
+    [
+      "2020-21",
+      "IND"
+    ],
+    [
+      "2020-21",
+      "UTA"
+    ],
+    [
+      "2020-21",
+      "SAC"
+    ],
+    [
+      "2020-21",
+      "TOR"
+    ],
+    [
+      "2020-21",
+      "NOP"
+    ],
+    [
+      "2020-21",
+      "PHI"
+    ],
+    [
+      "2020-21",
+      "LAL"
+    ],
+    [
+      "2020-21",
+      "CHA"
+    ],
+    [
+      "2020-21",
+      "OKC"
+    ],
+    [
+      "2020-21",
+      "BOS"
+    ],
+    [
+      "2020-21",
+      "LAC"
+    ],
+    [
+      "2020-21",
+      "WAS"
+    ],
+    [
+      "2020-21",
+      "HOU"
+    ],
+    [
+      "2020-21",
+      "BKN"
+    ]
+  ],
+  "target_franchise_excluded": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "identity_features_used": false,
+  "feature_names": [
+    "log_sender_share",
+    "log_receiver_share",
+    "present_sender_share",
+    "present_receiver_share",
+    "forecast_minutes_fraction",
+    "extra_minutes_fraction",
+    "position_G",
+    "position_F",
+    "position_C",
+    "unknown_position",
+    "position_match",
+    "log_active_players",
+    "hub_involvement"
+  ],
+  "ridge_penalty": 10.0,
+  "multiplier_cap": 4.0,
+  "label_pseudomass": 0.05,
+  "prediction_sha256": "058e5ef81a1eea8ef40ec947a1fc787ae4a82d94fb1b869bdbcecd03d4194d69",
+  "copy_available": true,
+  "copy_reason": "Previous same-hub absent passes copied on intersection with active first20 forecast roster; renormalized",
+  "copy_retained_previous_pass_share": 0.5765030751851387,
+  "copy_sha256": "c8f46a0b83db1d3c1af9821794f176ae94d03a419c532ad29e6ad775d0820347",
+  "freeze_stage": "Prediction frozen before reading target-season absence outcomes"
+}

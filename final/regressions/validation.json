@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "primary_n": 100,
+  "later_reference_n": 91,
+  "evaluation_rule": "10+ analyzed later absences; no minimum early-present count",
+  "prediction_model_uses_regression": false,
+  "source_metadata_sha256": "f10918a9ae6a5701e8018c271b6e2931b4bc7d2bdfbd0eda6399fd5f9f1b7a04"
+}

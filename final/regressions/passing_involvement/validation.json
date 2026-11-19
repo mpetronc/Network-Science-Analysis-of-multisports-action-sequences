@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "team_seasons": 180,
+  "primary_n": 100,
+  "later_reference_n": 91,
+  "checks": "First20 hub strengths reconstructed and verified; highest-strength identity checked; seasonal slopes/r checked with SciPy; pooled slopes and clustered SEs checked independently by within-season scalar scores",
+  "source_sha256": "ff58e05c37db0013df6a866473f1fce71ffed3214dd721a8328d79400977751e"
+}

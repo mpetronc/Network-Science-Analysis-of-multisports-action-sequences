@@ -1,0 +1,88 @@
+{
+  "season": "2025-26",
+  "team": "GSW",
+  "hub_id": 203110,
+  "hub_name": "Draymond Green",
+  "first20_cutoff": "2025-11-26",
+  "required_previous_season": "2024-25",
+  "history_policy": "Immediately preceding season only",
+  "historical_team_seasons": 12,
+  "historical_training_keys": [
+    [
+      "2024-25",
+      "HOU"
+    ],
+    [
+      "2024-25",
+      "LAL"
+    ],
+    [
+      "2024-25",
+      "NYK"
+    ],
+    [
+      "2024-25",
+      "BOS"
+    ],
+    [
+      "2024-25",
+      "CHI"
+    ],
+    [
+      "2024-25",
+      "MIL"
+    ],
+    [
+      "2024-25",
+      "ORL"
+    ],
+    [
+      "2024-25",
+      "DAL"
+    ],
+    [
+      "2024-25",
+      "OKC"
+    ],
+    [
+      "2024-25",
+      "UTA"
+    ],
+    [
+      "2024-25",
+      "CHA"
+    ],
+    [
+      "2024-25",
+      "NOP"
+    ]
+  ],
+  "target_franchise_excluded": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "identity_features_used": false,
+  "feature_names": [
+    "log_sender_share",
+    "log_receiver_share",
+    "present_sender_share",
+    "present_receiver_share",
+    "forecast_minutes_fraction",
+    "extra_minutes_fraction",
+    "position_G",
+    "position_F",
+    "position_C",
+    "unknown_position",
+    "position_match",
+    "log_active_players",
+    "hub_involvement"
+  ],
+  "ridge_penalty": 10.0,
+  "multiplier_cap": 4.0,
+  "label_pseudomass": 0.05,
+  "prediction_sha256": "ccfa60863330cc74025ffbb182a41552a9e8de319e25ad09fcb5e2df078f8009",
+  "copy_available": true,
+  "copy_reason": "Previous same-hub absent passes copied on intersection with active first20 forecast roster; renormalized",
+  "copy_retained_previous_pass_share": 0.3490460157126824,
+  "copy_sha256": "1d6d28c69291937e4323651df1d6198028146165bf77c3c4a116f68376780806",
+  "freeze_stage": "Prediction frozen before reading target-season absence outcomes"
+}

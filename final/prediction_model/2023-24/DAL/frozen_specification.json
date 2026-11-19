@@ -1,0 +1,100 @@
+{
+  "season": "2023-24",
+  "team": "DAL",
+  "hub_id": 1629029,
+  "hub_name": "Luka Don\u010di\u0107",
+  "first20_cutoff": "2023-12-06",
+  "required_previous_season": "2022-23",
+  "history_policy": "Immediately preceding season only",
+  "historical_team_seasons": 15,
+  "historical_training_keys": [
+    [
+      "2022-23",
+      "NYK"
+    ],
+    [
+      "2022-23",
+      "DEN"
+    ],
+    [
+      "2022-23",
+      "HOU"
+    ],
+    [
+      "2022-23",
+      "SAS"
+    ],
+    [
+      "2022-23",
+      "MIA"
+    ],
+    [
+      "2022-23",
+      "GSW"
+    ],
+    [
+      "2022-23",
+      "POR"
+    ],
+    [
+      "2022-23",
+      "MIL"
+    ],
+    [
+      "2022-23",
+      "PHI"
+    ],
+    [
+      "2022-23",
+      "IND"
+    ],
+    [
+      "2022-23",
+      "CLE"
+    ],
+    [
+      "2022-23",
+      "BKN"
+    ],
+    [
+      "2022-23",
+      "PHX"
+    ],
+    [
+      "2022-23",
+      "MEM"
+    ],
+    [
+      "2022-23",
+      "OKC"
+    ]
+  ],
+  "target_franchise_excluded": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "identity_features_used": false,
+  "feature_names": [
+    "log_sender_share",
+    "log_receiver_share",
+    "present_sender_share",
+    "present_receiver_share",
+    "forecast_minutes_fraction",
+    "extra_minutes_fraction",
+    "position_G",
+    "position_F",
+    "position_C",
+    "unknown_position",
+    "position_match",
+    "log_active_players",
+    "hub_involvement"
+  ],
+  "ridge_penalty": 10.0,
+  "multiplier_cap": 4.0,
+  "label_pseudomass": 0.05,
+  "prediction_sha256": "8310d2198486a4e793537a51fb293cd069bb392dbb73bc43cf3a9d55fa8bb588",
+  "copy_available": true,
+  "copy_reason": "Previous same-hub absent passes copied on intersection with active first20 forecast roster; renormalized",
+  "copy_retained_previous_pass_share": 0.2412856496152105,
+  "copy_sha256": "3f398cc281f19acb166a9c965f91ebc4d041fe0ae9e2d2e8064ec19405f442f5",
+  "freeze_stage": "Prediction frozen before reading target-season absence outcomes"
+}

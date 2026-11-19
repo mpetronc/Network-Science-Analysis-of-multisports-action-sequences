@@ -1,0 +1,84 @@
+{
+  "season": "2024-25",
+  "team": "CHA",
+  "hub_id": 1630163,
+  "hub_name": "LaMelo Ball",
+  "first20_cutoff": "2024-11-30",
+  "required_previous_season": "2023-24",
+  "history_policy": "Immediately preceding season only",
+  "historical_team_seasons": 11,
+  "historical_training_keys": [
+    [
+      "2023-24",
+      "PHI"
+    ],
+    [
+      "2023-24",
+      "ATL"
+    ],
+    [
+      "2023-24",
+      "WAS"
+    ],
+    [
+      "2023-24",
+      "CLE"
+    ],
+    [
+      "2023-24",
+      "IND"
+    ],
+    [
+      "2023-24",
+      "DET"
+    ],
+    [
+      "2023-24",
+      "POR"
+    ],
+    [
+      "2023-24",
+      "DAL"
+    ],
+    [
+      "2023-24",
+      "NOP"
+    ],
+    [
+      "2023-24",
+      "MIA"
+    ],
+    [
+      "2023-24",
+      "MEM"
+    ]
+  ],
+  "target_franchise_excluded": true,
+  "all_training_seasons_strictly_earlier": true,
+  "all_training_seasons_immediately_previous": true,
+  "identity_features_used": false,
+  "feature_names": [
+    "log_sender_share",
+    "log_receiver_share",
+    "present_sender_share",
+    "present_receiver_share",
+    "forecast_minutes_fraction",
+    "extra_minutes_fraction",
+    "position_G",
+    "position_F",
+    "position_C",
+    "unknown_position",
+    "position_match",
+    "log_active_players",
+    "hub_involvement"
+  ],
+  "ridge_penalty": 10.0,
+  "multiplier_cap": 4.0,
+  "label_pseudomass": 0.05,
+  "prediction_sha256": "0df63791108fb2e1c00afad5b3bc13cb1a06d383a31844c109792f0fe8339094",
+  "copy_available": true,
+  "copy_reason": "Previous same-hub absent passes copied on intersection with active first20 forecast roster; renormalized",
+  "copy_retained_previous_pass_share": 0.4927800269905533,
+  "copy_sha256": "b7af18a320f3ed7729e4cc3a1e23e8611b7832379896854364589d01807e21b7",
+  "freeze_stage": "Prediction frozen before reading target-season absence outcomes"
+}

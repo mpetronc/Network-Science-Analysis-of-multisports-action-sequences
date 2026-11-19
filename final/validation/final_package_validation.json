@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "predicted_matrices_identical_to_chosen_source": 180,
+  "exact_previous_season_and_other_franchise_audits": 180,
+  "initial_minutes_and_pass_roles_reconstructed": 180,
+  "all_team_seasons": 180,
+  "final_ten_plus_sample": 100,
+  "common_historical_sample": 85,
+  "later_present_regression_sample": 91,
+  "network_pngs": 180,
+  "markdown_links_checked": 1187,
+  "pdf_pages": {
+    "networks/2023-24_all_30_teams.pdf": 30,
+    "networks/all_180_team_networks.pdf": 180,
+    "networks/2024-25_all_30_teams.pdf": 30,
+    "networks/2020-21_all_30_teams.pdf": 30,
+    "networks/2021-22_all_30_teams.pdf": 30,
+    "networks/2025-26_all_30_teams.pdf": 30,
+    "networks/2022-23_all_30_teams.pdf": 30,
+    "regressions/eigenvector_concentration/ec_entropy_regressions.pdf": 4,
+    "regressions/passing_involvement/pass_strength_entropy_regressions.pdf": 8
+  },
+  "visual_review": "Passing-involvement and EC regression PDF pages rendered and reviewed; existing all-network PDF retained byte-for-byte from previously reviewed output."
+}

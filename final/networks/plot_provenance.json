@@ -1,0 +1,3602 @@
+[
+  {
+    "season": "2020-21",
+    "team": "ATL",
+    "hub_name": "Trae Young",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7139330727119355,
+    "entropy_prediction": 0.7998650618943026,
+    "entropy_actual": 0.7453210818868927,
+    "edge_current": 0.5800345363163906,
+    "edge_learned": 0.5800345363163907,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/ATL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/ATL/original_evaluation.csv": "408338c0904e5a3ea3de2803cd7aee94ac7ade5d3c0fca6a4ccd08f80d6e1921",
+      "outputs/previous_season_history/2020-21/ATL/predicted_evaluation.csv": "07bf7881bf8e15e5af0f522d9e33d408c4893e14246b3f5ce8ff7e0164fb57e9",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/ATL/actual_evaluation.csv": "ec510a1a100c3d348426f931ef62ea02b9537487742d507c6791af266d1feb04"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "BKN",
+    "hub_name": "Kevin Durant",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6463759536975673,
+    "entropy_prediction": 0.685426515383875,
+    "entropy_actual": 0.6587107055987521,
+    "edge_current": 0.49449164109532695,
+    "edge_learned": 0.49449164109532695,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/BKN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/BKN/original_evaluation.csv": "83fba109692d0837f32d1e0af60ab4239a454ddca8478e02f6b00d9753e2105c",
+      "outputs/previous_season_history/2020-21/BKN/predicted_evaluation.csv": "ad843dbd83ee8d5f3f5ea8c29491eadd9be6b7e2ecb7f999430ada87ff11e44b",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/BKN/actual_evaluation.csv": "a7f567b2e947004f74b9b51616159848df2f984ae4ea0af2e87b8c7d3eb3998f"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "BOS",
+    "hub_name": "Marcus Smart",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7300174177229294,
+    "entropy_prediction": 0.7652319553511552,
+    "entropy_actual": 0.7409411281153501,
+    "edge_current": 0.356597295113276,
+    "edge_learned": 0.356597295113276,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/BOS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/BOS/original_evaluation.csv": "dbb1728b000bb22a255c40fcfabb11342c5a174d7a100ae3ecc69d8cc1b09627",
+      "outputs/previous_season_history/2020-21/BOS/predicted_evaluation.csv": "4704cc861d9dfe3925f0eb107691040b9fc6690f576432596d932ffde2f24152",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/BOS/actual_evaluation.csv": "a9dcda8ce595a75d83bbfc8aec0c337f40d7506619b204fcd3490f10b106b9ba"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "CHA",
+    "hub_name": "Devonte' Graham",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7034649836326641,
+    "entropy_prediction": 0.719142419144455,
+    "entropy_actual": 0.749848656892914,
+    "edge_current": 0.3606789821581533,
+    "edge_learned": 0.3606789821581533,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/CHA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/CHA/original_evaluation.csv": "8b400bb95d4a995e41bcf9c218697e0d657d3210a97ca444ff93e50a121a3b7e",
+      "outputs/previous_season_history/2020-21/CHA/predicted_evaluation.csv": "92f21877d6cb6a442d3b1b581b41226d399fe09789bbd7fa32b8dbe415249ea3",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/CHA/actual_evaluation.csv": "e72ca726070b02aafa4dbcd9152a3a1eee27dfa95b994dc7690569f41b5ed2c3"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "CHI",
+    "hub_name": "Coby White",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.688046489457274,
+    "entropy_prediction": 0.7340513504616478,
+    "entropy_actual": 0.6278516279319538,
+    "edge_current": 0.7552905815967473,
+    "edge_learned": 0.7552905815967474,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/CHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/CHI/original_evaluation.csv": "a28406b9351a81cbed252e20071ea7f11ea8f418b8cb8e675bf37c8e6e455132",
+      "outputs/previous_season_history/2020-21/CHI/predicted_evaluation.csv": "f8aa9ef8bc8ff7b3fd4d5b0f7ee9d096637d1f4bbb8029e0d70c35f1b32b8203",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/CHI/actual_evaluation.csv": "f6493f14724193301d12f67a48a93d07be96037579ee75837d50d5e2165f5e3d"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "CLE",
+    "hub_name": "Collin Sexton",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6953757976232632,
+    "entropy_prediction": 0.7180256368063382,
+    "entropy_actual": 0.6752996637645127,
+    "edge_current": 0.6557825411933059,
+    "edge_learned": 0.655782541193306,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/CLE_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/CLE/original_evaluation.csv": "d95d2a4dced976b5ba6beaabfb58a62e04b6e1b956000e933eaeffc1fb79f899",
+      "outputs/previous_season_history/2020-21/CLE/predicted_evaluation.csv": "923a219238eb8cdb341c5b4bf0f76e532f562ab82cab4bb272d2124935473e2b",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/CLE/actual_evaluation.csv": "3812605e37f70457e97d5aea2470df57854753bfc2caff676e6f57e450f4efdf"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "DAL",
+    "hub_name": "Luka Don\u010di\u0107",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7434562993567037,
+    "entropy_prediction": 0.837266794518227,
+    "entropy_actual": 0.6578770948517493,
+    "edge_current": 0.4563332214051829,
+    "edge_learned": 0.4563332214051829,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/DAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/DAL/original_evaluation.csv": "0d9232090c1a6ca1e1fd0b64b6f3d7745ddadda9111cb1016897687574c10d49",
+      "outputs/previous_season_history/2020-21/DAL/predicted_evaluation.csv": "74f8ead745f2c661bd41b32b9a853f2f218f8e462a783ab1a1eebd73980e1915",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/DAL/actual_evaluation.csv": "5e839eac10c7faa18ef74c12044c3e3fa4093b0d3072e444a0363e540e62c17b"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "DEN",
+    "hub_name": "Nikola Joki\u0107",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7018088314683302,
+    "entropy_prediction": 0.7747404126090642,
+    "entropy_actual": NaN,
+    "edge_current": NaN,
+    "edge_learned": NaN,
+    "eligible": false,
+    "observed": false,
+    "image": "2020-21/DEN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/DEN/original_evaluation.csv": "15d73635182ddf3874100c7f076772d4f977e1000516c75797e94a80030e422a",
+      "outputs/previous_season_history/2020-21/DEN/predicted_evaluation.csv": "79ac52a61bd575b45364ef030899b56f91d1f45e833a28613a55a9be2832b409",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/DEN/actual_evaluation.csv": "82166b9d2113f78450d40d05515d28b599c1ef87580b775bd8e2d9f5f81dfbbc"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "DET",
+    "hub_name": "Delon Wright",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7621367220316712,
+    "entropy_prediction": 0.7894543020769255,
+    "entropy_actual": 0.680792366812528,
+    "edge_current": 0.7357063487959021,
+    "edge_learned": 0.7357063487959022,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/DET_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/DET/original_evaluation.csv": "1a70e9fabdfeb42da17b646b5de0cf802ea6f3ce1e3856929dd7ea3242cffdab",
+      "outputs/previous_season_history/2020-21/DET/predicted_evaluation.csv": "f00a40b34d9c8792798a7e384ef483c9e56057972e9a7e6f3bc65e2078d59b38",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/DET/actual_evaluation.csv": "aa1db43a6757cf381ea7ade020aaa35d71940da347fab86bfe81f0c97fc1cb2d"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "GSW",
+    "hub_name": "Stephen Curry",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7476557949574012,
+    "entropy_prediction": 0.8209376367131657,
+    "entropy_actual": 0.8081400599662192,
+    "edge_current": 0.48540177668260764,
+    "edge_learned": 0.4854017766826078,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/GSW_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/GSW/original_evaluation.csv": "2bac32d43d613f3097a5603217900e279d2e63a636926ffc356622cf7da1f75e",
+      "outputs/previous_season_history/2020-21/GSW/predicted_evaluation.csv": "37967da7a26419383c32d828bc7e9c0be6fd1614ac1e21613fd3017d7470c699",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/GSW/actual_evaluation.csv": "ede3c26c14dbdeb8fe00dd4ab230570d72598b18af94064282bec3c18a5ece7c"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "HOU",
+    "hub_name": "Christian Wood",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6652747055800085,
+    "entropy_prediction": 0.68354129995765,
+    "entropy_actual": 0.7022657402948569,
+    "edge_current": 0.5620670905121552,
+    "edge_learned": 0.5620670905121552,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/HOU_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/HOU/original_evaluation.csv": "95d874aee2313306cde288ca9697b1bfb8d9da7c4a5f65f09ad9619524f03a9d",
+      "outputs/previous_season_history/2020-21/HOU/predicted_evaluation.csv": "aed19ed7c4dd9967f5ee89d7b8d1372a4ae287bd41374777ea9e3e27b08d83b1",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/HOU/actual_evaluation.csv": "cdcb220ab89a52004ed234898b514ab02991f482bbb99f60d31c525cfd7d18d4"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "IND",
+    "hub_name": "Malcolm Brogdon",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6424732475882035,
+    "entropy_prediction": 0.7203745668172749,
+    "entropy_actual": 0.6998204988228989,
+    "edge_current": 0.554796222833661,
+    "edge_learned": 0.554796222833661,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/IND_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/IND/original_evaluation.csv": "a5cde69be530a84b6aa9bde9370b772bc5b2e79e9d27ab7842d61e286a22b9da",
+      "outputs/previous_season_history/2020-21/IND/predicted_evaluation.csv": "83118c073d1661fb964a2ec791735c43d196bdd582364e06815b275c3f5f1c20",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/IND/actual_evaluation.csv": "77574a72cb1efe188cdcea360a6bfd136eeb88a235ffcbc9cb33167ec820b4af"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "LAC",
+    "hub_name": "Paul George",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6980109422556342,
+    "entropy_prediction": 0.7207241319677083,
+    "entropy_actual": 0.7628206938411037,
+    "edge_current": 0.43468669859468634,
+    "edge_learned": 0.43468669859468634,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/LAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/LAC/original_evaluation.csv": "75a1e4c878a43e57821f08d84960dfa8fab777a9f521c9f45dac6e34d3bff7c3",
+      "outputs/previous_season_history/2020-21/LAC/predicted_evaluation.csv": "11f7627b4d097b9ea6d04f2942377b62bd865f98132afa683c74c708c3b3d80c",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/LAC/actual_evaluation.csv": "2da403e6506a7e73c15b90bfe6817a0c3792c43a3333e254649bd59e3d2797c1"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "LAL",
+    "hub_name": "LeBron James",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6795017589208496,
+    "entropy_prediction": 0.7216840846791005,
+    "entropy_actual": 0.7577836374237782,
+    "edge_current": 0.3737120911690196,
+    "edge_learned": 0.3737120911690196,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/LAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/LAL/original_evaluation.csv": "32aecb2aee36c0ca602bcbc981b4129ee7322c16da7672338d7884faae3ef1d2",
+      "outputs/previous_season_history/2020-21/LAL/predicted_evaluation.csv": "823c1b6a7f91af4e6511e668ffc11efcb83baf48daac393423d86636243ed164",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/LAL/actual_evaluation.csv": "01d3faba6ce2b5150cc962f2a159dd63e48d4ea5c9327f87e956eb1e5926be53"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "MEM",
+    "hub_name": "Tyus Jones",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.8163932795111258,
+    "entropy_prediction": 0.8258945779737668,
+    "entropy_actual": 0.6363891127666161,
+    "edge_current": 0.5424422598461978,
+    "edge_learned": 0.5424422598461976,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/MEM_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/MEM/original_evaluation.csv": "4f78d313b91c98dd971c42c3286d66c1bdd53c04c0c27ce07cbcadb012079724",
+      "outputs/previous_season_history/2020-21/MEM/predicted_evaluation.csv": "762d71f7abacc192d22e2781f492330e1c5f9e96b4c01e173a2314ca5143d2e7",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/MEM/actual_evaluation.csv": "3a66819f40aa2f9632b3b930d3cac55fc1ae2e2dae26e066fea767955d0e0614"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "MIA",
+    "hub_name": "Bam Adebayo",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7580626156487003,
+    "entropy_prediction": 0.775455398555281,
+    "entropy_actual": 0.6833905436746557,
+    "edge_current": 0.42031639288097394,
+    "edge_learned": 0.42031639288097394,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/MIA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/MIA/original_evaluation.csv": "038044155d41090317db8eacf51df667deae19b7da9beb0e4e9bcc402231295d",
+      "outputs/previous_season_history/2020-21/MIA/predicted_evaluation.csv": "014814b83a0269cfffe9b1eeb4f2b73c43bdc56e1355cab28276b1fdc5130de7",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/MIA/actual_evaluation.csv": "db20d7a009f7a4d663b459f151a3e52d0a4351d6d943229eb9945d4e832634ea"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "MIL",
+    "hub_name": "Khris Middleton",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6521026019704101,
+    "entropy_prediction": 0.6669162366926554,
+    "entropy_actual": 0.6813085963547234,
+    "edge_current": 0.7704629382420027,
+    "edge_learned": 0.7704629382420027,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/MIL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/MIL/original_evaluation.csv": "c60ddf82d4d7a7c0f5acdf90cfc0e0a4424d43d8076954636f097af08532ab1e",
+      "outputs/previous_season_history/2020-21/MIL/predicted_evaluation.csv": "036a2a9c4446ac331c6036e3270c7bd5f196dd6b58765d22fc037544ea4cad2f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/MIL/actual_evaluation.csv": "625c48d43ad0aabfe26ddd7a894e1f2174dbaddbcfe218b83be482d033abdae8"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "MIN",
+    "hub_name": "D'Angelo Russell",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.8265463157131135,
+    "entropy_prediction": 0.8653946848509171,
+    "entropy_actual": 0.7475756070385038,
+    "edge_current": 0.484315223279593,
+    "edge_learned": 0.484315223279593,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/MIN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/MIN/original_evaluation.csv": "173ccab6a14a49d4cf6c4f5b236fb577f3df435ef7e5a7cbdd25c6d800c1cf6d",
+      "outputs/previous_season_history/2020-21/MIN/predicted_evaluation.csv": "3fde936f0518a88f8ddee7b460dd07641f0658ae934fdf574b162113ffdd2329",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/MIN/actual_evaluation.csv": "55e1c5c70cc54b356635eee0d6fb469aa71391e0ccab75184f6aaae01aaa7560"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "NOP",
+    "hub_name": "Lonzo Ball",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6420927997306962,
+    "entropy_prediction": 0.6815470331791936,
+    "entropy_actual": 0.7286411534588287,
+    "edge_current": 0.4425166404492789,
+    "edge_learned": 0.44251664044927885,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/NOP_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/NOP/original_evaluation.csv": "4adf6da08a522e91a95ce26c888cd820bdde6049939922aa40584766391dee4f",
+      "outputs/previous_season_history/2020-21/NOP/predicted_evaluation.csv": "a721cb024af20d90480a99ea826302a6098ea7689d87f04aeabbef8902bb75c1",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/NOP/actual_evaluation.csv": "1a1fdc9388ec8090d75f458b68eefe76169e9476374a0ce6ed510c0667d55c4d"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "NYK",
+    "hub_name": "Julius Randle",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6858583860532457,
+    "entropy_prediction": 0.7345717652513123,
+    "entropy_actual": 0.5391473804064245,
+    "edge_current": 0.690075190809802,
+    "edge_learned": 0.6900751908098018,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/NYK_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/NYK/original_evaluation.csv": "b0ca2bd744c74b2510a123379f31d62786174773bc94f9966b69bbe8f2c51537",
+      "outputs/previous_season_history/2020-21/NYK/predicted_evaluation.csv": "836dd16bb7630f5ed9d232ae7235203b751082fb22b3b6afe93e66d6e623ca1d",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/NYK/actual_evaluation.csv": "e6fe4af2cb188f70d7c4650bf3e5478573ab0dcbc354a1e9abf5691edd3ce53b"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "OKC",
+    "hub_name": "Shai Gilgeous-Alexander",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.639096733920415,
+    "entropy_prediction": 0.7201122762368354,
+    "entropy_actual": 0.7670897986472194,
+    "edge_current": 0.5838029977142443,
+    "edge_learned": 0.5838029977142443,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/OKC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/OKC/original_evaluation.csv": "aa4bad1b3829665453056c8eb3e4a109705ab8e7b67ff23ec5e8bc1ad92fda69",
+      "outputs/previous_season_history/2020-21/OKC/predicted_evaluation.csv": "c6e9c6f030054ca506ffba07973f8af3c5d7ed5d5031dfc3acb9598fb2f8b877",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/OKC/actual_evaluation.csv": "f8cdf6fc6a8e33440d0b3d9d9f151273e1df7ae97c918f683ce96a99285e1163"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "ORL",
+    "hub_name": "Nikola Vu\u010devi\u0107",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7777608021014587,
+    "entropy_prediction": 0.8101188376645937,
+    "entropy_actual": NaN,
+    "edge_current": NaN,
+    "edge_learned": NaN,
+    "eligible": false,
+    "observed": false,
+    "image": "2020-21/ORL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/ORL/original_evaluation.csv": "9c9bc74fee9d746f62e6cdab8245567e57fec1a1522cbebfdb542b177add428a",
+      "outputs/previous_season_history/2020-21/ORL/predicted_evaluation.csv": "873c897312f46d9f2ea6e1afcf7fa079aeba2e5b0f032486773ad650f7fbaa7d",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/ORL/actual_evaluation.csv": "8d04f25dc317c973654a4684d1a3cdf95db8610347329656dcf646941b7fbe0f"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "PHI",
+    "hub_name": "Ben Simmons",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6568507938469619,
+    "entropy_prediction": 0.6994600730384086,
+    "entropy_actual": 0.7132143313398961,
+    "edge_current": 0.3186878804255411,
+    "edge_learned": 0.318687880425541,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/PHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/PHI/original_evaluation.csv": "59a9ad370137b59fd04ee8c8fc93fc541ffca4447bde0e7714ca656ada9c1e4c",
+      "outputs/previous_season_history/2020-21/PHI/predicted_evaluation.csv": "0e2b7a75465fac876105af91d908a07bb07dc8314c0f979f0b9fce46fbf6ad29",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/PHI/actual_evaluation.csv": "842b02573e1a07afc1f39d6fba8637f031fc3e4929217293db9b9549f15787d6"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "PHX",
+    "hub_name": "Chris Paul",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.728384085437007,
+    "entropy_prediction": 0.808860613431792,
+    "entropy_actual": 0.6632157164934006,
+    "edge_current": 0.6225331109337418,
+    "edge_learned": 0.6225331109337418,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/PHX_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/PHX/original_evaluation.csv": "f62aa40a3f21197acf503d99f580a701d3a8aa6931dc86aa0076602624a4aed8",
+      "outputs/previous_season_history/2020-21/PHX/predicted_evaluation.csv": "3441cc103ece933ab1f84a6adecc51e10e5fce7a47d12182539d029736ca10b1",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/PHX/actual_evaluation.csv": "c82c63d3a55bd6b2fbdafecea2347479893d44b292c37710a75edd117eedf1dc"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "POR",
+    "hub_name": "Damian Lillard",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7073530539175865,
+    "entropy_prediction": 0.8058364376201177,
+    "entropy_actual": 0.6818081334854887,
+    "edge_current": 0.4621381712039706,
+    "edge_learned": 0.4621381712039706,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/POR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/POR/original_evaluation.csv": "c75e558c21518c76f485ef69e99f1ec3357b28150cc7f15438d4e0a69297c984",
+      "outputs/previous_season_history/2020-21/POR/predicted_evaluation.csv": "d9b842e6e8212be4ed93ce5556e32b327de7577f04dd2cb4f337f66fdf99b7cd",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/POR/actual_evaluation.csv": "9ae805fdf9c909569de30890cc1aee65d03a0682ff55e443c0506e2b69bcf4f6"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "SAC",
+    "hub_name": "De'Aaron Fox",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6477380262104953,
+    "entropy_prediction": 0.7000533360319644,
+    "entropy_actual": 0.7106992101363834,
+    "edge_current": 0.7209029297774121,
+    "edge_learned": 0.7209029297774122,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/SAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/SAC/original_evaluation.csv": "98de0749a31d120bb3953d64929962131be7aa78ed4170ca326056824901b35e",
+      "outputs/previous_season_history/2020-21/SAC/predicted_evaluation.csv": "861e60e06c4d25497c256f759b9d04d28d638d08943c6a1eba6f36c5faf9959a",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/SAC/actual_evaluation.csv": "e103fcce750275a7b7df33fe2946b1db0dcbd9c88073f2e812f96033b7c2ae99"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "SAS",
+    "hub_name": "Dejounte Murray",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7178895216405241,
+    "entropy_prediction": 0.7408280914014995,
+    "entropy_actual": 0.7610576308606563,
+    "edge_current": 0.6490362565800645,
+    "edge_learned": 0.6490362565800645,
+    "eligible": false,
+    "observed": true,
+    "image": "2020-21/SAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/SAS/original_evaluation.csv": "01eb2326d5ce14aa16b4cc36598f2b8991a6d78d4cb59a031ce1c61da3b59df8",
+      "outputs/previous_season_history/2020-21/SAS/predicted_evaluation.csv": "ec2493f86283ec304c66be94d39e2ebcc8dff2be8dbf94d833a405f3f39176bc",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/SAS/actual_evaluation.csv": "1a0a3ace6388c8869bc3032c6bd310c22c48de0da0e98a5fc3fffd883d2d5e26"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "TOR",
+    "hub_name": "Fred VanVleet",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6846409003788037,
+    "entropy_prediction": 0.7157681206276352,
+    "entropy_actual": 0.7902530996512389,
+    "edge_current": 0.6048835544308402,
+    "edge_learned": 0.6048835544308402,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/TOR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/TOR/original_evaluation.csv": "863e4d9ceefe4a15457d672b9f2de27ee333e12be70d63774801d73866f999d8",
+      "outputs/previous_season_history/2020-21/TOR/predicted_evaluation.csv": "b63091225e009ca967c221045fe32ea7ca511b8da8500c8600c6875268c6e170",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/TOR/actual_evaluation.csv": "7ad29e7245a92f21203fb997a9c0d1369349daf5256bf083d059150d2e618986"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "UTA",
+    "hub_name": "Mike Conley",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.6547388816321145,
+    "entropy_prediction": 0.7010012475841677,
+    "entropy_actual": 0.6864803981843777,
+    "edge_current": 0.3551430840404484,
+    "edge_learned": 0.3551430840404485,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/UTA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/UTA/original_evaluation.csv": "12542bdc5067b868562e9fcd54aa7255742bfb32a76547cb303ba36dfda01fd4",
+      "outputs/previous_season_history/2020-21/UTA/predicted_evaluation.csv": "a8f5a5e0b426edcc33aefe8703ca72c1c4784937544dceb3abf9b5ca98ad0f84",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/UTA/actual_evaluation.csv": "bd997bc324d05404b38e607355c8343a3e9acc3ca4454d641ce2b1c2ac0e525d"
+    }
+  },
+  {
+    "season": "2020-21",
+    "team": "WAS",
+    "hub_name": "Bradley Beal",
+    "has_history": false,
+    "training_team_seasons": 0,
+    "entropy_original": 0.7424540190278336,
+    "entropy_prediction": 0.7880551923133395,
+    "entropy_actual": 0.641036439738686,
+    "edge_current": 0.4703561371187067,
+    "edge_learned": 0.47035613711870666,
+    "eligible": true,
+    "observed": true,
+    "image": "2020-21/WAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/WAS/original_evaluation.csv": "b9fd2597001d559202886074a7c5bc324e494db0953a32978423c80920cc1016",
+      "outputs/previous_season_history/2020-21/WAS/predicted_evaluation.csv": "3cea7c73308f1af4d6013b239020985a2d3f8ad08a6cf389718831ab7953a380",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2020-21/WAS/actual_evaluation.csv": "4da5b6046deba1f93d48db10a332ef82690bdf409af31c8b2a2fd91f7614a014"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "ATL",
+    "hub_name": "Trae Young",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6082613215661755,
+    "entropy_prediction": 0.7547574322603131,
+    "entropy_actual": 0.6946406709609696,
+    "edge_current": 0.5564615296257099,
+    "edge_learned": 0.5454308631152003,
+    "eligible": false,
+    "observed": true,
+    "image": "2021-22/ATL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/ATL/original_evaluation.csv": "b6b9bcadcc07b7414eccd81f68719e87f22a1605683d6132558ea6cad262fb30",
+      "outputs/previous_season_history/2021-22/ATL/predicted_evaluation.csv": "62337eb3439e86886539973f75a2e3841320e1ff3323ed677d0c042b5936d13e",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/ATL/actual_evaluation.csv": "63b07d69216b0b1527104b15e0b97f4d6b7740a25548365e9fc7e1ae741e931a"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "BKN",
+    "hub_name": "James Harden",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6619027753455923,
+    "entropy_prediction": 0.771375471861002,
+    "entropy_actual": 0.7665364382561363,
+    "edge_current": 0.6369927801977016,
+    "edge_learned": 0.6059219077895945,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/BKN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/BKN/original_evaluation.csv": "7646ef79683002b23de907bd9d5844357a66858249b592405bad73f6cfca7eea",
+      "outputs/previous_season_history/2021-22/BKN/predicted_evaluation.csv": "efd7f4d1365fabeea715ffedbbbfdc15c0f4bb490c011bdd47875387145ed9d0",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/BKN/actual_evaluation.csv": "2528677a7ab4882e4432a4f9d297a14e73ca35576dbbffc28107206f76248e32"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "BOS",
+    "hub_name": "Dennis Schr\u00f6der",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.7277818745257758,
+    "entropy_prediction": 0.7962065694596365,
+    "entropy_actual": 0.737437559153772,
+    "edge_current": 0.3665118902346936,
+    "edge_learned": 0.34972071103290825,
+    "eligible": false,
+    "observed": true,
+    "image": "2021-22/BOS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/BOS/original_evaluation.csv": "07a230f5ba52d9eaa1178db2e5eed61f0529d5c70ff6b4d4091a31cf7a97b6a3",
+      "outputs/previous_season_history/2021-22/BOS/predicted_evaluation.csv": "3606487a2860509cf6096232414d4c00b1d269f246bec8dfa0d02fab4db02353",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/BOS/actual_evaluation.csv": "e502270810824b3c6c8462d0a78104fcd7e950285c99eb0f7678740b8a8b9bab"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "CHA",
+    "hub_name": "LaMelo Ball",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.7180055333224745,
+    "entropy_prediction": 0.7875073502557431,
+    "entropy_actual": 0.7542798074264291,
+    "edge_current": 0.4137731478170418,
+    "edge_learned": 0.4023783339182558,
+    "eligible": false,
+    "observed": true,
+    "image": "2021-22/CHA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/CHA/original_evaluation.csv": "8fa05dc2ee44bbd3d651c9caefe6e5d7f1e6ef5ee892a62832845155c8fec6a2",
+      "outputs/previous_season_history/2021-22/CHA/predicted_evaluation.csv": "6e20ae13bd66f45fa08ab169766c88cee18122861f6f32b06917718737f2e056",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/CHA/actual_evaluation.csv": "3b77a8e3d024105b5a61d886cc31b1efd418976bf11190779ba2b4c8529d6ac0"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "CHI",
+    "hub_name": "Lonzo Ball",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6531383523446461,
+    "entropy_prediction": 0.7188381577496963,
+    "entropy_actual": 0.6757792634274321,
+    "edge_current": 0.4992771296078051,
+    "edge_learned": 0.478018274021086,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/CHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/CHI/original_evaluation.csv": "9108b1bbf9c1993f5b1300ca1116e70c552fec400b76b8fd66c9351fedb6be68",
+      "outputs/previous_season_history/2021-22/CHI/predicted_evaluation.csv": "70e6b64c17a78867cd91fb9e97e4e3eccab1dc598278e598e162d41312f99405",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/CHI/actual_evaluation.csv": "1a6da1590317556787922fc143812c4d27945609e5cb43bae3ba5bedd4408492"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "CLE",
+    "hub_name": "Ricky Rubio",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6726688691346515,
+    "entropy_prediction": 0.7390628158329546,
+    "entropy_actual": 0.7176237740115067,
+    "edge_current": 0.4825637700203746,
+    "edge_learned": 0.48498789650548885,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/CLE_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/CLE/original_evaluation.csv": "ccadaa027ff3b89f96f8865bbf2ec811948d6e4b8ae1700d64a9b8fb2a95dc22",
+      "outputs/previous_season_history/2021-22/CLE/predicted_evaluation.csv": "3fdac7131db541a500f194f1088d12db95a01d7e4e3aab7901a6e5ab041fdee4",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/CLE/actual_evaluation.csv": "1b2f61e55555f37479dd4ed42875760bf90d6a626edb26b6091cbb78165aee1b"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "DAL",
+    "hub_name": "Luka Don\u010di\u0107",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6077817161872526,
+    "entropy_prediction": 0.6896968225011544,
+    "entropy_actual": 0.6922036422102198,
+    "edge_current": 0.37374383315715665,
+    "edge_learned": 0.3855723796161345,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/DAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/DAL/original_evaluation.csv": "a9eb709775f13d3d39d8de5d9c7f8225eba08311e50196b71e919b84b8aad3b1",
+      "outputs/previous_season_history/2021-22/DAL/predicted_evaluation.csv": "ae92a2f8ad725e7f32e3b26bb9529d83cff1c91c87791828d4416157f7475743",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/DAL/actual_evaluation.csv": "bff9618775482efd6f6a81dbe1501744b1be9b847ce9cdba31b5fbb96580ee03"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "DEN",
+    "hub_name": "Monte Morris",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6894595750596879,
+    "entropy_prediction": 0.7520573478437671,
+    "entropy_actual": 0.6783509125602079,
+    "edge_current": 0.4750034595553615,
+    "edge_learned": 0.5002998957088174,
+    "eligible": false,
+    "observed": true,
+    "image": "2021-22/DEN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/DEN/original_evaluation.csv": "05dfcad51b313f49bfdf849dd0638d1c215ac33136ff7cfc9b5c378c6367e498",
+      "outputs/previous_season_history/2021-22/DEN/predicted_evaluation.csv": "05a3990dab1eca5b00e3e4170cc7b870f719c2b5291fccd97397fa6d983a8ae9",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/DEN/actual_evaluation.csv": "f55e6ea7223986167c8a1da93842d93d14c84ca6855def990fcfb5f400e7f571"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "DET",
+    "hub_name": "Jerami Grant",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6580788878350143,
+    "entropy_prediction": 0.6828612307085,
+    "entropy_actual": 0.7155238606077027,
+    "edge_current": 0.39153382277366183,
+    "edge_learned": 0.3834453686312943,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/DET_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/DET/original_evaluation.csv": "333bd94d0b97f87be6a5b7206fc3c47ba7124bcfffc7e3e6e0f5a819a3860f48",
+      "outputs/previous_season_history/2021-22/DET/predicted_evaluation.csv": "2ee741267e1d51c79d55b156273b6ceaf6ed617b5fb182a0f689f07f91ac7cbc",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/DET/actual_evaluation.csv": "4b405ca7ff70cf350681011850c138e2069e1183cd0687f4925455bdaab11e7f"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "GSW",
+    "hub_name": "Stephen Curry",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.7635766448395211,
+    "entropy_prediction": 0.8200146569360438,
+    "entropy_actual": 0.7990172009044112,
+    "edge_current": 0.35322863438387087,
+    "edge_learned": 0.33937940519590193,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/GSW_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/GSW/original_evaluation.csv": "c87d464572bb89981f7ef7fc68ccb4d6557926cf89dd10c3d34cd4d0cdcbbda3",
+      "outputs/previous_season_history/2021-22/GSW/predicted_evaluation.csv": "c2acea76d188e6c426e93e35063b8917995ba47e3ca27164fac9430338abcb05",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/GSW/actual_evaluation.csv": "f1c327ad360aa09279894bda68a79cc6a611542554794625b51d2b9aad2258b3"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "HOU",
+    "hub_name": "Kevin Porter Jr.",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.704960247041381,
+    "entropy_prediction": 0.7744534476581215,
+    "entropy_actual": 0.7758462234781869,
+    "edge_current": 0.4550101460933638,
+    "edge_learned": 0.44141700450977683,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/HOU_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/HOU/original_evaluation.csv": "b8db7313aff331b6f9d92f320b3198f2800175628e03b86582cb589fbf2de9e1",
+      "outputs/previous_season_history/2021-22/HOU/predicted_evaluation.csv": "0977262120db5a807e36103894a261a6f413acce510fc579e43fd44b1d6c1029",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/HOU/actual_evaluation.csv": "c237403df5a567a26bfd999d5e28ea4fe36be0180eea05df1572ddc371f6d45a"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "IND",
+    "hub_name": "T.J. McConnell",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6496924531389278,
+    "entropy_prediction": 0.6874000569490242,
+    "entropy_actual": 0.7490640107115485,
+    "edge_current": 0.6452843344577972,
+    "edge_learned": 0.6232901176967223,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/IND_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/IND/original_evaluation.csv": "fb0d0df5b6c6f710c1bd4c667e945e98c055ae46163c3706c467fd2963ad5614",
+      "outputs/previous_season_history/2021-22/IND/predicted_evaluation.csv": "13ccedd9e6631c819393d3dd5557d050cd2a1505c17ea8fd4c24c4139fdc1666",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/IND/actual_evaluation.csv": "b3e50126f07e7410e53533e07a1787b73d0a966e969249a8229146c4f00d8e96"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "LAC",
+    "hub_name": "Paul George",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6484208877354323,
+    "entropy_prediction": 0.7175684773819004,
+    "entropy_actual": 0.7324150021416321,
+    "edge_current": 0.36968281582114293,
+    "edge_learned": 0.34611829944814,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/LAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/LAC/original_evaluation.csv": "f655dc2475f9e66d8841375ca84a8f40ee86cdff22375e3fd30e8a2b60733757",
+      "outputs/previous_season_history/2021-22/LAC/predicted_evaluation.csv": "a764ce2c4af1a3b29caa48ea0f606d1e6ac25ca313b4325dca6ec31cd3c6689d",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/LAC/actual_evaluation.csv": "25095f713c055aed74a8908fdc819b410867bd1b1c69084cbaee471f2139d253"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "LAL",
+    "hub_name": "Russell Westbrook",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6943398678492622,
+    "entropy_prediction": 0.7677097145425745,
+    "entropy_actual": 0.677366293721697,
+    "edge_current": 0.761095011384398,
+    "edge_learned": 0.7430071529362638,
+    "eligible": false,
+    "observed": true,
+    "image": "2021-22/LAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/LAL/original_evaluation.csv": "4b24a1f46ae6334f8a81da5a3440d9e82862a44d239c9aca685832e68a64e5fd",
+      "outputs/previous_season_history/2021-22/LAL/predicted_evaluation.csv": "a03ea2dadf2b4f64ebbd7a84e0da46434dec4a9ba511f658b4df54b689ac716f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/LAL/actual_evaluation.csv": "f13397b5a27d8cf0fe54d7090c9704ba46cd32aebb08be07db29fe750f4dcb43"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "MEM",
+    "hub_name": "Ja Morant",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.700611003090475,
+    "entropy_prediction": 0.8024328223060718,
+    "entropy_actual": 0.7424204992630715,
+    "edge_current": 0.3139644277721143,
+    "edge_learned": 0.30342240000634624,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/MEM_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/MEM/original_evaluation.csv": "bd95d49ca2b228fd2677600da22dd588a1ab9456bdec703171a2c1a4acb18e62",
+      "outputs/previous_season_history/2021-22/MEM/predicted_evaluation.csv": "de6731c729c9969b3c749cc1b1f88a958ea524dd990ef8cc464c2d7fd758ba1d",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/MEM/actual_evaluation.csv": "34f26395dc7cfa92f53a111fe67fd2945a0808d411e26516b4a075b2809af4a0"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "MIA",
+    "hub_name": "Kyle Lowry",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6525607926408324,
+    "entropy_prediction": 0.6962442033517118,
+    "entropy_actual": 0.6780669842381866,
+    "edge_current": 0.3802424908973867,
+    "edge_learned": 0.3345972162024349,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/MIA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/MIA/original_evaluation.csv": "b41d2e206fb9c14039e4b946a0813ba01f62a05c111b398bfa61824a2716a3ed",
+      "outputs/previous_season_history/2021-22/MIA/predicted_evaluation.csv": "59efbcc0c05972cca85fb05f29318f54d17fdfcf132fadb61bb4eb53adc29425",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/MIA/actual_evaluation.csv": "e877be3ce9481a2f7111992949bd84a5a57997bd899372b69ec4d5af716ce27f"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "MIL",
+    "hub_name": "Giannis Antetokounmpo",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6766408675507014,
+    "entropy_prediction": 0.7105464851266816,
+    "entropy_actual": 0.7275439972137789,
+    "edge_current": 0.4993826802441464,
+    "edge_learned": 0.5004392434333581,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/MIL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/MIL/original_evaluation.csv": "cb38280356f9563859999a1b38b2bfedfce9421c9d25623669ba646503fd1d91",
+      "outputs/previous_season_history/2021-22/MIL/predicted_evaluation.csv": "0511ebb1ebb6570fe8293f1e586ced4022f5222c85a2dafc6fa16b387f1f6794",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/MIL/actual_evaluation.csv": "fa7e3733f9f7f791be87d95db716df4024b15820447ea67540c2e912e181ecb4"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "MIN",
+    "hub_name": "D'Angelo Russell",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6772911724754149,
+    "entropy_prediction": 0.7559005537133182,
+    "entropy_actual": 0.7730961733990017,
+    "edge_current": 0.35871766128154314,
+    "edge_learned": 0.31389221746560675,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/MIN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/MIN/original_evaluation.csv": "b4e0857a0bf72e0e989c6388432b036da08e38dcb440d86b15cb7e3d3073930a",
+      "outputs/previous_season_history/2021-22/MIN/predicted_evaluation.csv": "473d770feee3f5d421e3ce4e0d7fa769aef21a979a8b28064a224ca2d0bada2d",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/MIN/actual_evaluation.csv": "400f7cbc56df77c4dd1f31de41fcf2339ecf760e241f72e44da31c7f8fe3edff"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "NOP",
+    "hub_name": "Jonas Valanciunas",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.7333000206520427,
+    "entropy_prediction": 0.7706008790357238,
+    "entropy_actual": 0.7483363388378004,
+    "edge_current": 0.5437471706532895,
+    "edge_learned": 0.5282179997369068,
+    "eligible": false,
+    "observed": true,
+    "image": "2021-22/NOP_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/NOP/original_evaluation.csv": "3ad186e9903d47aa717708314c7983aea71b715466a28b0186fd0f032178f56d",
+      "outputs/previous_season_history/2021-22/NOP/predicted_evaluation.csv": "b5bea0212e4ef130faba0dc971f2370e8ab68984823ad05beaca6da450c1f42e",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/NOP/actual_evaluation.csv": "0215ab0fc4fd721f0ea0416a95388b99a56335371880f2bf6af89de3dbc91779"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "NYK",
+    "hub_name": "Julius Randle",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6583780717608045,
+    "entropy_prediction": 0.7566014926604738,
+    "entropy_actual": 0.6876296192000555,
+    "edge_current": 0.6820585556325682,
+    "edge_learned": 0.6560395481377939,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/NYK_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/NYK/original_evaluation.csv": "6888159fe497715e53b2e4d452fe25d949016bd5a4a69b4370ceb4323a65108e",
+      "outputs/previous_season_history/2021-22/NYK/predicted_evaluation.csv": "037dc2657cadbd20bf78a036c62f5eedb9eede4eef510f1596f924cb2c7171ff",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/NYK/actual_evaluation.csv": "fc7ed8a6e6b019a0ed03970e41902eb128eb961835a078a847f01460f6072025"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "OKC",
+    "hub_name": "Shai Gilgeous-Alexander",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6639527520601524,
+    "entropy_prediction": 0.7246352867489053,
+    "entropy_actual": 0.7147017450508185,
+    "edge_current": 0.5543497193700546,
+    "edge_learned": 0.5294327339501617,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/OKC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/OKC/original_evaluation.csv": "14705a3800e1b07269e2071ce82bf7c9871fd0a24dc3f41209f9faa6346b49e9",
+      "outputs/previous_season_history/2021-22/OKC/predicted_evaluation.csv": "66701207240c2c88968a4a2c189b95e030cc217faf5267bb7b186df7774d641b",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/OKC/actual_evaluation.csv": "793c1e7b93cc6078a77370778658fdcd73047ccfa588343c14c60d3ff66c497f"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "ORL",
+    "hub_name": "Cole Anthony",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6547271963937522,
+    "entropy_prediction": 0.7003126420639999,
+    "entropy_actual": 0.7766900667026562,
+    "edge_current": 0.6463609948467977,
+    "edge_learned": 0.6238341410443399,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/ORL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/ORL/original_evaluation.csv": "e21d7e9ad3f55fe12f125f70ee0d666eb94fa4dc68bb39f435389af648dd11f1",
+      "outputs/previous_season_history/2021-22/ORL/predicted_evaluation.csv": "633205646b6b4b82336d78549d27446a3f30ae3e0c814e3d1811353623567faa",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/ORL/actual_evaluation.csv": "1fe832808833c2e69bae168ffbbfa93ee579a65f27e63c86d61c595d955eb34d"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "PHI",
+    "hub_name": "Tyrese Maxey",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.7185288238066175,
+    "entropy_prediction": 0.7935272285728261,
+    "entropy_actual": 0.687608674116927,
+    "edge_current": 0.369609563503396,
+    "edge_learned": 0.3896904967057363,
+    "eligible": false,
+    "observed": true,
+    "image": "2021-22/PHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/PHI/original_evaluation.csv": "787697af9f93858184bdbf9c30867d536c078325d6bff555dfc186064c0d9d1d",
+      "outputs/previous_season_history/2021-22/PHI/predicted_evaluation.csv": "25fadee3193db010c257c8974a23f885075690c304d38df407cd8cdb8a0de254",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/PHI/actual_evaluation.csv": "340548c8f8c148e0716f2def5f16053834044b81ccb0ec6b838b6128bbd4a036"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "PHX",
+    "hub_name": "Chris Paul",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6590392362110792,
+    "entropy_prediction": 0.7619409227155164,
+    "entropy_actual": 0.7281859032283594,
+    "edge_current": 0.5092529938993002,
+    "edge_learned": 0.5110125741926462,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/PHX_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/PHX/original_evaluation.csv": "7321e7f2d83033799f1bb241cb2b6be04764031254b16cf574e5871d1df9fbe8",
+      "outputs/previous_season_history/2021-22/PHX/predicted_evaluation.csv": "98ceccea0ff77d54116a3b6ca7c578ed336fbc4fe948d17c6178ad633a9c8e3f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/PHX/actual_evaluation.csv": "29a26265c2b6c076cdc6f799eb1b00a38a9037ed28a5c19e3870daece00fed0a"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "POR",
+    "hub_name": "Damian Lillard",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.5736749617172257,
+    "entropy_prediction": 0.6561197377007297,
+    "entropy_actual": 0.7317448253710828,
+    "edge_current": 0.6637608234853074,
+    "edge_learned": 0.6518410990698134,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/POR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/POR/original_evaluation.csv": "b6b493c85fd3a5a66a0b31aea4715e9952c9c11d2cb140cbbbfd8eb63c6b4830",
+      "outputs/previous_season_history/2021-22/POR/predicted_evaluation.csv": "61523072c2be00ab5dbffd520be50d851dddd2899df65af2a332d49c95d3e3b7",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/POR/actual_evaluation.csv": "79f52b66882fb9fc23eaa4297bd4c1f4e9ee5eb9015a5f9604c9487455479474"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "SAC",
+    "hub_name": "De'Aaron Fox",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6247045829158899,
+    "entropy_prediction": 0.680033406562879,
+    "entropy_actual": 0.6636219146542498,
+    "edge_current": 0.5250909802305571,
+    "edge_learned": 0.5197707896144561,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/SAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/SAC/original_evaluation.csv": "749ba0e88830820443b554632536df31c76d3eef75ecbd4c98c8a78c740360bb",
+      "outputs/previous_season_history/2021-22/SAC/predicted_evaluation.csv": "5395be405ecd302b17f4123b5ec0659012834755ec9776f119eff523a0deb604",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/SAC/actual_evaluation.csv": "c5f786d06969d3d0d97609004a9b265e43db7d609a3ec06cc042f19537e275cc"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "SAS",
+    "hub_name": "Dejounte Murray",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6812069481645078,
+    "entropy_prediction": 0.7709485009187822,
+    "entropy_actual": 0.7588193642435455,
+    "edge_current": 0.5943582251366354,
+    "edge_learned": 0.5655221764775246,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/SAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/SAS/original_evaluation.csv": "490657ddf6b8103d5649c1d1706af9848398aae06c9868f70ee8137ec0e878bc",
+      "outputs/previous_season_history/2021-22/SAS/predicted_evaluation.csv": "321291b428fe1c59537b3cc4a22a804b45df7fb0b435813febb27f828f0dc126",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/SAS/actual_evaluation.csv": "a3bec72c38612e28e1193a266d75ce937addfd4f6ebfe2165267cb8179359a6e"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "TOR",
+    "hub_name": "Fred VanVleet",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6649612099061338,
+    "entropy_prediction": 0.7365476986010508,
+    "entropy_actual": 0.684718318492821,
+    "edge_current": 0.5094549291705737,
+    "edge_learned": 0.502639280825907,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/TOR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/TOR/original_evaluation.csv": "d8aea89c0de6fc69308992a150db7479f199cef29e59380e08bacf19b868f1b2",
+      "outputs/previous_season_history/2021-22/TOR/predicted_evaluation.csv": "39a26e83a75a2504d656f54b8330c9e2808a257d78f9859d1f21edfc6138e7d2",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/TOR/actual_evaluation.csv": "5e420cd09990fab592ff0a16e84697923f6c191808676065c45ac68c2adad0df"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "UTA",
+    "hub_name": "Donovan Mitchell",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6230977654942299,
+    "entropy_prediction": 0.6943102852102956,
+    "entropy_actual": 0.7214738874115699,
+    "edge_current": 0.38675382168992667,
+    "edge_learned": 0.3378112488789094,
+    "eligible": true,
+    "observed": true,
+    "image": "2021-22/UTA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/UTA/original_evaluation.csv": "02e46a54e7bff4b497aa06672d904c26df662eb912f7ca266d77b997836108b6",
+      "outputs/previous_season_history/2021-22/UTA/predicted_evaluation.csv": "bfbcb1254b2b41402300c131fd3c3b2fa09503722f72a2770b04306464494997",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/UTA/actual_evaluation.csv": "963387d3d6492135fd2fa05bf31e3c03c97f0a8953ce0d63d346ad0b3d775c5f"
+    }
+  },
+  {
+    "season": "2021-22",
+    "team": "WAS",
+    "hub_name": "Spencer Dinwiddie",
+    "has_history": true,
+    "training_team_seasons": 14,
+    "entropy_original": 0.6755600617793505,
+    "entropy_prediction": 0.7120873557541559,
+    "entropy_actual": 0.6615096669320162,
+    "edge_current": 0.3845478179833405,
+    "edge_learned": 0.3824640134578092,
+    "eligible": false,
+    "observed": true,
+    "image": "2021-22/WAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/WAS/original_evaluation.csv": "7dd509d6785796a20f7477cf78791531a470b75411ef840e8896f417d53706d0",
+      "outputs/previous_season_history/2021-22/WAS/predicted_evaluation.csv": "cb20926b2ffb0b3003e08dc5a151b98432d79176ac3a32c1199f72b2e9c9de6c",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2021-22/WAS/actual_evaluation.csv": "f163573e1f0632c41d2006f019de4f1fbb85607969f83f983e1269b64ac67843"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "ATL",
+    "hub_name": "Trae Young",
+    "has_history": true,
+    "training_team_seasons": 22,
+    "entropy_original": 0.6045032004471431,
+    "entropy_prediction": 0.7278926901584216,
+    "entropy_actual": 0.7165885463905246,
+    "edge_current": 0.49709300979475973,
+    "edge_learned": 0.449042504571065,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/ATL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/ATL/original_evaluation.csv": "1908e560feaa5ceeb52ff3c552f5bc9d0dd735ea2c185d11fae7069ac493bf30",
+      "outputs/previous_season_history/2022-23/ATL/predicted_evaluation.csv": "8699fcbf4b006a37a74f6419046074d43d1a15523549d2c97678e5dfda8bd00c",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/ATL/actual_evaluation.csv": "f12a7a21df2578d3f416bfd150de0d565743fe0b2b6cab2a598bb8bc4104d63b"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "BKN",
+    "hub_name": "Kevin Durant",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.716923374909347,
+    "entropy_prediction": 0.7607339016265133,
+    "entropy_actual": 0.7477741074536958,
+    "edge_current": 0.3187288615832774,
+    "edge_learned": 0.32553675791988435,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/BKN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/BKN/original_evaluation.csv": "cc8ddc3418235a634f74f448a6cace30f9fe3b99167fa8edaaa67ee80c59843d",
+      "outputs/previous_season_history/2022-23/BKN/predicted_evaluation.csv": "8abfb4353034f78d3a88869419a6daa8480828261616bc53d9a6ff36a0915928",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/BKN/actual_evaluation.csv": "2255b6d1d1882878c07586dc347f960f46f1da7c8e70887a455ae2922992b598"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "BOS",
+    "hub_name": "Jayson Tatum",
+    "has_history": true,
+    "training_team_seasons": 22,
+    "entropy_original": 0.6994082523088502,
+    "entropy_prediction": 0.7480940791108218,
+    "entropy_actual": 0.7259720478424376,
+    "edge_current": 0.4599337905476162,
+    "edge_learned": 0.4241365963580055,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/BOS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/BOS/original_evaluation.csv": "20cd983f163a12b8ddda5736deb50ce7e868d77e95696841ba530ac44a3598f1",
+      "outputs/previous_season_history/2022-23/BOS/predicted_evaluation.csv": "4b00d210b6433918da167febab5e8d1c7a02cc7137f17be0275063651dbac43a",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/BOS/actual_evaluation.csv": "f6a3b1a8a10867b8aa81205b81040644ae8be99c09c567d852ec2d2aa7eb9b15"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "CHA",
+    "hub_name": "Terry Rozier",
+    "has_history": true,
+    "training_team_seasons": 22,
+    "entropy_original": 0.7052384159029922,
+    "entropy_prediction": 0.7601169001550161,
+    "entropy_actual": 0.7237172771353356,
+    "edge_current": 0.6137731896038439,
+    "edge_learned": 0.5830406442654741,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/CHA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/CHA/original_evaluation.csv": "3c88b83547a1e1509d5853309cf25fe9c8c934b58ea6694bfebfa94bc2f57d49",
+      "outputs/previous_season_history/2022-23/CHA/predicted_evaluation.csv": "fcb1be16a3c54f1dedb5580aedf9c7e48cc6b13d840540a4a9d3a7bca4ae7b59",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/CHA/actual_evaluation.csv": "2c42434f4a95461c3d647b3b57b30a8cf585c9a27f6cb1c1fa56a8bdb67deafb"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "CHI",
+    "hub_name": "DeMar DeRozan",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.7143669665873923,
+    "entropy_prediction": 0.754662474794431,
+    "entropy_actual": 0.6966172462463736,
+    "edge_current": 0.3452924994078336,
+    "edge_learned": 0.36912626610821453,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/CHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/CHI/original_evaluation.csv": "cf0f03b79869644a6f5e6c51a9db120552df7669ae48c7ea8254162d245dc181",
+      "outputs/previous_season_history/2022-23/CHI/predicted_evaluation.csv": "a54d84006c6cee98d24b3e693d093a8511894a78254c8bd2067e2bdddabec36e",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/CHI/actual_evaluation.csv": "0ba5fb97b683d9dd3ea3c2f1a3685d0544413eefe9350fbfe0c2f4a8c2a5b319"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "CLE",
+    "hub_name": "Donovan Mitchell",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6941386672189106,
+    "entropy_prediction": 0.7488351292543973,
+    "entropy_actual": 0.720780101334384,
+    "edge_current": 0.35129727054241755,
+    "edge_learned": 0.3263266078125897,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/CLE_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/CLE/original_evaluation.csv": "42fdd0bebe82729697e596f67260a29f7de47a477fef7b08ff6ee8beaa8fb9cd",
+      "outputs/previous_season_history/2022-23/CLE/predicted_evaluation.csv": "b6cbd36f87e8da4bcff3b0ac110337f1b5154f44642716993518e50113950944",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/CLE/actual_evaluation.csv": "3a67616a62110200826c995eb980bcb1eb48641b7a83c5112e52913794055018"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "DAL",
+    "hub_name": "Luka Don\u010di\u0107",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6085037186590464,
+    "entropy_prediction": 0.7113745188146764,
+    "entropy_actual": 0.7717064282610746,
+    "edge_current": 0.6405912785825083,
+    "edge_learned": 0.5980527512242331,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/DAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/DAL/original_evaluation.csv": "79b2bea717ab297d1b1f7e0aef7103c84a6aa6b214b547a214569a5fa0f51dd6",
+      "outputs/previous_season_history/2022-23/DAL/predicted_evaluation.csv": "18bd69b1bccb6e55254da1724c36f4cdbd676a4872c1a3bf182de7a78424bdee",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/DAL/actual_evaluation.csv": "42c321206ce77b3108309c417583adedb13524dfdbfda1c78dd586a91dca7d94"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "DEN",
+    "hub_name": "Nikola Joki\u0107",
+    "has_history": true,
+    "training_team_seasons": 22,
+    "entropy_original": 0.7052871337036589,
+    "entropy_prediction": 0.8041673563395051,
+    "entropy_actual": 0.78049672762094,
+    "edge_current": 0.4064795628239606,
+    "edge_learned": 0.38228523798799113,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/DEN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/DEN/original_evaluation.csv": "f651cb097879af6571163e0be3b2d0cd8c13631acdfcbf88274da11eb0f18119",
+      "outputs/previous_season_history/2022-23/DEN/predicted_evaluation.csv": "bea2ef05b58bc4dfe2339f7ce4874d350a493dda8b5acfcfd1ad4dc208d69133",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/DEN/actual_evaluation.csv": "2b40803121c45a0c25f43ecced712a3172e42b2252f1ace085a356ac5b4f025f"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "DET",
+    "hub_name": "Cade Cunningham",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6149419953346444,
+    "entropy_prediction": 0.6777750594901775,
+    "entropy_actual": 0.748533862270397,
+    "edge_current": 0.4589260377152714,
+    "edge_learned": 0.4202080080176183,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/DET_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/DET/original_evaluation.csv": "41d31d03c71d5a65aa441276ade5cb0940f55e8a7ea5ec177d109bb6d1a3e967",
+      "outputs/previous_season_history/2022-23/DET/predicted_evaluation.csv": "3076cffab6917b09896d0a0108f847c995084cd6657ad134d85bb077ad3b3247",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/DET/actual_evaluation.csv": "ef0347fec2267894ce5318131e292ac35bcb879efe7b2f107742358f4a779a11"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "GSW",
+    "hub_name": "Stephen Curry",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.7493996958119878,
+    "entropy_prediction": 0.8368471369789386,
+    "entropy_actual": 0.776682065168384,
+    "edge_current": 0.37975006879342155,
+    "edge_learned": 0.3339284670141731,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/GSW_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/GSW/original_evaluation.csv": "43632bec8129ca32e8667281756b9f4a9f7a580b6f88e916ab37539add2d821f",
+      "outputs/previous_season_history/2022-23/GSW/predicted_evaluation.csv": "de33096933cc1dd2661444c5bda8e6cab766b45781689a6246b27e504538ccf0",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/GSW/actual_evaluation.csv": "cd7c1e8f32fb23be36a74d5873d820cc9f3990fce07d4e7b80596162f6b22d21"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "HOU",
+    "hub_name": "Kevin Porter Jr.",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6995305462465758,
+    "entropy_prediction": 0.7925706580116313,
+    "entropy_actual": 0.7897253172226534,
+    "edge_current": 0.3713076841509228,
+    "edge_learned": 0.37971219411725854,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/HOU_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/HOU/original_evaluation.csv": "8293d0d0df746810377dbdfb60364f1dd5d731de7b23e9f803761ad00fb09bfb",
+      "outputs/previous_season_history/2022-23/HOU/predicted_evaluation.csv": "7dc57b9a2406b695b54a6a1be138b79f4b6688d1ecebbcd33cf306628d43c01a",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/HOU/actual_evaluation.csv": "a66d63c36129925180fa1b6189ec3ad556d8ae8aafb8c8b08a4e1de666e932b9"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "IND",
+    "hub_name": "Tyrese Haliburton",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6877813255592325,
+    "entropy_prediction": 0.7951631155010637,
+    "entropy_actual": 0.7487429778589325,
+    "edge_current": 0.4316617816945013,
+    "edge_learned": 0.4136465758630574,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/IND_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/IND/original_evaluation.csv": "a77bf1d39e64bf082b87b6f445dd3a4c74c5660dceacb0de1a22cb97beb2b477",
+      "outputs/previous_season_history/2022-23/IND/predicted_evaluation.csv": "fff97a135a6b08c4161db256d0c2bb5e41a534a5995bad32c98d1a6d6d536774",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/IND/actual_evaluation.csv": "9899bd3e535cf5a480f15c60ba7edb6be312f4056faf999cae9425dd24012fd4"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "LAC",
+    "hub_name": "Reggie Jackson",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.7731474663525716,
+    "entropy_prediction": 0.8333692979287063,
+    "entropy_actual": 0.7785632179063043,
+    "edge_current": 0.4771704075176463,
+    "edge_learned": 0.43908000470428404,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/LAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/LAC/original_evaluation.csv": "e0909ec013813831459855d4fbf2c53a2bfa0616bab1d28e71e57620a27e6681",
+      "outputs/previous_season_history/2022-23/LAC/predicted_evaluation.csv": "70b44175498689450820df3231288ab0bce240a54de5a057d6afda64396e6c95",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/LAC/actual_evaluation.csv": "1832656f79e361b58726d8c525ef0adf6d0a25fabb049cd47f9605405bfe0d10"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "LAL",
+    "hub_name": "Russell Westbrook",
+    "has_history": true,
+    "training_team_seasons": 22,
+    "entropy_original": 0.7583906583535691,
+    "entropy_prediction": 0.8209667646473403,
+    "entropy_actual": 0.6619249801497129,
+    "edge_current": 0.5817002097656746,
+    "edge_learned": 0.5397088388280566,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/LAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/LAL/original_evaluation.csv": "8cdede8ea7051c00a22be8f82721923ee9b2980b42952a6b4cdf5670f85e4a31",
+      "outputs/previous_season_history/2022-23/LAL/predicted_evaluation.csv": "7eeaadd88198dac78e9482024f123273242bb3b0c222f9b19774dc89625e4804",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/LAL/actual_evaluation.csv": "61824d995579fdba318b76f35efe4344c4ccbd0e23a427e2cfa0d177d8176f73"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "MEM",
+    "hub_name": "Ja Morant",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6882109050722066,
+    "entropy_prediction": 0.7603404039462905,
+    "entropy_actual": 0.7340542438136357,
+    "edge_current": 0.5043851598635156,
+    "edge_learned": 0.5049709602838977,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/MEM_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/MEM/original_evaluation.csv": "8ec122a7d979c27006f1e368ad3a2dfb73c8783a5138af05e42554f6f705d0da",
+      "outputs/previous_season_history/2022-23/MEM/predicted_evaluation.csv": "cb5e7c1739e8af1fa1f62949d05a2536bbb6826e17dcff63b96f6a2c11a411f0",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/MEM/actual_evaluation.csv": "8cc6de78d65fa5a82ce16c4dd15f128ab1beb9b2a56652e3e164a1648940164e"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "MIA",
+    "hub_name": "Kyle Lowry",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6954034405418263,
+    "entropy_prediction": 0.7742495674170218,
+    "entropy_actual": 0.730720818965852,
+    "edge_current": 0.4248089373881571,
+    "edge_learned": 0.4617114898028787,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/MIA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/MIA/original_evaluation.csv": "2edb3d2e3b20e2333b49caa0495573b8577db89b3f6edb6f4e4494ee505f4604",
+      "outputs/previous_season_history/2022-23/MIA/predicted_evaluation.csv": "5293839e44fe478e6f354267e19e5cf692ed104819fb7e97336496ccd9900c8e",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/MIA/actual_evaluation.csv": "85f75763de2857c4574c2d9980074e64785cc13101a47690fd653e4e9f3ac2d9"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "MIL",
+    "hub_name": "Giannis Antetokounmpo",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.66324900078191,
+    "entropy_prediction": 0.730579153743496,
+    "entropy_actual": 0.7566491482343335,
+    "edge_current": 0.533061506669233,
+    "edge_learned": 0.514469259593918,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/MIL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/MIL/original_evaluation.csv": "4cbe04baf81bc437537c7eef6b410a6ec0f822132a0c4bd79d78c9184ce9b839",
+      "outputs/previous_season_history/2022-23/MIL/predicted_evaluation.csv": "6221c73a856a4dc34b57483a0c7efd172b60b434fb8ff95ad8e44b19e17799c4",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/MIL/actual_evaluation.csv": "44884e370b187753674a3731eed2dfaaebcb0d8e4a31a09f78e86f51fdf30a0f"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "MIN",
+    "hub_name": "D'Angelo Russell",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6979567314251158,
+    "entropy_prediction": 0.7944034298491202,
+    "entropy_actual": 0.6694079259874636,
+    "edge_current": 0.6632845793404851,
+    "edge_learned": 0.5968005326232162,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/MIN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/MIN/original_evaluation.csv": "851e437a25bdf01c1672a3a49f8f07d19d9beb88c87084e3f91bd3875942da2a",
+      "outputs/previous_season_history/2022-23/MIN/predicted_evaluation.csv": "7ee81cab46f064a3e17982b9ee49750f387269d95c685c633581c974908aec06",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/MIN/actual_evaluation.csv": "57b4370a60d38ba5b6f5737a16dff29146c4ab6ce8bceca088a7005edbed8370"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "NOP",
+    "hub_name": "CJ McCollum",
+    "has_history": true,
+    "training_team_seasons": 22,
+    "entropy_original": 0.7841247701954368,
+    "entropy_prediction": 0.8350018748156816,
+    "entropy_actual": 0.7660843332844264,
+    "edge_current": 0.44986297755877247,
+    "edge_learned": 0.4151865705988188,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/NOP_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/NOP/original_evaluation.csv": "24786ca543b6e2581896e349af9a64f2e5f8b0487fe54f45b34cc42f1f077667",
+      "outputs/previous_season_history/2022-23/NOP/predicted_evaluation.csv": "309cbe3d98c925dbccf1653a04cd604f14cc04ddda8af9dbadb81167f71ca8f2",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/NOP/actual_evaluation.csv": "34629b85bb7bb078adcfe2cbb91037e935f9592ca5c18eb64bd94401522ed2c9"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "NYK",
+    "hub_name": "Jalen Brunson",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6871922289200018,
+    "entropy_prediction": 0.8014885383752557,
+    "entropy_actual": 0.6829069097582302,
+    "edge_current": 0.5538366929417339,
+    "edge_learned": 0.539531085376843,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/NYK_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/NYK/original_evaluation.csv": "5b0e76460bfabc0ea7164474bdea3efece6f0a499d7b2bff9b810b8545ed70b5",
+      "outputs/previous_season_history/2022-23/NYK/predicted_evaluation.csv": "b8fcc699b956d8686331cc167fdf20464c4e606d2ff0adaf463dc663854dc19f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/NYK/actual_evaluation.csv": "96316d475f0189beb870d29ab03f68573857d398a39aa1e3f46a8b7970fb1a2c"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "OKC",
+    "hub_name": "Shai Gilgeous-Alexander",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.7557889231756062,
+    "entropy_prediction": 0.8282020896578334,
+    "entropy_actual": 0.7591394946374577,
+    "edge_current": 0.496987302842009,
+    "edge_learned": 0.4625640251055766,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/OKC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/OKC/original_evaluation.csv": "e607c80bc28ec6a8421ac40a3edadbf02650a49cc32180b57b7ea73aaccb6b09",
+      "outputs/previous_season_history/2022-23/OKC/predicted_evaluation.csv": "5418908fb8d22be6f14290811310ef49b0971241dd2cb1c99cf14781f462b3f5",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/OKC/actual_evaluation.csv": "3b3550558754648f718bf2ae4388a7c6ca7624eaa2f776bf60b55cb063fccbbb"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "ORL",
+    "hub_name": "Franz Wagner",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.7575285077807129,
+    "entropy_prediction": 0.8088433279331864,
+    "entropy_actual": 0.6232304352547683,
+    "edge_current": 0.686861175465268,
+    "edge_learned": 0.6542407231633776,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/ORL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/ORL/original_evaluation.csv": "3caac0307d28f1cbcab832003ebdfe64981eb6e37cec2789873dd5c153cf2feb",
+      "outputs/previous_season_history/2022-23/ORL/predicted_evaluation.csv": "60ad7571a24632b9d2e3ede95abfd804424e7f1b854716e00ec614adda31e76b",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/ORL/actual_evaluation.csv": "34aed8a5babef5695df1c2a1a4e4f8711341a03998ec2b5101b860d08aa30e14"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "PHI",
+    "hub_name": "Tyrese Maxey",
+    "has_history": true,
+    "training_team_seasons": 22,
+    "entropy_original": 0.6732862715920672,
+    "entropy_prediction": 0.7365229777608747,
+    "entropy_actual": 0.6886335726503445,
+    "edge_current": 0.28246939038078595,
+    "edge_learned": 0.26854459244940476,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/PHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/PHI/original_evaluation.csv": "4290db8c2c0451695efd871e13a4f9c4ec3a3c42c04a711ccd889707c2fd3033",
+      "outputs/previous_season_history/2022-23/PHI/predicted_evaluation.csv": "4af1ee7dcd99b41d61b2d0b882a6ebbabd71f0a8ad524971a31513774bb4da39",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/PHI/actual_evaluation.csv": "ff2eaaa8df2254bbd820be7b20d7f90d7918e07e179ecac606d6cb1114df093a"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "PHX",
+    "hub_name": "Devin Booker",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.7158977686135178,
+    "entropy_prediction": 0.7780268706735608,
+    "entropy_actual": 0.8042177863682217,
+    "edge_current": 0.42619706656364303,
+    "edge_learned": 0.45513095773012247,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/PHX_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/PHX/original_evaluation.csv": "0d8bc795b6e8cdbf89465c9c1531fafa200aeb888425752df648a70e2d93fa79",
+      "outputs/previous_season_history/2022-23/PHX/predicted_evaluation.csv": "13e648b1449d5630c9eb0e6b0bb0b6710de6336d4da42ff91c9ac19facae1a81",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/PHX/actual_evaluation.csv": "16fba240e48db3d75379ee5fe80e03eb17d25a525ca3a64ff2bf8a172f6cba71"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "POR",
+    "hub_name": "Anfernee Simons",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6400146158980283,
+    "entropy_prediction": 0.7035538610749564,
+    "entropy_actual": 0.7286887580069031,
+    "edge_current": 0.7886184843963306,
+    "edge_learned": 0.7317797716530974,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/POR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/POR/original_evaluation.csv": "13664915686004b96e16961705e1a61bdb8fcfa8f61c2341e80bbd3d896650ba",
+      "outputs/previous_season_history/2022-23/POR/predicted_evaluation.csv": "488eb9c5a24993f2ca14a128247e31aab6a89130f10e16ba73eb34b58763569d",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/POR/actual_evaluation.csv": "e259f1a2f37cfdfa80fa4cac97145f07c363d1ada948c9762f05f124b1faa648"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "SAC",
+    "hub_name": "De'Aaron Fox",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.6979805429379987,
+    "entropy_prediction": 0.77473105296911,
+    "entropy_actual": 0.6978579438346247,
+    "edge_current": 0.3290919331136738,
+    "edge_learned": 0.35927016317651866,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/SAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/SAC/original_evaluation.csv": "d0faf46d40d87d78dfa3b52e4d81d114604746121e604e0988c0d24224036643",
+      "outputs/previous_season_history/2022-23/SAC/predicted_evaluation.csv": "22624f1bdc37dd0d9cde77ac881477c87efa4f394be693afb442098575bad173",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/SAC/actual_evaluation.csv": "2d01444cb9097149aaf5d85cff9340aaa82c98b7095b866613227c1fbf04a8df"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "SAS",
+    "hub_name": "Tre Jones",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.732426158947311,
+    "entropy_prediction": 0.8125039854777172,
+    "entropy_actual": 0.7557953761164248,
+    "edge_current": 0.7093458161999487,
+    "edge_learned": 0.6831085932610723,
+    "eligible": true,
+    "observed": true,
+    "image": "2022-23/SAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/SAS/original_evaluation.csv": "50ef69f3d46c98c47c1890f3eb08d9cfa3ce1ad23c54dc85c78784b780c93ec1",
+      "outputs/previous_season_history/2022-23/SAS/predicted_evaluation.csv": "b2603d242dd46f5fb44ad0273ae0209d185232f545b6be9a246e6ab7492043b3",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/SAS/actual_evaluation.csv": "1e8a9a1c763915ec4f0a515ebe393df86c35bf728d18b25a71465fdde0af09b2"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "TOR",
+    "hub_name": "Scottie Barnes",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.7542877714295494,
+    "entropy_prediction": 0.8201830331877082,
+    "entropy_actual": 0.5965515432406586,
+    "edge_current": 0.673255919638214,
+    "edge_learned": 0.7146850198655021,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/TOR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/TOR/original_evaluation.csv": "e4d204086a06689b30650242ec71389cd05f5f0f7c6fe9ed714c5d19ba93e374",
+      "outputs/previous_season_history/2022-23/TOR/predicted_evaluation.csv": "37068cf1d326690f6057e14fa7fea4de5c85d1306406a2729acae6934633f96c",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/TOR/actual_evaluation.csv": "92546eb4d537bc7b65cac34f531fdc2375b38461ef75493be6a08ddb8313f8b0"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "UTA",
+    "hub_name": "Mike Conley",
+    "has_history": true,
+    "training_team_seasons": 21,
+    "entropy_original": 0.7231570446713425,
+    "entropy_prediction": 0.7852550305118337,
+    "entropy_actual": 0.7561801869436171,
+    "edge_current": 0.26218676900689797,
+    "edge_learned": 0.2696999033988229,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/UTA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/UTA/original_evaluation.csv": "7c512c4acca76349ef3f925c2605957ed459b3bb3e32930728c28a9c13f03b55",
+      "outputs/previous_season_history/2022-23/UTA/predicted_evaluation.csv": "7463a19c40a94290f887edb8b019bd3d4024713b69ddb6153b404b67cc0dc869",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/UTA/actual_evaluation.csv": "d6460775ec795e5873e7950a04400fb6f8a945199033376e6f1a1bf9464e788a"
+    }
+  },
+  {
+    "season": "2022-23",
+    "team": "WAS",
+    "hub_name": "Bradley Beal",
+    "has_history": true,
+    "training_team_seasons": 22,
+    "entropy_original": 0.6728977978341213,
+    "entropy_prediction": 0.7327677338883941,
+    "entropy_actual": 0.7490599716392746,
+    "edge_current": 0.407632331132822,
+    "edge_learned": 0.35738304190135467,
+    "eligible": false,
+    "observed": true,
+    "image": "2022-23/WAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/WAS/original_evaluation.csv": "c3479698d91472f579ae4bd341d44142772bb35586e5fe4a23d8cf71bdb197e1",
+      "outputs/previous_season_history/2022-23/WAS/predicted_evaluation.csv": "721867235cd545b0a0923165fe4eb91e2e0c107227c4feb6e64aa01f05cd416b",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2022-23/WAS/actual_evaluation.csv": "d1dabe97f2f54bc8fc70255b5d1b77a5653f01ae528a618426d7c1cdb74d749d"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "ATL",
+    "hub_name": "Trae Young",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.6169163953092175,
+    "entropy_prediction": 0.7372962228149899,
+    "entropy_actual": 0.6940702851528224,
+    "edge_current": 0.3789080086897123,
+    "edge_learned": 0.38443016327472257,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/ATL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/ATL/original_evaluation.csv": "f506b89553072556f379ba1c73f39173b89d97a62997d249ca8dbd7194751875",
+      "outputs/previous_season_history/2023-24/ATL/predicted_evaluation.csv": "700af49a07ceba6575d7777fb1f0ea0c785af2501fd825cd9070885409b9ea4d",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/ATL/actual_evaluation.csv": "683a1fcb19bac4b7f17972aa992fab547e23cab2810302ced1e4e2176f5a0306"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "BKN",
+    "hub_name": "Spencer Dinwiddie",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.7639979583996878,
+    "entropy_prediction": 0.8180569733816001,
+    "entropy_actual": 0.630429145607346,
+    "edge_current": 0.8117914530728458,
+    "edge_learned": 0.7850430807397346,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/BKN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/BKN/original_evaluation.csv": "71636956a896aa67b0017c5876af58b57b64c50696bdf14e8417948ab9307e00",
+      "outputs/previous_season_history/2023-24/BKN/predicted_evaluation.csv": "0e831b6890a6437dc4d7b4ecdfb6e5cab136c1286062926d20e435e9b5368cf8",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/BKN/actual_evaluation.csv": "73044c6c084619355d676f9343ba6047dc8258dc6901d0a76279bb017922b97c"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "BOS",
+    "hub_name": "Jayson Tatum",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.6831906651943758,
+    "entropy_prediction": 0.7231512548597143,
+    "entropy_actual": 0.6886714500844844,
+    "edge_current": 0.4317631842000886,
+    "edge_learned": 0.4068094253408602,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/BOS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/BOS/original_evaluation.csv": "4c31152db30f9f63bd54e8eba9e437e6f89a2474398ad742a1522cf7aa12f1ce",
+      "outputs/previous_season_history/2023-24/BOS/predicted_evaluation.csv": "96c8b207544b67fe903e33144327660d05e16b85099a040fd9471354de86efb4",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/BOS/actual_evaluation.csv": "130d8ced5f8f15d187a71e1ad7264b7c09f3a9a440a304f44f2a2c885a66689f"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "CHA",
+    "hub_name": "LaMelo Ball",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.623933519309729,
+    "entropy_prediction": 0.6865269020461781,
+    "entropy_actual": 0.7136673459628391,
+    "edge_current": 0.7118732308361793,
+    "edge_learned": 0.6737617834740494,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/CHA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/CHA/original_evaluation.csv": "81f269548cd0ae8ddd341089d3c26e84f6060380ddf30fe81bc05b3ecad0f011",
+      "outputs/previous_season_history/2023-24/CHA/predicted_evaluation.csv": "57449116ad4194aa882be62aaab93db3ff66568a0075d42fc264a3b358c87597",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/CHA/actual_evaluation.csv": "83c6230fb08f80933bfd739b32ddd9e45fc58e0bd2268114dc9125a4ddf7dda5"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "CHI",
+    "hub_name": "Coby White",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.7327669873985795,
+    "entropy_prediction": 0.7828741654713045,
+    "entropy_actual": 0.6610483058447717,
+    "edge_current": 0.5747181750447108,
+    "edge_learned": 0.5774416345651434,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/CHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/CHI/original_evaluation.csv": "2ceec37f09b588145728d71de524561e5f971c06426387a9908b1cec162a4be6",
+      "outputs/previous_season_history/2023-24/CHI/predicted_evaluation.csv": "78cc4f16bd093f1a6e8b151a0524979e953ec5dc3a283d937fbc7bd31d870692",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/CHI/actual_evaluation.csv": "d6572f52a6d94bce6012c3b6da2ed4d8199a56f49d623884a342d4a853587092"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "CLE",
+    "hub_name": "Darius Garland",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6966442611204411,
+    "entropy_prediction": 0.7524457396961247,
+    "entropy_actual": 0.7324067582235142,
+    "edge_current": 0.4243569451262067,
+    "edge_learned": 0.36291434625327407,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/CLE_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/CLE/original_evaluation.csv": "735458713b352b204135a70750611f3dd8637892d57398b2e9c0b17e027879cc",
+      "outputs/previous_season_history/2023-24/CLE/predicted_evaluation.csv": "99f7d28409b676d0945dd69612715a85268bfba63d9d3e0fe4a82fd4997dec31",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/CLE/actual_evaluation.csv": "345a955e1935b0361b52638e13234a90dcb961808d69e662f2d2a601c2cb5cd7"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "DAL",
+    "hub_name": "Luka Don\u010di\u0107",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6805904514944232,
+    "entropy_prediction": 0.7822462784909916,
+    "entropy_actual": 0.761791814024797,
+    "edge_current": 0.43712128200972256,
+    "edge_learned": 0.40639595809890744,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/DAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/DAL/original_evaluation.csv": "bb15a4c22bc1f9943c09d8bb42d1a954ecd5f19258afcd96206bd50aae231c11",
+      "outputs/previous_season_history/2023-24/DAL/predicted_evaluation.csv": "f6dc3c4aba5b53eb81018ce50d8fb41b34d02954ffd2ff4176cfbee3dd20eb15",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/DAL/actual_evaluation.csv": "b062f3976f5c19daa2f67ddcf989883fbeab91a5131b818764619221448b7325"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "DEN",
+    "hub_name": "Nikola Joki\u0107",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.7251940981498015,
+    "entropy_prediction": 0.8484563662784501,
+    "entropy_actual": 0.662669592456156,
+    "edge_current": 0.34694422729850805,
+    "edge_learned": 0.4193581733474912,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/DEN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/DEN/original_evaluation.csv": "3a9100579b6f8042aaff0a16a189c5c1d411478373e84ede861560ccff94c4f7",
+      "outputs/previous_season_history/2023-24/DEN/predicted_evaluation.csv": "8d4f5b48d07593a7bf8f28e105767fc1f6cc37522f5fa5fa62e9b47ce8b71f4f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/DEN/actual_evaluation.csv": "6092b2c9a752a377ad021a009f63854db4587204a2f603718e30b64d9e28c5eb"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "DET",
+    "hub_name": "Cade Cunningham",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.6392378633092808,
+    "entropy_prediction": 0.7327688957763423,
+    "entropy_actual": 0.6584097047297491,
+    "edge_current": 0.5966528976482628,
+    "edge_learned": 0.5943140895290981,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/DET_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/DET/original_evaluation.csv": "8aa47b2f491c0ff9ffa3b9f22db8e823dc0a040878d25ae6fa70de69ee6c9ea5",
+      "outputs/previous_season_history/2023-24/DET/predicted_evaluation.csv": "87d17f98da3df5f2e4f6e8e741779feb0d37cb3fcdf296a3d75001c10e405cbf",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/DET/actual_evaluation.csv": "dfa0b2d98db58f98994a4a07306c9294a279456068714c738fd31a4429be009a"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "GSW",
+    "hub_name": "Stephen Curry",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.7233139406534531,
+    "entropy_prediction": 0.80158828927437,
+    "entropy_actual": 0.7484157046611305,
+    "edge_current": 0.4440764045746952,
+    "edge_learned": 0.4224627318536183,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/GSW_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/GSW/original_evaluation.csv": "08bea2a6c97069eac582e11e5a11c7a07d2638d3dd9d7a22a3aad259d4bf5ac3",
+      "outputs/previous_season_history/2023-24/GSW/predicted_evaluation.csv": "51f634b59c9b58071315c9fc7025a855d783d94728a7696ea9b587db100cbec1",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/GSW/actual_evaluation.csv": "847a67a9d5c78e685a7213ab30410f44844347de0ffd488bff50f1559780465b"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "HOU",
+    "hub_name": "Fred VanVleet",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6785274724255406,
+    "entropy_prediction": 0.8175839213583718,
+    "entropy_actual": 0.7395765777793327,
+    "edge_current": 0.4387566446249018,
+    "edge_learned": 0.3838600359650092,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/HOU_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/HOU/original_evaluation.csv": "16e4207a2d233a627b05d72025bf39dd878404327d23929e82aa63dbd903c5b7",
+      "outputs/previous_season_history/2023-24/HOU/predicted_evaluation.csv": "3964e49b89e7a62c5974bbe4e5bed6fa0c4091c8c16489298fe4e21e581670fd",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/HOU/actual_evaluation.csv": "cc74acb39fb85330df07f758d24e5b8e17d6c6de923ed1e1f57d0f699b8c0040"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "IND",
+    "hub_name": "Tyrese Haliburton",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6772467653139198,
+    "entropy_prediction": 0.7863513079154817,
+    "entropy_actual": 0.7433655162005566,
+    "edge_current": 0.4068260177568206,
+    "edge_learned": 0.3531585254409208,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/IND_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/IND/original_evaluation.csv": "33f3591209594a25b44677b9f42267aaac6aded21960934c758736dc9ff69af2",
+      "outputs/previous_season_history/2023-24/IND/predicted_evaluation.csv": "b12e7c43e5002149b5bd76ee96e33321530a2c3ffeebf27cb140956e07a75c3b",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/IND/actual_evaluation.csv": "e51615d6147c9597b47c17354ea49cb5396bfa15da2b24b3c0bef50e4459eb81"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "LAC",
+    "hub_name": "Paul George",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.6788962962894303,
+    "entropy_prediction": 0.7678883766361038,
+    "entropy_actual": 0.698624831163787,
+    "edge_current": 0.44892119122625723,
+    "edge_learned": 0.4525447672345015,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/LAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/LAC/original_evaluation.csv": "8a74350072d3fdd47ae8cf71b4b186d47ec48eb4ab0c7f9114d91f4f92988c67",
+      "outputs/previous_season_history/2023-24/LAC/predicted_evaluation.csv": "c1502796ebc8bb6fbc9249dfcc3216edc4536c2aafd225ae82b79fbdd9ab4820",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/LAC/actual_evaluation.csv": "b6ac9c944dad0d7661d0c0849b76dbf26bd669fbce31db68fff6c2f67dd11704"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "LAL",
+    "hub_name": "D'Angelo Russell",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.6730550264968947,
+    "entropy_prediction": 0.7717707181802594,
+    "entropy_actual": 0.6187497167223984,
+    "edge_current": 0.26238899659084447,
+    "edge_learned": 0.4030974576807753,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/LAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/LAL/original_evaluation.csv": "15ec9a77bd3e4aa1802a89865c15a58ace27ee5138e4d91600d597fe6913ba8e",
+      "outputs/previous_season_history/2023-24/LAL/predicted_evaluation.csv": "ddef2d56d5c94eed8ae494174bc094538a50617edc70b3cd68301699a7d1843b",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/LAL/actual_evaluation.csv": "356e6d97aa9a242eb47997d0fa21f64f487fe3f09ceb3ae1a37b421db6bd52bd"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "MEM",
+    "hub_name": "Desmond Bane",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6599982701221999,
+    "entropy_prediction": 0.7319945679344687,
+    "entropy_actual": 0.7452627028470622,
+    "edge_current": 0.6931227619360787,
+    "edge_learned": 0.6858844243085717,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/MEM_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/MEM/original_evaluation.csv": "26b15390217f5af3f6e26cfb2f0740bd1c535b5686eb48408f6ef4ee364241c1",
+      "outputs/previous_season_history/2023-24/MEM/predicted_evaluation.csv": "f9be8671919209cc42d65bd3ae73367e5e96b6cadc95b4fb869451faad50224f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/MEM/actual_evaluation.csv": "ad42669502f0e0d0c86e7a814024f4ca837d60118825a5911d2b91ba642d2886"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "MIA",
+    "hub_name": "Kyle Lowry",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.7881654503220845,
+    "entropy_prediction": 0.8353366523375679,
+    "entropy_actual": 0.7655352650980262,
+    "edge_current": 0.42165220249493895,
+    "edge_learned": 0.4292434590633609,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/MIA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/MIA/original_evaluation.csv": "3823971a03cfa3e0683d0f95f39cba71ca9d687cff8b858cb228dd3eb28aad62",
+      "outputs/previous_season_history/2023-24/MIA/predicted_evaluation.csv": "a3abba830e03d8815a2121274c9bc53080e26b71d9557471b7cd88d60766b8cc",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/MIA/actual_evaluation.csv": "25fa1eadf7eac49f4a1a8d5ada113e94d4b9440753d7bd69fff38e3b88b93df9"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "MIL",
+    "hub_name": "Damian Lillard",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6632075251125558,
+    "entropy_prediction": 0.7542547094449958,
+    "entropy_actual": 0.7030005231561882,
+    "edge_current": 0.41969572500322705,
+    "edge_learned": 0.41729420922920657,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/MIL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/MIL/original_evaluation.csv": "8925fc386adec3e9be039ecfc5445901e5618a022ce82772eb8536668df64c7b",
+      "outputs/previous_season_history/2023-24/MIL/predicted_evaluation.csv": "90a4029e74caa05bdfbb22b9e97f9867bf86e698cd2f23233bcf7eaa4412e7c6",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/MIL/actual_evaluation.csv": "6b861e4e57475fc9316bb974d7451a4be3f089478ea659b46f5e63ca8119a0b7"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "MIN",
+    "hub_name": "Mike Conley",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.7018569412335047,
+    "entropy_prediction": 0.7735734355457844,
+    "entropy_actual": 0.6783152483915992,
+    "edge_current": 0.372626258124633,
+    "edge_learned": 0.3872484341982988,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/MIN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/MIN/original_evaluation.csv": "1958fe5dc100a9b0c53b5d33ebaa92745d580388ac2072f496fd90c3fed3e12b",
+      "outputs/previous_season_history/2023-24/MIN/predicted_evaluation.csv": "fd7a794365a82737f653f947e807500c6731a19974856a252288a4de8fabe984",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/MIN/actual_evaluation.csv": "59574ff934898a1e9c4ce3a6ff6e028dde3076a4f8aa98d3aab143f0e7af0a68"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "NOP",
+    "hub_name": "Brandon Ingram",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.793245998120645,
+    "entropy_prediction": 0.8568363634262713,
+    "entropy_actual": 0.742960413561093,
+    "edge_current": 0.4646680814557599,
+    "edge_learned": 0.4586678089913409,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/NOP_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/NOP/original_evaluation.csv": "ca46f9927eb9aaa24de0ce7d77ac46d4932c67cf8091beb87d4b6fa584393b67",
+      "outputs/previous_season_history/2023-24/NOP/predicted_evaluation.csv": "1ba9830d22bc29dff7157846dc7ee6d972974f8fbb2b23a622cb7a4dfb656cc2",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/NOP/actual_evaluation.csv": "9245bdaccfdfc02d66b452fad95f66a519d15df864fee795a7bd289afa56cc4d"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "NYK",
+    "hub_name": "Jalen Brunson",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.5720041022642163,
+    "entropy_prediction": 0.7060683332561694,
+    "entropy_actual": 0.6137577409903424,
+    "edge_current": 0.8046549738781938,
+    "edge_learned": 0.7756164223937954,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/NYK_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/NYK/original_evaluation.csv": "8c2c927d6df56a6365dacfea8391733168d2c139e9f4d3635df3b47d204ca732",
+      "outputs/previous_season_history/2023-24/NYK/predicted_evaluation.csv": "527e15b490242cfa0650f74c250a8b6a934b2abd2e7710c76bdd6f43ffaf6df6",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/NYK/actual_evaluation.csv": "bae29f3ce97c2764fe8f6edc4d03845275b4f9fe31fcfa8cddb341f0a6709b11"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "OKC",
+    "hub_name": "Shai Gilgeous-Alexander",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.7038956099280995,
+    "entropy_prediction": 0.8053150025032559,
+    "entropy_actual": 0.7089256419391281,
+    "edge_current": 0.42210523598585337,
+    "edge_learned": 0.4601592057606302,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/OKC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/OKC/original_evaluation.csv": "c1f6b2a40277be6a65e0c32f1a98a5f89a26f4fd165568d1b09da92c047ed708",
+      "outputs/previous_season_history/2023-24/OKC/predicted_evaluation.csv": "2c7ab87433b36ff97970a8c1ca74b8e1dd9a6efc02c21876c4ca67525e3d2c09",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/OKC/actual_evaluation.csv": "194ccdbfb92d9fe0931660c0f2beb8f296232dc8ff99827962dd20a58740f818"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "ORL",
+    "hub_name": "Paolo Banchero",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.747491178500499,
+    "entropy_prediction": 0.8153391445280012,
+    "entropy_actual": 0.701984732192203,
+    "edge_current": 0.42376621205118575,
+    "edge_learned": 0.4282733963844459,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/ORL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/ORL/original_evaluation.csv": "be089368e9bf36cc2716a1cf80aff30a9d0a9c31089201b6e26cfed0f6c14266",
+      "outputs/previous_season_history/2023-24/ORL/predicted_evaluation.csv": "ad4068d2142a8df6792946bb46a1a4d50803601eb626b471adb89e970394924b",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/ORL/actual_evaluation.csv": "6121ebca5b85d6d3de84cb7e7e3d500678e498185f756fb410512e32feecd4bc"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "PHI",
+    "hub_name": "Tyrese Maxey",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6172688449278831,
+    "entropy_prediction": 0.7448610735733003,
+    "entropy_actual": 0.7155032917092983,
+    "edge_current": 0.732327174577722,
+    "edge_learned": 0.695669150049377,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/PHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/PHI/original_evaluation.csv": "d9251c61d9700100f791e85ae5deed9ba4af836db592aa78e57df1f4dfac02ad",
+      "outputs/previous_season_history/2023-24/PHI/predicted_evaluation.csv": "db6c386d088ad025fd810ff40e0a9315e238967ab59d5df71c99cc638af2e670",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/PHI/actual_evaluation.csv": "7bf243e3bc7a91aec9b8d439b0e07c1ea11fb34ed2e6551755d3273bd1eb73ac"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "PHX",
+    "hub_name": "Kevin Durant",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.78328537753487,
+    "entropy_prediction": 0.8298610882451944,
+    "entropy_actual": 0.7471224803610454,
+    "edge_current": 0.43868412585502015,
+    "edge_learned": 0.4218078128226416,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/PHX_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/PHX/original_evaluation.csv": "3423885dc73fca4798c99349211d78761085a455b244448a264c8200cab6d814",
+      "outputs/previous_season_history/2023-24/PHX/predicted_evaluation.csv": "ada066f47f24be9025ffc1a1a3af8ac5b855dce5f58d7018a9b9e718dd629dbe",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/PHX/actual_evaluation.csv": "5d1aab9cb8c0a4e41e3839f531516e5de5782655d8abf9c6dab62e1970b63427"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "POR",
+    "hub_name": "Shaedon Sharpe",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.6961896191787184,
+    "entropy_prediction": 0.7517346925454683,
+    "entropy_actual": 0.753251000198954,
+    "edge_current": 0.6289388585109822,
+    "edge_learned": 0.5896771593829178,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/POR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/POR/original_evaluation.csv": "871154f485d63e86be92f9874de7e46f06a53bea1f272d664cea0650ae82a40c",
+      "outputs/previous_season_history/2023-24/POR/predicted_evaluation.csv": "c11c10cfb0453784255880570e1353d29cf3d55a257c69578659ffe3fcd92c55",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/POR/actual_evaluation.csv": "d98e6b86ef136acc2f25af3759c44648b7b0ddcb731a25aeb535ace37429437e"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "SAC",
+    "hub_name": "Domantas Sabonis",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.7352614327681128,
+    "entropy_prediction": 0.8378652530844188,
+    "entropy_actual": NaN,
+    "edge_current": NaN,
+    "edge_learned": NaN,
+    "eligible": false,
+    "observed": false,
+    "image": "2023-24/SAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/SAC/original_evaluation.csv": "617c3d49c573fdce37ffcbcbd60f217421ec1af1002a39529b9cb737f202ce45",
+      "outputs/previous_season_history/2023-24/SAC/predicted_evaluation.csv": "daedffdfce020de31922915bd75f72257f03503db3e5ead45d80545d8e8e401f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/SAC/actual_evaluation.csv": "773ff6a6c470fd44a92e9437671d7ff04ec78d34d40150a2701e68d4f5cf7f07"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "SAS",
+    "hub_name": "Jeremy Sochan",
+    "has_history": true,
+    "training_team_seasons": 15,
+    "entropy_original": 0.7352012749650364,
+    "entropy_prediction": 0.7857673604212104,
+    "entropy_actual": 0.713401769820829,
+    "edge_current": 0.7084377245919729,
+    "edge_learned": 0.6864952489911418,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/SAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/SAS/original_evaluation.csv": "61d54efe3f49693e217f704146afd8d3bbcf54a99a168f982fde93be9219d657",
+      "outputs/previous_season_history/2023-24/SAS/predicted_evaluation.csv": "ad790aaa16fa392ad071c435b4decb9f11e9856c16f7196d173ce3e304be0f57",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/SAS/actual_evaluation.csv": "3839696326c616015b97f0a45e8e983bbc3a9ace31a4eb0070a1902aa13b8a87"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "TOR",
+    "hub_name": "Dennis Schr\u00f6der",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.7105781336415782,
+    "entropy_prediction": 0.8286498214349229,
+    "entropy_actual": NaN,
+    "edge_current": NaN,
+    "edge_learned": NaN,
+    "eligible": false,
+    "observed": false,
+    "image": "2023-24/TOR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/TOR/original_evaluation.csv": "0106c8af239a4a0b277cf7ba7f5133383859131cdd2edfdc61d53fdfa0bdd2af",
+      "outputs/previous_season_history/2023-24/TOR/predicted_evaluation.csv": "b5eef8e17b8cbac2f90abb4cc7c705f8d91d055bc27049895f9424451f86f44e",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/TOR/actual_evaluation.csv": "b60c97abdd62107000f8131138e3df38ff8e9943f3b3e792e7134e86688cfc5d"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "UTA",
+    "hub_name": "Keyonte George",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.7451509998555941,
+    "entropy_prediction": 0.8110447712307337,
+    "entropy_actual": 0.7513265206955644,
+    "edge_current": 0.3966186329774292,
+    "edge_learned": 0.36487800310511287,
+    "eligible": false,
+    "observed": true,
+    "image": "2023-24/UTA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/UTA/original_evaluation.csv": "7a64a70a3846c233a0ede1818b11c851e35823271b36a3e8eb46f8e41cd2f709",
+      "outputs/previous_season_history/2023-24/UTA/predicted_evaluation.csv": "5fc85d1382d13738d0670a45e8fa08ab37e123ca468014e6b7f7b99dd1b4cb3f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/UTA/actual_evaluation.csv": "7f6d65a698c213a9bfe86821a8742fbb9f7a2d386c2805a8212ae27cff70a4cf"
+    }
+  },
+  {
+    "season": "2023-24",
+    "team": "WAS",
+    "hub_name": "Tyus Jones",
+    "has_history": true,
+    "training_team_seasons": 16,
+    "entropy_original": 0.6836532325569962,
+    "entropy_prediction": 0.7615146445353099,
+    "entropy_actual": 0.7041804200770241,
+    "edge_current": 0.7617185364957882,
+    "edge_learned": 0.7488969061179293,
+    "eligible": true,
+    "observed": true,
+    "image": "2023-24/WAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/WAS/original_evaluation.csv": "e0523fa7b5946f411f622e4cbd5c2ce0c01d9da02f606b4a704448c17ce1a4b2",
+      "outputs/previous_season_history/2023-24/WAS/predicted_evaluation.csv": "05b3e51958c80af0729bd7e087fbbb4e2817ce6a403a2b6f87a831fdb2bfdfc1",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2023-24/WAS/actual_evaluation.csv": "60cb34a518bfa8ca8b3b20368afa5586fad5b2d9756d3646565957539c00a6b2"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "ATL",
+    "hub_name": "Trae Young",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.6775155163233332,
+    "entropy_prediction": 0.8049058203234881,
+    "entropy_actual": 0.7529987010391423,
+    "edge_current": 0.6357796443068968,
+    "edge_learned": 0.5666579607003741,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/ATL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/ATL/original_evaluation.csv": "4cb3f99f44c7518c4e98e56bae33aa7749bfe05b85e52e1fe5e698f91de5a48e",
+      "outputs/previous_season_history/2024-25/ATL/predicted_evaluation.csv": "c6236f7fd9322466c1a637eb08d83540133624d56d465f9251e7d3608c0e2630",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/ATL/actual_evaluation.csv": "c6caeed3088a5d6fb010c2c47a459d594a3b8a47a4aab6ea42655606b0b72594"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "BKN",
+    "hub_name": "Dennis Schr\u00f6der",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.772743902911794,
+    "entropy_prediction": 0.8512263069888196,
+    "entropy_actual": NaN,
+    "edge_current": NaN,
+    "edge_learned": NaN,
+    "eligible": false,
+    "observed": false,
+    "image": "2024-25/BKN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/BKN/original_evaluation.csv": "747fee281bad4077015402779433af5426cfa66574cf9ab029bd24e64eada048",
+      "outputs/previous_season_history/2024-25/BKN/predicted_evaluation.csv": "4c21859f1cbd050d1481fe63467dea1c601cf301fbe8274d6ee6c0ebab74f843",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/BKN/actual_evaluation.csv": "9b4148070e624f87b77e2b57485733f0594763363141a4a7a3f8fe12dd96bbb4"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "BOS",
+    "hub_name": "Jayson Tatum",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6852133432163892,
+    "entropy_prediction": 0.7650675878209979,
+    "entropy_actual": 0.7167243401799113,
+    "edge_current": 0.29977610861440007,
+    "edge_learned": 0.2807669762508911,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/BOS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/BOS/original_evaluation.csv": "003fc7dc1ae87be208249e9dcb85a6553321761c3cca71b0fc49445b24431a8c",
+      "outputs/previous_season_history/2024-25/BOS/predicted_evaluation.csv": "40885743dfdba5772f7e45687eda3d5c9702b068123d39314d2a4bb50cd540f6",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/BOS/actual_evaluation.csv": "788d47ff9c587b11277993a80be4e7b8ad7df008e3153b0f708b89ac215874e2"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "CHA",
+    "hub_name": "LaMelo Ball",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.6311093584077719,
+    "entropy_prediction": 0.7365705344628355,
+    "entropy_actual": 0.7829371940516192,
+    "edge_current": 0.7726366356056737,
+    "edge_learned": 0.7301159276050857,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/CHA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/CHA/original_evaluation.csv": "8c1ef077d06141a50d77a7f631c28ece2862a326ce4c2706c223bb4842627a22",
+      "outputs/previous_season_history/2024-25/CHA/predicted_evaluation.csv": "8842c9ea4a9052660a88fc8cfd0f7760f4c977857df2cf8d0c7cccfc0c353c19",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/CHA/actual_evaluation.csv": "e8427534c289bc6a3de5eac23747ba82613c43ce9ebf82be4f8550d5b64daf62"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "CHI",
+    "hub_name": "Josh Giddey",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6838663859438974,
+    "entropy_prediction": 0.7570444553534276,
+    "entropy_actual": 0.7557817004677824,
+    "edge_current": 0.5091387205772977,
+    "edge_learned": 0.4748549161159171,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/CHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/CHI/original_evaluation.csv": "81d3977c1802d2f8fad3f97111e8071b4cfd90c28fec1da28719f51c46c72702",
+      "outputs/previous_season_history/2024-25/CHI/predicted_evaluation.csv": "24c172fea3c3bc56132314f63b46c211a9992f3b7dbbe89d90cf8172a5f4268d",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/CHI/actual_evaluation.csv": "5dd90e826007460c8d44bf4c67149ecd73888281fb87ad6ecf387fa5737ebe49"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "CLE",
+    "hub_name": "Darius Garland",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.6912063760668694,
+    "entropy_prediction": 0.7533874538075984,
+    "entropy_actual": 0.7023951925820409,
+    "edge_current": 0.582242806117063,
+    "edge_learned": 0.5459302315503398,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/CLE_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/CLE/original_evaluation.csv": "3264654da01c46989c06df7277071b9dc33feda4980209d9c74d2eef4b4d7c1c",
+      "outputs/previous_season_history/2024-25/CLE/predicted_evaluation.csv": "c2032397a9900741ca56b4701178b3d7f2f436cf303d5b2bcb6486f5e716356f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/CLE/actual_evaluation.csv": "282bcdb76fa3b1ea57eb9c65699e33995e61335a20fcded4bad30be64900537d"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "DAL",
+    "hub_name": "Kyrie Irving",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.6975282889493165,
+    "entropy_prediction": 0.7482996548450151,
+    "entropy_actual": 0.7814214468734912,
+    "edge_current": 0.5841741551135042,
+    "edge_learned": 0.5713187484210969,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/DAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/DAL/original_evaluation.csv": "983883d31c81adb0b97275eb00c1a604787c3fc5e6cb573b3e71aa8366b5ee02",
+      "outputs/previous_season_history/2024-25/DAL/predicted_evaluation.csv": "713e81a3b89b389ff6a78ce4314e7f23e6593f7a3533616f017d1b937e1a0a23",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/DAL/actual_evaluation.csv": "5622402fa9fee5e24aea05f3fdae8d96a4ece83d191c1963dbf698ed60e4834a"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "DEN",
+    "hub_name": "Nikola Joki\u0107",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6661940239674147,
+    "entropy_prediction": 0.8023904643334792,
+    "entropy_actual": 0.7623623936739914,
+    "edge_current": 0.38279414952540725,
+    "edge_learned": 0.3731220954500422,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/DEN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/DEN/original_evaluation.csv": "c365946ca501345c49d03980a64df0072e10a068e0d9b8f10cd5a2b537863d33",
+      "outputs/previous_season_history/2024-25/DEN/predicted_evaluation.csv": "743de97baf592969441c32dae943c812a26727242baae719b91328c0b4e07e83",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/DEN/actual_evaluation.csv": "5b0eddbabf3bf1674e272d6e1c16423d39dfd74ce6fcf65d46e51c0597889282"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "DET",
+    "hub_name": "Cade Cunningham",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.6675417595588022,
+    "entropy_prediction": 0.7496231275062657,
+    "entropy_actual": 0.7440730622693592,
+    "edge_current": 0.6675834485087363,
+    "edge_learned": 0.6169905328328157,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/DET_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/DET/original_evaluation.csv": "b67a6219e364fc6f8b66f16c1ab1e124d3099da6f1f5506ca4aee01cbbf44e65",
+      "outputs/previous_season_history/2024-25/DET/predicted_evaluation.csv": "97f1d4f34efaf2e75f7ece8e1119a37e11e375ce50d29cb6d691ae4abc9a29ee",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/DET/actual_evaluation.csv": "dd53751a646e42ab8ce53183dbb63992711f2c405f6b12cede980530911821da"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "GSW",
+    "hub_name": "Draymond Green",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.802077193075259,
+    "entropy_prediction": 0.8368239450122438,
+    "entropy_actual": 0.8230493544533944,
+    "edge_current": 0.5043483611821717,
+    "edge_learned": 0.4988866881090636,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/GSW_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/GSW/original_evaluation.csv": "b85d25abab716064b42aa093b98ee359c62e7e2f89ec97e77d9bad56073a7032",
+      "outputs/previous_season_history/2024-25/GSW/predicted_evaluation.csv": "2f2047ef2db220ce0a299cf43c64acdbf14dbdab84b1e46c5014dabc427e078e",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/GSW/actual_evaluation.csv": "45784274865253725b54a6bae6a3b2ce294089a3716e421bda6684682941157b"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "HOU",
+    "hub_name": "Fred VanVleet",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6709872617935088,
+    "entropy_prediction": 0.7911203667992962,
+    "entropy_actual": 0.7634850061736381,
+    "edge_current": 0.28730612559761426,
+    "edge_learned": 0.2760686037286385,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/HOU_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/HOU/original_evaluation.csv": "5bfef200e48267e4d41bc2d43279a955d4b5e64a443bfd9ea23d58da558a941e",
+      "outputs/previous_season_history/2024-25/HOU/predicted_evaluation.csv": "a2df24d33e10a5ba71e607bedb543e8f940707f3e2af9c2ca38323b8c8b16403",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/HOU/actual_evaluation.csv": "457cad137c0d4137ffde5c7ceb39242ea8926eda86cf14fb12cd8b3e4037c6c8"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "IND",
+    "hub_name": "Tyrese Haliburton",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.6858705058685024,
+    "entropy_prediction": 0.8054445102315099,
+    "entropy_actual": 0.7027236739166124,
+    "edge_current": 0.4683113431946076,
+    "edge_learned": 0.42839768378464965,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/IND_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/IND/original_evaluation.csv": "2aa79d3931a537aa11580dba75164892179c65d6c1be6d5c5e261b2e8e9a2bc0",
+      "outputs/previous_season_history/2024-25/IND/predicted_evaluation.csv": "b1f38d93429d9e33bdc8ba2a962929a5faf628bac88d44ef07689e22b655c3fd",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/IND/actual_evaluation.csv": "fefc28df5a037fcf396b1781c6d0c4abdb491045f3d07a079eb7a8443d2b3acd"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "LAC",
+    "hub_name": "James Harden",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7562938886724484,
+    "entropy_prediction": 0.8411313471967885,
+    "entropy_actual": 0.7523955344528738,
+    "edge_current": 0.38467188432147087,
+    "edge_learned": 0.3487721177580498,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/LAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/LAC/original_evaluation.csv": "6e4554e497cdd46b0f8939afe104f3d285d34a180c713100d0032fcf8a5e6588",
+      "outputs/previous_season_history/2024-25/LAC/predicted_evaluation.csv": "e422298ead6d697fbf55b2a83d0c3ca49057f1a0a24d142f27887ef8b064436b",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/LAC/actual_evaluation.csv": "7e021760e36a7b77212ee0e2f7903f74c4fbc89b37b965a2f1538ff0d7e48f7b"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "LAL",
+    "hub_name": "LeBron James",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6055990764888645,
+    "entropy_prediction": 0.7007247581479272,
+    "entropy_actual": 0.7139254440115851,
+    "edge_current": 0.6409237700489776,
+    "edge_learned": 0.6324363043291534,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/LAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/LAL/original_evaluation.csv": "e8308baea49d9e80b524163c1869e43fe530346bd5408b55774e2325d0c6f767",
+      "outputs/previous_season_history/2024-25/LAL/predicted_evaluation.csv": "7327973545faeecb664ab96616b7c5cae8aa9729bad44a87e0429d38f8bb9a73",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/LAL/actual_evaluation.csv": "3148f39f8017c4d2973d9edad1cabfb3da9230b3fca4bed0e6ba167f42cddbe6"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "MEM",
+    "hub_name": "Scotty Pippen Jr.",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.7962120347661502,
+    "entropy_prediction": 0.8291038910693256,
+    "entropy_actual": 0.6819220007023619,
+    "edge_current": 0.6131734261176395,
+    "edge_learned": 0.5759896840400216,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/MEM_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/MEM/original_evaluation.csv": "7d499e93be14092978114262479b86c908e6006089e07e9651e1f446a416a3dc",
+      "outputs/previous_season_history/2024-25/MEM/predicted_evaluation.csv": "a0a8c750872097d5d454ba64f8421f8d9e7ccbede5e4621e974990b4a72a14ea",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/MEM/actual_evaluation.csv": "927912a272f233f7f0f07bf5233c26daeae6127ecd7d3eb3c2db993e7aec3a77"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "MIA",
+    "hub_name": "Tyler Herro",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.7550045994937762,
+    "entropy_prediction": 0.8239140998416148,
+    "entropy_actual": 0.7555552814394046,
+    "edge_current": 0.6140911193424328,
+    "edge_learned": 0.5811851894031517,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/MIA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/MIA/original_evaluation.csv": "960269638e5e85c54c2647ef2a79ca0070abcbe7c8b4e8db9898bb7464e309bd",
+      "outputs/previous_season_history/2024-25/MIA/predicted_evaluation.csv": "8967715d1979969791fe6c53312d4ae1acf2b23dbf31bb59d5ff828bf2e884a1",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/MIA/actual_evaluation.csv": "89fe53621bc2bd5c1313e527fc59af725d485771c14fe45a158aed0baef09faa"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "MIL",
+    "hub_name": "Damian Lillard",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6140675934786632,
+    "entropy_prediction": 0.7276724663697111,
+    "entropy_actual": 0.728492602097069,
+    "edge_current": 0.6421324510954115,
+    "edge_learned": 0.6129803179503707,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/MIL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/MIL/original_evaluation.csv": "769b6d42a0f97606310e009e48aff26f6441edcb7f761f3d70d469a35f5f8774",
+      "outputs/previous_season_history/2024-25/MIL/predicted_evaluation.csv": "e2378516eb08f8071dc50d2dfd763ad1e1c88bd55498e91296c9716e77a16cfd",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/MIL/actual_evaluation.csv": "c2f443a433d6a42b03bff1b48bd13307f5665afafd3b4fc36d5a8a7319bf5e4e"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "MIN",
+    "hub_name": "Anthony Edwards",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7151572142667031,
+    "entropy_prediction": 0.7830149866341853,
+    "entropy_actual": 0.7331570555276516,
+    "edge_current": 0.5499737914651477,
+    "edge_learned": 0.5121518063704524,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/MIN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/MIN/original_evaluation.csv": "a1bd233b03571cb0e57bde8637196df937da607f842a38df294c90d0f5f4709d",
+      "outputs/previous_season_history/2024-25/MIN/predicted_evaluation.csv": "9177ef91de0c650dedd6bfa728f95688cd4413de0a2a8baf401f89079a40673a",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/MIN/actual_evaluation.csv": "ca36b22b68829730c5a17fb5f47baf5ce1f1a3a544bbdb17748b685b8c23439e"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "NOP",
+    "hub_name": "Brandon Ingram",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.6999410438651458,
+    "entropy_prediction": 0.7950941427691964,
+    "entropy_actual": 0.7500721578048425,
+    "edge_current": 0.6068453444267902,
+    "edge_learned": 0.5797848121077769,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/NOP_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/NOP/original_evaluation.csv": "b8fe2bb226a4ce43ffd560e223b5a136665df7dea9aa5e20300bd76f2869aeaf",
+      "outputs/previous_season_history/2024-25/NOP/predicted_evaluation.csv": "aea26ff1a52af704ccf163ecef2c60e6833b4c0a77bed978547fbe60c7d766d1",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/NOP/actual_evaluation.csv": "4d0adb6ac98b374691ab6089244989b5996ee8a9b157d2b5004caa5f73701301"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "NYK",
+    "hub_name": "Jalen Brunson",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6146327229103613,
+    "entropy_prediction": 0.7140393158825423,
+    "entropy_actual": 0.6962591238035374,
+    "edge_current": 0.4266648155860376,
+    "edge_learned": 0.43428377817443625,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/NYK_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/NYK/original_evaluation.csv": "8b98261f7abca5acf5e2e86ed2050aaa66c1b3abf2e35ef7bc0b8923eda9b403",
+      "outputs/previous_season_history/2024-25/NYK/predicted_evaluation.csv": "77fa1e2daaf412ccaa33933d6ad9498b4369a1902debdf383f1c68d772934dbb",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/NYK/actual_evaluation.csv": "d343fa45ec59d496e64c6bc30ef92e95a92da3544ce0f81968b12e76194fb939"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "OKC",
+    "hub_name": "Jalen Williams",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7566901521918504,
+    "entropy_prediction": 0.8492579302248856,
+    "entropy_actual": 0.7950715798815506,
+    "edge_current": 0.5277209316692273,
+    "edge_learned": 0.4901982334373595,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/OKC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/OKC/original_evaluation.csv": "28b398ca36e927051eb458029807d10118d5ad9fec5abd0a3d67daab174fee75",
+      "outputs/previous_season_history/2024-25/OKC/predicted_evaluation.csv": "b150e31db03bbaf152bf3cd7a3e91dbe4ee266bc892f424d627137ba4630203a",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/OKC/actual_evaluation.csv": "6975a77517d87caf9c0b69fe908b889ff51d3f317f9509784f87c4d47012ba27"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "ORL",
+    "hub_name": "Jalen Suggs",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7451498664034598,
+    "entropy_prediction": 0.8328786869091791,
+    "entropy_actual": 0.7978524822978492,
+    "edge_current": 0.4851249248478373,
+    "edge_learned": 0.45449332508448986,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/ORL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/ORL/original_evaluation.csv": "a3b8816b08bf8efc354f8f39bfe8e14ed63a3407e31b18447d97717418a89b9c",
+      "outputs/previous_season_history/2024-25/ORL/predicted_evaluation.csv": "bef7def7c4b19242ed9d051f923a3ec97e4f14e11571cdcc4c0522a8f2352f8e",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/ORL/actual_evaluation.csv": "96233eab83647cc24e76173013393e0d0d0fcbaeceea12552a763e04ceb23cca"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "PHI",
+    "hub_name": "Tyrese Maxey",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.6503746810756821,
+    "entropy_prediction": 0.7261575192846995,
+    "entropy_actual": 0.7008361756515661,
+    "edge_current": 0.9194422998956933,
+    "edge_learned": 0.9021847223169243,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/PHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/PHI/original_evaluation.csv": "9ac91080f51771a2a60219c257d93322b1caad407a06efa65d4cc55ead7be8e7",
+      "outputs/previous_season_history/2024-25/PHI/predicted_evaluation.csv": "63dc5dcaa1446a2d00791f80f83e55ff2852fa936e4fb7ae60d1735c342cd610",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/PHI/actual_evaluation.csv": "62102a46b06e715811a564314635a8770360ad78adfb069005c095ea1b0ebf05"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "PHX",
+    "hub_name": "Tyus Jones",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7595827228212261,
+    "entropy_prediction": 0.8437492166683311,
+    "entropy_actual": 0.6373385778608661,
+    "edge_current": 0.5764549908320642,
+    "edge_learned": 0.5675738847171843,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/PHX_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/PHX/original_evaluation.csv": "02d7811f5ae8d7525b8506b0249f134d6b33591b83f10a90df17ecb21ff481c9",
+      "outputs/previous_season_history/2024-25/PHX/predicted_evaluation.csv": "bdf1c336e967ca163b48f4adcdc7774f2e9c2fa9d05fa587cc3c8f5a0a01da16",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/PHX/actual_evaluation.csv": "d32c848463dc6296f8fae1305a8a1e2c35f551cdb517613b52bc68ab473dc408"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "POR",
+    "hub_name": "Anfernee Simons",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.7234898403815813,
+    "entropy_prediction": 0.7797687329532712,
+    "entropy_actual": 0.7235987381558695,
+    "edge_current": 0.596558756885883,
+    "edge_learned": 0.5478727435132852,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/POR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/POR/original_evaluation.csv": "a1f6097800003d5ab774e31d9d2ecbca3ffe8cbb51005a72d97b66190b718371",
+      "outputs/previous_season_history/2024-25/POR/predicted_evaluation.csv": "29c04bf4c49448f691c0620f52bb62d5ed657d6b0d3adb0fbadb401d327e26ca",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/POR/actual_evaluation.csv": "2844e165f6a99ab6ac52ce97540d50d3273cc144261a8de80c0c093a35c0d663"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "SAC",
+    "hub_name": "De'Aaron Fox",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7504580034823061,
+    "entropy_prediction": 0.8376971613358448,
+    "entropy_actual": 0.6160827544061549,
+    "edge_current": 0.4360509115926178,
+    "edge_learned": 0.48763238363652295,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/SAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/SAC/original_evaluation.csv": "dd24098e1fcf307a1902a1c6d4661f6780f3e1352bc2d83d97626537d08c6713",
+      "outputs/previous_season_history/2024-25/SAC/predicted_evaluation.csv": "a528181d4c1377b43abff996a483e9b2fcc21fd8b2b6749af674af4c97c42d85",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/SAC/actual_evaluation.csv": "cd9f0e3fa0cb9879103956c20eed1741bbf4ee04503c486eddbe2b020c7b1cf5"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "SAS",
+    "hub_name": "Chris Paul",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7711680011624662,
+    "entropy_prediction": 0.8512227915313776,
+    "entropy_actual": NaN,
+    "edge_current": NaN,
+    "edge_learned": NaN,
+    "eligible": false,
+    "observed": false,
+    "image": "2024-25/SAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/SAS/original_evaluation.csv": "a3ef334c4a668d55088371eefbdfaf77b74360c4e3f0d44d21b42d57e34b1013",
+      "outputs/previous_season_history/2024-25/SAS/predicted_evaluation.csv": "dd738ac9d02befc8ab19b014e5c35e92690b00e49aa1fe53005313a2f15812bb",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/SAS/actual_evaluation.csv": "e947959a9fddfec01cdcdc0c47fcaa8e446200b8dd1e9234fb223e215428594f"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "TOR",
+    "hub_name": "Davion Mitchell",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7654952949588345,
+    "entropy_prediction": 0.8250234667635644,
+    "entropy_actual": 0.7248157111273417,
+    "edge_current": 0.48248434692306286,
+    "edge_learned": 0.4603972492024972,
+    "eligible": false,
+    "observed": true,
+    "image": "2024-25/TOR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/TOR/original_evaluation.csv": "11fd3a3877f5e3edf4d0210c610ad832ce8bdcaf1124e86880f9a74e7330d971",
+      "outputs/previous_season_history/2024-25/TOR/predicted_evaluation.csv": "a1c54ed4c518ce99577ea44f5aed1e080febfa70b0774744dcca96db49ce8e6d",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/TOR/actual_evaluation.csv": "f53496f62dd8de1f245552bde6d9e7adbe90e5d7a24948792d13e685cc0d699a"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "UTA",
+    "hub_name": "Keyonte George",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7450188085955146,
+    "entropy_prediction": 0.8255661262716715,
+    "entropy_actual": 0.752742339903949,
+    "edge_current": 0.4276275113996287,
+    "edge_learned": 0.39707174525019984,
+    "eligible": true,
+    "observed": true,
+    "image": "2024-25/UTA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/UTA/original_evaluation.csv": "e4f573250bb569e634c1cd4e9aaa9e1456512ebfd7d8cf4ce9b31973c452ec24",
+      "outputs/previous_season_history/2024-25/UTA/predicted_evaluation.csv": "84b6d6599177b18b2c2135e1a102eb05f494799af7419f43c9873dea4285c8c3",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/UTA/actual_evaluation.csv": "a8347652a9af8cf4747b27cf1669951751c22750a720e69066bf4db0f2be3d00"
+    }
+  },
+  {
+    "season": "2024-25",
+    "team": "WAS",
+    "hub_name": "Bub Carrington",
+    "has_history": true,
+    "training_team_seasons": 11,
+    "entropy_original": 0.7801347068970568,
+    "entropy_prediction": 0.8322105376101447,
+    "entropy_actual": NaN,
+    "edge_current": NaN,
+    "edge_learned": NaN,
+    "eligible": false,
+    "observed": false,
+    "image": "2024-25/WAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/WAS/original_evaluation.csv": "a7f32858b3beedf4ce15bca3f0236481c15d3cfb645d360b8579fe6c7c4bad52",
+      "outputs/previous_season_history/2024-25/WAS/predicted_evaluation.csv": "3c7c8083434ffcb54056dea01a98307a8c3a96a59c171234cd0dcb73dedb7080",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2024-25/WAS/actual_evaluation.csv": "92ea04a0dc9feb98b4b3d28f5ae6dd6e4ef625062adb72b13b603b73554520d1"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "ATL",
+    "hub_name": "Jalen Johnson",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.6489355649133488,
+    "entropy_prediction": 0.6944686545955735,
+    "entropy_actual": 0.7105340285703791,
+    "edge_current": 0.6213967140808376,
+    "edge_learned": 0.6297491636435326,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/ATL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/ATL/original_evaluation.csv": "0644c29f356e47b69bfe4662ec1dbd297cd0df37a47d8cb85b8ef131ce046dbb",
+      "outputs/previous_season_history/2025-26/ATL/predicted_evaluation.csv": "5f8e8f50b0d6fd36fdf27062bc8d1973605ce209671d315080979f1210cd36e4",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/ATL/actual_evaluation.csv": "51afce0734f18178d321d7825c7b53570b39051ebc3bcd48890fdb62c8b348aa"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "BKN",
+    "hub_name": "Nic Claxton",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.7433968602170037,
+    "entropy_prediction": 0.7794853393280564,
+    "entropy_actual": 0.730449158157455,
+    "edge_current": 0.738741904921356,
+    "edge_learned": 0.6862999452973163,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/BKN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/BKN/original_evaluation.csv": "0352e5d1cf1af181cb3ec92f9c0f2d989609b75a57f42f4bed63c0a942146544",
+      "outputs/previous_season_history/2025-26/BKN/predicted_evaluation.csv": "44a9351486ae908cbb5507257e7c9471105c12d4f1134da9594925badd400a6a",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/BKN/actual_evaluation.csv": "17192d666815508d49b3f941096d2023611fe64d3f18f7a1f8f995bac7080a7d"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "BOS",
+    "hub_name": "Derrick White",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6623606646098837,
+    "entropy_prediction": 0.7207900519063329,
+    "entropy_actual": 0.6562251195537685,
+    "edge_current": 0.48414856400031936,
+    "edge_learned": 0.4718414006136389,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/BOS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/BOS/original_evaluation.csv": "6a8655edbafb5b4a8b4765ba6b025385d341704537c20a8ec22b781aa00c090f",
+      "outputs/previous_season_history/2025-26/BOS/predicted_evaluation.csv": "4f3aa77037ba8608843743968bc04671b4275cf1e8a4f24c9de800629b64fb65",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/BOS/actual_evaluation.csv": "7064df56f37e4b811026f7c09874214580680f1b24ab39bea06f9e7de1c2adda"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "CHA",
+    "hub_name": "Collin Sexton",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7453978963909723,
+    "entropy_prediction": 0.7915960120729826,
+    "entropy_actual": 0.7374517259652149,
+    "edge_current": 0.41610575007883077,
+    "edge_learned": 0.4253124748982111,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/CHA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/CHA/original_evaluation.csv": "e5b17e8af794967729f758b13f8ac8cc7b1df8b77d43028ac914b424b3da3e57",
+      "outputs/previous_season_history/2025-26/CHA/predicted_evaluation.csv": "ae6d47697190b381ec6def4136adfc5099682006bbd0f4540edbf26e69623bd7",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/CHA/actual_evaluation.csv": "34f310a89d871a355cb99159cf531639debd8955709cbb119700ad39e22756eb"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "CHI",
+    "hub_name": "Josh Giddey",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6512562352709196,
+    "entropy_prediction": 0.7154062034703881,
+    "entropy_actual": 0.7490165223108056,
+    "edge_current": 0.4518882506031757,
+    "edge_learned": 0.41583711904614573,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/CHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/CHI/original_evaluation.csv": "5da9bfc408ac47b777736778336030ecae4de9db525cb2743bbbc43278d08465",
+      "outputs/previous_season_history/2025-26/CHI/predicted_evaluation.csv": "4f4b420f92a0ae1f9e142264d2120aad71bdc450ea091b5044bcc4ffa7608dd6",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/CHI/actual_evaluation.csv": "f5a22a0dba447a8131db86a7aecb6c1bb268a44bc98b72016a08543502e1a1a5"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "CLE",
+    "hub_name": "Donovan Mitchell",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.7204578340991572,
+    "entropy_prediction": 0.7671430832160129,
+    "entropy_actual": 0.7439459362149201,
+    "edge_current": 0.6348026270344715,
+    "edge_learned": 0.5941400582123667,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/CLE_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/CLE/original_evaluation.csv": "0b29ab1535a5d622ec0a588870b2fc4cd6c42c03516c894d9e1b7ab5db831732",
+      "outputs/previous_season_history/2025-26/CLE/predicted_evaluation.csv": "a6933e657ccbdc9cea8b19005ed15b7088b7fc2ff295e35fccb5a8195b9c6931",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/CLE/actual_evaluation.csv": "c4802131554b9c78a3082f5a1a6fda3469d05c8f59ea54e3b2c15ae5b43a290e"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "DAL",
+    "hub_name": "Cooper Flagg",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7432230297561216,
+    "entropy_prediction": 0.767529501443134,
+    "entropy_actual": 0.7507481588232857,
+    "edge_current": 0.5737921963383394,
+    "edge_learned": 0.5671761618530209,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/DAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/DAL/original_evaluation.csv": "321783ccb76b15114186c3060c3ca800060d46e9454abb429d5955c83b736161",
+      "outputs/previous_season_history/2025-26/DAL/predicted_evaluation.csv": "b1116180ce3cee10bb33c1cba10270df973a54f8163fa87b47db06b970d86aca",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/DAL/actual_evaluation.csv": "9349db638444b05502566a4bc541044cef4a762cfa455b5d7be072c6a0e9dc28"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "DEN",
+    "hub_name": "Nikola Joki\u0107",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.6742897353907392,
+    "entropy_prediction": 0.7875231284332753,
+    "entropy_actual": 0.7366035898819925,
+    "edge_current": 0.49333752412342285,
+    "edge_learned": 0.46748178503545296,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/DEN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/DEN/original_evaluation.csv": "f7ea425226f33c0183da03e07151d9b0265b6b00f38ae9c55167749f7b1645f4",
+      "outputs/previous_season_history/2025-26/DEN/predicted_evaluation.csv": "768b4f43046901992666e19c1a6ff39f4003fa8e442c51bbdcea8ddc7a2eda7f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/DEN/actual_evaluation.csv": "a93298d2ec45c054363e228ad4af40bbf01d6738bddc2c41a5c844ed159aa384"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "DET",
+    "hub_name": "Cade Cunningham",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.7123451485298087,
+    "entropy_prediction": 0.8119759063860164,
+    "entropy_actual": 0.7508697767754011,
+    "edge_current": 0.5017997398304198,
+    "edge_learned": 0.4763775144755647,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/DET_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/DET/original_evaluation.csv": "295fc84e513474bf5ce661953f45801659fd320f02d4136360e297128cb584db",
+      "outputs/previous_season_history/2025-26/DET/predicted_evaluation.csv": "2d5a1ebeda4769ebea75bb76ad9c27e15e09d9f83b931f91a514e0e07b08fb9c",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/DET/actual_evaluation.csv": "3ae699099e704652c9b232d573821e5afbcb8835fbdd4a9fb1e1093bf47ba556"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "GSW",
+    "hub_name": "Draymond Green",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7184853252001187,
+    "entropy_prediction": 0.7434236059109136,
+    "entropy_actual": 0.7726871630744923,
+    "edge_current": 0.571837031180624,
+    "edge_learned": 0.5216902835803658,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/GSW_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/GSW/original_evaluation.csv": "d60740db24f448e851a095d3371f7e870333018d489c807b94045694a3762050",
+      "outputs/previous_season_history/2025-26/GSW/predicted_evaluation.csv": "fcf0b0f86f7b39a3a75a9ab1ace732b19b7360e39d18e784dc9adbe40d4afafe",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/GSW/actual_evaluation.csv": "aa03f1ee5b135648af62dc6878d60e440cc58025f9968413b5905ea116956333"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "HOU",
+    "hub_name": "Amen Thompson",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.7177998269335156,
+    "entropy_prediction": 0.7827682774699704,
+    "entropy_actual": 0.7478654335265995,
+    "edge_current": 0.42529440793443407,
+    "edge_learned": 0.37664604999720186,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/HOU_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/HOU/original_evaluation.csv": "e33ae6f13b4e80f9b84cc2754093ba1a30125045d4ac048a2bf441c9dad4a749",
+      "outputs/previous_season_history/2025-26/HOU/predicted_evaluation.csv": "dbd1332900f88a0d4e8a8b227de915c5c51596a064d4ae27571ba220bd2b5193",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/HOU/actual_evaluation.csv": "6bc2725a21cc91b8092340445fe063e8ce1487852bbfdbd097f0b9cc5e4b4322"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "IND",
+    "hub_name": "Pascal Siakam",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.7185150691098983,
+    "entropy_prediction": 0.7739577043184364,
+    "entropy_actual": 0.739501383120609,
+    "edge_current": 0.7604729544643669,
+    "edge_learned": 0.7615441435418828,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/IND_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/IND/original_evaluation.csv": "f1170a6c7f41126bb0dd7d03bf9b3a4ec771314b2e507060412dfc7a2e7502a3",
+      "outputs/previous_season_history/2025-26/IND/predicted_evaluation.csv": "b6daea5bfd4bc106fcb7b2bc731247938bb9d9aaecbc05dca4a9ade6d7763c75",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/IND/actual_evaluation.csv": "65cc7d7e30c126799400e092f299e262b45e8a77dc0639604581c3b2d74ef57b"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "LAC",
+    "hub_name": "James Harden",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.7525012281640933,
+    "entropy_prediction": 0.8592304596029724,
+    "entropy_actual": 0.6440360435133613,
+    "edge_current": 0.5341419505168694,
+    "edge_learned": 0.581666540097276,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/LAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/LAC/original_evaluation.csv": "88c77ef1487c1accbce5bd1305817285573d770eef8867dfd844dc02aa5117ce",
+      "outputs/previous_season_history/2025-26/LAC/predicted_evaluation.csv": "c00ddb755b77abfefa8a92fb3d787b50c937d38db32f8a0285897090403c6278",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/LAC/actual_evaluation.csv": "68aa6ef19d21991e883c8f5f2fc9228d17e7b0b8314bd08bbb4a1f66961a0923"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "LAL",
+    "hub_name": "Luka Don\u010di\u0107",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6726904637446321,
+    "entropy_prediction": 0.7798807232784202,
+    "entropy_actual": 0.7891312269470037,
+    "edge_current": 0.5315075916857742,
+    "edge_learned": 0.4819015434279144,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/LAL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/LAL/original_evaluation.csv": "15c37e34252a52b404058fd1b874c9b20edf93a42e80aa068f5f83c3b7865545",
+      "outputs/previous_season_history/2025-26/LAL/predicted_evaluation.csv": "3fe12e130f81dc2c3589b1b05a86f2c67ec895dfc4c5a16629532dddc07c23dc",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/LAL/actual_evaluation.csv": "b853fddc135190a1792ba4b7434a1e73d23bd1ccc8b911bbd39fac51e6e84618"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "MEM",
+    "hub_name": "Cam Spencer",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.651943050056624,
+    "entropy_prediction": 0.6749767868892579,
+    "entropy_actual": 0.6682812657052886,
+    "edge_current": 0.8738526602820416,
+    "edge_learned": 0.859426030034661,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/MEM_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/MEM/original_evaluation.csv": "6d3c97891e5cc410f82868e5fbc2eadcf90d9089d2b45df55a940138dc3faad4",
+      "outputs/previous_season_history/2025-26/MEM/predicted_evaluation.csv": "4fbbacd3cb1a9b5b384f43109de5ccda960e57f9118e7f73e98fad0549573fe8",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/MEM/actual_evaluation.csv": "e5704301354cdeacb4614730e3e0f623eb55aaa7da3c53b1678fb365905ce8ab"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "MIA",
+    "hub_name": "Davion Mitchell",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.7298430220981008,
+    "entropy_prediction": 0.7915339077183121,
+    "entropy_actual": 0.7828085874300241,
+    "edge_current": 0.32792985930589996,
+    "edge_learned": 0.3326012125804328,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/MIA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/MIA/original_evaluation.csv": "e0d42e8c64494f41017bd2fb560d9105e7f32a552142c0cabd3e0ce0e2aa2d6a",
+      "outputs/previous_season_history/2025-26/MIA/predicted_evaluation.csv": "ddaf6746c5db18015033a3ab7592aaf6ee8f6b03f8759c649600cc24ba32738f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/MIA/actual_evaluation.csv": "81d33a0e41685d60271165ff8b23efd7634b4e75bd5d5ff61763220599d6faa7"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "MIL",
+    "hub_name": "Ryan Rollins",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6710594238491938,
+    "entropy_prediction": 0.76437724677981,
+    "entropy_actual": 0.7280201476731927,
+    "edge_current": 0.8725532070246083,
+    "edge_learned": 0.8362596880720501,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/MIL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/MIL/original_evaluation.csv": "7f4408270992e02ab9851d817235d490ce6266bed8bb8d667cb41dcee44917c8",
+      "outputs/previous_season_history/2025-26/MIL/predicted_evaluation.csv": "1b61f3299798cfa87d94d154518f0552ae6252e07085281448b72efd470b849c",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/MIL/actual_evaluation.csv": "6158be4ca6fe78e42bf5be8396250ea116630c4c1ebd858fef31732a7ec54570"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "MIN",
+    "hub_name": "Julius Randle",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.6804398711876773,
+    "entropy_prediction": 0.728067961305645,
+    "entropy_actual": 0.7046321021481521,
+    "edge_current": 0.7933949986992516,
+    "edge_learned": 0.7587901784536608,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/MIN_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/MIN/original_evaluation.csv": "32e5e5d5b4aae0be2bb7b321cf2f8a0e6a84132047aac4bf1e7ad7905357c5dd",
+      "outputs/previous_season_history/2025-26/MIN/predicted_evaluation.csv": "767f29627a63422ed4084caec88460d40af43e5799bf7fab6a9e559b03e67971",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/MIN/actual_evaluation.csv": "4e3cc8263101d8486282ec107db092dc3088747f480a1e454a4c1776833bbf34"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "NOP",
+    "hub_name": "Jeremiah Fears",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.8220670395829831,
+    "entropy_prediction": 0.8745285070902812,
+    "entropy_actual": NaN,
+    "edge_current": NaN,
+    "edge_learned": NaN,
+    "eligible": false,
+    "observed": false,
+    "image": "2025-26/NOP_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/NOP/original_evaluation.csv": "5e06c0affc8348c65cd522631e4ee8279b14fc369492162f00e022d95864f8ba",
+      "outputs/previous_season_history/2025-26/NOP/predicted_evaluation.csv": "6c61989844031ab6eb60ea7980c89b092fdad6ce8d58f0ffc6577053ee7bea8c",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/NOP/actual_evaluation.csv": "e8eccbf39431c259b39407ae158566260af27e6636d9a824c7400f9029498d4f"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "NYK",
+    "hub_name": "Jalen Brunson",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6747204738298423,
+    "entropy_prediction": 0.7634819248657927,
+    "entropy_actual": 0.7465930313748737,
+    "edge_current": 0.44837836002413134,
+    "edge_learned": 0.4026115434203087,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/NYK_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/NYK/original_evaluation.csv": "2f5cb5595eeb265df3775feea3809e2f0a45a7c64c3434c13c8872c2bd7f9bea",
+      "outputs/previous_season_history/2025-26/NYK/predicted_evaluation.csv": "60aae8aa76f3422b0647478a54af745e8624d394e2bd33d7531137fe682ae2c1",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/NYK/actual_evaluation.csv": "755dddc1bb307700128b7e38a45811a0dbcd466c5112f39a065e09227904e201"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "OKC",
+    "hub_name": "Shai Gilgeous-Alexander",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.725020641957446,
+    "entropy_prediction": 0.7912891072780939,
+    "entropy_actual": 0.8007054202354913,
+    "edge_current": 0.5378208916097944,
+    "edge_learned": 0.4977716340483855,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/OKC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/OKC/original_evaluation.csv": "958ba1a85dbd10e143483799c735115438c4187d2fb65ba56faf0c9da8101b87",
+      "outputs/previous_season_history/2025-26/OKC/predicted_evaluation.csv": "ca122f6430c661d9fb9eecc730f1185f0f69085e2126b4ed64ed9070938be3f5",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/OKC/actual_evaluation.csv": "5b85788fa8a075a8715e0bcc3c97d554bcd84ad52dbff4b2b56498244b10cc3d"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "ORL",
+    "hub_name": "Desmond Bane",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.8017234587825383,
+    "entropy_prediction": 0.8401989552667711,
+    "entropy_actual": NaN,
+    "edge_current": NaN,
+    "edge_learned": NaN,
+    "eligible": false,
+    "observed": false,
+    "image": "2025-26/ORL_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/ORL/original_evaluation.csv": "8c028dae99372b76062508b24de40c5ee90785effeffb3ebb73e212beb55dee5",
+      "outputs/previous_season_history/2025-26/ORL/predicted_evaluation.csv": "3d76ec6cfffddd5ae744994175387561622fe727c2900de7a542c208f763e6c7",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/ORL/actual_evaluation.csv": "3c0f069c3b88d6bed79766e199af51c9612f1623e6a64e0c85b6198f16b995fb"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "PHI",
+    "hub_name": "Tyrese Maxey",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.6951682716509171,
+    "entropy_prediction": 0.8127925658075271,
+    "entropy_actual": 0.7453883042150065,
+    "edge_current": 0.48802198266622604,
+    "edge_learned": 0.527473870393387,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/PHI_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/PHI/original_evaluation.csv": "e616dabaa3dcc8a72f4f23a63ebbe3e6c49dfadffdc94d5a230349e8a001b327",
+      "outputs/previous_season_history/2025-26/PHI/predicted_evaluation.csv": "2fdb81bdc6463518f1316df2e8c2170a511f52dc4c46873f3897e226bdf1e92f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/PHI/actual_evaluation.csv": "0814c959f1b824dbbe5b46c277ee05c3af0adfbc28edd602c6e1d6ba1257e6ce"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "PHX",
+    "hub_name": "Devin Booker",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.7145052247575803,
+    "entropy_prediction": 0.7940772667747356,
+    "entropy_actual": 0.7351343720694185,
+    "edge_current": 0.324810315865972,
+    "edge_learned": 0.3350374424628136,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/PHX_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/PHX/original_evaluation.csv": "c54d1de82b9b7cf542d01bab1f47519ea56ad0858a5d06a3136cc19f09794396",
+      "outputs/previous_season_history/2025-26/PHX/predicted_evaluation.csv": "00ff8f9c22bb8d57108e03e28aac6f7ba95e3cd89b0db2fb5abd0a0bac69d5d7",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/PHX/actual_evaluation.csv": "3dcaabdb027c6e9b34daf19c4279cdd64797356c9b29edfab90ca45223c1f011"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "POR",
+    "hub_name": "Deni Avdija",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.751594232016535,
+    "entropy_prediction": 0.8365638706588753,
+    "entropy_actual": 0.7920573762348695,
+    "edge_current": 0.36135265836209507,
+    "edge_learned": 0.382440107718393,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/POR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/POR/original_evaluation.csv": "1f138fd847bebe6f2cdae47675aaacf6c78a036d8d59509f74f3d35071e2a930",
+      "outputs/previous_season_history/2025-26/POR/predicted_evaluation.csv": "3526a53214b0b9a785fa81ca3fd146e2bdcc9e3ffdf9259fa7ed4cdcb075e9d4",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/POR/actual_evaluation.csv": "90e7cacee993698b4ff2e63cd92cbdd124624ebb6a1b4164885dc56133821d5c"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "SAC",
+    "hub_name": "Dennis Schr\u00f6der",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.7297265524119858,
+    "entropy_prediction": 0.8014361008092337,
+    "entropy_actual": 0.6593114105511386,
+    "edge_current": 0.43834571445281634,
+    "edge_learned": 0.44691167237138735,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/SAC_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/SAC/original_evaluation.csv": "809a2e8d91463bbc57e6ebacbad25689efad3bd81db886f40d1f13090bf2d323",
+      "outputs/previous_season_history/2025-26/SAC/predicted_evaluation.csv": "4e419d8ffb7d88c152d9fec4f263baa14ab6af850c82933e95a19ca2fb893ca6",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/SAC/actual_evaluation.csv": "2dfd3d9c3941272176e7ec2ff4e0f4c9afba1c1ed16f9177b8f4eb22a322b531"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "SAS",
+    "hub_name": "Stephon Castle",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.7252527119760451,
+    "entropy_prediction": 0.7890415789705495,
+    "entropy_actual": 0.7034402905985233,
+    "edge_current": 0.382896947668545,
+    "edge_learned": 0.3677258166882824,
+    "eligible": false,
+    "observed": true,
+    "image": "2025-26/SAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/SAS/original_evaluation.csv": "36a8a79b9474a84d1efeeabc04d9a4616839576275a64368f291ce35c5dfe40b",
+      "outputs/previous_season_history/2025-26/SAS/predicted_evaluation.csv": "62d66126a93431985ad53e73da55dafb45664558f87ffb591e04e36d46f3eb88",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/SAS/actual_evaluation.csv": "7a73fdb9f7246a4e7ac3020ffc42cd5c799b09f876ceb162d5cdcccac89dc2d9"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "TOR",
+    "hub_name": "Immanuel Quickley",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.6969519523212397,
+    "entropy_prediction": 0.758348585029172,
+    "entropy_actual": 0.7191256455231121,
+    "edge_current": 0.2817004692200743,
+    "edge_learned": 0.2928284497020247,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/TOR_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/TOR/original_evaluation.csv": "7e19a5f87eef4e7ffa3e6ef16ef3fa72c2908954c94bc915f020448292e519eb",
+      "outputs/previous_season_history/2025-26/TOR/predicted_evaluation.csv": "d8084037f4b3d03dbf534b94aea6947c1ee99abe57ec998f026b8f405153a549",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/TOR/actual_evaluation.csv": "f73839cf0c0624a2b20ea1b3c920c53f6a3802114f76c52732672e6b4811e462"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "UTA",
+    "hub_name": "Keyonte George",
+    "has_history": true,
+    "training_team_seasons": 12,
+    "entropy_original": 0.6707216214955988,
+    "entropy_prediction": 0.7437716448150095,
+    "entropy_actual": 0.7382782878520213,
+    "edge_current": 0.7300478260104257,
+    "edge_learned": 0.7071220080379623,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/UTA_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/UTA/original_evaluation.csv": "30d1964f6303a35dcb7a51d3e48e2e1cad42d84ce85eb23258fbc3aa5bae9c03",
+      "outputs/previous_season_history/2025-26/UTA/predicted_evaluation.csv": "eba09f7e88bd43d70e3e23235184d590cf6d41757db98d2994c77f52e8539d85",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/UTA/actual_evaluation.csv": "62de34759547b9e6b033dc7f74cdb7ad92b76258f381bdc1f2ba31f245b842ed"
+    }
+  },
+  {
+    "season": "2025-26",
+    "team": "WAS",
+    "hub_name": "Kyshawn George",
+    "has_history": true,
+    "training_team_seasons": 13,
+    "entropy_original": 0.6743459521450522,
+    "entropy_prediction": 0.7394361135784836,
+    "entropy_actual": 0.7373438478933834,
+    "edge_current": 0.6759446984572726,
+    "edge_learned": 0.6579771274471615,
+    "eligible": true,
+    "observed": true,
+    "image": "2025-26/WAS_three_networks.png",
+    "source_sha256": {
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/WAS/original_evaluation.csv": "08f8d98f9b50eb73c2ead3bba894566729deba352360e8948659c87f870066c7",
+      "outputs/previous_season_history/2025-26/WAS/predicted_evaluation.csv": "9b1f18dff70f51bc3cd1f83a3aaf1299fb705f73ea7da037229bdc7376d0949f",
+      "/Users/timothysu/Desktop/SportsAnalysis/nba_passing_output/all_season_hub_redistribution/2025-26/WAS/actual_evaluation.csv": "98628f59170633f33c5805f93fab2e43e85a7e4a0154bb9d8cb84f7bfceab43b"
+    }
+  }
+]
