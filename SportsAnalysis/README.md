@@ -4,15 +4,17 @@ This folder contains the Python code, downloaded NBA data, network matrices, fig
 
 ## Latest results
 
-- [Passing involvement centrality regressions](nba_passing_output/pass_strength_entropy_regressions/METHOD_AND_RESULTS.md)
-- [Regression figures (8-page PDF)](nba_passing_output/pass_strength_entropy_regressions/pass_strength_entropy_regressions.pdf)
-- [Team-by-team analysis](nba_passing_output/pass_strength_team_changes/ANALYSIS.md)
-- [All 30 teams across six seasons (36-page PDF)](nba_passing_output/pass_strength_team_changes/all_30_teams_entropy_changes.pdf)
-- [All team entropy data](nba_passing_output/pass_strength_team_changes/all_team_entropy_changes.csv)
-- [Graphs, data and plotting-code download](team_entropy_changes_graphs_and_data.zip)
-- [Complete regression code package](pass_strength_regressions_full_code.zip)
+All new reports, graphs, data and downloadable code packages are grouped in [Passing Hub Entropy Analysis](Passing_Hub_Entropy_Analysis/).
 
-![2025-26 entropy changes](nba_passing_output/pass_strength_team_changes/2025-26_all_team_changes.png)
+- [Passing involvement centrality regressions](Passing_Hub_Entropy_Analysis/pass_strength_entropy_regressions/METHOD_AND_RESULTS.md)
+- [Regression figures (8-page PDF)](Passing_Hub_Entropy_Analysis/pass_strength_entropy_regressions/pass_strength_entropy_regressions.pdf)
+- [Team-by-team analysis](Passing_Hub_Entropy_Analysis/pass_strength_team_changes/ANALYSIS.md)
+- [All 30 teams across six seasons (36-page PDF)](Passing_Hub_Entropy_Analysis/pass_strength_team_changes/all_30_teams_entropy_changes.pdf)
+- [All team entropy data](Passing_Hub_Entropy_Analysis/pass_strength_team_changes/all_team_entropy_changes.csv)
+- [Graphs, data and plotting-code download](Passing_Hub_Entropy_Analysis/team_entropy_changes_graphs_and_data.zip)
+- [Complete regression code package](Passing_Hub_Entropy_Analysis/pass_strength_regressions_full_code.zip)
+
+![2025-26 entropy changes](Passing_Hub_Entropy_Analysis/pass_strength_team_changes/2025-26_all_team_changes.png)
 
 ## Current study
 
